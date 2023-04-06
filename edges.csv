@@ -1,0 +1,2063 @@
+from,to,value
+Albania,Andorra,1.5
+Albania,Armenia,1.0576923076923077
+Albania,Australia,3.4
+Albania,Austria,1.0681818181818181
+Albania,Azerbaijan,3.2291666666666665
+Albania,Belarus,0.5
+Albania,Belgium,1.375
+Albania,Bulgaria,5.15625
+Albania,Croatia,2.272727272727273
+Albania,Cyprus,3.326923076923077
+Albania,Czech Republic,0.125
+Albania,Denmark,0.640625
+Albania,Estonia,0.5
+Albania,Finland,0.9285714285714286
+Albania,France,1.59375
+Albania,Georgia,0.3125
+Albania,Germany,2.75
+Albania,Greece,9.133333333333333
+Albania,Hungary,2.6666666666666665
+Albania,Iceland,1.0357142857142858
+Albania,Ireland,1.1875
+Albania,Israel,2.3392857142857144
+Albania,Italy,10.5
+Albania,Latvia,0.017857142857142856
+Albania,Lithuania,0.36538461538461536
+Albania,Malta,2.923076923076923
+Albania,Moldova,1.2884615384615385
+Albania,Monaco,0.6666666666666666
+Albania,Montenegro,6.8
+Albania,Netherlands,2.1041666666666665
+Albania,North Macedonia,9.291666666666666
+Albania,Norway,1.671875
+Albania,Poland,1.2291666666666667
+Albania,Portugal,1.6818181818181819
+Albania,Romania,1.75
+Albania,Russia,2.375
+Albania,San Marino,6.1
+Albania,Serbia,2.3333333333333335
+Albania,Slovenia,1.7083333333333333
+Albania,Spain,3.25
+Albania,Sweden,3.05
+Albania,Switzerland,2.1875
+Albania,Türkiye,10.055555555555555
+Albania,Ukraine,1.1785714285714286
+Albania,United Kingdom,1.4375
+Andorra,Albania,0.5
+Andorra,Armenia,0.375
+Andorra,Austria,2.6666666666666665
+Andorra,Belarus,0.0
+Andorra,Belgium,1.3333333333333333
+Andorra,Bulgaria,0.0
+Andorra,Croatia,0.0
+Andorra,Cyprus,0.75
+Andorra,Denmark,2.0833333333333335
+Andorra,Estonia,0.0
+Andorra,Finland,5.25
+Andorra,France,4.333333333333333
+Andorra,Germany,0.8333333333333334
+Andorra,Greece,3.25
+Andorra,Iceland,2.6666666666666665
+Andorra,Ireland,0.8
+Andorra,Israel,4.0
+Andorra,Latvia,1.6
+Andorra,Lithuania,1.4
+Andorra,Malta,1.8
+Andorra,Moldova,0.6
+Andorra,Monaco,6.333333333333333
+Andorra,Montenegro,0.3333333333333333
+Andorra,Netherlands,3.1
+Andorra,North Macedonia,0.0
+Andorra,Norway,3.75
+Andorra,Poland,2.4
+Andorra,Portugal,9.5
+Andorra,Romania,4.25
+Andorra,Russia,2.0833333333333335
+Andorra,Serbia,0.375
+Andorra,Slovenia,0.8
+Andorra,Spain,10.0
+Andorra,Sweden,3.25
+Andorra,Switzerland,1.7
+Andorra,Türkiye,1.5
+Andorra,Ukraine,5.916666666666667
+Andorra,United Kingdom,1.0
+Armenia,Albania,0.1875
+Armenia,Andorra,0.0
+Armenia,Australia,1.2
+Armenia,Austria,1.25
+Armenia,Azerbaijan,0.18181818181818182
+Armenia,Belarus,4.2
+Armenia,Belgium,1.7045454545454546
+Armenia,Bulgaria,2.75
+Armenia,Croatia,1.175
+Armenia,Cyprus,5.0
+Armenia,Czech Republic,2.0833333333333335
+Armenia,Denmark,1.0208333333333333
+Armenia,Estonia,0.9772727272727273
+Armenia,Finland,0.6363636363636364
+Armenia,France,3.9615384615384617
+Armenia,Georgia,10.0625
+Armenia,Germany,0.6538461538461539
+Armenia,Greece,6.8076923076923075
+Armenia,Hungary,0.34375
+Armenia,Iceland,1.0833333333333333
+Armenia,Ireland,0.25
+Armenia,Israel,2.590909090909091
+Armenia,Italy,3.125
+Armenia,Latvia,0.3888888888888889
+Armenia,Lithuania,0.4
+Armenia,Malta,3.8125
+Armenia,Moldova,3.0384615384615383
+Armenia,Montenegro,4.071428571428571
+Armenia,Netherlands,2.3636363636363638
+Armenia,North Macedonia,1.9285714285714286
+Armenia,Norway,2.9375
+Armenia,Poland,1.25
+Armenia,Portugal,2.4444444444444446
+Armenia,Romania,1.3636363636363635
+Armenia,Russia,10.522727272727273
+Armenia,San Marino,1.9166666666666667
+Armenia,Serbia,1.9375
+Armenia,Slovenia,0.6
+Armenia,Spain,0.8846153846153846
+Armenia,Sweden,3.4615384615384617
+Armenia,Switzerland,1.9166666666666667
+Armenia,Türkiye,1.5
+Armenia,Ukraine,6.636363636363637
+Armenia,United Kingdom,0.9230769230769231
+Australia,Albania,0.0
+Australia,Armenia,0.9166666666666666
+Australia,Austria,1.375
+Australia,Azerbaijan,0.875
+Australia,Belarus,0.875
+Australia,Belgium,5.25
+Australia,Bulgaria,5.166666666666667
+Australia,Cyprus,1.75
+Australia,Czech Republic,2.25
+Australia,Denmark,3.6
+Australia,Estonia,3.25
+Australia,Finland,1.875
+Australia,France,2.6
+Australia,Georgia,1.3
+Australia,Germany,1.5
+Australia,Greece,2.5833333333333335
+Australia,Hungary,1.25
+Australia,Iceland,3.6666666666666665
+Australia,Ireland,3.1666666666666665
+Australia,Israel,4.0
+Australia,Italy,2.3
+Australia,Latvia,3.3125
+Australia,Lithuania,3.0833333333333335
+Australia,Malta,3.25
+Australia,Moldova,6.25
+Australia,Montenegro,0.875
+Australia,Netherlands,2.0
+Australia,North Macedonia,3.1666666666666665
+Australia,Norway,3.65
+Australia,Poland,2.1
+Australia,Portugal,2.375
+Australia,Romania,1.8333333333333333
+Australia,Russia,4.125
+Australia,San Marino,0.9166666666666666
+Australia,Serbia,2.6875
+Australia,Slovenia,1.4
+Australia,Spain,1.4
+Australia,Sweden,8.0
+Australia,Switzerland,1.3333333333333333
+Australia,Ukraine,2.0833333333333335
+Australia,United Kingdom,2.9
+Austria,Albania,4.035714285714286
+Austria,Andorra,0.0
+Austria,Armenia,3.15625
+Austria,Australia,4.2
+Austria,Azerbaijan,3.0555555555555554
+Austria,Belarus,0.975
+Austria,Belgium,1.9230769230769231
+Austria,Bulgaria,4.083333333333333
+Austria,Croatia,5.5
+Austria,Cyprus,0.6785714285714286
+Austria,Czech Republic,3.375
+Austria,Denmark,2.4615384615384617
+Austria,Estonia,1.6071428571428572
+Austria,Finland,0.5833333333333334
+Austria,France,0.5666666666666667
+Austria,Georgia,0.16666666666666666
+Austria,Germany,4.266666666666667
+Austria,Greece,1.3214285714285714
+Austria,Hungary,3.175
+Austria,Iceland,0.75
+Austria,Ireland,2.2291666666666665
+Austria,Israel,1.5
+Austria,Italy,5.5
+Austria,Latvia,2.3181818181818183
+Austria,Lithuania,0.07692307692307693
+Austria,Malta,2.0416666666666665
+Austria,Moldova,1.7
+Austria,Montenegro,0.0
+Austria,Netherlands,3.173076923076923
+Austria,North Macedonia,1.0208333333333333
+Austria,Norway,1.4583333333333333
+Austria,Poland,3.625
+Austria,Portugal,2.0
+Austria,Romania,3.5576923076923075
+Austria,Russia,3.7115384615384617
+Austria,San Marino,0.5
+Austria,Serbia,7.090909090909091
+Austria,Slovenia,1.6818181818181819
+Austria,Spain,0.4
+Austria,Sweden,3.85
+Austria,Switzerland,2.8863636363636362
+Austria,Türkiye,6.714285714285714
+Austria,Ukraine,1.7727272727272727
+Austria,United Kingdom,0.8333333333333334
+Azerbaijan,Albania,2.659090909090909
+Azerbaijan,Armenia,0.0
+Azerbaijan,Australia,1.55
+Azerbaijan,Austria,0.46875
+Azerbaijan,Belarus,5.833333333333333
+Azerbaijan,Belgium,0.8611111111111112
+Azerbaijan,Bulgaria,4.4
+Azerbaijan,Croatia,1.375
+Azerbaijan,Cyprus,1.5
+Azerbaijan,Czech Republic,1.35
+Azerbaijan,Denmark,1.1
+Azerbaijan,Estonia,1.575
+Azerbaijan,Finland,0.3333333333333333
+Azerbaijan,France,0.375
+Azerbaijan,Georgia,8.214285714285714
+Azerbaijan,Germany,0.2916666666666667
+Azerbaijan,Greece,4.270833333333333
+Azerbaijan,Hungary,3.5555555555555554
+Azerbaijan,Iceland,0.5
+Azerbaijan,Ireland,0.8888888888888888
+Azerbaijan,Israel,4.275
+Azerbaijan,Italy,2.2222222222222223
+Azerbaijan,Latvia,2.2777777777777777
+Azerbaijan,Lithuania,2.0277777777777777
+Azerbaijan,Malta,5.28125
+Azerbaijan,Moldova,4.386363636363637
+Azerbaijan,Montenegro,3.0
+Azerbaijan,Netherlands,1.0277777777777777
+Azerbaijan,North Macedonia,2.5
+Azerbaijan,Norway,2.3181818181818183
+Azerbaijan,Poland,1.3571428571428572
+Azerbaijan,Portugal,1.75
+Azerbaijan,Romania,4.4
+Azerbaijan,Russia,7.95
+Azerbaijan,San Marino,3.5
+Azerbaijan,Serbia,0.7777777777777778
+Azerbaijan,Slovenia,1.1666666666666667
+Azerbaijan,Spain,0.20833333333333334
+Azerbaijan,Sweden,1.75
+Azerbaijan,Switzerland,0.9375
+Azerbaijan,Türkiye,12.0
+Azerbaijan,Ukraine,9.55
+Azerbaijan,United Kingdom,0.5833333333333334
+Belarus,Albania,0.6041666666666666
+Belarus,Andorra,0.8
+Belarus,Armenia,5.7727272727272725
+Belarus,Australia,4.2
+Belarus,Austria,0.975
+Belarus,Azerbaijan,5.375
+Belarus,Belgium,1.6538461538461537
+Belarus,Bulgaria,2.1
+Belarus,Croatia,1.5227272727272727
+Belarus,Cyprus,1.1785714285714286
+Belarus,Czech Republic,1.625
+Belarus,Denmark,1.046875
+Belarus,Estonia,2.25
+Belarus,Finland,1.3269230769230769
+Belarus,France,0.5625
+Belarus,Georgia,6.0
+Belarus,Germany,0.5
+Belarus,Greece,2.6666666666666665
+Belarus,Hungary,1.375
+Belarus,Iceland,1.7692307692307692
+Belarus,Ireland,0.4375
+Belarus,Israel,3.25
+Belarus,Italy,1.2222222222222223
+Belarus,Latvia,2.6666666666666665
+Belarus,Lithuania,3.375
+Belarus,Malta,2.730769230769231
+Belarus,Moldova,5.454545454545454
+Belarus,Monaco,0.0
+Belarus,Montenegro,0.8333333333333334
+Belarus,Netherlands,1.2115384615384615
+Belarus,North Macedonia,1.0
+Belarus,Norway,3.55
+Belarus,Poland,3.3636363636363638
+Belarus,Portugal,1.8636363636363635
+Belarus,Romania,1.0576923076923077
+Belarus,Russia,10.678571428571429
+Belarus,San Marino,0.9166666666666666
+Belarus,Serbia,2.6346153846153846
+Belarus,Slovakia,1.0
+Belarus,Slovenia,1.1875
+Belarus,Spain,0.125
+Belarus,Sweden,3.2666666666666666
+Belarus,Switzerland,1.5416666666666667
+Belarus,Türkiye,1.5
+Belarus,Ukraine,8.964285714285714
+Belarus,United Kingdom,0.375
+Belgium,Albania,2.4285714285714284
+Belgium,Andorra,0.0
+Belgium,Armenia,6.613636363636363
+Belgium,Australia,5.05
+Belgium,Austria,2.767857142857143
+Belgium,Azerbaijan,2.0208333333333335
+Belgium,Belarus,0.07142857142857142
+Belgium,Bulgaria,2.4375
+Belgium,Croatia,0.038461538461538464
+Belgium,Cyprus,1.71875
+Belgium,Czech Republic,2.4583333333333335
+Belgium,Denmark,2.638888888888889
+Belgium,Estonia,1.1764705882352942
+Belgium,Finland,1.5
+Belgium,France,3.236842105263158
+Belgium,Georgia,1.5833333333333333
+Belgium,Germany,1.5526315789473684
+Belgium,Greece,5.338235294117647
+Belgium,Hungary,2.3636363636363638
+Belgium,Iceland,1.875
+Belgium,Ireland,2.4038461538461537
+Belgium,Israel,1.8676470588235294
+Belgium,Italy,4.722222222222222
+Belgium,Latvia,2.6166666666666667
+Belgium,Lithuania,1.0208333333333333
+Belgium,Malta,1.4285714285714286
+Belgium,Moldova,1.2692307692307692
+Belgium,Monaco,0.0
+Belgium,Montenegro,0.0
+Belgium,Netherlands,8.6
+Belgium,North Macedonia,0.0
+Belgium,Norway,2.235294117647059
+Belgium,Poland,2.4583333333333335
+Belgium,Portugal,4.520833333333333
+Belgium,Romania,2.6875
+Belgium,Russia,3.0294117647058822
+Belgium,San Marino,0.125
+Belgium,Serbia,1.5625
+Belgium,Slovenia,0.6166666666666667
+Belgium,Spain,2.6578947368421053
+Belgium,Sweden,4.180555555555555
+Belgium,Switzerland,0.8076923076923077
+Belgium,Türkiye,8.681818181818182
+Belgium,Ukraine,1.7333333333333334
+Belgium,United Kingdom,0.47368421052631576
+Bulgaria,Albania,1.025
+Bulgaria,Andorra,0.0
+Bulgaria,Armenia,7.222222222222222
+Bulgaria,Australia,2.6666666666666665
+Bulgaria,Austria,4.083333333333333
+Bulgaria,Azerbaijan,5.277777777777778
+Bulgaria,Belarus,2.1041666666666665
+Bulgaria,Belgium,2.25
+Bulgaria,Croatia,1.625
+Bulgaria,Cyprus,4.6
+Bulgaria,Czech Republic,1.05
+Bulgaria,Denmark,1.2083333333333333
+Bulgaria,Estonia,0.6666666666666666
+Bulgaria,Finland,1.0
+Bulgaria,France,0.7083333333333334
+Bulgaria,Georgia,2.5
+Bulgaria,Germany,1.5
+Bulgaria,Greece,8.909090909090908
+Bulgaria,Hungary,2.2222222222222223
+Bulgaria,Iceland,0.55
+Bulgaria,Ireland,0.675
+Bulgaria,Israel,2.477272727272727
+Bulgaria,Italy,0.5
+Bulgaria,Latvia,0.07142857142857142
+Bulgaria,Lithuania,1.3125
+Bulgaria,Malta,1.6111111111111112
+Bulgaria,Moldova,2.15
+Bulgaria,Netherlands,1.075
+Bulgaria,North Macedonia,6.636363636363637
+Bulgaria,Norway,1.0909090909090908
+Bulgaria,Poland,1.0833333333333333
+Bulgaria,Portugal,0.7777777777777778
+Bulgaria,Romania,2.4
+Bulgaria,Russia,4.7
+Bulgaria,Serbia,4.0
+Bulgaria,Slovenia,0.875
+Bulgaria,Spain,0.5833333333333334
+Bulgaria,Sweden,1.625
+Bulgaria,Switzerland,0.5454545454545454
+Bulgaria,Türkiye,7.5
+Bulgaria,Ukraine,4.125
+Bulgaria,United Kingdom,1.5833333333333333
+Croatia,Albania,5.4772727272727275
+Croatia,Andorra,0.5
+Croatia,Armenia,0.3181818181818182
+Croatia,Australia,2.875
+Croatia,Austria,1.625
+Croatia,Azerbaijan,4.025
+Croatia,Belarus,0.5227272727272727
+Croatia,Belgium,0.375
+Croatia,Bulgaria,2.111111111111111
+Croatia,Cyprus,2.171875
+Croatia,Czech Republic,4.05
+Croatia,Denmark,2.28125
+Croatia,Estonia,1.25
+Croatia,Finland,1.125
+Croatia,France,1.4444444444444444
+Croatia,Georgia,1.1428571428571428
+Croatia,Germany,0.8611111111111112
+Croatia,Greece,2.323529411764706
+Croatia,Hungary,3.7
+Croatia,Iceland,0.6875
+Croatia,Ireland,1.7666666666666666
+Croatia,Israel,0.9666666666666667
+Croatia,Italy,4.571428571428571
+Croatia,Latvia,1.375
+Croatia,Lithuania,0.90625
+Croatia,Malta,2.53125
+Croatia,Moldova,1.25
+Croatia,Monaco,0.0
+Croatia,Montenegro,4.666666666666667
+Croatia,Netherlands,1.25
+Croatia,North Macedonia,7.295454545454546
+Croatia,Norway,1.234375
+Croatia,Poland,0.36363636363636365
+Croatia,Portugal,1.3076923076923077
+Croatia,Romania,1.1166666666666667
+Croatia,Russia,3.9375
+Croatia,San Marino,0.5
+Croatia,Serbia,9.76923076923077
+Croatia,Slovenia,6.785714285714286
+Croatia,Spain,0.7222222222222222
+Croatia,Sweden,1.8194444444444444
+Croatia,Switzerland,1.8333333333333333
+Croatia,Türkiye,2.769230769230769
+Croatia,Ukraine,3.2857142857142856
+Croatia,United Kingdom,0.7222222222222222
+Cyprus,Albania,1.0625
+Cyprus,Andorra,0.0
+Cyprus,Armenia,5.675
+Cyprus,Australia,3.25
+Cyprus,Austria,0.9038461538461539
+Cyprus,Azerbaijan,5.795454545454546
+Cyprus,Belarus,2.5454545454545454
+Cyprus,Belgium,1.46875
+Cyprus,Bulgaria,8.722222222222221
+Cyprus,Croatia,1.0892857142857142
+Cyprus,Czech Republic,1.1071428571428572
+Cyprus,Denmark,1.9666666666666666
+Cyprus,Estonia,1.1833333333333333
+Cyprus,Finland,1.1666666666666667
+Cyprus,France,1.4166666666666667
+Cyprus,Georgia,3.1666666666666665
+Cyprus,Germany,0.3055555555555556
+Cyprus,Greece,11.5
+Cyprus,Hungary,1.5
+Cyprus,Iceland,1.0441176470588236
+Cyprus,Ireland,1.6153846153846154
+Cyprus,Israel,1.9411764705882353
+Cyprus,Italy,5.875
+Cyprus,Latvia,1.0357142857142858
+Cyprus,Lithuania,1.5892857142857142
+Cyprus,Malta,2.517857142857143
+Cyprus,Moldova,2.340909090909091
+Cyprus,Monaco,1.3333333333333333
+Cyprus,Montenegro,0.42857142857142855
+Cyprus,Netherlands,1.2142857142857142
+Cyprus,North Macedonia,0.45454545454545453
+Cyprus,Norway,1.5666666666666667
+Cyprus,Poland,0.8409090909090909
+Cyprus,Portugal,0.9791666666666666
+Cyprus,Romania,4.3
+Cyprus,Russia,6.59375
+Cyprus,San Marino,0.625
+Cyprus,Serbia,4.096153846153846
+Cyprus,Slovenia,0.6607142857142857
+Cyprus,Spain,2.638888888888889
+Cyprus,Sweden,3.4722222222222223
+Cyprus,Switzerland,1.7307692307692308
+Cyprus,Türkiye,1.0909090909090908
+Cyprus,Ukraine,4.107142857142857
+Cyprus,United Kingdom,1.25
+Czech Republic,Albania,0.5714285714285714
+Czech Republic,Armenia,7.107142857142857
+Czech Republic,Australia,2.1
+Czech Republic,Austria,1.7
+Czech Republic,Azerbaijan,8.321428571428571
+Czech Republic,Belarus,1.4583333333333333
+Czech Republic,Belgium,2.392857142857143
+Czech Republic,Bulgaria,4.083333333333333
+Czech Republic,Croatia,0.9166666666666666
+Czech Republic,Cyprus,1.4285714285714286
+Czech Republic,Denmark,2.25
+Czech Republic,Estonia,0.8333333333333334
+Czech Republic,Finland,0.9285714285714286
+Czech Republic,France,0.4375
+Czech Republic,Georgia,1.8333333333333333
+Czech Republic,Germany,0.1875
+Czech Republic,Greece,1.15625
+Czech Republic,Hungary,2.392857142857143
+Czech Republic,Iceland,1.875
+Czech Republic,Ireland,3.8333333333333335
+Czech Republic,Israel,2.5
+Czech Republic,Italy,2.7
+Czech Republic,Latvia,2.5
+Czech Republic,Lithuania,0.5
+Czech Republic,Malta,3.125
+Czech Republic,Moldova,1.8
+Czech Republic,Montenegro,0.6666666666666666
+Czech Republic,Netherlands,2.8
+Czech Republic,North Macedonia,3.2
+Czech Republic,Norway,1.6428571428571428
+Czech Republic,Poland,2.4583333333333335
+Czech Republic,Portugal,2.642857142857143
+Czech Republic,Romania,0.6
+Czech Republic,Russia,6.583333333333333
+Czech Republic,San Marino,1.0
+Czech Republic,Serbia,3.5833333333333335
+Czech Republic,Slovenia,2.85
+Czech Republic,Spain,0.0
+Czech Republic,Sweden,4.59375
+Czech Republic,Switzerland,0.9166666666666666
+Czech Republic,Türkiye,1.1666666666666667
+Czech Republic,Ukraine,7.083333333333333
+Czech Republic,United Kingdom,1.3125
+Denmark,Albania,1.2692307692307692
+Denmark,Andorra,0.0
+Denmark,Armenia,0.36363636363636365
+Denmark,Australia,7.0
+Denmark,Austria,2.125
+Denmark,Azerbaijan,1.4318181818181819
+Denmark,Belarus,0.3076923076923077
+Denmark,Belgium,3.4642857142857144
+Denmark,Bulgaria,1.8333333333333333
+Denmark,Croatia,0.42857142857142855
+Denmark,Cyprus,1.1470588235294117
+Denmark,Czech Republic,0.6
+Denmark,Estonia,3.09375
+Denmark,Finland,3.4285714285714284
+Denmark,France,1.4210526315789473
+Denmark,Georgia,0.3125
+Denmark,Germany,3.6315789473684212
+Denmark,Greece,1.4375
+Denmark,Hungary,1.9166666666666667
+Denmark,Iceland,7.035714285714286
+Denmark,Ireland,3.4
+Denmark,Israel,0.9705882352941176
+Denmark,Italy,1.1111111111111112
+Denmark,Latvia,2.796875
+Denmark,Lithuania,1.2058823529411764
+Denmark,Malta,3.453125
+Denmark,Moldova,1.3846153846153846
+Denmark,Monaco,0.0
+Denmark,Montenegro,0.8333333333333334
+Denmark,Netherlands,4.640625
+Denmark,North Macedonia,0.5961538461538461
+Denmark,Norway,6.5
+Denmark,Poland,0.8958333333333334
+Denmark,Portugal,1.3181818181818181
+Denmark,Romania,1.8823529411764706
+Denmark,Russia,2.625
+Denmark,San Marino,0.0
+Denmark,Serbia,1.4464285714285714
+Denmark,Slovenia,0.6166666666666667
+Denmark,Spain,0.2631578947368421
+Denmark,Sweden,10.56578947368421
+Denmark,Switzerland,1.3214285714285714
+Denmark,Türkiye,5.454545454545454
+Denmark,Ukraine,2.4464285714285716
+Denmark,United Kingdom,1.368421052631579
+Estonia,Albania,0.10416666666666667
+Estonia,Andorra,1.6
+Estonia,Armenia,0.6136363636363636
+Estonia,Australia,3.5
+Estonia,Austria,2.1346153846153846
+Estonia,Azerbaijan,2.3125
+Estonia,Belarus,1.7692307692307692
+Estonia,Belgium,2.9705882352941178
+Estonia,Bulgaria,1.78125
+Estonia,Croatia,0.36666666666666664
+Estonia,Cyprus,1.8970588235294117
+Estonia,Czech Republic,3.375
+Estonia,Denmark,4.680555555555555
+Estonia,Finland,6.671875
+Estonia,France,1.375
+Estonia,Georgia,3.5555555555555554
+Estonia,Germany,1.8
+Estonia,Greece,0.9736842105263158
+Estonia,Hungary,3.6458333333333335
+Estonia,Iceland,3.014705882352941
+Estonia,Ireland,2.5833333333333335
+Estonia,Israel,0.5735294117647058
+Estonia,Italy,2.4444444444444446
+Estonia,Latvia,7.366666666666666
+Estonia,Lithuania,3.0714285714285716
+Estonia,Malta,2.34375
+Estonia,Moldova,0.75
+Estonia,Monaco,0.6666666666666666
+Estonia,Montenegro,0.0
+Estonia,Netherlands,3.0555555555555554
+Estonia,North Macedonia,0.15384615384615385
+Estonia,Norway,4.75
+Estonia,Poland,0.6428571428571429
+Estonia,Portugal,1.1428571428571428
+Estonia,Romania,0.875
+Estonia,Russia,9.23611111111111
+Estonia,San Marino,1.35
+Estonia,Serbia,0.32142857142857145
+Estonia,Slovakia,1.5
+Estonia,Slovenia,0.75
+Estonia,Spain,0.65
+Estonia,Sweden,6.552631578947368
+Estonia,Switzerland,2.1363636363636362
+Estonia,Türkiye,0.5833333333333334
+Estonia,Ukraine,4.4
+Estonia,United Kingdom,1.175
+Finland,Albania,0.9821428571428571
+Finland,Andorra,0.8333333333333334
+Finland,Armenia,1.0416666666666667
+Finland,Australia,5.4
+Finland,Austria,2.3541666666666665
+Finland,Azerbaijan,1.0416666666666667
+Finland,Belarus,0.75
+Finland,Belgium,2.1875
+Finland,Bulgaria,2.125
+Finland,Croatia,0.8541666666666666
+Finland,Cyprus,1.75
+Finland,Czech Republic,1.75
+Finland,Denmark,3.235294117647059
+Finland,Estonia,8.34375
+Finland,France,2.111111111111111
+Finland,Georgia,1.0
+Finland,Germany,0.9166666666666666
+Finland,Greece,1.7205882352941178
+Finland,Hungary,5.045454545454546
+Finland,Iceland,5.65625
+Finland,Ireland,2.375
+Finland,Israel,3.514705882352941
+Finland,Italy,2.5
+Finland,Latvia,2.6153846153846154
+Finland,Lithuania,1.0
+Finland,Malta,1.7321428571428572
+Finland,Moldova,0.8461538461538461
+Finland,Monaco,0.0
+Finland,Montenegro,0.16666666666666666
+Finland,Netherlands,2.6923076923076925
+Finland,North Macedonia,0.39285714285714285
+Finland,Norway,4.875
+Finland,Poland,0.9166666666666666
+Finland,Portugal,1.5454545454545454
+Finland,Romania,1.2
+Finland,Russia,4.53125
+Finland,San Marino,0.5
+Finland,Serbia,2.8636363636363638
+Finland,Slovenia,1.3541666666666667
+Finland,Spain,0.4444444444444444
+Finland,Sweden,8.455882352941176
+Finland,Switzerland,2.6923076923076925
+Finland,Türkiye,2.5
+Finland,Ukraine,1.9285714285714286
+Finland,United Kingdom,0.5
+France,Albania,0.8846153846153846
+France,Andorra,0.0
+France,Armenia,8.375
+France,Australia,3.8
+France,Austria,2.5625
+France,Azerbaijan,2.3863636363636362
+France,Belarus,0.3958333333333333
+France,Belgium,4.4
+France,Bulgaria,3.7
+France,Croatia,0.8653846153846154
+France,Cyprus,0.8970588235294118
+France,Czech Republic,1.15
+France,Denmark,2.3676470588235294
+France,Estonia,2.1666666666666665
+France,Finland,0.7666666666666667
+France,Georgia,0.5
+France,Germany,2.25
+France,Greece,2.138888888888889
+France,Hungary,1.7884615384615385
+France,Iceland,1.5625
+France,Ireland,0.4642857142857143
+France,Israel,6.779411764705882
+France,Italy,6.166666666666667
+France,Latvia,1.4375
+France,Lithuania,0.35714285714285715
+France,Malta,1.3611111111111112
+France,Moldova,1.8076923076923077
+France,Montenegro,0.5833333333333334
+France,Netherlands,1.9411764705882353
+France,North Macedonia,0.5357142857142857
+France,Norway,1.088235294117647
+France,Poland,3.1
+France,Portugal,8.384615384615385
+France,Romania,3.235294117647059
+France,Russia,2.3815789473684212
+France,San Marino,0.8333333333333334
+France,Serbia,5.769230769230769
+France,Slovakia,0.25
+France,Slovenia,0.9038461538461539
+France,Spain,3.85
+France,Sweden,3.25
+France,Switzerland,2.3636363636363638
+France,Türkiye,10.666666666666666
+France,Ukraine,1.15
+France,United Kingdom,0.45
+Georgia,Albania,0.7272727272727273
+Georgia,Armenia,10.166666666666666
+Georgia,Australia,1.55
+Georgia,Austria,3.142857142857143
+Georgia,Azerbaijan,9.3
+Georgia,Belarus,6.15
+Georgia,Belgium,3.642857142857143
+Georgia,Bulgaria,2.125
+Georgia,Croatia,0.7857142857142857
+Georgia,Cyprus,2.1944444444444446
+Georgia,Czech Republic,1.125
+Georgia,Denmark,1.4166666666666667
+Georgia,Estonia,2.857142857142857
+Georgia,Finland,0.05555555555555555
+Georgia,France,0.8333333333333334
+Georgia,Germany,0.9166666666666666
+Georgia,Greece,2.6
+Georgia,Hungary,1.2727272727272727
+Georgia,Iceland,0.5277777777777778
+Georgia,Ireland,0.0
+Georgia,Israel,2.55
+Georgia,Italy,3.0555555555555554
+Georgia,Latvia,4.5
+Georgia,Lithuania,6.15
+Georgia,Malta,2.0555555555555554
+Georgia,Moldova,3.71875
+Georgia,Montenegro,0.0
+Georgia,Netherlands,1.4
+Georgia,North Macedonia,0.5
+Georgia,Norway,2.1666666666666665
+Georgia,Poland,1.5833333333333333
+Georgia,Portugal,2.3125
+Georgia,Romania,1.25
+Georgia,Russia,5.045454545454546
+Georgia,San Marino,1.5
+Georgia,Serbia,1.75
+Georgia,Slovenia,0.825
+Georgia,Spain,0.16666666666666666
+Georgia,Sweden,3.2291666666666665
+Georgia,Switzerland,0.9375
+Georgia,Türkiye,4.0
+Georgia,Ukraine,8.275
+Georgia,United Kingdom,0.5416666666666666
+Germany,Albania,1.5384615384615385
+Germany,Andorra,0.0
+Germany,Armenia,3.5454545454545454
+Germany,Australia,5.9
+Germany,Austria,2.8461538461538463
+Germany,Azerbaijan,0.75
+Germany,Belarus,0.07692307692307693
+Germany,Belgium,2.3833333333333333
+Germany,Bulgaria,2.25
+Germany,Croatia,2.5714285714285716
+Germany,Cyprus,1.3333333333333333
+Germany,Czech Republic,1.3333333333333333
+Germany,Denmark,3.861111111111111
+Germany,Estonia,1.7777777777777777
+Germany,Finland,2.269230769230769
+Germany,France,1.0
+Germany,Georgia,0.675
+Germany,Greece,6.088235294117647
+Germany,Hungary,2.55
+Germany,Iceland,1.78125
+Germany,Ireland,1.3055555555555556
+Germany,Israel,2.236842105263158
+Germany,Italy,3.0
+Germany,Latvia,2.4375
+Germany,Lithuania,0.46875
+Germany,Malta,2.375
+Germany,Moldova,0.8958333333333334
+Germany,Monaco,0.0
+Germany,Montenegro,0.3333333333333333
+Germany,Netherlands,2.671875
+Germany,North Macedonia,0.5833333333333334
+Germany,Norway,2.861111111111111
+Germany,Poland,5.884615384615385
+Germany,Portugal,3.8846153846153846
+Germany,Romania,1.7361111111111112
+Germany,Russia,3.75
+Germany,San Marino,0.07142857142857142
+Germany,Serbia,4.583333333333333
+Germany,Slovakia,0.0
+Germany,Slovenia,1.05
+Germany,Spain,0.65
+Germany,Sweden,3.486842105263158
+Germany,Switzerland,2.5
+Germany,Türkiye,10.0
+Germany,Ukraine,1.2
+Germany,United Kingdom,1.075
+Greece,Albania,9.410714285714286
+Greece,Andorra,0.8
+Greece,Armenia,6.625
+Greece,Australia,3.35
+Greece,Austria,1.8333333333333333
+Greece,Azerbaijan,4.5
+Greece,Belarus,2.659090909090909
+Greece,Belgium,2.0
+Greece,Bulgaria,5.428571428571429
+Greece,Croatia,1.3461538461538463
+Greece,Cyprus,11.803571428571429
+Greece,Czech Republic,1.35
+Greece,Denmark,0.9705882352941176
+Greece,Estonia,1.5588235294117647
+Greece,Finland,1.3235294117647058
+Greece,France,2.263157894736842
+Greece,Georgia,4.75
+Greece,Germany,0.42105263157894735
+Greece,Hungary,1.7291666666666667
+Greece,Iceland,1.0441176470588236
+Greece,Ireland,0.32142857142857145
+Greece,Israel,1.1666666666666667
+Greece,Italy,5.722222222222222
+Greece,Latvia,1.0666666666666667
+Greece,Lithuania,0.4642857142857143
+Greece,Malta,1.9166666666666667
+Greece,Moldova,3.1346153846153846
+Greece,Monaco,0.0
+Greece,Montenegro,1.125
+Greece,Netherlands,0.9833333333333333
+Greece,North Macedonia,0.3333333333333333
+Greece,Norway,1.6176470588235294
+Greece,Poland,1.9666666666666666
+Greece,Portugal,0.6153846153846154
+Greece,Romania,4.6
+Greece,Russia,5.647058823529412
+Greece,San Marino,2.0357142857142856
+Greece,Serbia,3.9166666666666665
+Greece,Slovenia,0.3
+Greece,Spain,1.6842105263157894
+Greece,Sweden,1.3888888888888888
+Greece,Switzerland,1.5
+Greece,Türkiye,2.4583333333333335
+Greece,Ukraine,3.4
+Greece,United Kingdom,1.131578947368421
+Hungary,Albania,1.6818181818181819
+Hungary,Armenia,1.3333333333333333
+Hungary,Australia,5.3
+Hungary,Austria,2.861111111111111
+Hungary,Azerbaijan,5.55
+Hungary,Belarus,1.15625
+Hungary,Belgium,2.2222222222222223
+Hungary,Bulgaria,3.9285714285714284
+Hungary,Croatia,2.642857142857143
+Hungary,Cyprus,1.375
+Hungary,Czech Republic,2.75
+Hungary,Denmark,4.333333333333333
+Hungary,Estonia,1.7083333333333333
+Hungary,Finland,2.3333333333333335
+Hungary,France,0.11538461538461539
+Hungary,Georgia,1.625
+Hungary,Germany,0.9615384615384616
+Hungary,Greece,3.8958333333333335
+Hungary,Iceland,6.025
+Hungary,Ireland,2.375
+Hungary,Israel,2.25
+Hungary,Italy,2.388888888888889
+Hungary,Latvia,1.45
+Hungary,Lithuania,0.5909090909090909
+Hungary,Malta,1.7916666666666667
+Hungary,Moldova,1.8181818181818181
+Hungary,Montenegro,0.2857142857142857
+Hungary,Netherlands,4.25
+Hungary,North Macedonia,0.75
+Hungary,Norway,3.375
+Hungary,Poland,2.772727272727273
+Hungary,Portugal,1.3888888888888888
+Hungary,Romania,3.159090909090909
+Hungary,Russia,4.291666666666667
+Hungary,San Marino,1.8125
+Hungary,Serbia,3.2045454545454546
+Hungary,Slovenia,2.0
+Hungary,Spain,0.2692307692307692
+Hungary,Sweden,4.4423076923076925
+Hungary,Switzerland,2.9444444444444446
+Hungary,Türkiye,2.6666666666666665
+Hungary,Ukraine,3.1818181818181817
+Hungary,United Kingdom,0.2692307692307692
+Iceland,Albania,1.4
+Iceland,Andorra,1.2
+Iceland,Armenia,1.0833333333333333
+Iceland,Australia,7.0
+Iceland,Austria,3.2916666666666665
+Iceland,Azerbaijan,2.3125
+Iceland,Belarus,0.6875
+Iceland,Belgium,2.421875
+Iceland,Bulgaria,1.1111111111111112
+Iceland,Croatia,0.7692307692307693
+Iceland,Cyprus,2.017857142857143
+Iceland,Czech Republic,2.53125
+Iceland,Denmark,8.75
+Iceland,Estonia,3.8823529411764706
+Iceland,Finland,5.421875
+Iceland,France,2.1315789473684212
+Iceland,Georgia,0.9444444444444444
+Iceland,Germany,1.6842105263157894
+Iceland,Greece,1.9583333333333333
+Iceland,Hungary,3.0
+Iceland,Ireland,1.6538461538461537
+Iceland,Israel,1.161764705882353
+Iceland,Italy,2.1666666666666665
+Iceland,Latvia,2.6
+Iceland,Lithuania,1.2884615384615385
+Iceland,Malta,1.5588235294117647
+Iceland,Moldova,0.9583333333333334
+Iceland,Monaco,0.0
+Iceland,Montenegro,0.125
+Iceland,Netherlands,3.1153846153846154
+Iceland,North Macedonia,0.4166666666666667
+Iceland,Norway,6.277777777777778
+Iceland,Poland,1.8928571428571428
+Iceland,Portugal,2.1666666666666665
+Iceland,Romania,1.8333333333333333
+Iceland,Russia,2.7205882352941178
+Iceland,San Marino,0.6071428571428571
+Iceland,Serbia,2.1818181818181817
+Iceland,Slovenia,1.125
+Iceland,Spain,0.5789473684210527
+Iceland,Sweden,7.555555555555555
+Iceland,Switzerland,1.8571428571428572
+Iceland,Türkiye,1.2083333333333333
+Iceland,Ukraine,2.3666666666666667
+Iceland,United Kingdom,0.6052631578947368
+Ireland,Albania,0.3958333333333333
+Ireland,Andorra,1.0
+Ireland,Armenia,0.16666666666666666
+Ireland,Australia,3.4
+Ireland,Austria,2.0535714285714284
+Ireland,Azerbaijan,1.6875
+Ireland,Belarus,0.5625
+Ireland,Belgium,3.966666666666667
+Ireland,Bulgaria,2.84375
+Ireland,Croatia,0.7333333333333333
+Ireland,Cyprus,1.65625
+Ireland,Czech Republic,1.15
+Ireland,Denmark,4.970588235294118
+Ireland,Estonia,4.171875
+Ireland,Finland,2.4791666666666665
+Ireland,France,1.0263157894736843
+Ireland,Georgia,0.84375
+Ireland,Germany,2.8157894736842106
+Ireland,Greece,1.6470588235294117
+Ireland,Hungary,0.8181818181818182
+Ireland,Iceland,1.5294117647058822
+Ireland,Israel,1.2916666666666667
+Ireland,Italy,2.111111111111111
+Ireland,Latvia,5.482142857142857
+Ireland,Lithuania,7.109375
+Ireland,Malta,2.466666666666667
+Ireland,Moldova,1.5833333333333333
+Ireland,Monaco,0.0
+Ireland,Montenegro,0.0
+Ireland,Netherlands,3.1176470588235294
+Ireland,North Macedonia,0.22916666666666666
+Ireland,Norway,3.5833333333333335
+Ireland,Poland,4.708333333333333
+Ireland,Portugal,1.0416666666666667
+Ireland,Romania,3.34375
+Ireland,Russia,3.6323529411764706
+Ireland,San Marino,0.0
+Ireland,Serbia,0.8214285714285714
+Ireland,Slovenia,0.65625
+Ireland,Spain,0.5
+Ireland,Sweden,4.828947368421052
+Ireland,Switzerland,1.8035714285714286
+Ireland,Türkiye,0.5
+Ireland,Ukraine,2.533333333333333
+Ireland,United Kingdom,5.184210526315789
+Israel,Albania,0.4230769230769231
+Israel,Andorra,1.0
+Israel,Armenia,5.7727272727272725
+Israel,Australia,5.8
+Israel,Austria,2.0
+Israel,Azerbaijan,4.583333333333333
+Israel,Belarus,2.4423076923076925
+Israel,Belgium,1.5972222222222223
+Israel,Bulgaria,1.95
+Israel,Croatia,0.32142857142857145
+Israel,Cyprus,2.0
+Israel,Czech Republic,3.0
+Israel,Denmark,3.6944444444444446
+Israel,Estonia,2.3676470588235294
+Israel,Finland,1.2678571428571428
+Israel,France,2.25
+Israel,Georgia,2.75
+Israel,Germany,0.45
+Israel,Greece,2.861111111111111
+Israel,Hungary,2.409090909090909
+Israel,Iceland,1.6323529411764706
+Israel,Ireland,1.1470588235294117
+Israel,Italy,3.611111111111111
+Israel,Latvia,2.4285714285714284
+Israel,Lithuania,0.71875
+Israel,Malta,3.15625
+Israel,Moldova,2.727272727272727
+Israel,Monaco,0.0
+Israel,Montenegro,0.6428571428571429
+Israel,Netherlands,2.34375
+Israel,North Macedonia,0.8666666666666667
+Israel,Norway,2.625
+Israel,Poland,0.8333333333333334
+Israel,Portugal,1.0
+Israel,Romania,6.53125
+Israel,Russia,7.305555555555555
+Israel,San Marino,0.8214285714285714
+Israel,Serbia,1.2291666666666667
+Israel,Slovenia,1.7
+Israel,Spain,3.125
+Israel,Sweden,4.675
+Israel,Switzerland,1.2647058823529411
+Israel,Türkiye,1.375
+Israel,Ukraine,6.083333333333333
+Israel,United Kingdom,0.75
+Italy,Albania,6.083333333333333
+Italy,Armenia,0.5
+Italy,Australia,3.85
+Italy,Austria,2.3333333333333335
+Italy,Azerbaijan,1.3125
+Italy,Belarus,0.6666666666666666
+Italy,Belgium,2.7083333333333335
+Italy,Bulgaria,5.125
+Italy,Croatia,0.75
+Italy,Cyprus,3.3125
+Italy,Czech Republic,0.4
+Italy,Denmark,3.40625
+Italy,Estonia,2.0
+Italy,Finland,1.1666666666666667
+Italy,France,1.4444444444444444
+Italy,Georgia,0.75
+Italy,Germany,2.2777777777777777
+Italy,Greece,2.4285714285714284
+Italy,Hungary,0.875
+Italy,Iceland,2.2857142857142856
+Italy,Ireland,0.9375
+Italy,Israel,2.4375
+Italy,Latvia,1.2142857142857142
+Italy,Lithuania,1.46875
+Italy,Malta,3.9285714285714284
+Italy,Moldova,6.125
+Italy,Montenegro,0.75
+Italy,Netherlands,1.4642857142857142
+Italy,North Macedonia,1.7
+Italy,Norway,2.96875
+Italy,Poland,4.6
+Italy,Portugal,2.0
+Italy,Romania,5.5
+Italy,Russia,3.71875
+Italy,San Marino,2.3
+Italy,Serbia,2.892857142857143
+Italy,Slovenia,1.21875
+Italy,Spain,0.8888888888888888
+Italy,Sweden,2.4444444444444446
+Italy,Switzerland,2.125
+Italy,Ukraine,6.928571428571429
+Italy,United Kingdom,1.6666666666666667
+Latvia,Albania,0.36666666666666664
+Latvia,Andorra,0.0
+Latvia,Armenia,1.4318181818181819
+Latvia,Australia,4.7
+Latvia,Austria,1.7142857142857142
+Latvia,Azerbaijan,2.6136363636363638
+Latvia,Belarus,2.875
+Latvia,Belgium,2.5833333333333335
+Latvia,Bulgaria,1.3888888888888888
+Latvia,Croatia,0.9615384615384616
+Latvia,Cyprus,1.1176470588235294
+Latvia,Czech Republic,1.1428571428571428
+Latvia,Denmark,4.291666666666667
+Latvia,Estonia,9.617647058823529
+Latvia,Finland,2.033333333333333
+Latvia,France,1.3
+Latvia,Georgia,2.8055555555555554
+Latvia,Germany,2.125
+Latvia,Greece,0.7941176470588235
+Latvia,Hungary,1.2708333333333333
+Latvia,Iceland,2.8529411764705883
+Latvia,Ireland,2.25
+Latvia,Israel,0.631578947368421
+Latvia,Italy,3.0
+Latvia,Lithuania,7.766666666666667
+Latvia,Malta,2.2916666666666665
+Latvia,Moldova,1.9583333333333333
+Latvia,Monaco,0.0
+Latvia,Montenegro,0.16666666666666666
+Latvia,Netherlands,1.7333333333333334
+Latvia,North Macedonia,0.25
+Latvia,Norway,4.069444444444445
+Latvia,Poland,1.6607142857142858
+Latvia,Portugal,1.7307692307692308
+Latvia,Romania,0.7777777777777778
+Latvia,Russia,8.697368421052632
+Latvia,San Marino,0.5833333333333334
+Latvia,Serbia,0.8958333333333334
+Latvia,Slovakia,0.0
+Latvia,Slovenia,1.15
+Latvia,Spain,0.65
+Latvia,Sweden,4.934210526315789
+Latvia,Switzerland,1.75
+Latvia,Türkiye,0.16666666666666666
+Latvia,Ukraine,5.866666666666666
+Latvia,United Kingdom,1.35
+Lithuania,Albania,0.019230769230769232
+Lithuania,Andorra,0.5
+Lithuania,Armenia,0.38461538461538464
+Lithuania,Australia,2.7
+Lithuania,Austria,2.2916666666666665
+Lithuania,Azerbaijan,5.166666666666667
+Lithuania,Belarus,3.730769230769231
+Lithuania,Belgium,3.409090909090909
+Lithuania,Bulgaria,1.5
+Lithuania,Croatia,0.65625
+Lithuania,Cyprus,1.1
+Lithuania,Czech Republic,1.4166666666666667
+Lithuania,Denmark,2.1911764705882355
+Lithuania,Estonia,6.678571428571429
+Lithuania,Finland,2.25
+Lithuania,France,2.138888888888889
+Lithuania,Georgia,9.166666666666666
+Lithuania,Germany,1.3333333333333333
+Lithuania,Greece,1.3529411764705883
+Lithuania,Hungary,1.2291666666666667
+Lithuania,Iceland,2.1333333333333333
+Lithuania,Ireland,1.96875
+Lithuania,Israel,1.2666666666666666
+Lithuania,Italy,3.7222222222222223
+Lithuania,Latvia,9.727272727272727
+Lithuania,Malta,1.375
+Lithuania,Moldova,2.0454545454545454
+Lithuania,Monaco,0.0
+Lithuania,Montenegro,0.0
+Lithuania,Netherlands,2.607142857142857
+Lithuania,North Macedonia,0.08333333333333333
+Lithuania,Norway,3.5294117647058822
+Lithuania,Poland,2.7708333333333335
+Lithuania,Portugal,1.4230769230769231
+Lithuania,Romania,0.5666666666666667
+Lithuania,Russia,7.046875
+Lithuania,San Marino,0.0
+Lithuania,Serbia,0.6785714285714286
+Lithuania,Slovenia,0.875
+Lithuania,Spain,0.6666666666666666
+Lithuania,Sweden,4.527777777777778
+Lithuania,Switzerland,1.8035714285714286
+Lithuania,Türkiye,0.8636363636363636
+Lithuania,Ukraine,5.321428571428571
+Lithuania,United Kingdom,0.9444444444444444
+Malta,Albania,1.1153846153846154
+Malta,Andorra,0.6
+Malta,Armenia,2.2291666666666665
+Malta,Australia,4.3
+Malta,Austria,1.3269230769230769
+Malta,Azerbaijan,6.0227272727272725
+Malta,Belarus,2.6041666666666665
+Malta,Belgium,1.6538461538461537
+Malta,Bulgaria,3.3
+Malta,Croatia,1.9166666666666667
+Malta,Cyprus,3.783333333333333
+Malta,Czech Republic,1.0357142857142858
+Malta,Denmark,3.6323529411764706
+Malta,Estonia,1.5277777777777777
+Malta,Finland,1.3214285714285714
+Malta,France,0.65
+Malta,Georgia,1.65
+Malta,Germany,1.0
+Malta,Greece,3.5555555555555554
+Malta,Hungary,0.9090909090909091
+Malta,Iceland,2.3823529411764706
+Malta,Ireland,2.59375
+Malta,Israel,2.1527777777777777
+Malta,Italy,10.944444444444445
+Malta,Latvia,2.6
+Malta,Lithuania,1.1176470588235294
+Malta,Moldova,0.9583333333333334
+Malta,Monaco,0.0
+Malta,Montenegro,2.0
+Malta,Netherlands,3.4464285714285716
+Malta,North Macedonia,1.6071428571428572
+Malta,Norway,3.0972222222222223
+Malta,Poland,1.2142857142857142
+Malta,Portugal,0.9285714285714286
+Malta,Romania,3.3333333333333335
+Malta,Russia,4.0131578947368425
+Malta,San Marino,3.1875
+Malta,Serbia,1.5208333333333333
+Malta,Slovenia,1.1153846153846154
+Malta,Spain,0.3
+Malta,Sweden,5.157894736842105
+Malta,Switzerland,3.607142857142857
+Malta,Türkiye,2.1923076923076925
+Malta,Ukraine,3.6
+Malta,United Kingdom,4.1
+Moldova,Albania,0.9583333333333334
+Moldova,Andorra,1.0
+Moldova,Armenia,3.272727272727273
+Moldova,Australia,4.9
+Moldova,Austria,1.3863636363636365
+Moldova,Azerbaijan,7.931818181818182
+Moldova,Belarus,5.55
+Moldova,Belgium,2.25
+Moldova,Bulgaria,4.5
+Moldova,Croatia,0.8333333333333334
+Moldova,Cyprus,0.9230769230769231
+Moldova,Czech Republic,2.15
+Moldova,Denmark,0.8928571428571429
+Moldova,Estonia,2.107142857142857
+Moldova,Finland,0.7857142857142857
+Moldova,France,0.5
+Moldova,Georgia,4.0
+Moldova,Germany,0.4
+Moldova,Greece,2.607142857142857
+Moldova,Hungary,0.9545454545454546
+Moldova,Iceland,1.8076923076923077
+Moldova,Ireland,0.5
+Moldova,Israel,1.8461538461538463
+Moldova,Italy,2.2777777777777777
+Moldova,Latvia,1.2857142857142858
+Moldova,Lithuania,1.2727272727272727
+Moldova,Malta,0.6590909090909091
+Moldova,Montenegro,1.3888888888888888
+Moldova,Netherlands,0.6346153846153846
+Moldova,North Macedonia,1.4375
+Moldova,Norway,2.6153846153846154
+Moldova,Poland,0.9090909090909091
+Moldova,Portugal,2.25
+Moldova,Romania,11.821428571428571
+Moldova,Russia,8.857142857142858
+Moldova,San Marino,2.3333333333333335
+Moldova,Serbia,1.2083333333333333
+Moldova,Slovakia,2.3333333333333335
+Moldova,Slovenia,0.5833333333333334
+Moldova,Spain,0.6
+Moldova,Sweden,3.607142857142857
+Moldova,Switzerland,1.5
+Moldova,Türkiye,0.9285714285714286
+Moldova,Ukraine,7.884615384615385
+Moldova,United Kingdom,0.3333333333333333
+Monaco,Albania,0.5
+Monaco,Andorra,0.0
+Monaco,Belarus,0.3333333333333333
+Monaco,Belgium,2.0
+Monaco,Croatia,3.3333333333333335
+Monaco,Cyprus,6.333333333333333
+Monaco,Denmark,8.0
+Monaco,Estonia,1.6666666666666667
+Monaco,Finland,4.0
+Monaco,France,5.0
+Monaco,Germany,3.0
+Monaco,Greece,2.6666666666666665
+Monaco,Iceland,2.0
+Monaco,Ireland,3.1666666666666665
+Monaco,Israel,4.0
+Monaco,Latvia,3.3333333333333335
+Monaco,Lithuania,1.8333333333333333
+Monaco,Malta,1.6666666666666667
+Monaco,Netherlands,4.0
+Monaco,North Macedonia,0.6666666666666666
+Monaco,Norway,0.3333333333333333
+Monaco,Poland,0.0
+Monaco,Portugal,0.3333333333333333
+Monaco,Romania,1.8333333333333333
+Monaco,Russia,0.0
+Monaco,Slovenia,2.3333333333333335
+Monaco,Spain,1.0
+Monaco,Sweden,3.1666666666666665
+Monaco,Switzerland,3.6666666666666665
+Monaco,Türkiye,2.6666666666666665
+Monaco,Ukraine,2.5
+Monaco,United Kingdom,0.0
+Montenegro,Albania,9.61111111111111
+Montenegro,Andorra,0.0
+Montenegro,Armenia,3.34375
+Montenegro,Australia,1.55
+Montenegro,Austria,0.3125
+Montenegro,Azerbaijan,5.138888888888889
+Montenegro,Belarus,2.0416666666666665
+Montenegro,Belgium,0.7
+Montenegro,Bulgaria,2.9
+Montenegro,Croatia,5.958333333333333
+Montenegro,Cyprus,1.625
+Montenegro,Czech Republic,0.7142857142857143
+Montenegro,Denmark,1.5555555555555556
+Montenegro,Estonia,0.4
+Montenegro,Finland,0.25
+Montenegro,France,0.5909090909090909
+Montenegro,Georgia,0.375
+Montenegro,Germany,0.0
+Montenegro,Greece,3.425
+Montenegro,Hungary,1.9722222222222223
+Montenegro,Iceland,1.15
+Montenegro,Ireland,0.5833333333333334
+Montenegro,Israel,1.4444444444444444
+Montenegro,Italy,5.0625
+Montenegro,Latvia,0.625
+Montenegro,Lithuania,0.2857142857142857
+Montenegro,Malta,2.8333333333333335
+Montenegro,Moldova,2.4722222222222223
+Montenegro,Netherlands,0.59375
+Montenegro,North Macedonia,9.625
+Montenegro,Norway,2.75
+Montenegro,Poland,0.6875
+Montenegro,Portugal,1.46875
+Montenegro,Romania,1.8333333333333333
+Montenegro,Russia,6.1
+Montenegro,San Marino,2.5714285714285716
+Montenegro,Serbia,11.46875
+Montenegro,Slovenia,6.34375
+Montenegro,Spain,0.5454545454545454
+Montenegro,Sweden,2.1818181818181817
+Montenegro,Switzerland,0.8333333333333334
+Montenegro,Türkiye,1.875
+Montenegro,Ukraine,3.2777777777777777
+Montenegro,United Kingdom,0.09090909090909091
+Netherlands,Albania,0.375
+Netherlands,Andorra,1.4
+Netherlands,Armenia,6.840909090909091
+Netherlands,Australia,4.5
+Netherlands,Austria,3.0961538461538463
+Netherlands,Azerbaijan,2.590909090909091
+Netherlands,Belarus,0.22916666666666666
+Netherlands,Belgium,6.928571428571429
+Netherlands,Bulgaria,1.4444444444444444
+Netherlands,Croatia,1.1333333333333333
+Netherlands,Cyprus,1.203125
+Netherlands,Czech Republic,1.625
+Netherlands,Denmark,4.794117647058823
+Netherlands,Estonia,2.1666666666666665
+Netherlands,Finland,1.1923076923076923
+Netherlands,France,1.0789473684210527
+Netherlands,Georgia,0.7222222222222222
+Netherlands,Germany,2.6315789473684212
+Netherlands,Greece,3.2058823529411766
+Netherlands,Hungary,2.8863636363636362
+Netherlands,Iceland,1.4375
+Netherlands,Ireland,1.75
+Netherlands,Israel,3.25
+Netherlands,Italy,2.5
+Netherlands,Latvia,0.9666666666666667
+Netherlands,Lithuania,1.1666666666666667
+Netherlands,Malta,2.033333333333333
+Netherlands,Moldova,0.8666666666666667
+Netherlands,Monaco,0.0
+Netherlands,Montenegro,0.42857142857142855
+Netherlands,North Macedonia,0.55
+Netherlands,Norway,4.102941176470588
+Netherlands,Poland,1.8076923076923077
+Netherlands,Portugal,2.3076923076923075
+Netherlands,Romania,1.25
+Netherlands,Russia,1.625
+Netherlands,San Marino,0.3333333333333333
+Netherlands,Serbia,4.589285714285714
+Netherlands,Slovakia,0.0
+Netherlands,Slovenia,0.9375
+Netherlands,Spain,1.236842105263158
+Netherlands,Sweden,4.578947368421052
+Netherlands,Switzerland,1.9
+Netherlands,Türkiye,10.0
+Netherlands,Ukraine,1.9333333333333333
+Netherlands,United Kingdom,0.39473684210526316
+North Macedonia,Albania,11.0
+North Macedonia,Andorra,0.2
+North Macedonia,Armenia,2.25
+North Macedonia,Australia,2.75
+North Macedonia,Austria,0.5208333333333334
+North Macedonia,Azerbaijan,2.5833333333333335
+North Macedonia,Belarus,2.1875
+North Macedonia,Belgium,0.9642857142857143
+North Macedonia,Bulgaria,6.613636363636363
+North Macedonia,Croatia,7.038461538461538
+North Macedonia,Cyprus,0.7666666666666667
+North Macedonia,Czech Republic,1.7916666666666667
+North Macedonia,Denmark,1.0555555555555556
+North Macedonia,Estonia,1.0
+North Macedonia,Finland,1.2321428571428572
+North Macedonia,France,0.4166666666666667
+North Macedonia,Georgia,1.0833333333333333
+North Macedonia,Germany,0.5277777777777778
+North Macedonia,Greece,2.53125
+North Macedonia,Hungary,1.6363636363636365
+North Macedonia,Iceland,0.39285714285714285
+North Macedonia,Ireland,0.5535714285714286
+North Macedonia,Israel,1.2794117647058822
+North Macedonia,Italy,4.666666666666667
+North Macedonia,Latvia,1.4230769230769231
+North Macedonia,Lithuania,0.421875
+North Macedonia,Malta,3.6
+North Macedonia,Moldova,2.625
+North Macedonia,Monaco,0.0
+North Macedonia,Montenegro,6.75
+North Macedonia,Netherlands,1.5357142857142858
+North Macedonia,Norway,1.375
+North Macedonia,Poland,0.675
+North Macedonia,Portugal,0.95
+North Macedonia,Romania,3.046875
+North Macedonia,Russia,3.578125
+North Macedonia,San Marino,2.25
+North Macedonia,Serbia,9.979166666666666
+North Macedonia,Slovakia,1.0
+North Macedonia,Slovenia,4.25
+North Macedonia,Spain,0.2777777777777778
+North Macedonia,Sweden,2.3676470588235294
+North Macedonia,Switzerland,0.6666666666666666
+North Macedonia,Türkiye,8.05
+North Macedonia,Ukraine,2.75
+North Macedonia,United Kingdom,0.9166666666666666
+Norway,Albania,0.8214285714285714
+Norway,Andorra,0.4
+Norway,Armenia,0.2916666666666667
+Norway,Australia,6.4
+Norway,Austria,2.25
+Norway,Azerbaijan,1.9090909090909092
+Norway,Belarus,0.18181818181818182
+Norway,Belgium,2.0625
+Norway,Bulgaria,2.9166666666666665
+Norway,Croatia,0.25
+Norway,Cyprus,0.7857142857142857
+Norway,Czech Republic,1.6
+Norway,Denmark,6.9411764705882355
+Norway,Estonia,2.3125
+Norway,Finland,5.409090909090909
+Norway,France,0.9210526315789473
+Norway,Georgia,0.075
+Norway,Germany,2.263157894736842
+Norway,Greece,1.71875
+Norway,Hungary,1.9090909090909092
+Norway,Iceland,7.125
+Norway,Ireland,1.763157894736842
+Norway,Israel,1.911764705882353
+Norway,Italy,2.7222222222222223
+Norway,Latvia,2.5714285714285716
+Norway,Lithuania,4.21875
+Norway,Malta,2.2794117647058822
+Norway,Moldova,1.2291666666666667
+Norway,Monaco,0.0
+Norway,Montenegro,0.3
+Norway,Netherlands,3.5441176470588234
+Norway,North Macedonia,0.5454545454545454
+Norway,Poland,2.5892857142857144
+Norway,Portugal,1.1428571428571428
+Norway,Romania,2.676470588235294
+Norway,Russia,2.4444444444444446
+Norway,San Marino,0.0
+Norway,Serbia,3.75
+Norway,Slovenia,0.9375
+Norway,Spain,0.7105263157894737
+Norway,Sweden,8.381578947368421
+Norway,Switzerland,1.4423076923076923
+Norway,Türkiye,3.25
+Norway,Ukraine,1.4833333333333334
+Norway,United Kingdom,0.5
+Poland,Albania,0.7307692307692307
+Poland,Andorra,1.75
+Poland,Armenia,4.25
+Poland,Australia,7.15
+Poland,Austria,1.4
+Poland,Azerbaijan,4.25
+Poland,Belarus,2.5
+Poland,Belgium,4.204545454545454
+Poland,Bulgaria,1.9583333333333333
+Poland,Croatia,0.2727272727272727
+Poland,Cyprus,1.1041666666666667
+Poland,Czech Republic,2.7916666666666665
+Poland,Denmark,3.6153846153846154
+Poland,Estonia,2.3958333333333335
+Poland,Finland,3.0454545454545454
+Poland,France,1.3125
+Poland,Georgia,2.45
+Poland,Germany,2.46875
+Poland,Greece,2.1785714285714284
+Poland,Hungary,3.35
+Poland,Iceland,1.4642857142857142
+Poland,Ireland,1.25
+Poland,Israel,1.6607142857142858
+Poland,Italy,3.5714285714285716
+Poland,Latvia,2.4166666666666665
+Poland,Lithuania,2.85
+Poland,Malta,0.75
+Poland,Moldova,1.8888888888888888
+Poland,Montenegro,0.0
+Poland,Netherlands,1.9807692307692308
+Poland,North Macedonia,0.5
+Poland,Norway,3.484375
+Poland,Portugal,1.9615384615384615
+Poland,Romania,2.3846153846153846
+Poland,Russia,2.8333333333333335
+Poland,San Marino,0.25
+Poland,Serbia,2.4545454545454546
+Poland,Slovenia,2.3035714285714284
+Poland,Spain,0.40625
+Poland,Sweden,4.116666666666666
+Poland,Switzerland,2.8125
+Poland,Türkiye,1.05
+Poland,Ukraine,8.076923076923077
+Poland,United Kingdom,0.71875
+Portugal,Albania,0.6964285714285714
+Portugal,Andorra,2.0
+Portugal,Armenia,0.9
+Portugal,Australia,2.125
+Portugal,Austria,3.75
+Portugal,Azerbaijan,2.275
+Portugal,Belarus,0.5
+Portugal,Belgium,4.25
+Portugal,Bulgaria,2.625
+Portugal,Croatia,0.5833333333333334
+Portugal,Cyprus,0.9375
+Portugal,Czech Republic,2.2142857142857144
+Portugal,Denmark,2.0
+Portugal,Estonia,2.4642857142857144
+Portugal,Finland,1.7083333333333333
+Portugal,France,2.09375
+Portugal,Georgia,1.1875
+Portugal,Germany,2.375
+Portugal,Greece,2.0625
+Portugal,Hungary,2.5
+Portugal,Iceland,2.078125
+Portugal,Ireland,1.9318181818181819
+Portugal,Israel,1.8076923076923077
+Portugal,Italy,5.928571428571429
+Portugal,Latvia,2.409090909090909
+Portugal,Lithuania,1.5454545454545454
+Portugal,Malta,0.9642857142857143
+Portugal,Moldova,6.8
+Portugal,Monaco,0.0
+Portugal,Montenegro,1.0833333333333333
+Portugal,Netherlands,3.409090909090909
+Portugal,North Macedonia,0.25
+Portugal,Norway,2.5
+Portugal,Poland,0.21153846153846154
+Portugal,Romania,5.423076923076923
+Portugal,Russia,3.75
+Portugal,San Marino,0.375
+Portugal,Serbia,2.375
+Portugal,Slovenia,1.2307692307692308
+Portugal,Spain,7.53125
+Portugal,Sweden,4.05
+Portugal,Switzerland,1.8181818181818181
+Portugal,Türkiye,1.0909090909090908
+Portugal,Ukraine,5.884615384615385
+Portugal,United Kingdom,1.0625
+Romania,Albania,0.7291666666666666
+Romania,Andorra,0.0
+Romania,Armenia,3.25
+Romania,Australia,3.3125
+Romania,Austria,1.4615384615384615
+Romania,Azerbaijan,4.775
+Romania,Belarus,0.6041666666666666
+Romania,Belgium,2.033333333333333
+Romania,Bulgaria,1.6666666666666667
+Romania,Croatia,1.5833333333333333
+Romania,Cyprus,2.5357142857142856
+Romania,Czech Republic,1.375
+Romania,Denmark,2.6911764705882355
+Romania,Estonia,0.8125
+Romania,Finland,0.9285714285714286
+Romania,France,0.6944444444444444
+Romania,Georgia,0.375
+Romania,Germany,0.8333333333333334
+Romania,Greece,7.34375
+Romania,Hungary,7.638888888888889
+Romania,Iceland,1.0357142857142858
+Romania,Ireland,1.3333333333333333
+Romania,Israel,2.6805555555555554
+Romania,Italy,3.625
+Romania,Latvia,0.6428571428571429
+Romania,Lithuania,0.36666666666666664
+Romania,Malta,2.017857142857143
+Romania,Moldova,11.596153846153847
+Romania,Monaco,0.0
+Romania,Montenegro,0.5
+Romania,Netherlands,2.1333333333333333
+Romania,North Macedonia,2.625
+Romania,Norway,2.359375
+Romania,Poland,0.5
+Romania,Portugal,1.8
+Romania,Russia,4.455882352941177
+Romania,San Marino,0.9285714285714286
+Romania,Serbia,3.4545454545454546
+Romania,Slovenia,1.1730769230769231
+Romania,Spain,2.111111111111111
+Romania,Sweden,3.9444444444444446
+Romania,Switzerland,2.0714285714285716
+Romania,Türkiye,7.090909090909091
+Romania,Ukraine,2.232142857142857
+Romania,United Kingdom,0.4444444444444444
+Russia,Albania,0.6153846153846154
+Russia,Andorra,1.0
+Russia,Armenia,9.272727272727273
+Russia,Australia,2.8125
+Russia,Austria,0.75
+Russia,Azerbaijan,9.875
+Russia,Belarus,7.9375
+Russia,Belgium,2.892857142857143
+Russia,Bulgaria,0.4
+Russia,Croatia,1.9821428571428572
+Russia,Cyprus,2.05
+Russia,Czech Republic,0.625
+Russia,Denmark,1.796875
+Russia,Estonia,2.3055555555555554
+Russia,Finland,1.2666666666666666
+Russia,France,2.1052631578947367
+Russia,Georgia,6.125
+Russia,Germany,1.5263157894736843
+Russia,Greece,4.5
+Russia,Hungary,1.95
+Russia,Iceland,1.0
+Russia,Ireland,0.6333333333333333
+Russia,Israel,2.4
+Russia,Italy,2.0
+Russia,Latvia,1.625
+Russia,Lithuania,2.6923076923076925
+Russia,Malta,2.3529411764705883
+Russia,Moldova,5.857142857142857
+Russia,Montenegro,0.5
+Russia,Netherlands,1.45
+Russia,North Macedonia,1.3
+Russia,Norway,2.7205882352941178
+Russia,Poland,1.5
+Russia,Portugal,0.0
+Russia,Romania,3.1176470588235294
+Russia,San Marino,0.6428571428571429
+Russia,Serbia,3.326923076923077
+Russia,Slovenia,1.75
+Russia,Spain,0.7105263157894737
+Russia,Sweden,2.2222222222222223
+Russia,Switzerland,1.2777777777777777
+Russia,Türkiye,1.2692307692307692
+Russia,Ukraine,7.392857142857143
+Russia,United Kingdom,0.8947368421052632
+San Marino,Albania,4.6875
+San Marino,Armenia,4.142857142857143
+San Marino,Australia,3.0
+San Marino,Austria,0.42857142857142855
+San Marino,Azerbaijan,3.888888888888889
+San Marino,Belarus,0.0625
+San Marino,Belgium,2.3125
+San Marino,Bulgaria,4.75
+San Marino,Croatia,1.875
+San Marino,Cyprus,2.75
+San Marino,Czech Republic,3.0625
+San Marino,Denmark,1.84375
+San Marino,Estonia,0.45
+San Marino,Finland,1.25
+San Marino,France,1.2
+San Marino,Georgia,1.2142857142857142
+San Marino,Germany,0.7
+San Marino,Greece,5.0
+San Marino,Hungary,2.8055555555555554
+San Marino,Iceland,2.3125
+San Marino,Ireland,2.0
+San Marino,Israel,3.15625
+San Marino,Italy,7.166666666666667
+San Marino,Latvia,2.7857142857142856
+San Marino,Lithuania,1.2142857142857142
+San Marino,Malta,4.833333333333333
+San Marino,Moldova,2.71875
+San Marino,Montenegro,2.7142857142857144
+San Marino,Netherlands,3.857142857142857
+San Marino,North Macedonia,1.125
+San Marino,Norway,3.3333333333333335
+San Marino,Poland,1.6875
+San Marino,Portugal,2.0714285714285716
+San Marino,Romania,1.25
+San Marino,Russia,3.0
+San Marino,Serbia,1.875
+San Marino,Slovenia,1.0416666666666667
+San Marino,Spain,0.1
+San Marino,Sweden,3.525
+San Marino,Switzerland,1.0
+San Marino,Türkiye,7.0
+San Marino,Ukraine,2.25
+San Marino,United Kingdom,2.35
+Serbia,Albania,1.6538461538461537
+Serbia,Andorra,0.0
+Serbia,Armenia,1.1
+Serbia,Australia,3.45
+Serbia,Austria,0.75
+Serbia,Azerbaijan,1.45
+Serbia,Belarus,0.8333333333333334
+Serbia,Belgium,1.825
+Serbia,Bulgaria,3.5625
+Serbia,Croatia,8.431818181818182
+Serbia,Cyprus,1.8571428571428572
+Serbia,Czech Republic,1.25
+Serbia,Denmark,1.25
+Serbia,Estonia,0.9230769230769231
+Serbia,Finland,1.0833333333333333
+Serbia,France,0.5666666666666667
+Serbia,Georgia,0.725
+Serbia,Germany,0.8666666666666667
+Serbia,Greece,5.653846153846154
+Serbia,Hungary,6.041666666666667
+Serbia,Iceland,0.9318181818181818
+Serbia,Ireland,0.2916666666666667
+Serbia,Israel,2.3958333333333335
+Serbia,Italy,4.4375
+Serbia,Latvia,0.35
+Serbia,Lithuania,1.0192307692307692
+Serbia,Malta,1.75
+Serbia,Moldova,2.840909090909091
+Serbia,Monaco,0.0
+Serbia,Montenegro,10.5
+Serbia,Netherlands,0.9375
+Serbia,North Macedonia,10.636363636363637
+Serbia,Norway,2.283333333333333
+Serbia,Poland,0.3076923076923077
+Serbia,Portugal,1.6666666666666667
+Serbia,Romania,1.5769230769230769
+Serbia,Russia,5.178571428571429
+Serbia,San Marino,0.375
+Serbia,Slovakia,2.3333333333333335
+Serbia,Slovenia,5.854166666666667
+Serbia,Spain,0.06666666666666667
+Serbia,Sweden,2.9107142857142856
+Serbia,Switzerland,1.3333333333333333
+Serbia,Türkiye,0.5555555555555556
+Serbia,Ukraine,4.365384615384615
+Serbia,United Kingdom,0.6
+Slovakia,Albania,0.6666666666666666
+Slovakia,Azerbaijan,5.25
+Slovakia,Belarus,0.8333333333333334
+Slovakia,Cyprus,0.75
+Slovakia,Denmark,2.875
+Slovakia,Estonia,5.5
+Slovakia,Finland,0.6666666666666666
+Slovakia,France,0.0
+Slovakia,Georgia,0.0
+Slovakia,Germany,3.0
+Slovakia,Greece,2.25
+Slovakia,Hungary,3.3333333333333335
+Slovakia,Iceland,3.375
+Slovakia,Ireland,1.25
+Slovakia,Israel,4.333333333333333
+Slovakia,Latvia,0.0
+Slovakia,Lithuania,1.1666666666666667
+Slovakia,Malta,4.333333333333333
+Slovakia,Moldova,2.0
+Slovakia,Netherlands,0.0
+Slovakia,North Macedonia,0.5
+Slovakia,Norway,5.666666666666667
+Slovakia,Portugal,3.0
+Slovakia,Romania,1.0
+Slovakia,Russia,1.5
+Slovakia,Serbia,2.625
+Slovakia,Slovenia,1.5
+Slovakia,Spain,0.5
+Slovakia,Sweden,7.166666666666667
+Slovakia,Türkiye,0.5
+Slovakia,Ukraine,4.0
+Slovakia,United Kingdom,1.75
+Slovenia,Albania,1.6538461538461537
+Slovenia,Andorra,1.0
+Slovenia,Armenia,0.8
+Slovenia,Australia,3.1
+Slovenia,Austria,3.9166666666666665
+Slovenia,Azerbaijan,1.7727272727272727
+Slovenia,Belarus,0.7083333333333334
+Slovenia,Belgium,2.2857142857142856
+Slovenia,Bulgaria,2.4722222222222223
+Slovenia,Croatia,8.0
+Slovenia,Cyprus,1.234375
+Slovenia,Czech Republic,3.4583333333333335
+Slovenia,Denmark,3.75
+Slovenia,Estonia,1.7333333333333334
+Slovenia,Finland,1.2692307692307692
+Slovenia,France,1.131578947368421
+Slovenia,Georgia,0.6458333333333334
+Slovenia,Germany,1.4736842105263157
+Slovenia,Greece,1.7647058823529411
+Slovenia,Hungary,1.5208333333333333
+Slovenia,Iceland,1.390625
+Slovenia,Ireland,0.59375
+Slovenia,Israel,0.7941176470588235
+Slovenia,Italy,4.833333333333333
+Slovenia,Latvia,2.125
+Slovenia,Lithuania,0.6833333333333333
+Slovenia,Malta,1.3333333333333333
+Slovenia,Moldova,1.7272727272727273
+Slovenia,Monaco,0.0
+Slovenia,Montenegro,5.8125
+Slovenia,Netherlands,2.411764705882353
+Slovenia,North Macedonia,7.0
+Slovenia,Norway,2.5588235294117645
+Slovenia,Poland,0.9821428571428571
+Slovenia,Portugal,1.4285714285714286
+Slovenia,Romania,1.34375
+Slovenia,Russia,3.111111111111111
+Slovenia,San Marino,0.15
+Slovenia,Serbia,9.538461538461538
+Slovenia,Slovakia,1.0
+Slovenia,Spain,0.6842105263157895
+Slovenia,Sweden,4.302631578947368
+Slovenia,Switzerland,2.0
+Slovenia,Türkiye,1.3181818181818181
+Slovenia,Ukraine,2.533333333333333
+Slovenia,United Kingdom,0.9473684210526315
+Spain,Albania,0.6833333333333333
+Spain,Andorra,11.2
+Spain,Armenia,5.25
+Spain,Australia,5.1
+Spain,Austria,2.8461538461538463
+Spain,Azerbaijan,1.875
+Spain,Belarus,0.1590909090909091
+Spain,Belgium,2.235294117647059
+Spain,Bulgaria,6.714285714285714
+Spain,Croatia,0.17857142857142858
+Spain,Cyprus,2.033333333333333
+Spain,Czech Republic,3.85
+Spain,Denmark,2.611111111111111
+Spain,Estonia,1.5263157894736843
+Spain,Finland,1.8194444444444444
+Spain,France,2.45
+Spain,Georgia,0.7777777777777778
+Spain,Germany,3.975
+Spain,Greece,3.1315789473684212
+Spain,Hungary,2.4791666666666665
+Spain,Iceland,2.4027777777777777
+Spain,Ireland,1.3214285714285714
+Spain,Israel,1.5972222222222223
+Spain,Italy,7.0
+Spain,Latvia,1.5294117647058822
+Spain,Lithuania,0.4807692307692308
+Spain,Malta,1.8125
+Spain,Moldova,2.75
+Spain,Monaco,0.0
+Spain,Montenegro,0.3125
+Spain,Netherlands,1.828125
+Spain,North Macedonia,0.0
+Spain,Norway,2.0555555555555554
+Spain,Poland,1.65
+Spain,Portugal,6.142857142857143
+Spain,Romania,8.28125
+Spain,Russia,3.0833333333333335
+Spain,San Marino,2.0714285714285716
+Spain,Serbia,1.8125
+Spain,Slovenia,1.2
+Spain,Sweden,4.4605263157894735
+Spain,Switzerland,1.0416666666666667
+Spain,Türkiye,1.1538461538461537
+Spain,Ukraine,4.0
+Spain,United Kingdom,1.125
+Sweden,Albania,1.1538461538461537
+Sweden,Andorra,0.4
+Sweden,Armenia,1.8863636363636365
+Sweden,Australia,8.35
+Sweden,Austria,2.6785714285714284
+Sweden,Azerbaijan,2.1136363636363638
+Sweden,Belarus,0.19230769230769232
+Sweden,Belgium,2.3666666666666667
+Sweden,Bulgaria,1.1818181818181819
+Sweden,Croatia,0.46875
+Sweden,Cyprus,2.3970588235294117
+Sweden,Czech Republic,0.9375
+Sweden,Denmark,6.867647058823529
+Sweden,Estonia,4.176470588235294
+Sweden,Finland,7.357142857142857
+Sweden,France,1.45
+Sweden,Georgia,0.75
+Sweden,Germany,1.7
+Sweden,Greece,2.1666666666666665
+Sweden,Hungary,2.75
+Sweden,Iceland,4.861111111111111
+Sweden,Ireland,2.25
+Sweden,Israel,1.7058823529411764
+Sweden,Italy,1.9444444444444444
+Sweden,Latvia,2.34375
+Sweden,Lithuania,1.375
+Sweden,Malta,1.6323529411764706
+Sweden,Moldova,1.2307692307692308
+Sweden,Monaco,0.0
+Sweden,Montenegro,1.0625
+Sweden,Netherlands,2.859375
+Sweden,North Macedonia,0.7272727272727273
+Sweden,Norway,6.897058823529412
+Sweden,Poland,2.0625
+Sweden,Portugal,1.2678571428571428
+Sweden,Romania,1.6944444444444444
+Sweden,Russia,2.8552631578947367
+Sweden,San Marino,0.0
+Sweden,Serbia,4.666666666666667
+Sweden,Slovenia,0.671875
+Sweden,Spain,1.05
+Sweden,Switzerland,1.0192307692307692
+Sweden,Türkiye,3.7916666666666665
+Sweden,Ukraine,1.8833333333333333
+Sweden,United Kingdom,0.25
+Switzerland,Albania,7.303571428571429
+Switzerland,Andorra,0.0
+Switzerland,Armenia,0.2692307692307692
+Switzerland,Australia,3.95
+Switzerland,Austria,4.596153846153846
+Switzerland,Azerbaijan,0.875
+Switzerland,Belarus,0.057692307692307696
+Switzerland,Belgium,1.5535714285714286
+Switzerland,Bulgaria,1.125
+Switzerland,Croatia,4.071428571428571
+Switzerland,Cyprus,0.875
+Switzerland,Czech Republic,0.39285714285714285
+Switzerland,Denmark,2.1176470588235294
+Switzerland,Estonia,0.44642857142857145
+Switzerland,Finland,1.9807692307692308
+Switzerland,France,1.6944444444444444
+Switzerland,Georgia,0.125
+Switzerland,Germany,5.138888888888889
+Switzerland,Greece,2.65625
+Switzerland,Hungary,2.2954545454545454
+Switzerland,Iceland,1.9333333333333333
+Switzerland,Ireland,1.8666666666666667
+Switzerland,Israel,1.3823529411764706
+Switzerland,Italy,5.777777777777778
+Switzerland,Latvia,2.3958333333333335
+Switzerland,Lithuania,0.7352941176470589
+Switzerland,Malta,0.96875
+Switzerland,Moldova,0.6363636363636364
+Switzerland,Monaco,0.0
+Switzerland,Montenegro,0.5
+Switzerland,Netherlands,3.2291666666666665
+Switzerland,North Macedonia,3.9833333333333334
+Switzerland,Norway,2.823529411764706
+Switzerland,Poland,0.55
+Switzerland,Portugal,8.318181818181818
+Switzerland,Romania,0.890625
+Switzerland,Russia,1.109375
+Switzerland,San Marino,0.0
+Switzerland,Serbia,9.270833333333334
+Switzerland,Slovenia,0.5833333333333334
+Switzerland,Spain,3.2777777777777777
+Switzerland,Sweden,3.4444444444444446
+Switzerland,Türkiye,6.636363636363637
+Switzerland,Ukraine,0.6071428571428571
+Switzerland,United Kingdom,0.4722222222222222
+Türkiye,Albania,5.722222222222222
+Türkiye,Andorra,0.6
+Türkiye,Armenia,9.5
+Türkiye,Austria,3.2857142857142856
+Türkiye,Azerbaijan,12.0
+Türkiye,Belarus,0.6875
+Türkiye,Belgium,2.111111111111111
+Türkiye,Bulgaria,6.0
+Türkiye,Croatia,2.1153846153846154
+Türkiye,Cyprus,0.7
+Türkiye,Czech Republic,0.3333333333333333
+Türkiye,Denmark,0.8333333333333334
+Türkiye,Estonia,2.0
+Türkiye,Finland,0.7777777777777778
+Türkiye,France,0.07692307692307693
+Türkiye,Georgia,7.6
+Türkiye,Germany,2.076923076923077
+Türkiye,Greece,4.666666666666667
+Türkiye,Hungary,2.3
+Türkiye,Iceland,1.2083333333333333
+Türkiye,Ireland,1.65
+Türkiye,Israel,1.5454545454545454
+Türkiye,Latvia,0.6666666666666666
+Türkiye,Lithuania,0.18181818181818182
+Türkiye,Malta,2.75
+Türkiye,Moldova,3.5714285714285716
+Türkiye,Monaco,0.0
+Türkiye,Netherlands,2.3333333333333335
+Türkiye,North Macedonia,4.833333333333333
+Türkiye,Norway,1.6666666666666667
+Türkiye,Poland,0.125
+Türkiye,Portugal,0.09090909090909091
+Türkiye,Romania,3.2083333333333335
+Türkiye,Russia,3.5384615384615383
+Türkiye,Serbia,1.0714285714285714
+Türkiye,Slovenia,0.35
+Türkiye,Spain,1.0
+Türkiye,Sweden,3.1923076923076925
+Türkiye,Switzerland,0.0
+Türkiye,Ukraine,3.95
+Türkiye,United Kingdom,1.1538461538461537
+Ukraine,Albania,0.3181818181818182
+Ukraine,Andorra,0.0
+Ukraine,Armenia,5.555555555555555
+Ukraine,Australia,3.3333333333333335
+Ukraine,Austria,1.2
+Ukraine,Azerbaijan,9.61111111111111
+Ukraine,Belarus,7.958333333333333
+Ukraine,Belgium,2.0
+Ukraine,Bulgaria,1.65
+Ukraine,Croatia,2.5208333333333335
+Ukraine,Cyprus,1.3214285714285714
+Ukraine,Czech Republic,1.75
+Ukraine,Denmark,1.375
+Ukraine,Estonia,1.8333333333333333
+Ukraine,Finland,0.65
+Ukraine,France,1.5333333333333334
+Ukraine,Georgia,8.71875
+Ukraine,Germany,0.6666666666666666
+Ukraine,Greece,1.9230769230769231
+Ukraine,Hungary,2.409090909090909
+Ukraine,Iceland,0.5
+Ukraine,Ireland,0.5
+Ukraine,Israel,2.7708333333333335
+Ukraine,Italy,0.9285714285714286
+Ukraine,Latvia,1.7272727272727273
+Ukraine,Lithuania,1.7884615384615385
+Ukraine,Malta,1.6923076923076923
+Ukraine,Moldova,5.636363636363637
+Ukraine,Monaco,0.0
+Ukraine,Montenegro,2.5
+Ukraine,Netherlands,0.9107142857142857
+Ukraine,North Macedonia,1.8888888888888888
+Ukraine,Norway,3.107142857142857
+Ukraine,Poland,5.431818181818182
+Ukraine,Portugal,1.7083333333333333
+Ukraine,Romania,1.1428571428571428
+Ukraine,Russia,8.714285714285714
+Ukraine,San Marino,0.6666666666666666
+Ukraine,Serbia,2.4791666666666665
+Ukraine,Slovakia,4.666666666666667
+Ukraine,Slovenia,1.1153846153846154
+Ukraine,Spain,0.4
+Ukraine,Sweden,2.9166666666666665
+Ukraine,Switzerland,0.35
+Ukraine,Türkiye,2.7222222222222223
+Ukraine,United Kingdom,0.6
+United Kingdom,Albania,0.9107142857142857
+United Kingdom,Andorra,0.0
+United Kingdom,Armenia,0.4807692307692308
+United Kingdom,Australia,6.65
+United Kingdom,Austria,2.2142857142857144
+United Kingdom,Azerbaijan,1.0833333333333333
+United Kingdom,Belarus,0.14285714285714285
+United Kingdom,Belgium,1.625
+United Kingdom,Bulgaria,4.05
+United Kingdom,Croatia,0.5277777777777778
+United Kingdom,Cyprus,4.265625
+United Kingdom,Czech Republic,0.78125
+United Kingdom,Denmark,3.986111111111111
+United Kingdom,Estonia,2.566666666666667
+United Kingdom,Finland,2.230769230769231
+United Kingdom,France,1.35
+United Kingdom,Georgia,0.725
+United Kingdom,Germany,1.975
+United Kingdom,Greece,5.291666666666667
+United Kingdom,Hungary,0.9090909090909091
+United Kingdom,Iceland,2.0833333333333335
+United Kingdom,Ireland,7.375
+United Kingdom,Israel,2.1323529411764706
+United Kingdom,Italy,1.7777777777777777
+United Kingdom,Latvia,3.8076923076923075
+United Kingdom,Lithuania,5.970588235294118
+United Kingdom,Malta,4.455882352941177
+United Kingdom,Moldova,2.227272727272727
+United Kingdom,Monaco,0.0
+United Kingdom,Montenegro,0.0
+United Kingdom,Netherlands,1.9833333333333334
+United Kingdom,North Macedonia,0.46153846153846156
+United Kingdom,Norway,2.289473684210526
+United Kingdom,Poland,2.6666666666666665
+United Kingdom,Portugal,1.6071428571428572
+United Kingdom,Romania,2.0294117647058822
+United Kingdom,Russia,2.2916666666666665
+United Kingdom,San Marino,0.0
+United Kingdom,Serbia,0.9166666666666666
+United Kingdom,Slovenia,0.4117647058823529
+United Kingdom,Spain,1.175
+United Kingdom,Sweden,4.925
+United Kingdom,Switzerland,1.0333333333333334
+United Kingdom,Türkiye,4.923076923076923
+United Kingdom,Ukraine,2.1666666666666665

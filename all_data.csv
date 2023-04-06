@@ -1,0 +1,2063 @@
+from_country,to_country,neighboring,from_country_region,to_country_region,same_region,mean,count
+Albania,Andorra,0,Central and Eastern Europe,Western Europe,0,1.5,4
+Albania,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0576923076923077,13
+Albania,Australia,0,Central and Eastern Europe,Non-European,0,3.4,5
+Albania,Austria,0,Central and Eastern Europe,Western Europe,0,1.0681818181818181,11
+Albania,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,3.2291666666666665,12
+Albania,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5,13
+Albania,Belgium,0,Central and Eastern Europe,Western Europe,0,1.375,12
+Albania,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,5.15625,8
+Albania,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.272727272727273,11
+Albania,Cyprus,0,Central and Eastern Europe,Southern Europe,0,3.326923076923077,13
+Albania,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,0.125,6
+Albania,Denmark,0,Central and Eastern Europe,Northern Europe,0,0.640625,16
+Albania,Estonia,0,Central and Eastern Europe,Northern Europe,0,0.5,13
+Albania,Finland,0,Central and Eastern Europe,Northern Europe,0,0.9285714285714286,14
+Albania,France,0,Central and Eastern Europe,Western Europe,0,1.59375,16
+Albania,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.3125,8
+Albania,Germany,0,Central and Eastern Europe,Western Europe,0,2.75,16
+Albania,Greece,1,Central and Eastern Europe,Southern Europe,0,9.133333333333333,15
+Albania,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,2.6666666666666665,12
+Albania,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.0357142857142858,14
+Albania,Ireland,0,Central and Eastern Europe,Western Europe,0,1.1875,12
+Albania,Israel,0,Central and Eastern Europe,Non-European,0,2.3392857142857144,14
+Albania,Italy,0,Central and Eastern Europe,Southern Europe,0,10.5,9
+Albania,Latvia,0,Central and Eastern Europe,Northern Europe,0,0.017857142857142856,14
+Albania,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.36538461538461536,13
+Albania,Malta,0,Central and Eastern Europe,Southern Europe,0,2.923076923076923,13
+Albania,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,1.2884615384615385,13
+Albania,Monaco,0,Central and Eastern Europe,Western Europe,0,0.6666666666666666,3
+Albania,Montenegro,1,Central and Eastern Europe,Central and Eastern Europe,1,6.8,5
+Albania,Netherlands,0,Central and Eastern Europe,Western Europe,0,2.1041666666666665,12
+Albania,North Macedonia,1,Central and Eastern Europe,Central and Eastern Europe,1,9.291666666666666,12
+Albania,Norway,0,Central and Eastern Europe,Northern Europe,0,1.671875,16
+Albania,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,1.2291666666666667,12
+Albania,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.6818181818181819,11
+Albania,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.75,14
+Albania,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.375,14
+Albania,San Marino,0,Central and Eastern Europe,Southern Europe,0,6.1,5
+Albania,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.3333333333333335,12
+Albania,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.7083333333333333,12
+Albania,Spain,0,Central and Eastern Europe,Southern Europe,0,3.25,16
+Albania,Sweden,0,Central and Eastern Europe,Northern Europe,0,3.05,15
+Albania,Switzerland,0,Central and Eastern Europe,Western Europe,0,2.1875,12
+Albania,Türkiye,0,Central and Eastern Europe,Southern Europe,0,10.055555555555555,9
+Albania,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,1.1785714285714286,14
+Albania,United Kingdom,0,Central and Eastern Europe,Western Europe,0,1.4375,16
+Andorra,Albania,0,Western Europe,Central and Eastern Europe,0,0.5,6
+Andorra,Armenia,0,Western Europe,Central and Eastern Europe,0,0.375,4
+Andorra,Austria,0,Western Europe,Western Europe,1,2.6666666666666665,3
+Andorra,Belarus,0,Western Europe,Central and Eastern Europe,0,0.0,5
+Andorra,Belgium,0,Western Europe,Western Europe,1,1.3333333333333333,6
+Andorra,Bulgaria,0,Western Europe,Central and Eastern Europe,0,0.0,4
+Andorra,Croatia,0,Western Europe,Central and Eastern Europe,0,0.0,6
+Andorra,Cyprus,0,Western Europe,Southern Europe,0,0.75,4
+Andorra,Denmark,0,Western Europe,Northern Europe,0,2.0833333333333335,6
+Andorra,Estonia,0,Western Europe,Northern Europe,0,0.0,6
+Andorra,Finland,0,Western Europe,Northern Europe,0,5.25,6
+Andorra,France,1,Western Europe,Western Europe,1,4.333333333333333,6
+Andorra,Germany,0,Western Europe,Western Europe,1,0.8333333333333334,6
+Andorra,Greece,0,Western Europe,Southern Europe,0,3.25,6
+Andorra,Iceland,0,Western Europe,Northern Europe,0,2.6666666666666665,6
+Andorra,Ireland,0,Western Europe,Western Europe,1,0.8,5
+Andorra,Israel,0,Western Europe,Non-European,0,4.0,6
+Andorra,Latvia,0,Western Europe,Northern Europe,0,1.6,5
+Andorra,Lithuania,0,Western Europe,Northern Europe,0,1.4,5
+Andorra,Malta,0,Western Europe,Southern Europe,0,1.8,5
+Andorra,Moldova,0,Western Europe,Central and Eastern Europe,0,0.6,5
+Andorra,Monaco,0,Western Europe,Western Europe,1,6.333333333333333,3
+Andorra,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.3333333333333333,3
+Andorra,Netherlands,0,Western Europe,Western Europe,1,3.1,5
+Andorra,North Macedonia,0,Western Europe,Central and Eastern Europe,0,0.0,5
+Andorra,Norway,0,Western Europe,Northern Europe,0,3.75,6
+Andorra,Poland,0,Western Europe,Central and Eastern Europe,0,2.4,5
+Andorra,Portugal,0,Western Europe,Southern Europe,0,9.5,6
+Andorra,Romania,0,Western Europe,Central and Eastern Europe,0,4.25,6
+Andorra,Russia,0,Western Europe,Central and Eastern Europe,0,2.0833333333333335,6
+Andorra,Serbia,0,Western Europe,Central and Eastern Europe,0,0.375,4
+Andorra,Slovenia,0,Western Europe,Central and Eastern Europe,0,0.8,5
+Andorra,Spain,1,Western Europe,Southern Europe,0,10.0,6
+Andorra,Sweden,0,Western Europe,Northern Europe,0,3.25,6
+Andorra,Switzerland,0,Western Europe,Western Europe,1,1.7,5
+Andorra,Türkiye,0,Western Europe,Southern Europe,0,1.5,6
+Andorra,Ukraine,0,Western Europe,Central and Eastern Europe,0,5.916666666666667,6
+Andorra,United Kingdom,0,Western Europe,Western Europe,1,1.0,6
+Armenia,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.1875,12
+Armenia,Andorra,0,Central and Eastern Europe,Western Europe,0,0.0,4
+Armenia,Australia,0,Central and Eastern Europe,Non-European,0,1.2,5
+Armenia,Austria,0,Central and Eastern Europe,Western Europe,0,1.25,8
+Armenia,Azerbaijan,1,Central and Eastern Europe,Central and Eastern Europe,1,0.18181818181818182,11
+Armenia,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,4.2,10
+Armenia,Belgium,0,Central and Eastern Europe,Western Europe,0,1.7045454545454546,11
+Armenia,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,2.75,8
+Armenia,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.175,10
+Armenia,Cyprus,0,Central and Eastern Europe,Southern Europe,0,5.0,8
+Armenia,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,2.0833333333333335,6
+Armenia,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.0208333333333333,12
+Armenia,Estonia,0,Central and Eastern Europe,Northern Europe,0,0.9772727272727273,11
+Armenia,Finland,0,Central and Eastern Europe,Northern Europe,0,0.6363636363636364,11
+Armenia,France,0,Central and Eastern Europe,Western Europe,0,3.9615384615384617,13
+Armenia,Georgia,1,Central and Eastern Europe,Central and Eastern Europe,1,10.0625,8
+Armenia,Germany,0,Central and Eastern Europe,Western Europe,0,0.6538461538461539,13
+Armenia,Greece,0,Central and Eastern Europe,Southern Europe,0,6.8076923076923075,13
+Armenia,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,0.34375,8
+Armenia,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.0833333333333333,12
+Armenia,Ireland,0,Central and Eastern Europe,Western Europe,0,0.25,8
+Armenia,Israel,0,Central and Eastern Europe,Non-European,0,2.590909090909091,11
+Armenia,Italy,0,Central and Eastern Europe,Southern Europe,0,3.125,8
+Armenia,Latvia,0,Central and Eastern Europe,Northern Europe,0,0.3888888888888889,9
+Armenia,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.4,10
+Armenia,Malta,0,Central and Eastern Europe,Southern Europe,0,3.8125,8
+Armenia,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,3.0384615384615383,13
+Armenia,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,4.071428571428571,7
+Armenia,Netherlands,0,Central and Eastern Europe,Western Europe,0,2.3636363636363638,11
+Armenia,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.9285714285714286,7
+Armenia,Norway,0,Central and Eastern Europe,Northern Europe,0,2.9375,12
+Armenia,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,1.25,8
+Armenia,Portugal,0,Central and Eastern Europe,Southern Europe,0,2.4444444444444446,9
+Armenia,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.3636363636363635,11
+Armenia,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,10.522727272727273,11
+Armenia,San Marino,0,Central and Eastern Europe,Southern Europe,0,1.9166666666666667,6
+Armenia,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.9375,8
+Armenia,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6,10
+Armenia,Spain,0,Central and Eastern Europe,Southern Europe,0,0.8846153846153846,13
+Armenia,Sweden,0,Central and Eastern Europe,Northern Europe,0,3.4615384615384617,13
+Armenia,Switzerland,0,Central and Eastern Europe,Western Europe,0,1.9166666666666667,9
+Armenia,Türkiye,1,Central and Eastern Europe,Southern Europe,0,1.5,6
+Armenia,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,6.636363636363637,11
+Armenia,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.9230769230769231,13
+Australia,Albania,0,Non-European,Central and Eastern Europe,0,0.0,5
+Australia,Armenia,0,Non-European,Central and Eastern Europe,0,0.9166666666666666,3
+Australia,Austria,0,Non-European,Western Europe,0,1.375,4
+Australia,Azerbaijan,0,Non-European,Central and Eastern Europe,0,0.875,4
+Australia,Belarus,0,Non-European,Central and Eastern Europe,0,0.875,4
+Australia,Belgium,0,Non-European,Western Europe,0,5.25,4
+Australia,Bulgaria,0,Non-European,Central and Eastern Europe,0,5.166666666666667,3
+Australia,Cyprus,0,Non-European,Southern Europe,0,1.75,5
+Australia,Czech Republic,0,Non-European,Central and Eastern Europe,0,2.25,5
+Australia,Denmark,0,Non-European,Northern Europe,0,3.6,5
+Australia,Estonia,0,Non-European,Northern Europe,0,3.25,3
+Australia,Finland,0,Non-European,Northern Europe,0,1.875,4
+Australia,France,0,Non-European,Western Europe,0,2.6,5
+Australia,Georgia,0,Non-European,Central and Eastern Europe,0,1.3,5
+Australia,Germany,0,Non-European,Western Europe,0,1.5,5
+Australia,Greece,0,Non-European,Southern Europe,0,2.5833333333333335,3
+Australia,Hungary,0,Non-European,Central and Eastern Europe,0,1.25,5
+Australia,Iceland,0,Non-European,Northern Europe,0,3.6666666666666665,3
+Australia,Ireland,0,Non-European,Western Europe,0,3.1666666666666665,3
+Australia,Israel,0,Non-European,Non-European,1,4.0,5
+Australia,Italy,0,Non-European,Southern Europe,0,2.3,5
+Australia,Latvia,0,Non-European,Northern Europe,0,3.3125,4
+Australia,Lithuania,0,Non-European,Northern Europe,0,3.0833333333333335,3
+Australia,Malta,0,Non-European,Southern Europe,0,3.25,4
+Australia,Moldova,0,Non-European,Central and Eastern Europe,0,6.25,3
+Australia,Montenegro,0,Non-European,Central and Eastern Europe,0,0.875,4
+Australia,Netherlands,0,Non-European,Western Europe,0,2.0,5
+Australia,North Macedonia,0,Non-European,Central and Eastern Europe,0,3.1666666666666665,3
+Australia,Norway,0,Non-European,Northern Europe,0,3.65,5
+Australia,Poland,0,Non-European,Central and Eastern Europe,0,2.1,5
+Australia,Portugal,0,Non-European,Southern Europe,0,2.375,4
+Australia,Romania,0,Non-European,Central and Eastern Europe,0,1.8333333333333333,3
+Australia,Russia,0,Non-European,Central and Eastern Europe,0,4.125,4
+Australia,San Marino,0,Non-European,Southern Europe,0,0.9166666666666666,3
+Australia,Serbia,0,Non-European,Central and Eastern Europe,0,2.6875,4
+Australia,Slovenia,0,Non-European,Central and Eastern Europe,0,1.4,5
+Australia,Spain,0,Non-European,Southern Europe,0,1.4,5
+Australia,Sweden,0,Non-European,Northern Europe,0,8.0,5
+Australia,Switzerland,0,Non-European,Western Europe,0,1.3333333333333333,3
+Australia,Ukraine,0,Non-European,Central and Eastern Europe,0,2.0833333333333335,3
+Australia,United Kingdom,0,Non-European,Western Europe,0,2.9,5
+Austria,Albania,0,Western Europe,Central and Eastern Europe,0,4.035714285714286,7
+Austria,Andorra,0,Western Europe,Western Europe,1,0.0,3
+Austria,Armenia,0,Western Europe,Central and Eastern Europe,0,3.15625,8
+Austria,Australia,0,Western Europe,Non-European,0,4.2,5
+Austria,Azerbaijan,0,Western Europe,Central and Eastern Europe,0,3.0555555555555554,9
+Austria,Belarus,0,Western Europe,Central and Eastern Europe,0,0.975,10
+Austria,Belgium,0,Western Europe,Western Europe,1,1.9230769230769231,13
+Austria,Bulgaria,0,Western Europe,Central and Eastern Europe,0,4.083333333333333,6
+Austria,Croatia,0,Western Europe,Central and Eastern Europe,0,5.5,11
+Austria,Cyprus,0,Western Europe,Southern Europe,0,0.6785714285714286,14
+Austria,Czech Republic,1,Western Europe,Central and Eastern Europe,0,3.375,4
+Austria,Denmark,0,Western Europe,Northern Europe,0,2.4615384615384617,13
+Austria,Estonia,0,Western Europe,Northern Europe,0,1.6071428571428572,14
+Austria,Finland,0,Western Europe,Northern Europe,0,0.5833333333333334,12
+Austria,France,0,Western Europe,Western Europe,1,0.5666666666666667,15
+Austria,Georgia,0,Western Europe,Central and Eastern Europe,0,0.16666666666666666,6
+Austria,Germany,1,Western Europe,Western Europe,1,4.266666666666667,15
+Austria,Greece,0,Western Europe,Southern Europe,0,1.3214285714285714,14
+Austria,Hungary,1,Western Europe,Central and Eastern Europe,0,3.175,10
+Austria,Iceland,0,Western Europe,Northern Europe,0,0.75,12
+Austria,Ireland,0,Western Europe,Western Europe,1,2.2291666666666665,12
+Austria,Israel,0,Western Europe,Non-European,0,1.5,14
+Austria,Italy,1,Western Europe,Southern Europe,0,5.5,9
+Austria,Latvia,0,Western Europe,Northern Europe,0,2.3181818181818183,11
+Austria,Lithuania,0,Western Europe,Northern Europe,0,0.07692307692307693,13
+Austria,Malta,0,Western Europe,Southern Europe,0,2.0416666666666665,12
+Austria,Moldova,0,Western Europe,Central and Eastern Europe,0,1.7,10
+Austria,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.0,6
+Austria,Netherlands,0,Western Europe,Western Europe,1,3.173076923076923,13
+Austria,North Macedonia,0,Western Europe,Central and Eastern Europe,0,1.0208333333333333,12
+Austria,Norway,0,Western Europe,Northern Europe,0,1.4583333333333333,12
+Austria,Poland,0,Western Europe,Central and Eastern Europe,0,3.625,8
+Austria,Portugal,0,Western Europe,Southern Europe,0,2.0,6
+Austria,Romania,0,Western Europe,Central and Eastern Europe,0,3.5576923076923075,13
+Austria,Russia,0,Western Europe,Central and Eastern Europe,0,3.7115384615384617,13
+Austria,San Marino,0,Western Europe,Southern Europe,0,0.5,5
+Austria,Serbia,0,Western Europe,Central and Eastern Europe,0,7.090909090909091,11
+Austria,Slovenia,1,Western Europe,Central and Eastern Europe,0,1.6818181818181819,11
+Austria,Spain,0,Western Europe,Southern Europe,0,0.4,15
+Austria,Sweden,0,Western Europe,Northern Europe,0,3.85,15
+Austria,Switzerland,1,Western Europe,Western Europe,1,2.8863636363636362,11
+Austria,Türkiye,0,Western Europe,Southern Europe,0,6.714285714285714,7
+Austria,Ukraine,0,Western Europe,Central and Eastern Europe,0,1.7727272727272727,11
+Austria,United Kingdom,0,Western Europe,Western Europe,1,0.8333333333333334,15
+Azerbaijan,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,2.659090909090909,11
+Azerbaijan,Armenia,1,Central and Eastern Europe,Central and Eastern Europe,1,0.0,11
+Azerbaijan,Australia,0,Central and Eastern Europe,Non-European,0,1.55,5
+Azerbaijan,Austria,0,Central and Eastern Europe,Western Europe,0,0.46875,8
+Azerbaijan,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,5.833333333333333,6
+Azerbaijan,Belgium,0,Central and Eastern Europe,Western Europe,0,0.8611111111111112,9
+Azerbaijan,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,4.4,5
+Azerbaijan,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.375,8
+Azerbaijan,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.5,8
+Azerbaijan,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,1.35,5
+Azerbaijan,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.1,10
+Azerbaijan,Estonia,0,Central and Eastern Europe,Northern Europe,0,1.575,10
+Azerbaijan,Finland,0,Central and Eastern Europe,Northern Europe,0,0.3333333333333333,9
+Azerbaijan,France,0,Central and Eastern Europe,Western Europe,0,0.375,12
+Azerbaijan,Georgia,1,Central and Eastern Europe,Central and Eastern Europe,1,8.214285714285714,7
+Azerbaijan,Germany,0,Central and Eastern Europe,Western Europe,0,0.2916666666666667,12
+Azerbaijan,Greece,0,Central and Eastern Europe,Southern Europe,0,4.270833333333333,12
+Azerbaijan,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,3.5555555555555554,9
+Azerbaijan,Iceland,0,Central and Eastern Europe,Northern Europe,0,0.5,12
+Azerbaijan,Ireland,0,Central and Eastern Europe,Western Europe,0,0.8888888888888888,9
+Azerbaijan,Israel,0,Central and Eastern Europe,Non-European,0,4.275,10
+Azerbaijan,Italy,0,Central and Eastern Europe,Southern Europe,0,2.2222222222222223,9
+Azerbaijan,Latvia,0,Central and Eastern Europe,Northern Europe,0,2.2777777777777777,9
+Azerbaijan,Lithuania,0,Central and Eastern Europe,Northern Europe,0,2.0277777777777777,9
+Azerbaijan,Malta,0,Central and Eastern Europe,Southern Europe,0,5.28125,8
+Azerbaijan,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,4.386363636363637,11
+Azerbaijan,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,3.0,6
+Azerbaijan,Netherlands,0,Central and Eastern Europe,Western Europe,0,1.0277777777777777,9
+Azerbaijan,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.5,4
+Azerbaijan,Norway,0,Central and Eastern Europe,Northern Europe,0,2.3181818181818183,11
+Azerbaijan,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,1.3571428571428572,7
+Azerbaijan,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.75,8
+Azerbaijan,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,4.4,10
+Azerbaijan,Russia,1,Central and Eastern Europe,Central and Eastern Europe,1,7.95,10
+Azerbaijan,San Marino,0,Central and Eastern Europe,Southern Europe,0,3.5,8
+Azerbaijan,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.7777777777777778,9
+Azerbaijan,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.1666666666666667,9
+Azerbaijan,Spain,0,Central and Eastern Europe,Southern Europe,0,0.20833333333333334,12
+Azerbaijan,Sweden,0,Central and Eastern Europe,Northern Europe,0,1.75,12
+Azerbaijan,Switzerland,0,Central and Eastern Europe,Western Europe,0,0.9375,8
+Azerbaijan,Türkiye,0,Central and Eastern Europe,Southern Europe,0,12.0,5
+Azerbaijan,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,9.55,10
+Azerbaijan,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.5833333333333334,12
+Belarus,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6041666666666666,12
+Belarus,Andorra,0,Central and Eastern Europe,Western Europe,0,0.8,5
+Belarus,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,5.7727272727272725,11
+Belarus,Australia,0,Central and Eastern Europe,Non-European,0,4.2,5
+Belarus,Austria,0,Central and Eastern Europe,Western Europe,0,0.975,10
+Belarus,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,5.375,12
+Belarus,Belgium,0,Central and Eastern Europe,Western Europe,0,1.6538461538461537,13
+Belarus,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,2.1,10
+Belarus,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.5227272727272727,11
+Belarus,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.1785714285714286,14
+Belarus,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,1.625,6
+Belarus,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.046875,16
+Belarus,Estonia,0,Central and Eastern Europe,Northern Europe,0,2.25,13
+Belarus,Finland,0,Central and Eastern Europe,Northern Europe,0,1.3269230769230769,13
+Belarus,France,0,Central and Eastern Europe,Western Europe,0,0.5625,16
+Belarus,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,6.0,10
+Belarus,Germany,0,Central and Eastern Europe,Western Europe,0,0.5,16
+Belarus,Greece,0,Central and Eastern Europe,Southern Europe,0,2.6666666666666665,15
+Belarus,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,1.375,12
+Belarus,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.7692307692307692,13
+Belarus,Ireland,0,Central and Eastern Europe,Western Europe,0,0.4375,12
+Belarus,Israel,0,Central and Eastern Europe,Non-European,0,3.25,14
+Belarus,Italy,0,Central and Eastern Europe,Southern Europe,0,1.2222222222222223,9
+Belarus,Latvia,1,Central and Eastern Europe,Northern Europe,0,2.6666666666666665,9
+Belarus,Lithuania,1,Central and Eastern Europe,Northern Europe,0,3.375,14
+Belarus,Malta,0,Central and Eastern Europe,Southern Europe,0,2.730769230769231,13
+Belarus,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,5.454545454545454,11
+Belarus,Monaco,0,Central and Eastern Europe,Western Europe,0,0.0,3
+Belarus,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,0.8333333333333334,6
+Belarus,Netherlands,0,Central and Eastern Europe,Western Europe,0,1.2115384615384615,13
+Belarus,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0,15
+Belarus,Norway,0,Central and Eastern Europe,Northern Europe,0,3.55,15
+Belarus,Poland,1,Central and Eastern Europe,Central and Eastern Europe,1,3.3636363636363638,11
+Belarus,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.8636363636363635,11
+Belarus,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0576923076923077,13
+Belarus,Russia,1,Central and Eastern Europe,Central and Eastern Europe,1,10.678571428571429,14
+Belarus,San Marino,0,Central and Eastern Europe,Southern Europe,0,0.9166666666666666,3
+Belarus,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.6346153846153846,13
+Belarus,Slovakia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0,3
+Belarus,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.1875,12
+Belarus,Spain,0,Central and Eastern Europe,Southern Europe,0,0.125,16
+Belarus,Sweden,0,Central and Eastern Europe,Northern Europe,0,3.2666666666666666,15
+Belarus,Switzerland,0,Central and Eastern Europe,Western Europe,0,1.5416666666666667,12
+Belarus,Türkiye,0,Central and Eastern Europe,Southern Europe,0,1.5,8
+Belarus,Ukraine,1,Central and Eastern Europe,Central and Eastern Europe,1,8.964285714285714,14
+Belarus,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.375,16
+Belgium,Albania,0,Western Europe,Central and Eastern Europe,0,2.4285714285714284,14
+Belgium,Andorra,0,Western Europe,Western Europe,1,0.0,6
+Belgium,Armenia,0,Western Europe,Central and Eastern Europe,0,6.613636363636363,11
+Belgium,Australia,0,Western Europe,Non-European,0,5.05,5
+Belgium,Austria,0,Western Europe,Western Europe,1,2.767857142857143,14
+Belgium,Azerbaijan,0,Western Europe,Central and Eastern Europe,0,2.0208333333333335,12
+Belgium,Belarus,0,Western Europe,Central and Eastern Europe,0,0.07142857142857142,14
+Belgium,Bulgaria,0,Western Europe,Central and Eastern Europe,0,2.4375,8
+Belgium,Croatia,0,Western Europe,Central and Eastern Europe,0,0.038461538461538464,13
+Belgium,Cyprus,0,Western Europe,Southern Europe,0,1.71875,16
+Belgium,Czech Republic,0,Western Europe,Central and Eastern Europe,0,2.4583333333333335,6
+Belgium,Denmark,0,Western Europe,Northern Europe,0,2.638888888888889,18
+Belgium,Estonia,0,Western Europe,Northern Europe,0,1.1764705882352942,17
+Belgium,Finland,0,Western Europe,Northern Europe,0,1.5,17
+Belgium,France,1,Western Europe,Western Europe,1,3.236842105263158,19
+Belgium,Georgia,0,Western Europe,Central and Eastern Europe,0,1.5833333333333333,9
+Belgium,Germany,1,Western Europe,Western Europe,1,1.5526315789473684,19
+Belgium,Greece,0,Western Europe,Southern Europe,0,5.338235294117647,17
+Belgium,Hungary,0,Western Europe,Central and Eastern Europe,0,2.3636363636363638,11
+Belgium,Iceland,0,Western Europe,Northern Europe,0,1.875,16
+Belgium,Ireland,0,Western Europe,Western Europe,1,2.4038461538461537,13
+Belgium,Israel,0,Western Europe,Non-European,0,1.8676470588235294,17
+Belgium,Italy,0,Western Europe,Southern Europe,0,4.722222222222222,9
+Belgium,Latvia,0,Western Europe,Northern Europe,0,2.6166666666666667,15
+Belgium,Lithuania,0,Western Europe,Northern Europe,0,1.0208333333333333,12
+Belgium,Malta,0,Western Europe,Southern Europe,0,1.4285714285714286,14
+Belgium,Moldova,0,Western Europe,Central and Eastern Europe,0,1.2692307692307692,13
+Belgium,Monaco,0,Western Europe,Western Europe,1,0.0,3
+Belgium,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.0,9
+Belgium,Netherlands,1,Western Europe,Western Europe,1,8.6,15
+Belgium,North Macedonia,0,Western Europe,Central and Eastern Europe,0,0.0,14
+Belgium,Norway,0,Western Europe,Northern Europe,0,2.235294117647059,17
+Belgium,Poland,0,Western Europe,Central and Eastern Europe,0,2.4583333333333335,12
+Belgium,Portugal,0,Western Europe,Southern Europe,0,4.520833333333333,12
+Belgium,Romania,0,Western Europe,Central and Eastern Europe,0,2.6875,16
+Belgium,Russia,0,Western Europe,Central and Eastern Europe,0,3.0294117647058822,17
+Belgium,San Marino,0,Western Europe,Southern Europe,0,0.125,4
+Belgium,Serbia,0,Western Europe,Central and Eastern Europe,0,1.5625,12
+Belgium,Slovenia,0,Western Europe,Central and Eastern Europe,0,0.6166666666666667,15
+Belgium,Spain,0,Western Europe,Southern Europe,0,2.6578947368421053,19
+Belgium,Sweden,0,Western Europe,Northern Europe,0,4.180555555555555,18
+Belgium,Switzerland,0,Western Europe,Western Europe,1,0.8076923076923077,13
+Belgium,Türkiye,0,Western Europe,Southern Europe,0,8.681818181818182,11
+Belgium,Ukraine,0,Western Europe,Central and Eastern Europe,0,1.7333333333333334,15
+Belgium,United Kingdom,0,Western Europe,Western Europe,1,0.47368421052631576,19
+Bulgaria,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.025,10
+Bulgaria,Andorra,0,Central and Eastern Europe,Western Europe,0,0.0,4
+Bulgaria,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,7.222222222222222,9
+Bulgaria,Australia,0,Central and Eastern Europe,Non-European,0,2.6666666666666665,3
+Bulgaria,Austria,0,Central and Eastern Europe,Western Europe,0,4.083333333333333,6
+Bulgaria,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,5.277777777777778,9
+Bulgaria,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,2.1041666666666665,12
+Bulgaria,Belgium,0,Central and Eastern Europe,Western Europe,0,2.25,10
+Bulgaria,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.625,10
+Bulgaria,Cyprus,0,Central and Eastern Europe,Southern Europe,0,4.6,10
+Bulgaria,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,1.05,5
+Bulgaria,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.2083333333333333,12
+Bulgaria,Estonia,0,Central and Eastern Europe,Northern Europe,0,0.6666666666666666,9
+Bulgaria,Finland,0,Central and Eastern Europe,Northern Europe,0,1.0,8
+Bulgaria,France,0,Central and Eastern Europe,Western Europe,0,0.7083333333333334,12
+Bulgaria,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.5,7
+Bulgaria,Germany,0,Central and Eastern Europe,Western Europe,0,1.5,12
+Bulgaria,Greece,1,Central and Eastern Europe,Southern Europe,0,8.909090909090908,11
+Bulgaria,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,2.2222222222222223,9
+Bulgaria,Iceland,0,Central and Eastern Europe,Northern Europe,0,0.55,10
+Bulgaria,Ireland,0,Central and Eastern Europe,Western Europe,0,0.675,10
+Bulgaria,Israel,0,Central and Eastern Europe,Non-European,0,2.477272727272727,11
+Bulgaria,Italy,0,Central and Eastern Europe,Southern Europe,0,0.5,6
+Bulgaria,Latvia,0,Central and Eastern Europe,Northern Europe,0,0.07142857142857142,7
+Bulgaria,Lithuania,0,Central and Eastern Europe,Northern Europe,0,1.3125,12
+Bulgaria,Malta,0,Central and Eastern Europe,Southern Europe,0,1.6111111111111112,9
+Bulgaria,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,2.15,10
+Bulgaria,Netherlands,0,Central and Eastern Europe,Western Europe,0,1.075,10
+Bulgaria,North Macedonia,1,Central and Eastern Europe,Central and Eastern Europe,1,6.636363636363637,11
+Bulgaria,Norway,0,Central and Eastern Europe,Northern Europe,0,1.0909090909090908,11
+Bulgaria,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0833333333333333,6
+Bulgaria,Portugal,0,Central and Eastern Europe,Southern Europe,0,0.7777777777777778,9
+Bulgaria,Romania,1,Central and Eastern Europe,Central and Eastern Europe,1,2.4,10
+Bulgaria,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,4.7,10
+Bulgaria,Serbia,1,Central and Eastern Europe,Central and Eastern Europe,1,4.0,9
+Bulgaria,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.875,8
+Bulgaria,Spain,0,Central and Eastern Europe,Southern Europe,0,0.5833333333333334,12
+Bulgaria,Sweden,0,Central and Eastern Europe,Northern Europe,0,1.625,12
+Bulgaria,Switzerland,0,Central and Eastern Europe,Western Europe,0,0.5454545454545454,11
+Bulgaria,Türkiye,1,Central and Eastern Europe,Southern Europe,0,7.5,7
+Bulgaria,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,4.125,12
+Bulgaria,United Kingdom,0,Central and Eastern Europe,Western Europe,0,1.5833333333333333,12
+Croatia,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,5.4772727272727275,11
+Croatia,Andorra,0,Central and Eastern Europe,Western Europe,0,0.5,4
+Croatia,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.3181818181818182,11
+Croatia,Australia,0,Central and Eastern Europe,Non-European,0,2.875,4
+Croatia,Austria,0,Central and Eastern Europe,Western Europe,0,1.625,12
+Croatia,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,4.025,10
+Croatia,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5227272727272727,11
+Croatia,Belgium,0,Central and Eastern Europe,Western Europe,0,0.375,12
+Croatia,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,2.111111111111111,9
+Croatia,Cyprus,0,Central and Eastern Europe,Southern Europe,0,2.171875,16
+Croatia,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,4.05,5
+Croatia,Denmark,0,Central and Eastern Europe,Northern Europe,0,2.28125,16
+Croatia,Estonia,0,Central and Eastern Europe,Northern Europe,0,1.25,16
+Croatia,Finland,0,Central and Eastern Europe,Northern Europe,0,1.125,12
+Croatia,France,0,Central and Eastern Europe,Western Europe,0,1.4444444444444444,18
+Croatia,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.1428571428571428,7
+Croatia,Germany,0,Central and Eastern Europe,Western Europe,0,0.8611111111111112,18
+Croatia,Greece,0,Central and Eastern Europe,Southern Europe,0,2.323529411764706,17
+Croatia,Hungary,1,Central and Eastern Europe,Central and Eastern Europe,1,3.7,10
+Croatia,Iceland,0,Central and Eastern Europe,Northern Europe,0,0.6875,16
+Croatia,Ireland,0,Central and Eastern Europe,Western Europe,0,1.7666666666666666,15
+Croatia,Israel,0,Central and Eastern Europe,Non-European,0,0.9666666666666667,15
+Croatia,Italy,0,Central and Eastern Europe,Southern Europe,0,4.571428571428571,7
+Croatia,Latvia,0,Central and Eastern Europe,Northern Europe,0,1.375,12
+Croatia,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.90625,16
+Croatia,Malta,0,Central and Eastern Europe,Southern Europe,0,2.53125,16
+Croatia,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,1.25,12
+Croatia,Monaco,0,Central and Eastern Europe,Western Europe,0,0.0,3
+Croatia,Montenegro,1,Central and Eastern Europe,Central and Eastern Europe,1,4.666666666666667,3
+Croatia,Netherlands,0,Central and Eastern Europe,Western Europe,0,1.25,15
+Croatia,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,7.295454545454546,11
+Croatia,Norway,0,Central and Eastern Europe,Northern Europe,0,1.234375,16
+Croatia,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,0.36363636363636365,11
+Croatia,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.3076923076923077,13
+Croatia,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.1166666666666667,15
+Croatia,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.9375,16
+Croatia,San Marino,0,Central and Eastern Europe,Southern Europe,0,0.5,4
+Croatia,Serbia,1,Central and Eastern Europe,Central and Eastern Europe,1,9.76923076923077,13
+Croatia,Slovenia,1,Central and Eastern Europe,Central and Eastern Europe,1,6.785714285714286,14
+Croatia,Spain,0,Central and Eastern Europe,Southern Europe,0,0.7222222222222222,18
+Croatia,Sweden,0,Central and Eastern Europe,Northern Europe,0,1.8194444444444444,18
+Croatia,Switzerland,0,Central and Eastern Europe,Western Europe,0,1.8333333333333333,12
+Croatia,Türkiye,0,Central and Eastern Europe,Southern Europe,0,2.769230769230769,13
+Croatia,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,3.2857142857142856,14
+Croatia,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.7222222222222222,18
+Cyprus,Albania,0,Southern Europe,Central and Eastern Europe,0,1.0625,12
+Cyprus,Andorra,0,Southern Europe,Western Europe,0,0.0,4
+Cyprus,Armenia,0,Southern Europe,Central and Eastern Europe,0,5.675,10
+Cyprus,Australia,0,Southern Europe,Non-European,0,3.25,5
+Cyprus,Austria,0,Southern Europe,Western Europe,0,0.9038461538461539,13
+Cyprus,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,5.795454545454546,11
+Cyprus,Belarus,0,Southern Europe,Central and Eastern Europe,0,2.5454545454545454,11
+Cyprus,Belgium,0,Southern Europe,Western Europe,0,1.46875,16
+Cyprus,Bulgaria,0,Southern Europe,Central and Eastern Europe,0,8.722222222222221,9
+Cyprus,Croatia,0,Southern Europe,Central and Eastern Europe,0,1.0892857142857142,14
+Cyprus,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,1.1071428571428572,7
+Cyprus,Denmark,0,Southern Europe,Northern Europe,0,1.9666666666666666,15
+Cyprus,Estonia,0,Southern Europe,Northern Europe,0,1.1833333333333333,15
+Cyprus,Finland,0,Southern Europe,Northern Europe,0,1.1666666666666667,15
+Cyprus,France,0,Southern Europe,Western Europe,0,1.4166666666666667,18
+Cyprus,Georgia,0,Southern Europe,Central and Eastern Europe,0,3.1666666666666665,9
+Cyprus,Germany,0,Southern Europe,Western Europe,0,0.3055555555555556,18
+Cyprus,Greece,0,Southern Europe,Southern Europe,1,11.5,17
+Cyprus,Hungary,0,Southern Europe,Central and Eastern Europe,0,1.5,12
+Cyprus,Iceland,0,Southern Europe,Northern Europe,0,1.0441176470588236,17
+Cyprus,Ireland,0,Southern Europe,Western Europe,0,1.6153846153846154,13
+Cyprus,Israel,0,Southern Europe,Non-European,0,1.9411764705882353,17
+Cyprus,Italy,0,Southern Europe,Southern Europe,1,5.875,8
+Cyprus,Latvia,0,Southern Europe,Northern Europe,0,1.0357142857142858,14
+Cyprus,Lithuania,0,Southern Europe,Northern Europe,0,1.5892857142857142,14
+Cyprus,Malta,0,Southern Europe,Southern Europe,1,2.517857142857143,14
+Cyprus,Moldova,0,Southern Europe,Central and Eastern Europe,0,2.340909090909091,11
+Cyprus,Monaco,0,Southern Europe,Western Europe,0,1.3333333333333333,3
+Cyprus,Montenegro,0,Southern Europe,Central and Eastern Europe,0,0.42857142857142855,7
+Cyprus,Netherlands,0,Southern Europe,Western Europe,0,1.2142857142857142,14
+Cyprus,North Macedonia,0,Southern Europe,Central and Eastern Europe,0,0.45454545454545453,11
+Cyprus,Norway,0,Southern Europe,Northern Europe,0,1.5666666666666667,15
+Cyprus,Poland,0,Southern Europe,Central and Eastern Europe,0,0.8409090909090909,11
+Cyprus,Portugal,0,Southern Europe,Southern Europe,1,0.9791666666666666,12
+Cyprus,Romania,0,Southern Europe,Central and Eastern Europe,0,4.3,15
+Cyprus,Russia,0,Southern Europe,Central and Eastern Europe,0,6.59375,16
+Cyprus,San Marino,0,Southern Europe,Southern Europe,1,0.625,4
+Cyprus,Serbia,0,Southern Europe,Central and Eastern Europe,0,4.096153846153846,13
+Cyprus,Slovenia,0,Southern Europe,Central and Eastern Europe,0,0.6607142857142857,14
+Cyprus,Spain,0,Southern Europe,Southern Europe,1,2.638888888888889,18
+Cyprus,Sweden,0,Southern Europe,Northern Europe,0,3.4722222222222223,18
+Cyprus,Switzerland,0,Southern Europe,Western Europe,0,1.7307692307692308,13
+Cyprus,Türkiye,0,Southern Europe,Southern Europe,1,1.0909090909090908,11
+Cyprus,Ukraine,0,Southern Europe,Central and Eastern Europe,0,4.107142857142857,14
+Cyprus,United Kingdom,0,Southern Europe,Western Europe,0,1.25,18
+Czech Republic,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5714285714285714,7
+Czech Republic,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,7.107142857142857,7
+Czech Republic,Australia,0,Central and Eastern Europe,Non-European,0,2.1,5
+Czech Republic,Austria,1,Central and Eastern Europe,Western Europe,0,1.7,5
+Czech Republic,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,8.321428571428571,7
+Czech Republic,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,1.4583333333333333,6
+Czech Republic,Belgium,0,Central and Eastern Europe,Western Europe,0,2.392857142857143,7
+Czech Republic,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,4.083333333333333,6
+Czech Republic,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.9166666666666666,6
+Czech Republic,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.4285714285714286,7
+Czech Republic,Denmark,0,Central and Eastern Europe,Northern Europe,0,2.25,6
+Czech Republic,Estonia,0,Central and Eastern Europe,Northern Europe,0,0.8333333333333334,6
+Czech Republic,Finland,0,Central and Eastern Europe,Northern Europe,0,0.9285714285714286,7
+Czech Republic,France,0,Central and Eastern Europe,Western Europe,0,0.4375,8
+Czech Republic,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.8333333333333333,6
+Czech Republic,Germany,1,Central and Eastern Europe,Western Europe,0,0.1875,8
+Czech Republic,Greece,0,Central and Eastern Europe,Southern Europe,0,1.15625,8
+Czech Republic,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,2.392857142857143,7
+Czech Republic,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.875,8
+Czech Republic,Ireland,0,Central and Eastern Europe,Western Europe,0,3.8333333333333335,3
+Czech Republic,Israel,0,Central and Eastern Europe,Non-European,0,2.5,8
+Czech Republic,Italy,0,Central and Eastern Europe,Southern Europe,0,2.7,5
+Czech Republic,Latvia,0,Central and Eastern Europe,Northern Europe,0,2.5,5
+Czech Republic,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.5,6
+Czech Republic,Malta,0,Central and Eastern Europe,Southern Europe,0,3.125,6
+Czech Republic,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,1.8,5
+Czech Republic,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6666666666666666,6
+Czech Republic,Netherlands,0,Central and Eastern Europe,Western Europe,0,2.8,5
+Czech Republic,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.2,5
+Czech Republic,Norway,0,Central and Eastern Europe,Northern Europe,0,1.6428571428571428,7
+Czech Republic,Poland,1,Central and Eastern Europe,Central and Eastern Europe,1,2.4583333333333335,6
+Czech Republic,Portugal,0,Central and Eastern Europe,Southern Europe,0,2.642857142857143,7
+Czech Republic,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6,5
+Czech Republic,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,6.583333333333333,6
+Czech Republic,San Marino,0,Central and Eastern Europe,Southern Europe,0,1.0,3
+Czech Republic,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.5833333333333335,6
+Czech Republic,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.85,5
+Czech Republic,Spain,0,Central and Eastern Europe,Southern Europe,0,0.0,8
+Czech Republic,Sweden,0,Central and Eastern Europe,Northern Europe,0,4.59375,8
+Czech Republic,Switzerland,0,Central and Eastern Europe,Western Europe,0,0.9166666666666666,6
+Czech Republic,Türkiye,0,Central and Eastern Europe,Southern Europe,0,1.1666666666666667,3
+Czech Republic,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,7.083333333333333,6
+Czech Republic,United Kingdom,0,Central and Eastern Europe,Western Europe,0,1.3125,8
+Denmark,Albania,0,Northern Europe,Central and Eastern Europe,0,1.2692307692307692,13
+Denmark,Andorra,0,Northern Europe,Western Europe,0,0.0,4
+Denmark,Armenia,0,Northern Europe,Central and Eastern Europe,0,0.36363636363636365,11
+Denmark,Australia,0,Northern Europe,Non-European,0,7.0,5
+Denmark,Austria,0,Northern Europe,Western Europe,0,2.125,14
+Denmark,Azerbaijan,0,Northern Europe,Central and Eastern Europe,0,1.4318181818181819,11
+Denmark,Belarus,0,Northern Europe,Central and Eastern Europe,0,0.3076923076923077,13
+Denmark,Belgium,0,Northern Europe,Western Europe,0,3.4642857142857144,14
+Denmark,Bulgaria,0,Northern Europe,Central and Eastern Europe,0,1.8333333333333333,9
+Denmark,Croatia,0,Northern Europe,Central and Eastern Europe,0,0.42857142857142855,14
+Denmark,Cyprus,0,Northern Europe,Southern Europe,0,1.1470588235294117,17
+Denmark,Czech Republic,0,Northern Europe,Central and Eastern Europe,0,0.6,5
+Denmark,Estonia,0,Northern Europe,Northern Europe,1,3.09375,16
+Denmark,Finland,0,Northern Europe,Northern Europe,1,3.4285714285714284,14
+Denmark,France,0,Northern Europe,Western Europe,0,1.4210526315789473,19
+Denmark,Georgia,0,Northern Europe,Central and Eastern Europe,0,0.3125,8
+Denmark,Germany,1,Northern Europe,Western Europe,0,3.6315789473684212,19
+Denmark,Greece,0,Northern Europe,Southern Europe,0,1.4375,16
+Denmark,Hungary,0,Northern Europe,Central and Eastern Europe,0,1.9166666666666667,12
+Denmark,Iceland,0,Northern Europe,Northern Europe,1,7.035714285714286,14
+Denmark,Ireland,0,Northern Europe,Western Europe,0,3.4,15
+Denmark,Israel,0,Northern Europe,Non-European,0,0.9705882352941176,17
+Denmark,Italy,0,Northern Europe,Southern Europe,0,1.1111111111111112,9
+Denmark,Latvia,0,Northern Europe,Northern Europe,1,2.796875,16
+Denmark,Lithuania,0,Northern Europe,Northern Europe,1,1.2058823529411764,17
+Denmark,Malta,0,Northern Europe,Southern Europe,0,3.453125,16
+Denmark,Moldova,0,Northern Europe,Central and Eastern Europe,0,1.3846153846153846,13
+Denmark,Monaco,0,Northern Europe,Western Europe,0,0.0,3
+Denmark,Montenegro,0,Northern Europe,Central and Eastern Europe,0,0.8333333333333334,6
+Denmark,Netherlands,0,Northern Europe,Western Europe,0,4.640625,16
+Denmark,North Macedonia,0,Northern Europe,Central and Eastern Europe,0,0.5961538461538461,13
+Denmark,Norway,1,Northern Europe,Northern Europe,1,6.5,17
+Denmark,Poland,0,Northern Europe,Central and Eastern Europe,0,0.8958333333333334,12
+Denmark,Portugal,0,Northern Europe,Southern Europe,0,1.3181818181818181,11
+Denmark,Romania,0,Northern Europe,Central and Eastern Europe,0,1.8823529411764706,17
+Denmark,Russia,0,Northern Europe,Central and Eastern Europe,0,2.625,18
+Denmark,San Marino,0,Northern Europe,Southern Europe,0,0.0,5
+Denmark,Serbia,0,Northern Europe,Central and Eastern Europe,0,1.4464285714285714,14
+Denmark,Slovenia,0,Northern Europe,Central and Eastern Europe,0,0.6166666666666667,15
+Denmark,Spain,0,Northern Europe,Southern Europe,0,0.2631578947368421,19
+Denmark,Sweden,1,Northern Europe,Northern Europe,1,10.56578947368421,19
+Denmark,Switzerland,0,Northern Europe,Western Europe,0,1.3214285714285714,14
+Denmark,Türkiye,0,Northern Europe,Southern Europe,0,5.454545454545454,11
+Denmark,Ukraine,0,Northern Europe,Central and Eastern Europe,0,2.4464285714285716,14
+Denmark,United Kingdom,0,Northern Europe,Western Europe,0,1.368421052631579,19
+Estonia,Albania,0,Northern Europe,Central and Eastern Europe,0,0.10416666666666667,12
+Estonia,Andorra,0,Northern Europe,Western Europe,0,1.6,5
+Estonia,Armenia,0,Northern Europe,Central and Eastern Europe,0,0.6136363636363636,11
+Estonia,Australia,0,Northern Europe,Non-European,0,3.5,5
+Estonia,Austria,0,Northern Europe,Western Europe,0,2.1346153846153846,13
+Estonia,Azerbaijan,0,Northern Europe,Central and Eastern Europe,0,2.3125,12
+Estonia,Belarus,0,Northern Europe,Central and Eastern Europe,0,1.7692307692307692,13
+Estonia,Belgium,0,Northern Europe,Western Europe,0,2.9705882352941178,17
+Estonia,Bulgaria,0,Northern Europe,Central and Eastern Europe,0,1.78125,8
+Estonia,Croatia,0,Northern Europe,Central and Eastern Europe,0,0.36666666666666664,15
+Estonia,Cyprus,0,Northern Europe,Southern Europe,0,1.8970588235294117,17
+Estonia,Czech Republic,0,Northern Europe,Central and Eastern Europe,0,3.375,4
+Estonia,Denmark,0,Northern Europe,Northern Europe,1,4.680555555555555,18
+Estonia,Finland,0,Northern Europe,Northern Europe,1,6.671875,16
+Estonia,France,0,Northern Europe,Western Europe,0,1.375,20
+Estonia,Georgia,0,Northern Europe,Central and Eastern Europe,0,3.5555555555555554,9
+Estonia,Germany,0,Northern Europe,Western Europe,0,1.8,20
+Estonia,Greece,0,Northern Europe,Southern Europe,0,0.9736842105263158,19
+Estonia,Hungary,0,Northern Europe,Central and Eastern Europe,0,3.6458333333333335,12
+Estonia,Iceland,0,Northern Europe,Northern Europe,1,3.014705882352941,17
+Estonia,Ireland,0,Northern Europe,Western Europe,0,2.5833333333333335,15
+Estonia,Israel,0,Northern Europe,Non-European,0,0.5735294117647058,17
+Estonia,Italy,0,Northern Europe,Southern Europe,0,2.4444444444444446,9
+Estonia,Latvia,1,Northern Europe,Northern Europe,1,7.366666666666666,15
+Estonia,Lithuania,0,Northern Europe,Northern Europe,1,3.0714285714285716,14
+Estonia,Malta,0,Northern Europe,Southern Europe,0,2.34375,16
+Estonia,Moldova,0,Northern Europe,Central and Eastern Europe,0,0.75,14
+Estonia,Monaco,0,Northern Europe,Western Europe,0,0.6666666666666666,3
+Estonia,Montenegro,0,Northern Europe,Central and Eastern Europe,0,0.0,7
+Estonia,Netherlands,0,Northern Europe,Western Europe,0,3.0555555555555554,18
+Estonia,North Macedonia,0,Northern Europe,Central and Eastern Europe,0,0.15384615384615385,13
+Estonia,Norway,0,Northern Europe,Northern Europe,1,4.75,17
+Estonia,Poland,0,Northern Europe,Central and Eastern Europe,0,0.6428571428571429,14
+Estonia,Portugal,0,Northern Europe,Southern Europe,0,1.1428571428571428,14
+Estonia,Romania,0,Northern Europe,Central and Eastern Europe,0,0.875,16
+Estonia,Russia,1,Northern Europe,Central and Eastern Europe,0,9.23611111111111,18
+Estonia,San Marino,0,Northern Europe,Southern Europe,0,1.35,5
+Estonia,Serbia,0,Northern Europe,Central and Eastern Europe,0,0.32142857142857145,14
+Estonia,Slovakia,0,Northern Europe,Central and Eastern Europe,0,1.5,4
+Estonia,Slovenia,0,Northern Europe,Central and Eastern Europe,0,0.75,16
+Estonia,Spain,0,Northern Europe,Southern Europe,0,0.65,20
+Estonia,Sweden,0,Northern Europe,Northern Europe,1,6.552631578947368,19
+Estonia,Switzerland,0,Northern Europe,Western Europe,0,2.1363636363636362,11
+Estonia,Türkiye,0,Northern Europe,Southern Europe,0,0.5833333333333334,12
+Estonia,Ukraine,0,Northern Europe,Central and Eastern Europe,0,4.4,15
+Estonia,United Kingdom,0,Northern Europe,Western Europe,0,1.175,20
+Finland,Albania,0,Northern Europe,Central and Eastern Europe,0,0.9821428571428571,14
+Finland,Andorra,0,Northern Europe,Western Europe,0,0.8333333333333334,6
+Finland,Armenia,0,Northern Europe,Central and Eastern Europe,0,1.0416666666666667,12
+Finland,Australia,0,Northern Europe,Non-European,0,5.4,5
+Finland,Austria,0,Northern Europe,Western Europe,0,2.3541666666666665,12
+Finland,Azerbaijan,0,Northern Europe,Central and Eastern Europe,0,1.0416666666666667,12
+Finland,Belarus,0,Northern Europe,Central and Eastern Europe,0,0.75,12
+Finland,Belgium,0,Northern Europe,Western Europe,0,2.1875,16
+Finland,Bulgaria,0,Northern Europe,Central and Eastern Europe,0,2.125,8
+Finland,Croatia,0,Northern Europe,Central and Eastern Europe,0,0.8541666666666666,12
+Finland,Cyprus,0,Northern Europe,Southern Europe,0,1.75,13
+Finland,Czech Republic,0,Northern Europe,Central and Eastern Europe,0,1.75,6
+Finland,Denmark,0,Northern Europe,Northern Europe,1,3.235294117647059,17
+Finland,Estonia,0,Northern Europe,Northern Europe,1,8.34375,16
+Finland,France,0,Northern Europe,Western Europe,0,2.111111111111111,18
+Finland,Georgia,0,Northern Europe,Central and Eastern Europe,0,1.0,10
+Finland,Germany,0,Northern Europe,Western Europe,0,0.9166666666666666,18
+Finland,Greece,0,Northern Europe,Southern Europe,0,1.7205882352941178,17
+Finland,Hungary,0,Northern Europe,Central and Eastern Europe,0,5.045454545454546,11
+Finland,Iceland,0,Northern Europe,Northern Europe,1,5.65625,16
+Finland,Ireland,0,Northern Europe,Western Europe,0,2.375,12
+Finland,Israel,0,Northern Europe,Non-European,0,3.514705882352941,17
+Finland,Italy,0,Northern Europe,Southern Europe,0,2.5,9
+Finland,Latvia,0,Northern Europe,Northern Europe,1,2.6153846153846154,13
+Finland,Lithuania,0,Northern Europe,Northern Europe,1,1.0,13
+Finland,Malta,0,Northern Europe,Southern Europe,0,1.7321428571428572,14
+Finland,Moldova,0,Northern Europe,Central and Eastern Europe,0,0.8461538461538461,13
+Finland,Monaco,0,Northern Europe,Western Europe,0,0.0,3
+Finland,Montenegro,0,Northern Europe,Central and Eastern Europe,0,0.16666666666666666,9
+Finland,Netherlands,0,Northern Europe,Western Europe,0,2.6923076923076925,13
+Finland,North Macedonia,0,Northern Europe,Central and Eastern Europe,0,0.39285714285714285,14
+Finland,Norway,1,Northern Europe,Northern Europe,1,4.875,16
+Finland,Poland,0,Northern Europe,Central and Eastern Europe,0,0.9166666666666666,12
+Finland,Portugal,0,Northern Europe,Southern Europe,0,1.5454545454545454,11
+Finland,Romania,0,Northern Europe,Central and Eastern Europe,0,1.2,15
+Finland,Russia,1,Northern Europe,Central and Eastern Europe,0,4.53125,16
+Finland,San Marino,0,Northern Europe,Southern Europe,0,0.5,7
+Finland,Serbia,0,Northern Europe,Central and Eastern Europe,0,2.8636363636363638,11
+Finland,Slovenia,0,Northern Europe,Central and Eastern Europe,0,1.3541666666666667,12
+Finland,Spain,0,Northern Europe,Southern Europe,0,0.4444444444444444,18
+Finland,Sweden,1,Northern Europe,Northern Europe,1,8.455882352941176,17
+Finland,Switzerland,0,Northern Europe,Western Europe,0,2.6923076923076925,13
+Finland,Türkiye,0,Northern Europe,Southern Europe,0,2.5,11
+Finland,Ukraine,0,Northern Europe,Central and Eastern Europe,0,1.9285714285714286,14
+Finland,United Kingdom,0,Northern Europe,Western Europe,0,0.5,18
+France,Albania,0,Western Europe,Central and Eastern Europe,0,0.8846153846153846,13
+France,Andorra,1,Western Europe,Western Europe,1,0.0,3
+France,Armenia,0,Western Europe,Central and Eastern Europe,0,8.375,10
+France,Australia,0,Western Europe,Non-European,0,3.8,5
+France,Austria,0,Western Europe,Western Europe,1,2.5625,12
+France,Azerbaijan,0,Western Europe,Central and Eastern Europe,0,2.3863636363636362,11
+France,Belarus,0,Western Europe,Central and Eastern Europe,0,0.3958333333333333,12
+France,Belgium,1,Western Europe,Western Europe,1,4.4,15
+France,Bulgaria,0,Western Europe,Central and Eastern Europe,0,3.7,10
+France,Croatia,0,Western Europe,Central and Eastern Europe,0,0.8653846153846154,13
+France,Cyprus,0,Western Europe,Southern Europe,0,0.8970588235294118,17
+France,Czech Republic,0,Western Europe,Central and Eastern Europe,0,1.15,5
+France,Denmark,0,Western Europe,Northern Europe,0,2.3676470588235294,17
+France,Estonia,0,Western Europe,Northern Europe,0,2.1666666666666665,18
+France,Finland,0,Western Europe,Northern Europe,0,0.7666666666666667,15
+France,Georgia,0,Western Europe,Central and Eastern Europe,0,0.5,10
+France,Germany,1,Western Europe,Western Europe,1,2.25,20
+France,Greece,0,Western Europe,Southern Europe,0,2.138888888888889,18
+France,Hungary,0,Western Europe,Central and Eastern Europe,0,1.7884615384615385,13
+France,Iceland,0,Western Europe,Northern Europe,0,1.5625,16
+France,Ireland,0,Western Europe,Western Europe,1,0.4642857142857143,14
+France,Israel,0,Western Europe,Non-European,0,6.779411764705882,17
+France,Italy,1,Western Europe,Southern Europe,0,6.166666666666667,9
+France,Latvia,0,Western Europe,Northern Europe,0,1.4375,16
+France,Lithuania,0,Western Europe,Northern Europe,0,0.35714285714285715,14
+France,Malta,0,Western Europe,Southern Europe,0,1.3611111111111112,18
+France,Moldova,0,Western Europe,Central and Eastern Europe,0,1.8076923076923077,13
+France,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.5833333333333334,6
+France,Netherlands,0,Western Europe,Western Europe,1,1.9411764705882353,17
+France,North Macedonia,0,Western Europe,Central and Eastern Europe,0,0.5357142857142857,14
+France,Norway,0,Western Europe,Northern Europe,0,1.088235294117647,17
+France,Poland,0,Western Europe,Central and Eastern Europe,0,3.1,15
+France,Portugal,0,Western Europe,Southern Europe,0,8.384615384615385,13
+France,Romania,0,Western Europe,Central and Eastern Europe,0,3.235294117647059,17
+France,Russia,0,Western Europe,Central and Eastern Europe,0,2.3815789473684212,19
+France,San Marino,0,Western Europe,Southern Europe,0,0.8333333333333334,6
+France,Serbia,0,Western Europe,Central and Eastern Europe,0,5.769230769230769,13
+France,Slovakia,0,Western Europe,Central and Eastern Europe,0,0.25,4
+France,Slovenia,0,Western Europe,Central and Eastern Europe,0,0.9038461538461539,13
+France,Spain,1,Western Europe,Southern Europe,0,3.85,20
+France,Sweden,0,Western Europe,Northern Europe,0,3.25,19
+France,Switzerland,1,Western Europe,Western Europe,1,2.3636363636363638,11
+France,Türkiye,0,Western Europe,Southern Europe,0,10.666666666666666,12
+France,Ukraine,0,Western Europe,Central and Eastern Europe,0,1.15,15
+France,United Kingdom,0,Western Europe,Western Europe,1,0.45,20
+Georgia,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.7272727272727273,11
+Georgia,Armenia,1,Central and Eastern Europe,Central and Eastern Europe,1,10.166666666666666,9
+Georgia,Australia,0,Central and Eastern Europe,Non-European,0,1.55,5
+Georgia,Austria,0,Central and Eastern Europe,Western Europe,0,3.142857142857143,7
+Georgia,Azerbaijan,1,Central and Eastern Europe,Central and Eastern Europe,1,9.3,10
+Georgia,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,6.15,10
+Georgia,Belgium,0,Central and Eastern Europe,Western Europe,0,3.642857142857143,7
+Georgia,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,2.125,8
+Georgia,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.7857142857142857,7
+Georgia,Cyprus,0,Central and Eastern Europe,Southern Europe,0,2.1944444444444446,9
+Georgia,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,1.125,6
+Georgia,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.4166666666666667,12
+Georgia,Estonia,0,Central and Eastern Europe,Northern Europe,0,2.857142857142857,7
+Georgia,Finland,0,Central and Eastern Europe,Northern Europe,0,0.05555555555555555,9
+Georgia,France,0,Central and Eastern Europe,Western Europe,0,0.8333333333333334,12
+Georgia,Germany,0,Central and Eastern Europe,Western Europe,0,0.9166666666666666,12
+Georgia,Greece,0,Central and Eastern Europe,Southern Europe,0,2.6,10
+Georgia,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,1.2727272727272727,11
+Georgia,Iceland,0,Central and Eastern Europe,Northern Europe,0,0.5277777777777778,9
+Georgia,Ireland,0,Central and Eastern Europe,Western Europe,0,0.0,8
+Georgia,Israel,0,Central and Eastern Europe,Non-European,0,2.55,10
+Georgia,Italy,0,Central and Eastern Europe,Southern Europe,0,3.0555555555555554,9
+Georgia,Latvia,0,Central and Eastern Europe,Northern Europe,0,4.5,7
+Georgia,Lithuania,0,Central and Eastern Europe,Northern Europe,0,6.15,10
+Georgia,Malta,0,Central and Eastern Europe,Southern Europe,0,2.0555555555555554,9
+Georgia,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,3.71875,8
+Georgia,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,0.0,6
+Georgia,Netherlands,0,Central and Eastern Europe,Western Europe,0,1.4,10
+Georgia,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5,8
+Georgia,Norway,0,Central and Eastern Europe,Northern Europe,0,2.1666666666666665,12
+Georgia,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,1.5833333333333333,9
+Georgia,Portugal,0,Central and Eastern Europe,Southern Europe,0,2.3125,8
+Georgia,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.25,10
+Georgia,Russia,1,Central and Eastern Europe,Central and Eastern Europe,1,5.045454545454546,11
+Georgia,San Marino,0,Central and Eastern Europe,Southern Europe,0,1.5,5
+Georgia,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.75,9
+Georgia,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.825,10
+Georgia,Spain,0,Central and Eastern Europe,Southern Europe,0,0.16666666666666666,12
+Georgia,Sweden,0,Central and Eastern Europe,Northern Europe,0,3.2291666666666665,12
+Georgia,Switzerland,0,Central and Eastern Europe,Western Europe,0,0.9375,8
+Georgia,Türkiye,1,Central and Eastern Europe,Southern Europe,0,4.0,5
+Georgia,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,8.275,10
+Georgia,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.5416666666666666,12
+Germany,Albania,0,Western Europe,Central and Eastern Europe,0,1.5384615384615385,13
+Germany,Andorra,0,Western Europe,Western Europe,1,0.0,6
+Germany,Armenia,0,Western Europe,Central and Eastern Europe,0,3.5454545454545454,11
+Germany,Australia,0,Western Europe,Non-European,0,5.9,5
+Germany,Austria,1,Western Europe,Western Europe,1,2.8461538461538463,13
+Germany,Azerbaijan,0,Western Europe,Central and Eastern Europe,0,0.75,11
+Germany,Belarus,0,Western Europe,Central and Eastern Europe,0,0.07692307692307693,13
+Germany,Belgium,1,Western Europe,Western Europe,1,2.3833333333333333,15
+Germany,Bulgaria,0,Western Europe,Central and Eastern Europe,0,2.25,10
+Germany,Croatia,0,Western Europe,Central and Eastern Europe,0,2.5714285714285716,14
+Germany,Cyprus,0,Western Europe,Southern Europe,0,1.3333333333333333,15
+Germany,Czech Republic,1,Western Europe,Central and Eastern Europe,0,1.3333333333333333,6
+Germany,Denmark,1,Western Europe,Northern Europe,0,3.861111111111111,18
+Germany,Estonia,0,Western Europe,Northern Europe,0,1.7777777777777777,18
+Germany,Finland,0,Western Europe,Northern Europe,0,2.269230769230769,13
+Germany,France,1,Western Europe,Western Europe,1,1.0,20
+Germany,Georgia,0,Western Europe,Central and Eastern Europe,0,0.675,10
+Germany,Greece,0,Western Europe,Southern Europe,0,6.088235294117647,17
+Germany,Hungary,0,Western Europe,Central and Eastern Europe,0,2.55,10
+Germany,Iceland,0,Western Europe,Northern Europe,0,1.78125,16
+Germany,Ireland,0,Western Europe,Western Europe,1,1.3055555555555556,18
+Germany,Israel,0,Western Europe,Non-European,0,2.236842105263158,19
+Germany,Italy,0,Western Europe,Southern Europe,0,3.0,9
+Germany,Latvia,0,Western Europe,Northern Europe,0,2.4375,16
+Germany,Lithuania,0,Western Europe,Northern Europe,0,0.46875,16
+Germany,Malta,0,Western Europe,Southern Europe,0,2.375,18
+Germany,Moldova,0,Western Europe,Central and Eastern Europe,0,0.8958333333333334,12
+Germany,Monaco,0,Western Europe,Western Europe,1,0.0,3
+Germany,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.3333333333333333,6
+Germany,Netherlands,1,Western Europe,Western Europe,1,2.671875,16
+Germany,North Macedonia,0,Western Europe,Central and Eastern Europe,0,0.5833333333333334,15
+Germany,Norway,0,Western Europe,Northern Europe,0,2.861111111111111,18
+Germany,Poland,1,Western Europe,Central and Eastern Europe,0,5.884615384615385,13
+Germany,Portugal,0,Western Europe,Southern Europe,0,3.8846153846153846,13
+Germany,Romania,0,Western Europe,Central and Eastern Europe,0,1.7361111111111112,18
+Germany,Russia,0,Western Europe,Central and Eastern Europe,0,3.75,19
+Germany,San Marino,0,Western Europe,Southern Europe,0,0.07142857142857142,7
+Germany,Serbia,0,Western Europe,Central and Eastern Europe,0,4.583333333333333,12
+Germany,Slovakia,0,Western Europe,Central and Eastern Europe,0,0.0,3
+Germany,Slovenia,0,Western Europe,Central and Eastern Europe,0,1.05,15
+Germany,Spain,0,Western Europe,Southern Europe,0,0.65,20
+Germany,Sweden,0,Western Europe,Northern Europe,0,3.486842105263158,19
+Germany,Switzerland,1,Western Europe,Western Europe,1,2.5,14
+Germany,Türkiye,0,Western Europe,Southern Europe,0,10.0,12
+Germany,Ukraine,0,Western Europe,Central and Eastern Europe,0,1.2,15
+Germany,United Kingdom,0,Western Europe,Western Europe,1,1.075,20
+Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,9.410714285714286,14
+Greece,Andorra,0,Southern Europe,Western Europe,0,0.8,5
+Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,6.625,12
+Greece,Australia,0,Southern Europe,Non-European,0,3.35,5
+Greece,Austria,0,Southern Europe,Western Europe,0,1.8333333333333333,12
+Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,4.5,12
+Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,2.659090909090909,11
+Greece,Belgium,0,Southern Europe,Western Europe,0,2.0,15
+Greece,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,5.428571428571429,7
+Greece,Croatia,0,Southern Europe,Central and Eastern Europe,0,1.3461538461538463,13
+Greece,Cyprus,0,Southern Europe,Southern Europe,1,11.803571428571429,14
+Greece,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,1.35,5
+Greece,Denmark,0,Southern Europe,Northern Europe,0,0.9705882352941176,17
+Greece,Estonia,0,Southern Europe,Northern Europe,0,1.5588235294117647,17
+Greece,Finland,0,Southern Europe,Northern Europe,0,1.3235294117647058,17
+Greece,France,0,Southern Europe,Western Europe,0,2.263157894736842,19
+Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,4.75,10
+Greece,Germany,0,Southern Europe,Western Europe,0,0.42105263157894735,19
+Greece,Hungary,0,Southern Europe,Central and Eastern Europe,0,1.7291666666666667,12
+Greece,Iceland,0,Southern Europe,Northern Europe,0,1.0441176470588236,17
+Greece,Ireland,0,Southern Europe,Western Europe,0,0.32142857142857145,14
+Greece,Israel,0,Southern Europe,Non-European,0,1.1666666666666667,18
+Greece,Italy,0,Southern Europe,Southern Europe,1,5.722222222222222,9
+Greece,Latvia,0,Southern Europe,Northern Europe,0,1.0666666666666667,15
+Greece,Lithuania,0,Southern Europe,Northern Europe,0,0.4642857142857143,14
+Greece,Malta,0,Southern Europe,Southern Europe,1,1.9166666666666667,15
+Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,3.1346153846153846,13
+Greece,Monaco,0,Southern Europe,Western Europe,0,0.0,3
+Greece,Montenegro,0,Southern Europe,Central and Eastern Europe,0,1.125,8
+Greece,Netherlands,0,Southern Europe,Western Europe,0,0.9833333333333333,15
+Greece,North Macedonia,1,Southern Europe,Central and Eastern Europe,0,0.3333333333333333,12
+Greece,Norway,0,Southern Europe,Northern Europe,0,1.6176470588235294,17
+Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,1.9666666666666666,15
+Greece,Portugal,0,Southern Europe,Southern Europe,1,0.6153846153846154,13
+Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,4.6,15
+Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,5.647058823529412,17
+Greece,San Marino,0,Southern Europe,Southern Europe,1,2.0357142857142856,7
+Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,3.9166666666666665,12
+Greece,Slovenia,0,Southern Europe,Central and Eastern Europe,0,0.3,15
+Greece,Spain,0,Southern Europe,Southern Europe,1,1.6842105263157894,19
+Greece,Sweden,0,Southern Europe,Northern Europe,0,1.3888888888888888,18
+Greece,Switzerland,0,Southern Europe,Western Europe,0,1.5,11
+Greece,Türkiye,1,Southern Europe,Southern Europe,1,2.4583333333333335,12
+Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,3.4,15
+Greece,United Kingdom,0,Southern Europe,Western Europe,0,1.131578947368421,19
+Hungary,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.6818181818181819,11
+Hungary,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.3333333333333333,9
+Hungary,Australia,0,Central and Eastern Europe,Non-European,0,5.3,5
+Hungary,Austria,1,Central and Eastern Europe,Western Europe,0,2.861111111111111,9
+Hungary,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,5.55,10
+Hungary,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,1.15625,8
+Hungary,Belgium,0,Central and Eastern Europe,Western Europe,0,2.2222222222222223,9
+Hungary,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,3.9285714285714284,7
+Hungary,Croatia,1,Central and Eastern Europe,Central and Eastern Europe,1,2.642857142857143,7
+Hungary,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.375,10
+Hungary,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,2.75,5
+Hungary,Denmark,0,Central and Eastern Europe,Northern Europe,0,4.333333333333333,12
+Hungary,Estonia,0,Central and Eastern Europe,Northern Europe,0,1.7083333333333333,12
+Hungary,Finland,0,Central and Eastern Europe,Northern Europe,0,2.3333333333333335,12
+Hungary,France,0,Central and Eastern Europe,Western Europe,0,0.11538461538461539,13
+Hungary,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.625,8
+Hungary,Germany,0,Central and Eastern Europe,Western Europe,0,0.9615384615384616,13
+Hungary,Greece,0,Central and Eastern Europe,Southern Europe,0,3.8958333333333335,12
+Hungary,Iceland,0,Central and Eastern Europe,Northern Europe,0,6.025,10
+Hungary,Ireland,0,Central and Eastern Europe,Western Europe,0,2.375,8
+Hungary,Israel,0,Central and Eastern Europe,Non-European,0,2.25,11
+Hungary,Italy,0,Central and Eastern Europe,Southern Europe,0,2.388888888888889,9
+Hungary,Latvia,0,Central and Eastern Europe,Northern Europe,0,1.45,10
+Hungary,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.5909090909090909,11
+Hungary,Malta,0,Central and Eastern Europe,Southern Europe,0,1.7916666666666667,12
+Hungary,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,1.8181818181818181,11
+Hungary,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,0.2857142857142857,7
+Hungary,Netherlands,0,Central and Eastern Europe,Western Europe,0,4.25,10
+Hungary,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.75,8
+Hungary,Norway,0,Central and Eastern Europe,Northern Europe,0,3.375,12
+Hungary,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,2.772727272727273,11
+Hungary,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.3888888888888888,9
+Hungary,Romania,1,Central and Eastern Europe,Central and Eastern Europe,1,3.159090909090909,11
+Hungary,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,4.291666666666667,12
+Hungary,San Marino,0,Central and Eastern Europe,Southern Europe,0,1.8125,8
+Hungary,Serbia,1,Central and Eastern Europe,Central and Eastern Europe,1,3.2045454545454546,11
+Hungary,Slovenia,1,Central and Eastern Europe,Central and Eastern Europe,1,2.0,8
+Hungary,Spain,0,Central and Eastern Europe,Southern Europe,0,0.2692307692307692,13
+Hungary,Sweden,0,Central and Eastern Europe,Northern Europe,0,4.4423076923076925,13
+Hungary,Switzerland,0,Central and Eastern Europe,Western Europe,0,2.9444444444444446,9
+Hungary,Türkiye,0,Central and Eastern Europe,Southern Europe,0,2.6666666666666665,6
+Hungary,Ukraine,1,Central and Eastern Europe,Central and Eastern Europe,1,3.1818181818181817,11
+Hungary,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.2692307692307692,13
+Iceland,Albania,0,Northern Europe,Central and Eastern Europe,0,1.4,15
+Iceland,Andorra,0,Northern Europe,Western Europe,0,1.2,5
+Iceland,Armenia,0,Northern Europe,Central and Eastern Europe,0,1.0833333333333333,12
+Iceland,Australia,0,Northern Europe,Non-European,0,7.0,5
+Iceland,Austria,0,Northern Europe,Western Europe,0,3.2916666666666665,12
+Iceland,Azerbaijan,0,Northern Europe,Central and Eastern Europe,0,2.3125,12
+Iceland,Belarus,0,Northern Europe,Central and Eastern Europe,0,0.6875,12
+Iceland,Belgium,0,Northern Europe,Western Europe,0,2.421875,16
+Iceland,Bulgaria,0,Northern Europe,Central and Eastern Europe,0,1.1111111111111112,9
+Iceland,Croatia,0,Northern Europe,Central and Eastern Europe,0,0.7692307692307693,13
+Iceland,Cyprus,0,Northern Europe,Southern Europe,0,2.017857142857143,14
+Iceland,Czech Republic,0,Northern Europe,Central and Eastern Europe,0,2.53125,8
+Iceland,Denmark,0,Northern Europe,Northern Europe,1,8.75,16
+Iceland,Estonia,0,Northern Europe,Northern Europe,1,3.8823529411764706,17
+Iceland,Finland,0,Northern Europe,Northern Europe,1,5.421875,16
+Iceland,France,0,Northern Europe,Western Europe,0,2.1315789473684212,19
+Iceland,Georgia,0,Northern Europe,Central and Eastern Europe,0,0.9444444444444444,9
+Iceland,Germany,0,Northern Europe,Western Europe,0,1.6842105263157894,19
+Iceland,Greece,0,Northern Europe,Southern Europe,0,1.9583333333333333,18
+Iceland,Hungary,0,Northern Europe,Central and Eastern Europe,0,3.0,12
+Iceland,Ireland,0,Northern Europe,Western Europe,0,1.6538461538461537,13
+Iceland,Israel,0,Northern Europe,Non-European,0,1.161764705882353,17
+Iceland,Italy,0,Northern Europe,Southern Europe,0,2.1666666666666665,9
+Iceland,Latvia,0,Northern Europe,Northern Europe,1,2.6,15
+Iceland,Lithuania,0,Northern Europe,Northern Europe,1,1.2884615384615385,13
+Iceland,Malta,0,Northern Europe,Southern Europe,0,1.5588235294117647,17
+Iceland,Moldova,0,Northern Europe,Central and Eastern Europe,0,0.9583333333333334,12
+Iceland,Monaco,0,Northern Europe,Western Europe,0,0.0,3
+Iceland,Montenegro,0,Northern Europe,Central and Eastern Europe,0,0.125,8
+Iceland,Netherlands,0,Northern Europe,Western Europe,0,3.1153846153846154,13
+Iceland,North Macedonia,0,Northern Europe,Central and Eastern Europe,0,0.4166666666666667,12
+Iceland,Norway,0,Northern Europe,Northern Europe,1,6.277777777777778,18
+Iceland,Poland,0,Northern Europe,Central and Eastern Europe,0,1.8928571428571428,14
+Iceland,Portugal,0,Northern Europe,Southern Europe,0,2.1666666666666665,15
+Iceland,Romania,0,Northern Europe,Central and Eastern Europe,0,1.8333333333333333,15
+Iceland,Russia,0,Northern Europe,Central and Eastern Europe,0,2.7205882352941178,17
+Iceland,San Marino,0,Northern Europe,Southern Europe,0,0.6071428571428571,7
+Iceland,Serbia,0,Northern Europe,Central and Eastern Europe,0,2.1818181818181817,11
+Iceland,Slovenia,0,Northern Europe,Central and Eastern Europe,0,1.125,12
+Iceland,Spain,0,Northern Europe,Southern Europe,0,0.5789473684210527,19
+Iceland,Sweden,0,Northern Europe,Northern Europe,1,7.555555555555555,18
+Iceland,Switzerland,0,Northern Europe,Western Europe,0,1.8571428571428572,14
+Iceland,Türkiye,0,Northern Europe,Southern Europe,0,1.2083333333333333,12
+Iceland,Ukraine,0,Northern Europe,Central and Eastern Europe,0,2.3666666666666667,15
+Iceland,United Kingdom,0,Northern Europe,Western Europe,0,0.6052631578947368,19
+Ireland,Albania,0,Western Europe,Central and Eastern Europe,0,0.3958333333333333,12
+Ireland,Andorra,0,Western Europe,Western Europe,1,1.0,5
+Ireland,Armenia,0,Western Europe,Central and Eastern Europe,0,0.16666666666666666,12
+Ireland,Australia,0,Western Europe,Non-European,0,3.4,5
+Ireland,Austria,0,Western Europe,Western Europe,1,2.0535714285714284,14
+Ireland,Azerbaijan,0,Western Europe,Central and Eastern Europe,0,1.6875,12
+Ireland,Belarus,0,Western Europe,Central and Eastern Europe,0,0.5625,12
+Ireland,Belgium,0,Western Europe,Western Europe,1,3.966666666666667,15
+Ireland,Bulgaria,0,Western Europe,Central and Eastern Europe,0,2.84375,8
+Ireland,Croatia,0,Western Europe,Central and Eastern Europe,0,0.7333333333333333,15
+Ireland,Cyprus,0,Western Europe,Southern Europe,0,1.65625,16
+Ireland,Czech Republic,0,Western Europe,Central and Eastern Europe,0,1.15,5
+Ireland,Denmark,0,Western Europe,Northern Europe,0,4.970588235294118,17
+Ireland,Estonia,0,Western Europe,Northern Europe,0,4.171875,16
+Ireland,Finland,0,Western Europe,Northern Europe,0,2.4791666666666665,12
+Ireland,France,0,Western Europe,Western Europe,1,1.0263157894736843,19
+Ireland,Georgia,0,Western Europe,Central and Eastern Europe,0,0.84375,8
+Ireland,Germany,0,Western Europe,Western Europe,1,2.8157894736842106,19
+Ireland,Greece,0,Western Europe,Southern Europe,0,1.6470588235294117,17
+Ireland,Hungary,0,Western Europe,Central and Eastern Europe,0,0.8181818181818182,11
+Ireland,Iceland,0,Western Europe,Northern Europe,0,1.5294117647058822,17
+Ireland,Israel,0,Western Europe,Non-European,0,1.2916666666666667,18
+Ireland,Italy,0,Western Europe,Southern Europe,0,2.111111111111111,9
+Ireland,Latvia,0,Western Europe,Northern Europe,0,5.482142857142857,14
+Ireland,Lithuania,0,Western Europe,Northern Europe,0,7.109375,16
+Ireland,Malta,0,Western Europe,Southern Europe,0,2.466666666666667,15
+Ireland,Moldova,0,Western Europe,Central and Eastern Europe,0,1.5833333333333333,12
+Ireland,Monaco,0,Western Europe,Western Europe,1,0.0,3
+Ireland,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.0,6
+Ireland,Netherlands,0,Western Europe,Western Europe,1,3.1176470588235294,17
+Ireland,North Macedonia,0,Western Europe,Central and Eastern Europe,0,0.22916666666666666,12
+Ireland,Norway,0,Western Europe,Northern Europe,0,3.5833333333333335,18
+Ireland,Poland,0,Western Europe,Central and Eastern Europe,0,4.708333333333333,12
+Ireland,Portugal,0,Western Europe,Southern Europe,0,1.0416666666666667,12
+Ireland,Romania,0,Western Europe,Central and Eastern Europe,0,3.34375,16
+Ireland,Russia,0,Western Europe,Central and Eastern Europe,0,3.6323529411764706,17
+Ireland,San Marino,0,Western Europe,Southern Europe,0,0.0,6
+Ireland,Serbia,0,Western Europe,Central and Eastern Europe,0,0.8214285714285714,14
+Ireland,Slovenia,0,Western Europe,Central and Eastern Europe,0,0.65625,16
+Ireland,Spain,0,Western Europe,Southern Europe,0,0.5,19
+Ireland,Sweden,0,Western Europe,Northern Europe,0,4.828947368421052,19
+Ireland,Switzerland,0,Western Europe,Western Europe,1,1.8035714285714286,14
+Ireland,Türkiye,0,Western Europe,Southern Europe,0,0.5,11
+Ireland,Ukraine,0,Western Europe,Central and Eastern Europe,0,2.533333333333333,15
+Ireland,United Kingdom,1,Western Europe,Western Europe,1,5.184210526315789,19
+Israel,Albania,0,Non-European,Central and Eastern Europe,0,0.4230769230769231,13
+Israel,Andorra,0,Non-European,Western Europe,0,1.0,6
+Israel,Armenia,0,Non-European,Central and Eastern Europe,0,5.7727272727272725,11
+Israel,Australia,0,Non-European,Non-European,1,5.8,5
+Israel,Austria,0,Non-European,Western Europe,0,2.0,13
+Israel,Azerbaijan,0,Non-European,Central and Eastern Europe,0,4.583333333333333,12
+Israel,Belarus,0,Non-European,Central and Eastern Europe,0,2.4423076923076925,13
+Israel,Belgium,0,Non-European,Western Europe,0,1.5972222222222223,18
+Israel,Bulgaria,0,Non-European,Central and Eastern Europe,0,1.95,10
+Israel,Croatia,0,Non-European,Central and Eastern Europe,0,0.32142857142857145,14
+Israel,Cyprus,0,Non-European,Southern Europe,0,2.0,15
+Israel,Czech Republic,0,Non-European,Central and Eastern Europe,0,3.0,6
+Israel,Denmark,0,Non-European,Northern Europe,0,3.6944444444444446,18
+Israel,Estonia,0,Non-European,Northern Europe,0,2.3676470588235294,17
+Israel,Finland,0,Non-European,Northern Europe,0,1.2678571428571428,14
+Israel,France,0,Non-European,Western Europe,0,2.25,20
+Israel,Georgia,0,Non-European,Central and Eastern Europe,0,2.75,9
+Israel,Germany,0,Non-European,Western Europe,0,0.45,20
+Israel,Greece,0,Non-European,Southern Europe,0,2.861111111111111,18
+Israel,Hungary,0,Non-European,Central and Eastern Europe,0,2.409090909090909,11
+Israel,Iceland,0,Non-European,Northern Europe,0,1.6323529411764706,17
+Israel,Ireland,0,Non-European,Western Europe,0,1.1470588235294117,17
+Israel,Italy,0,Non-European,Southern Europe,0,3.611111111111111,9
+Israel,Latvia,0,Non-European,Northern Europe,0,2.4285714285714284,14
+Israel,Lithuania,0,Non-European,Northern Europe,0,0.71875,16
+Israel,Malta,0,Non-European,Southern Europe,0,3.15625,16
+Israel,Moldova,0,Non-European,Central and Eastern Europe,0,2.727272727272727,11
+Israel,Monaco,0,Non-European,Western Europe,0,0.0,3
+Israel,Montenegro,0,Non-European,Central and Eastern Europe,0,0.6428571428571429,7
+Israel,Netherlands,0,Non-European,Western Europe,0,2.34375,16
+Israel,North Macedonia,0,Non-European,Central and Eastern Europe,0,0.8666666666666667,15
+Israel,Norway,0,Non-European,Northern Europe,0,2.625,18
+Israel,Poland,0,Non-European,Central and Eastern Europe,0,0.8333333333333334,12
+Israel,Portugal,0,Non-European,Southern Europe,0,1.0,13
+Israel,Romania,0,Non-European,Central and Eastern Europe,0,6.53125,16
+Israel,Russia,0,Non-European,Central and Eastern Europe,0,7.305555555555555,18
+Israel,San Marino,0,Non-European,Southern Europe,0,0.8214285714285714,7
+Israel,Serbia,0,Non-European,Central and Eastern Europe,0,1.2291666666666667,12
+Israel,Slovenia,0,Non-European,Central and Eastern Europe,0,1.7,15
+Israel,Spain,0,Non-European,Southern Europe,0,3.125,20
+Israel,Sweden,0,Non-European,Northern Europe,0,4.675,20
+Israel,Switzerland,0,Non-European,Western Europe,0,1.2647058823529411,17
+Israel,Türkiye,0,Non-European,Southern Europe,0,1.375,12
+Israel,Ukraine,0,Non-European,Central and Eastern Europe,0,6.083333333333333,15
+Israel,United Kingdom,0,Non-European,Western Europe,0,0.75,20
+Italy,Albania,0,Southern Europe,Central and Eastern Europe,0,6.083333333333333,6
+Italy,Armenia,0,Southern Europe,Central and Eastern Europe,0,0.5,6
+Italy,Australia,0,Southern Europe,Non-European,0,3.85,5
+Italy,Austria,1,Southern Europe,Western Europe,0,2.3333333333333335,9
+Italy,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,1.3125,8
+Italy,Belarus,0,Southern Europe,Central and Eastern Europe,0,0.6666666666666666,6
+Italy,Belgium,0,Southern Europe,Western Europe,0,2.7083333333333335,6
+Italy,Bulgaria,0,Southern Europe,Central and Eastern Europe,0,5.125,4
+Italy,Croatia,0,Southern Europe,Central and Eastern Europe,0,0.75,4
+Italy,Cyprus,0,Southern Europe,Southern Europe,1,3.3125,8
+Italy,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,0.4,5
+Italy,Denmark,0,Southern Europe,Northern Europe,0,3.40625,8
+Italy,Estonia,0,Southern Europe,Northern Europe,0,2.0,6
+Italy,Finland,0,Southern Europe,Northern Europe,0,1.1666666666666667,6
+Italy,France,1,Southern Europe,Western Europe,0,1.4444444444444444,9
+Italy,Georgia,0,Southern Europe,Central and Eastern Europe,0,0.75,7
+Italy,Germany,0,Southern Europe,Western Europe,0,2.2777777777777777,9
+Italy,Greece,0,Southern Europe,Southern Europe,1,2.4285714285714284,7
+Italy,Hungary,0,Southern Europe,Central and Eastern Europe,0,0.875,8
+Italy,Iceland,0,Southern Europe,Northern Europe,0,2.2857142857142856,7
+Italy,Ireland,0,Southern Europe,Western Europe,0,0.9375,8
+Italy,Israel,0,Southern Europe,Non-European,0,2.4375,8
+Italy,Latvia,0,Southern Europe,Northern Europe,0,1.2142857142857142,7
+Italy,Lithuania,0,Southern Europe,Northern Europe,0,1.46875,8
+Italy,Malta,0,Southern Europe,Southern Europe,1,3.9285714285714284,7
+Italy,Moldova,0,Southern Europe,Central and Eastern Europe,0,6.125,6
+Italy,Montenegro,0,Southern Europe,Central and Eastern Europe,0,0.75,6
+Italy,Netherlands,0,Southern Europe,Western Europe,0,1.4642857142857142,7
+Italy,North Macedonia,0,Southern Europe,Central and Eastern Europe,0,1.7,5
+Italy,Norway,0,Southern Europe,Northern Europe,0,2.96875,8
+Italy,Poland,0,Southern Europe,Central and Eastern Europe,0,4.6,5
+Italy,Portugal,0,Southern Europe,Southern Europe,1,2.0,3
+Italy,Romania,0,Southern Europe,Central and Eastern Europe,0,5.5,8
+Italy,Russia,0,Southern Europe,Central and Eastern Europe,0,3.71875,8
+Italy,San Marino,1,Southern Europe,Southern Europe,1,2.3,5
+Italy,Serbia,0,Southern Europe,Central and Eastern Europe,0,2.892857142857143,7
+Italy,Slovenia,1,Southern Europe,Central and Eastern Europe,0,1.21875,8
+Italy,Spain,0,Southern Europe,Southern Europe,1,0.8888888888888888,9
+Italy,Sweden,0,Southern Europe,Northern Europe,0,2.4444444444444446,9
+Italy,Switzerland,1,Southern Europe,Western Europe,0,2.125,6
+Italy,Ukraine,0,Southern Europe,Central and Eastern Europe,0,6.928571428571429,7
+Italy,United Kingdom,0,Southern Europe,Western Europe,0,1.6666666666666667,9
+Latvia,Albania,0,Northern Europe,Central and Eastern Europe,0,0.36666666666666664,15
+Latvia,Andorra,0,Northern Europe,Western Europe,0,0.0,4
+Latvia,Armenia,0,Northern Europe,Central and Eastern Europe,0,1.4318181818181819,11
+Latvia,Australia,0,Northern Europe,Non-European,0,4.7,5
+Latvia,Austria,0,Northern Europe,Western Europe,0,1.7142857142857142,14
+Latvia,Azerbaijan,0,Northern Europe,Central and Eastern Europe,0,2.6136363636363638,11
+Latvia,Belarus,1,Northern Europe,Central and Eastern Europe,0,2.875,12
+Latvia,Belgium,0,Northern Europe,Western Europe,0,2.5833333333333335,15
+Latvia,Bulgaria,0,Northern Europe,Central and Eastern Europe,0,1.3888888888888888,9
+Latvia,Croatia,0,Northern Europe,Central and Eastern Europe,0,0.9615384615384616,13
+Latvia,Cyprus,0,Northern Europe,Southern Europe,0,1.1176470588235294,17
+Latvia,Czech Republic,0,Northern Europe,Central and Eastern Europe,0,1.1428571428571428,7
+Latvia,Denmark,0,Northern Europe,Northern Europe,1,4.291666666666667,18
+Latvia,Estonia,1,Northern Europe,Northern Europe,1,9.617647058823529,17
+Latvia,Finland,0,Northern Europe,Northern Europe,1,2.033333333333333,15
+Latvia,France,0,Northern Europe,Western Europe,0,1.3,20
+Latvia,Georgia,0,Northern Europe,Central and Eastern Europe,0,2.8055555555555554,9
+Latvia,Germany,0,Northern Europe,Western Europe,0,2.125,20
+Latvia,Greece,0,Northern Europe,Southern Europe,0,0.7941176470588235,17
+Latvia,Hungary,0,Northern Europe,Central and Eastern Europe,0,1.2708333333333333,12
+Latvia,Iceland,0,Northern Europe,Northern Europe,1,2.8529411764705883,17
+Latvia,Ireland,0,Northern Europe,Western Europe,0,2.25,16
+Latvia,Israel,0,Northern Europe,Non-European,0,0.631578947368421,19
+Latvia,Italy,0,Northern Europe,Southern Europe,0,3.0,9
+Latvia,Lithuania,1,Northern Europe,Northern Europe,1,7.766666666666667,15
+Latvia,Malta,0,Northern Europe,Southern Europe,0,2.2916666666666665,18
+Latvia,Moldova,0,Northern Europe,Central and Eastern Europe,0,1.9583333333333333,12
+Latvia,Monaco,0,Northern Europe,Western Europe,0,0.0,3
+Latvia,Montenegro,0,Northern Europe,Central and Eastern Europe,0,0.16666666666666666,6
+Latvia,Netherlands,0,Northern Europe,Western Europe,0,1.7333333333333334,15
+Latvia,North Macedonia,0,Northern Europe,Central and Eastern Europe,0,0.25,13
+Latvia,Norway,0,Northern Europe,Northern Europe,1,4.069444444444445,18
+Latvia,Poland,0,Northern Europe,Central and Eastern Europe,0,1.6607142857142858,14
+Latvia,Portugal,0,Northern Europe,Southern Europe,0,1.7307692307692308,13
+Latvia,Romania,0,Northern Europe,Central and Eastern Europe,0,0.7777777777777778,18
+Latvia,Russia,1,Northern Europe,Central and Eastern Europe,0,8.697368421052632,19
+Latvia,San Marino,0,Northern Europe,Southern Europe,0,0.5833333333333334,6
+Latvia,Serbia,0,Northern Europe,Central and Eastern Europe,0,0.8958333333333334,12
+Latvia,Slovakia,0,Northern Europe,Central and Eastern Europe,0,0.0,3
+Latvia,Slovenia,0,Northern Europe,Central and Eastern Europe,0,1.15,15
+Latvia,Spain,0,Northern Europe,Southern Europe,0,0.65,20
+Latvia,Sweden,0,Northern Europe,Northern Europe,1,4.934210526315789,19
+Latvia,Switzerland,0,Northern Europe,Western Europe,0,1.75,14
+Latvia,Türkiye,0,Northern Europe,Southern Europe,0,0.16666666666666666,12
+Latvia,Ukraine,0,Northern Europe,Central and Eastern Europe,0,5.866666666666666,15
+Latvia,United Kingdom,0,Northern Europe,Western Europe,0,1.35,20
+Lithuania,Albania,0,Northern Europe,Central and Eastern Europe,0,0.019230769230769232,13
+Lithuania,Andorra,0,Northern Europe,Western Europe,0,0.5,4
+Lithuania,Armenia,0,Northern Europe,Central and Eastern Europe,0,0.38461538461538464,13
+Lithuania,Australia,0,Northern Europe,Non-European,0,2.7,5
+Lithuania,Austria,0,Northern Europe,Western Europe,0,2.2916666666666665,12
+Lithuania,Azerbaijan,0,Northern Europe,Central and Eastern Europe,0,5.166666666666667,12
+Lithuania,Belarus,1,Northern Europe,Central and Eastern Europe,0,3.730769230769231,13
+Lithuania,Belgium,0,Northern Europe,Western Europe,0,3.409090909090909,11
+Lithuania,Bulgaria,0,Northern Europe,Central and Eastern Europe,0,1.5,9
+Lithuania,Croatia,0,Northern Europe,Central and Eastern Europe,0,0.65625,16
+Lithuania,Cyprus,0,Northern Europe,Southern Europe,0,1.1,15
+Lithuania,Czech Republic,0,Northern Europe,Central and Eastern Europe,0,1.4166666666666667,6
+Lithuania,Denmark,0,Northern Europe,Northern Europe,1,2.1911764705882355,17
+Lithuania,Estonia,0,Northern Europe,Northern Europe,1,6.678571428571429,14
+Lithuania,Finland,0,Northern Europe,Northern Europe,1,2.25,11
+Lithuania,France,0,Northern Europe,Western Europe,0,2.138888888888889,18
+Lithuania,Georgia,0,Northern Europe,Central and Eastern Europe,0,9.166666666666666,9
+Lithuania,Germany,0,Northern Europe,Western Europe,0,1.3333333333333333,18
+Lithuania,Greece,0,Northern Europe,Southern Europe,0,1.3529411764705883,17
+Lithuania,Hungary,0,Northern Europe,Central and Eastern Europe,0,1.2291666666666667,12
+Lithuania,Iceland,0,Northern Europe,Northern Europe,1,2.1333333333333333,15
+Lithuania,Ireland,0,Northern Europe,Western Europe,0,1.96875,16
+Lithuania,Israel,0,Northern Europe,Non-European,0,1.2666666666666666,15
+Lithuania,Italy,0,Northern Europe,Southern Europe,0,3.7222222222222223,9
+Lithuania,Latvia,1,Northern Europe,Northern Europe,1,9.727272727272727,11
+Lithuania,Malta,0,Northern Europe,Southern Europe,0,1.375,16
+Lithuania,Moldova,0,Northern Europe,Central and Eastern Europe,0,2.0454545454545454,11
+Lithuania,Monaco,0,Northern Europe,Western Europe,0,0.0,3
+Lithuania,Montenegro,0,Northern Europe,Central and Eastern Europe,0,0.0,4
+Lithuania,Netherlands,0,Northern Europe,Western Europe,0,2.607142857142857,14
+Lithuania,North Macedonia,0,Northern Europe,Central and Eastern Europe,0,0.08333333333333333,12
+Lithuania,Norway,0,Northern Europe,Northern Europe,1,3.5294117647058822,17
+Lithuania,Poland,1,Northern Europe,Central and Eastern Europe,0,2.7708333333333335,12
+Lithuania,Portugal,0,Northern Europe,Southern Europe,0,1.4230769230769231,13
+Lithuania,Romania,0,Northern Europe,Central and Eastern Europe,0,0.5666666666666667,15
+Lithuania,Russia,1,Northern Europe,Central and Eastern Europe,0,7.046875,16
+Lithuania,San Marino,0,Northern Europe,Southern Europe,0,0.0,5
+Lithuania,Serbia,0,Northern Europe,Central and Eastern Europe,0,0.6785714285714286,14
+Lithuania,Slovenia,0,Northern Europe,Central and Eastern Europe,0,0.875,16
+Lithuania,Spain,0,Northern Europe,Southern Europe,0,0.6666666666666666,18
+Lithuania,Sweden,0,Northern Europe,Northern Europe,1,4.527777777777778,18
+Lithuania,Switzerland,0,Northern Europe,Western Europe,0,1.8035714285714286,14
+Lithuania,Türkiye,0,Northern Europe,Southern Europe,0,0.8636363636363636,11
+Lithuania,Ukraine,0,Northern Europe,Central and Eastern Europe,0,5.321428571428571,14
+Lithuania,United Kingdom,0,Northern Europe,Western Europe,0,0.9444444444444444,18
+Malta,Albania,0,Southern Europe,Central and Eastern Europe,0,1.1153846153846154,13
+Malta,Andorra,0,Southern Europe,Western Europe,0,0.6,5
+Malta,Armenia,0,Southern Europe,Central and Eastern Europe,0,2.2291666666666665,12
+Malta,Australia,0,Southern Europe,Non-European,0,4.3,5
+Malta,Austria,0,Southern Europe,Western Europe,0,1.3269230769230769,13
+Malta,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,6.0227272727272725,11
+Malta,Belarus,0,Southern Europe,Central and Eastern Europe,0,2.6041666666666665,12
+Malta,Belgium,0,Southern Europe,Western Europe,0,1.6538461538461537,13
+Malta,Bulgaria,0,Southern Europe,Central and Eastern Europe,0,3.3,10
+Malta,Croatia,0,Southern Europe,Central and Eastern Europe,0,1.9166666666666667,15
+Malta,Cyprus,0,Southern Europe,Southern Europe,1,3.783333333333333,15
+Malta,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,1.0357142857142858,7
+Malta,Denmark,0,Southern Europe,Northern Europe,0,3.6323529411764706,17
+Malta,Estonia,0,Southern Europe,Northern Europe,0,1.5277777777777777,18
+Malta,Finland,0,Southern Europe,Northern Europe,0,1.3214285714285714,14
+Malta,France,0,Southern Europe,Western Europe,0,0.65,20
+Malta,Georgia,0,Southern Europe,Central and Eastern Europe,0,1.65,10
+Malta,Germany,0,Southern Europe,Western Europe,0,1.0,20
+Malta,Greece,0,Southern Europe,Southern Europe,1,3.5555555555555554,18
+Malta,Hungary,0,Southern Europe,Central and Eastern Europe,0,0.9090909090909091,11
+Malta,Iceland,0,Southern Europe,Northern Europe,0,2.3823529411764706,17
+Malta,Ireland,0,Southern Europe,Western Europe,0,2.59375,16
+Malta,Israel,0,Southern Europe,Non-European,0,2.1527777777777777,18
+Malta,Italy,0,Southern Europe,Southern Europe,1,10.944444444444445,9
+Malta,Latvia,0,Southern Europe,Northern Europe,0,2.6,15
+Malta,Lithuania,0,Southern Europe,Northern Europe,0,1.1176470588235294,17
+Malta,Moldova,0,Southern Europe,Central and Eastern Europe,0,0.9583333333333334,12
+Malta,Monaco,0,Southern Europe,Western Europe,0,0.0,3
+Malta,Montenegro,0,Southern Europe,Central and Eastern Europe,0,2.0,6
+Malta,Netherlands,0,Southern Europe,Western Europe,0,3.4464285714285716,14
+Malta,North Macedonia,0,Southern Europe,Central and Eastern Europe,0,1.6071428571428572,14
+Malta,Norway,0,Southern Europe,Northern Europe,0,3.0972222222222223,18
+Malta,Poland,0,Southern Europe,Central and Eastern Europe,0,1.2142857142857142,14
+Malta,Portugal,0,Southern Europe,Southern Europe,1,0.9285714285714286,14
+Malta,Romania,0,Southern Europe,Central and Eastern Europe,0,3.3333333333333335,18
+Malta,Russia,0,Southern Europe,Central and Eastern Europe,0,4.0131578947368425,19
+Malta,San Marino,0,Southern Europe,Southern Europe,1,3.1875,8
+Malta,Serbia,0,Southern Europe,Central and Eastern Europe,0,1.5208333333333333,12
+Malta,Slovenia,0,Southern Europe,Central and Eastern Europe,0,1.1153846153846154,13
+Malta,Spain,0,Southern Europe,Southern Europe,1,0.3,20
+Malta,Sweden,0,Southern Europe,Northern Europe,0,5.157894736842105,19
+Malta,Switzerland,0,Southern Europe,Western Europe,0,3.607142857142857,14
+Malta,Türkiye,0,Southern Europe,Southern Europe,1,2.1923076923076925,13
+Malta,Ukraine,0,Southern Europe,Central and Eastern Europe,0,3.6,15
+Malta,United Kingdom,0,Southern Europe,Western Europe,0,4.1,20
+Moldova,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.9583333333333334,12
+Moldova,Andorra,0,Central and Eastern Europe,Western Europe,0,1.0,4
+Moldova,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.272727272727273,11
+Moldova,Australia,0,Central and Eastern Europe,Non-European,0,4.9,5
+Moldova,Austria,0,Central and Eastern Europe,Western Europe,0,1.3863636363636365,11
+Moldova,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,7.931818181818182,11
+Moldova,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,5.55,10
+Moldova,Belgium,0,Central and Eastern Europe,Western Europe,0,2.25,12
+Moldova,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,4.5,7
+Moldova,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.8333333333333334,9
+Moldova,Cyprus,0,Central and Eastern Europe,Southern Europe,0,0.9230769230769231,13
+Moldova,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,2.15,5
+Moldova,Denmark,0,Central and Eastern Europe,Northern Europe,0,0.8928571428571429,14
+Moldova,Estonia,0,Central and Eastern Europe,Northern Europe,0,2.107142857142857,14
+Moldova,Finland,0,Central and Eastern Europe,Northern Europe,0,0.7857142857142857,14
+Moldova,France,0,Central and Eastern Europe,Western Europe,0,0.5,15
+Moldova,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,4.0,9
+Moldova,Germany,0,Central and Eastern Europe,Western Europe,0,0.4,15
+Moldova,Greece,0,Central and Eastern Europe,Southern Europe,0,2.607142857142857,14
+Moldova,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,0.9545454545454546,11
+Moldova,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.8076923076923077,13
+Moldova,Ireland,0,Central and Eastern Europe,Western Europe,0,0.5,11
+Moldova,Israel,0,Central and Eastern Europe,Non-European,0,1.8461538461538463,13
+Moldova,Italy,0,Central and Eastern Europe,Southern Europe,0,2.2777777777777777,9
+Moldova,Latvia,0,Central and Eastern Europe,Northern Europe,0,1.2857142857142858,14
+Moldova,Lithuania,0,Central and Eastern Europe,Northern Europe,0,1.2727272727272727,11
+Moldova,Malta,0,Central and Eastern Europe,Southern Europe,0,0.6590909090909091,11
+Moldova,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,1.3888888888888888,9
+Moldova,Netherlands,0,Central and Eastern Europe,Western Europe,0,0.6346153846153846,13
+Moldova,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.4375,8
+Moldova,Norway,0,Central and Eastern Europe,Northern Europe,0,2.6153846153846154,13
+Moldova,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,0.9090909090909091,11
+Moldova,Portugal,0,Central and Eastern Europe,Southern Europe,0,2.25,9
+Moldova,Romania,1,Central and Eastern Europe,Central and Eastern Europe,1,11.821428571428571,14
+Moldova,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,8.857142857142858,14
+Moldova,San Marino,0,Central and Eastern Europe,Southern Europe,0,2.3333333333333335,6
+Moldova,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.2083333333333333,12
+Moldova,Slovakia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.3333333333333335,3
+Moldova,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5833333333333334,12
+Moldova,Spain,0,Central and Eastern Europe,Southern Europe,0,0.6,15
+Moldova,Sweden,0,Central and Eastern Europe,Northern Europe,0,3.607142857142857,14
+Moldova,Switzerland,0,Central and Eastern Europe,Western Europe,0,1.5,7
+Moldova,Türkiye,0,Central and Eastern Europe,Southern Europe,0,0.9285714285714286,7
+Moldova,Ukraine,1,Central and Eastern Europe,Central and Eastern Europe,1,7.884615384615385,13
+Moldova,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.3333333333333333,15
+Monaco,Albania,0,Western Europe,Central and Eastern Europe,0,0.5,3
+Monaco,Andorra,0,Western Europe,Western Europe,1,0.0,3
+Monaco,Belarus,0,Western Europe,Central and Eastern Europe,0,0.3333333333333333,3
+Monaco,Belgium,0,Western Europe,Western Europe,1,2.0,3
+Monaco,Croatia,0,Western Europe,Central and Eastern Europe,0,3.3333333333333335,3
+Monaco,Cyprus,0,Western Europe,Southern Europe,0,6.333333333333333,3
+Monaco,Denmark,0,Western Europe,Northern Europe,0,8.0,3
+Monaco,Estonia,0,Western Europe,Northern Europe,0,1.6666666666666667,3
+Monaco,Finland,0,Western Europe,Northern Europe,0,4.0,3
+Monaco,France,1,Western Europe,Western Europe,1,5.0,3
+Monaco,Germany,0,Western Europe,Western Europe,1,3.0,3
+Monaco,Greece,0,Western Europe,Southern Europe,0,2.6666666666666665,3
+Monaco,Iceland,0,Western Europe,Northern Europe,0,2.0,3
+Monaco,Ireland,0,Western Europe,Western Europe,1,3.1666666666666665,3
+Monaco,Israel,0,Western Europe,Non-European,0,4.0,3
+Monaco,Latvia,0,Western Europe,Northern Europe,0,3.3333333333333335,3
+Monaco,Lithuania,0,Western Europe,Northern Europe,0,1.8333333333333333,3
+Monaco,Malta,0,Western Europe,Southern Europe,0,1.6666666666666667,3
+Monaco,Netherlands,0,Western Europe,Western Europe,1,4.0,3
+Monaco,North Macedonia,0,Western Europe,Central and Eastern Europe,0,0.6666666666666666,3
+Monaco,Norway,0,Western Europe,Northern Europe,0,0.3333333333333333,3
+Monaco,Poland,0,Western Europe,Central and Eastern Europe,0,0.0,3
+Monaco,Portugal,0,Western Europe,Southern Europe,0,0.3333333333333333,3
+Monaco,Romania,0,Western Europe,Central and Eastern Europe,0,1.8333333333333333,3
+Monaco,Russia,0,Western Europe,Central and Eastern Europe,0,0.0,3
+Monaco,Slovenia,0,Western Europe,Central and Eastern Europe,0,2.3333333333333335,3
+Monaco,Spain,0,Western Europe,Southern Europe,0,1.0,3
+Monaco,Sweden,0,Western Europe,Northern Europe,0,3.1666666666666665,3
+Monaco,Switzerland,0,Western Europe,Western Europe,1,3.6666666666666665,3
+Monaco,Türkiye,0,Western Europe,Southern Europe,0,2.6666666666666665,3
+Monaco,Ukraine,0,Western Europe,Central and Eastern Europe,0,2.5,3
+Monaco,United Kingdom,0,Western Europe,Western Europe,1,0.0,3
+Montenegro,Albania,1,Central and Eastern Europe,Central and Eastern Europe,1,9.61111111111111,9
+Montenegro,Andorra,0,Central and Eastern Europe,Western Europe,0,0.0,3
+Montenegro,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.34375,8
+Montenegro,Australia,0,Central and Eastern Europe,Non-European,0,1.55,5
+Montenegro,Austria,0,Central and Eastern Europe,Western Europe,0,0.3125,8
+Montenegro,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,5.138888888888889,9
+Montenegro,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,2.0416666666666665,6
+Montenegro,Belgium,0,Central and Eastern Europe,Western Europe,0,0.7,10
+Montenegro,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,2.9,5
+Montenegro,Croatia,1,Central and Eastern Europe,Central and Eastern Europe,1,5.958333333333333,6
+Montenegro,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.625,8
+Montenegro,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,0.7142857142857143,7
+Montenegro,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.5555555555555556,9
+Montenegro,Estonia,0,Central and Eastern Europe,Northern Europe,0,0.4,10
+Montenegro,Finland,0,Central and Eastern Europe,Northern Europe,0,0.25,10
+Montenegro,France,0,Central and Eastern Europe,Western Europe,0,0.5909090909090909,11
+Montenegro,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.375,8
+Montenegro,Germany,0,Central and Eastern Europe,Western Europe,0,0.0,11
+Montenegro,Greece,0,Central and Eastern Europe,Southern Europe,0,3.425,10
+Montenegro,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,1.9722222222222223,9
+Montenegro,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.15,10
+Montenegro,Ireland,0,Central and Eastern Europe,Western Europe,0,0.5833333333333334,6
+Montenegro,Israel,0,Central and Eastern Europe,Non-European,0,1.4444444444444444,9
+Montenegro,Italy,0,Central and Eastern Europe,Southern Europe,0,5.0625,8
+Montenegro,Latvia,0,Central and Eastern Europe,Northern Europe,0,0.625,8
+Montenegro,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.2857142857142857,7
+Montenegro,Malta,0,Central and Eastern Europe,Southern Europe,0,2.8333333333333335,9
+Montenegro,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,2.4722222222222223,9
+Montenegro,Netherlands,0,Central and Eastern Europe,Western Europe,0,0.59375,8
+Montenegro,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,9.625,4
+Montenegro,Norway,0,Central and Eastern Europe,Northern Europe,0,2.75,10
+Montenegro,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6875,8
+Montenegro,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.46875,8
+Montenegro,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.8333333333333333,9
+Montenegro,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,6.1,10
+Montenegro,San Marino,0,Central and Eastern Europe,Southern Europe,0,2.5714285714285716,7
+Montenegro,Serbia,1,Central and Eastern Europe,Central and Eastern Europe,1,11.46875,8
+Montenegro,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,6.34375,8
+Montenegro,Spain,0,Central and Eastern Europe,Southern Europe,0,0.5454545454545454,11
+Montenegro,Sweden,0,Central and Eastern Europe,Northern Europe,0,2.1818181818181817,11
+Montenegro,Switzerland,0,Central and Eastern Europe,Western Europe,0,0.8333333333333334,6
+Montenegro,Türkiye,0,Central and Eastern Europe,Southern Europe,0,1.875,4
+Montenegro,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,3.2777777777777777,9
+Montenegro,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.09090909090909091,11
+Netherlands,Albania,0,Western Europe,Central and Eastern Europe,0,0.375,12
+Netherlands,Andorra,0,Western Europe,Western Europe,1,1.4,5
+Netherlands,Armenia,0,Western Europe,Central and Eastern Europe,0,6.840909090909091,11
+Netherlands,Australia,0,Western Europe,Non-European,0,4.5,5
+Netherlands,Austria,0,Western Europe,Western Europe,1,3.0961538461538463,13
+Netherlands,Azerbaijan,0,Western Europe,Central and Eastern Europe,0,2.590909090909091,11
+Netherlands,Belarus,0,Western Europe,Central and Eastern Europe,0,0.22916666666666666,12
+Netherlands,Belgium,1,Western Europe,Western Europe,1,6.928571428571429,14
+Netherlands,Bulgaria,0,Western Europe,Central and Eastern Europe,0,1.4444444444444444,9
+Netherlands,Croatia,0,Western Europe,Central and Eastern Europe,0,1.1333333333333333,15
+Netherlands,Cyprus,0,Western Europe,Southern Europe,0,1.203125,16
+Netherlands,Czech Republic,0,Western Europe,Central and Eastern Europe,0,1.625,4
+Netherlands,Denmark,0,Western Europe,Northern Europe,0,4.794117647058823,17
+Netherlands,Estonia,0,Western Europe,Northern Europe,0,2.1666666666666665,18
+Netherlands,Finland,0,Western Europe,Northern Europe,0,1.1923076923076923,13
+Netherlands,France,0,Western Europe,Western Europe,1,1.0789473684210527,19
+Netherlands,Georgia,0,Western Europe,Central and Eastern Europe,0,0.7222222222222222,9
+Netherlands,Germany,1,Western Europe,Western Europe,1,2.6315789473684212,19
+Netherlands,Greece,0,Western Europe,Southern Europe,0,3.2058823529411766,17
+Netherlands,Hungary,0,Western Europe,Central and Eastern Europe,0,2.8863636363636362,11
+Netherlands,Iceland,0,Western Europe,Northern Europe,0,1.4375,16
+Netherlands,Ireland,0,Western Europe,Western Europe,1,1.75,16
+Netherlands,Israel,0,Western Europe,Non-European,0,3.25,16
+Netherlands,Italy,0,Western Europe,Southern Europe,0,2.5,9
+Netherlands,Latvia,0,Western Europe,Northern Europe,0,0.9666666666666667,15
+Netherlands,Lithuania,0,Western Europe,Northern Europe,0,1.1666666666666667,15
+Netherlands,Malta,0,Western Europe,Southern Europe,0,2.033333333333333,15
+Netherlands,Moldova,0,Western Europe,Central and Eastern Europe,0,0.8666666666666667,15
+Netherlands,Monaco,0,Western Europe,Western Europe,1,0.0,3
+Netherlands,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.42857142857142855,7
+Netherlands,North Macedonia,0,Western Europe,Central and Eastern Europe,0,0.55,10
+Netherlands,Norway,0,Western Europe,Northern Europe,0,4.102941176470588,17
+Netherlands,Poland,0,Western Europe,Central and Eastern Europe,0,1.8076923076923077,13
+Netherlands,Portugal,0,Western Europe,Southern Europe,0,2.3076923076923075,13
+Netherlands,Romania,0,Western Europe,Central and Eastern Europe,0,1.25,17
+Netherlands,Russia,0,Western Europe,Central and Eastern Europe,0,1.625,18
+Netherlands,San Marino,0,Western Europe,Southern Europe,0,0.3333333333333333,6
+Netherlands,Serbia,0,Western Europe,Central and Eastern Europe,0,4.589285714285714,14
+Netherlands,Slovakia,0,Western Europe,Central and Eastern Europe,0,0.0,3
+Netherlands,Slovenia,0,Western Europe,Central and Eastern Europe,0,0.9375,16
+Netherlands,Spain,0,Western Europe,Southern Europe,0,1.236842105263158,19
+Netherlands,Sweden,0,Western Europe,Northern Europe,0,4.578947368421052,19
+Netherlands,Switzerland,0,Western Europe,Western Europe,1,1.9,10
+Netherlands,Türkiye,0,Western Europe,Southern Europe,0,10.0,11
+Netherlands,Ukraine,0,Western Europe,Central and Eastern Europe,0,1.9333333333333333,15
+Netherlands,United Kingdom,0,Western Europe,Western Europe,1,0.39473684210526316,19
+North Macedonia,Albania,1,Central and Eastern Europe,Central and Eastern Europe,1,11.0,13
+North Macedonia,Andorra,0,Central and Eastern Europe,Western Europe,0,0.2,5
+North Macedonia,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.25,12
+North Macedonia,Australia,0,Central and Eastern Europe,Non-European,0,2.75,5
+North Macedonia,Austria,0,Central and Eastern Europe,Western Europe,0,0.5208333333333334,12
+North Macedonia,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,2.5833333333333335,12
+North Macedonia,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,2.1875,16
+North Macedonia,Belgium,0,Central and Eastern Europe,Western Europe,0,0.9642857142857143,14
+North Macedonia,Bulgaria,1,Central and Eastern Europe,Central and Eastern Europe,1,6.613636363636363,11
+North Macedonia,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,7.038461538461538,13
+North Macedonia,Cyprus,0,Central and Eastern Europe,Southern Europe,0,0.7666666666666667,15
+North Macedonia,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,1.7916666666666667,6
+North Macedonia,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.0555555555555556,18
+North Macedonia,Estonia,0,Central and Eastern Europe,Northern Europe,0,1.0,15
+North Macedonia,Finland,0,Central and Eastern Europe,Northern Europe,0,1.2321428571428572,14
+North Macedonia,France,0,Central and Eastern Europe,Western Europe,0,0.4166666666666667,18
+North Macedonia,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0833333333333333,9
+North Macedonia,Germany,0,Central and Eastern Europe,Western Europe,0,0.5277777777777778,18
+North Macedonia,Greece,1,Central and Eastern Europe,Southern Europe,0,2.53125,16
+North Macedonia,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,1.6363636363636365,11
+North Macedonia,Iceland,0,Central and Eastern Europe,Northern Europe,0,0.39285714285714285,14
+North Macedonia,Ireland,0,Central and Eastern Europe,Western Europe,0,0.5535714285714286,14
+North Macedonia,Israel,0,Central and Eastern Europe,Non-European,0,1.2794117647058822,17
+North Macedonia,Italy,0,Central and Eastern Europe,Southern Europe,0,4.666666666666667,9
+North Macedonia,Latvia,0,Central and Eastern Europe,Northern Europe,0,1.4230769230769231,13
+North Macedonia,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.421875,16
+North Macedonia,Malta,0,Central and Eastern Europe,Southern Europe,0,3.6,15
+North Macedonia,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,2.625,12
+North Macedonia,Monaco,0,Central and Eastern Europe,Western Europe,0,0.0,3
+North Macedonia,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,6.75,4
+North Macedonia,Netherlands,0,Central and Eastern Europe,Western Europe,0,1.5357142857142858,14
+North Macedonia,Norway,0,Central and Eastern Europe,Northern Europe,0,1.375,16
+North Macedonia,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,0.675,10
+North Macedonia,Portugal,0,Central and Eastern Europe,Southern Europe,0,0.95,10
+North Macedonia,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,3.046875,16
+North Macedonia,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.578125,16
+North Macedonia,San Marino,0,Central and Eastern Europe,Southern Europe,0,2.25,4
+North Macedonia,Serbia,1,Central and Eastern Europe,Central and Eastern Europe,1,9.979166666666666,12
+North Macedonia,Slovakia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0,3
+North Macedonia,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,4.25,12
+North Macedonia,Spain,0,Central and Eastern Europe,Southern Europe,0,0.2777777777777778,18
+North Macedonia,Sweden,0,Central and Eastern Europe,Northern Europe,0,2.3676470588235294,17
+North Macedonia,Switzerland,0,Central and Eastern Europe,Western Europe,0,0.6666666666666666,15
+North Macedonia,Türkiye,0,Central and Eastern Europe,Southern Europe,0,8.05,10
+North Macedonia,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,2.75,14
+North Macedonia,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.9166666666666666,18
+Norway,Albania,0,Northern Europe,Central and Eastern Europe,0,0.8214285714285714,14
+Norway,Andorra,0,Northern Europe,Western Europe,0,0.4,5
+Norway,Armenia,0,Northern Europe,Central and Eastern Europe,0,0.2916666666666667,12
+Norway,Australia,0,Northern Europe,Non-European,0,6.4,5
+Norway,Austria,0,Northern Europe,Western Europe,0,2.25,12
+Norway,Azerbaijan,0,Northern Europe,Central and Eastern Europe,0,1.9090909090909092,11
+Norway,Belarus,0,Northern Europe,Central and Eastern Europe,0,0.18181818181818182,11
+Norway,Belgium,0,Northern Europe,Western Europe,0,2.0625,12
+Norway,Bulgaria,0,Northern Europe,Central and Eastern Europe,0,2.9166666666666665,9
+Norway,Croatia,0,Northern Europe,Central and Eastern Europe,0,0.25,15
+Norway,Cyprus,0,Northern Europe,Southern Europe,0,0.7857142857142857,14
+Norway,Czech Republic,0,Northern Europe,Central and Eastern Europe,0,1.6,5
+Norway,Denmark,1,Northern Europe,Northern Europe,1,6.9411764705882355,17
+Norway,Estonia,0,Northern Europe,Northern Europe,1,2.3125,16
+Norway,Finland,1,Northern Europe,Northern Europe,1,5.409090909090909,11
+Norway,France,0,Northern Europe,Western Europe,0,0.9210526315789473,19
+Norway,Georgia,0,Northern Europe,Central and Eastern Europe,0,0.075,10
+Norway,Germany,0,Northern Europe,Western Europe,0,2.263157894736842,19
+Norway,Greece,0,Northern Europe,Southern Europe,0,1.71875,16
+Norway,Hungary,0,Northern Europe,Central and Eastern Europe,0,1.9090909090909092,11
+Norway,Iceland,0,Northern Europe,Northern Europe,1,7.125,16
+Norway,Ireland,0,Northern Europe,Western Europe,0,1.763157894736842,19
+Norway,Israel,0,Northern Europe,Non-European,0,1.911764705882353,17
+Norway,Italy,0,Northern Europe,Southern Europe,0,2.7222222222222223,9
+Norway,Latvia,0,Northern Europe,Northern Europe,1,2.5714285714285716,14
+Norway,Lithuania,0,Northern Europe,Northern Europe,1,4.21875,16
+Norway,Malta,0,Northern Europe,Southern Europe,0,2.2794117647058822,17
+Norway,Moldova,0,Northern Europe,Central and Eastern Europe,0,1.2291666666666667,12
+Norway,Monaco,0,Northern Europe,Western Europe,0,0.0,3
+Norway,Montenegro,0,Northern Europe,Central and Eastern Europe,0,0.3,5
+Norway,Netherlands,0,Northern Europe,Western Europe,0,3.5441176470588234,17
+Norway,North Macedonia,0,Northern Europe,Central and Eastern Europe,0,0.5454545454545454,11
+Norway,Poland,0,Northern Europe,Central and Eastern Europe,0,2.5892857142857144,14
+Norway,Portugal,0,Northern Europe,Southern Europe,0,1.1428571428571428,14
+Norway,Romania,0,Northern Europe,Central and Eastern Europe,0,2.676470588235294,17
+Norway,Russia,1,Northern Europe,Central and Eastern Europe,0,2.4444444444444446,18
+Norway,San Marino,0,Northern Europe,Southern Europe,0,0.0,8
+Norway,Serbia,0,Northern Europe,Central and Eastern Europe,0,3.75,13
+Norway,Slovenia,0,Northern Europe,Central and Eastern Europe,0,0.9375,16
+Norway,Spain,0,Northern Europe,Southern Europe,0,0.7105263157894737,19
+Norway,Sweden,1,Northern Europe,Northern Europe,1,8.381578947368421,19
+Norway,Switzerland,0,Northern Europe,Western Europe,0,1.4423076923076923,13
+Norway,Türkiye,0,Northern Europe,Southern Europe,0,3.25,12
+Norway,Ukraine,0,Northern Europe,Central and Eastern Europe,0,1.4833333333333334,15
+Norway,United Kingdom,0,Northern Europe,Western Europe,0,0.5,19
+Poland,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.7307692307692307,13
+Poland,Andorra,0,Central and Eastern Europe,Western Europe,0,1.75,4
+Poland,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,4.25,10
+Poland,Australia,0,Central and Eastern Europe,Non-European,0,7.15,5
+Poland,Austria,0,Central and Eastern Europe,Western Europe,0,1.4,10
+Poland,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,4.25,9
+Poland,Belarus,1,Central and Eastern Europe,Central and Eastern Europe,1,2.5,8
+Poland,Belgium,0,Central and Eastern Europe,Western Europe,0,4.204545454545454,11
+Poland,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,1.9583333333333333,6
+Poland,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.2727272727272727,11
+Poland,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.1041666666666667,12
+Poland,Czech Republic,1,Central and Eastern Europe,Central and Eastern Europe,1,2.7916666666666665,6
+Poland,Denmark,0,Central and Eastern Europe,Northern Europe,0,3.6153846153846154,13
+Poland,Estonia,0,Central and Eastern Europe,Northern Europe,0,2.3958333333333335,12
+Poland,Finland,0,Central and Eastern Europe,Northern Europe,0,3.0454545454545454,11
+Poland,France,0,Central and Eastern Europe,Western Europe,0,1.3125,16
+Poland,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.45,10
+Poland,Germany,1,Central and Eastern Europe,Western Europe,0,2.46875,16
+Poland,Greece,0,Central and Eastern Europe,Southern Europe,0,2.1785714285714284,14
+Poland,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,3.35,10
+Poland,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.4642857142857142,14
+Poland,Ireland,0,Central and Eastern Europe,Western Europe,0,1.25,14
+Poland,Israel,0,Central and Eastern Europe,Non-European,0,1.6607142857142858,14
+Poland,Italy,0,Central and Eastern Europe,Southern Europe,0,3.5714285714285716,7
+Poland,Latvia,0,Central and Eastern Europe,Northern Europe,0,2.4166666666666665,12
+Poland,Lithuania,1,Central and Eastern Europe,Northern Europe,0,2.85,10
+Poland,Malta,0,Central and Eastern Europe,Southern Europe,0,0.75,14
+Poland,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,1.8888888888888888,9
+Poland,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,0.0,7
+Poland,Netherlands,0,Central and Eastern Europe,Western Europe,0,1.9807692307692308,13
+Poland,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5,8
+Poland,Norway,0,Central and Eastern Europe,Northern Europe,0,3.484375,16
+Poland,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.9615384615384615,13
+Poland,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,2.3846153846153846,13
+Poland,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.8333333333333335,15
+Poland,San Marino,0,Central and Eastern Europe,Southern Europe,0,0.25,6
+Poland,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.4545454545454546,11
+Poland,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.3035714285714284,14
+Poland,Spain,0,Central and Eastern Europe,Southern Europe,0,0.40625,16
+Poland,Sweden,0,Central and Eastern Europe,Northern Europe,0,4.116666666666666,15
+Poland,Switzerland,0,Central and Eastern Europe,Western Europe,0,2.8125,8
+Poland,Türkiye,0,Central and Eastern Europe,Southern Europe,0,1.05,10
+Poland,Ukraine,1,Central and Eastern Europe,Central and Eastern Europe,1,8.076923076923077,13
+Poland,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.71875,16
+Portugal,Albania,0,Southern Europe,Central and Eastern Europe,0,0.6964285714285714,14
+Portugal,Andorra,0,Southern Europe,Western Europe,0,2.0,5
+Portugal,Armenia,0,Southern Europe,Central and Eastern Europe,0,0.9,10
+Portugal,Australia,0,Southern Europe,Non-European,0,2.125,4
+Portugal,Austria,0,Southern Europe,Western Europe,0,3.75,9
+Portugal,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,2.275,10
+Portugal,Belarus,0,Southern Europe,Central and Eastern Europe,0,0.5,12
+Portugal,Belgium,0,Southern Europe,Western Europe,0,4.25,12
+Portugal,Bulgaria,0,Southern Europe,Central and Eastern Europe,0,2.625,8
+Portugal,Croatia,0,Southern Europe,Central and Eastern Europe,0,0.5833333333333334,12
+Portugal,Cyprus,0,Southern Europe,Southern Europe,1,0.9375,12
+Portugal,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,2.2142857142857144,7
+Portugal,Denmark,0,Southern Europe,Northern Europe,0,2.0,14
+Portugal,Estonia,0,Southern Europe,Northern Europe,0,2.4642857142857144,14
+Portugal,Finland,0,Southern Europe,Northern Europe,0,1.7083333333333333,12
+Portugal,France,0,Southern Europe,Western Europe,0,2.09375,16
+Portugal,Georgia,0,Southern Europe,Central and Eastern Europe,0,1.1875,8
+Portugal,Germany,0,Southern Europe,Western Europe,0,2.375,16
+Portugal,Greece,0,Southern Europe,Southern Europe,1,2.0625,16
+Portugal,Hungary,0,Southern Europe,Central and Eastern Europe,0,2.5,10
+Portugal,Iceland,0,Southern Europe,Northern Europe,0,2.078125,16
+Portugal,Ireland,0,Southern Europe,Western Europe,0,1.9318181818181819,11
+Portugal,Israel,0,Southern Europe,Non-European,0,1.8076923076923077,13
+Portugal,Italy,0,Southern Europe,Southern Europe,1,5.928571428571429,7
+Portugal,Latvia,0,Southern Europe,Northern Europe,0,2.409090909090909,11
+Portugal,Lithuania,0,Southern Europe,Northern Europe,0,1.5454545454545454,11
+Portugal,Malta,0,Southern Europe,Southern Europe,1,0.9642857142857143,14
+Portugal,Moldova,0,Southern Europe,Central and Eastern Europe,0,6.8,10
+Portugal,Monaco,0,Southern Europe,Western Europe,0,0.0,3
+Portugal,Montenegro,0,Southern Europe,Central and Eastern Europe,0,1.0833333333333333,6
+Portugal,Netherlands,0,Southern Europe,Western Europe,0,3.409090909090909,11
+Portugal,North Macedonia,0,Southern Europe,Central and Eastern Europe,0,0.25,10
+Portugal,Norway,0,Southern Europe,Northern Europe,0,2.5,16
+Portugal,Poland,0,Southern Europe,Central and Eastern Europe,0,0.21153846153846154,13
+Portugal,Romania,0,Southern Europe,Central and Eastern Europe,0,5.423076923076923,13
+Portugal,Russia,0,Southern Europe,Central and Eastern Europe,0,3.75,14
+Portugal,San Marino,0,Southern Europe,Southern Europe,1,0.375,4
+Portugal,Serbia,0,Southern Europe,Central and Eastern Europe,0,2.375,10
+Portugal,Slovenia,0,Southern Europe,Central and Eastern Europe,0,1.2307692307692308,13
+Portugal,Spain,1,Southern Europe,Southern Europe,1,7.53125,16
+Portugal,Sweden,0,Southern Europe,Northern Europe,0,4.05,15
+Portugal,Switzerland,0,Southern Europe,Western Europe,0,1.8181818181818181,11
+Portugal,Türkiye,0,Southern Europe,Southern Europe,1,1.0909090909090908,11
+Portugal,Ukraine,0,Southern Europe,Central and Eastern Europe,0,5.884615384615385,13
+Portugal,United Kingdom,0,Southern Europe,Western Europe,0,1.0625,16
+Romania,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.7291666666666666,12
+Romania,Andorra,0,Central and Eastern Europe,Western Europe,0,0.0,6
+Romania,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.25,10
+Romania,Australia,0,Central and Eastern Europe,Non-European,0,3.3125,4
+Romania,Austria,0,Central and Eastern Europe,Western Europe,0,1.4615384615384615,13
+Romania,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,4.775,10
+Romania,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6041666666666666,12
+Romania,Belgium,0,Central and Eastern Europe,Western Europe,0,2.033333333333333,15
+Romania,Bulgaria,1,Central and Eastern Europe,Central and Eastern Europe,1,1.6666666666666667,9
+Romania,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.5833333333333333,12
+Romania,Cyprus,0,Central and Eastern Europe,Southern Europe,0,2.5357142857142856,14
+Romania,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,1.375,4
+Romania,Denmark,0,Central and Eastern Europe,Northern Europe,0,2.6911764705882355,17
+Romania,Estonia,0,Central and Eastern Europe,Northern Europe,0,0.8125,16
+Romania,Finland,0,Central and Eastern Europe,Northern Europe,0,0.9285714285714286,14
+Romania,France,0,Central and Eastern Europe,Western Europe,0,0.6944444444444444,18
+Romania,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.375,8
+Romania,Germany,0,Central and Eastern Europe,Western Europe,0,0.8333333333333334,18
+Romania,Greece,0,Central and Eastern Europe,Southern Europe,0,7.34375,16
+Romania,Hungary,1,Central and Eastern Europe,Central and Eastern Europe,1,7.638888888888889,9
+Romania,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.0357142857142858,14
+Romania,Ireland,0,Central and Eastern Europe,Western Europe,0,1.3333333333333333,15
+Romania,Israel,0,Central and Eastern Europe,Non-European,0,2.6805555555555554,18
+Romania,Italy,0,Central and Eastern Europe,Southern Europe,0,3.625,8
+Romania,Latvia,0,Central and Eastern Europe,Northern Europe,0,0.6428571428571429,14
+Romania,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.36666666666666664,15
+Romania,Malta,0,Central and Eastern Europe,Southern Europe,0,2.017857142857143,14
+Romania,Moldova,1,Central and Eastern Europe,Central and Eastern Europe,1,11.596153846153847,13
+Romania,Monaco,0,Central and Eastern Europe,Western Europe,0,0.0,3
+Romania,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5,7
+Romania,Netherlands,0,Central and Eastern Europe,Western Europe,0,2.1333333333333333,15
+Romania,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.625,14
+Romania,Norway,0,Central and Eastern Europe,Northern Europe,0,2.359375,16
+Romania,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5,10
+Romania,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.8,10
+Romania,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,4.455882352941177,17
+Romania,San Marino,0,Central and Eastern Europe,Southern Europe,0,0.9285714285714286,7
+Romania,Serbia,1,Central and Eastern Europe,Central and Eastern Europe,1,3.4545454545454546,11
+Romania,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.1730769230769231,13
+Romania,Spain,0,Central and Eastern Europe,Southern Europe,0,2.111111111111111,18
+Romania,Sweden,0,Central and Eastern Europe,Northern Europe,0,3.9444444444444446,18
+Romania,Switzerland,0,Central and Eastern Europe,Western Europe,0,2.0714285714285716,14
+Romania,Türkiye,0,Central and Eastern Europe,Southern Europe,0,7.090909090909091,11
+Romania,Ukraine,1,Central and Eastern Europe,Central and Eastern Europe,1,2.232142857142857,14
+Romania,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.4444444444444444,18
+Russia,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6153846153846154,13
+Russia,Andorra,0,Central and Eastern Europe,Western Europe,0,1.0,4
+Russia,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,9.272727272727273,11
+Russia,Australia,0,Central and Eastern Europe,Non-European,0,2.8125,4
+Russia,Austria,0,Central and Eastern Europe,Western Europe,0,0.75,14
+Russia,Azerbaijan,1,Central and Eastern Europe,Central and Eastern Europe,1,9.875,10
+Russia,Belarus,1,Central and Eastern Europe,Central and Eastern Europe,1,7.9375,8
+Russia,Belgium,0,Central and Eastern Europe,Western Europe,0,2.892857142857143,14
+Russia,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,0.4,5
+Russia,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.9821428571428572,14
+Russia,Cyprus,0,Central and Eastern Europe,Southern Europe,0,2.05,15
+Russia,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,0.625,4
+Russia,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.796875,16
+Russia,Estonia,1,Central and Eastern Europe,Northern Europe,0,2.3055555555555554,18
+Russia,Finland,1,Central and Eastern Europe,Northern Europe,0,1.2666666666666666,15
+Russia,France,0,Central and Eastern Europe,Western Europe,0,2.1052631578947367,19
+Russia,Georgia,1,Central and Eastern Europe,Central and Eastern Europe,1,6.125,8
+Russia,Germany,0,Central and Eastern Europe,Western Europe,0,1.5263157894736843,19
+Russia,Greece,0,Central and Eastern Europe,Southern Europe,0,4.5,17
+Russia,Hungary,0,Central and Eastern Europe,Central and Eastern Europe,1,1.95,10
+Russia,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.0,16
+Russia,Ireland,0,Central and Eastern Europe,Western Europe,0,0.6333333333333333,15
+Russia,Israel,0,Central and Eastern Europe,Non-European,0,2.4,15
+Russia,Italy,0,Central and Eastern Europe,Southern Europe,0,2.0,8
+Russia,Latvia,1,Central and Eastern Europe,Northern Europe,0,1.625,16
+Russia,Lithuania,1,Central and Eastern Europe,Northern Europe,0,2.6923076923076925,13
+Russia,Malta,0,Central and Eastern Europe,Southern Europe,0,2.3529411764705883,17
+Russia,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,5.857142857142857,14
+Russia,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5,8
+Russia,Netherlands,0,Central and Eastern Europe,Western Europe,0,1.45,15
+Russia,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.3,10
+Russia,Norway,1,Central and Eastern Europe,Northern Europe,0,2.7205882352941178,17
+Russia,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,1.5,14
+Russia,Portugal,0,Central and Eastern Europe,Southern Europe,0,0.0,11
+Russia,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,3.1176470588235294,17
+Russia,San Marino,0,Central and Eastern Europe,Southern Europe,0,0.6428571428571429,7
+Russia,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.326923076923077,13
+Russia,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.75,14
+Russia,Spain,0,Central and Eastern Europe,Southern Europe,0,0.7105263157894737,19
+Russia,Sweden,0,Central and Eastern Europe,Northern Europe,0,2.2222222222222223,18
+Russia,Switzerland,0,Central and Eastern Europe,Western Europe,0,1.2777777777777777,9
+Russia,Türkiye,0,Central and Eastern Europe,Southern Europe,0,1.2692307692307692,13
+Russia,Ukraine,1,Central and Eastern Europe,Central and Eastern Europe,1,7.392857142857143,14
+Russia,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.8947368421052632,19
+San Marino,Albania,0,Southern Europe,Central and Eastern Europe,0,4.6875,8
+San Marino,Armenia,0,Southern Europe,Central and Eastern Europe,0,4.142857142857143,7
+San Marino,Australia,0,Southern Europe,Non-European,0,3.0,5
+San Marino,Austria,0,Southern Europe,Western Europe,0,0.42857142857142855,7
+San Marino,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,3.888888888888889,9
+San Marino,Belarus,0,Southern Europe,Central and Eastern Europe,0,0.0625,4
+San Marino,Belgium,0,Southern Europe,Western Europe,0,2.3125,8
+San Marino,Bulgaria,0,Southern Europe,Central and Eastern Europe,0,4.75,4
+San Marino,Croatia,0,Southern Europe,Central and Eastern Europe,0,1.875,4
+San Marino,Cyprus,0,Southern Europe,Southern Europe,1,2.75,6
+San Marino,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,3.0625,4
+San Marino,Denmark,0,Southern Europe,Northern Europe,0,1.84375,8
+San Marino,Estonia,0,Southern Europe,Northern Europe,0,0.45,10
+San Marino,Finland,0,Southern Europe,Northern Europe,0,1.25,8
+San Marino,France,0,Southern Europe,Western Europe,0,1.2,10
+San Marino,Georgia,0,Southern Europe,Central and Eastern Europe,0,1.2142857142857142,7
+San Marino,Germany,0,Southern Europe,Western Europe,0,0.7,10
+San Marino,Greece,0,Southern Europe,Southern Europe,1,5.0,9
+San Marino,Hungary,0,Southern Europe,Central and Eastern Europe,0,2.8055555555555554,9
+San Marino,Iceland,0,Southern Europe,Northern Europe,0,2.3125,8
+San Marino,Ireland,0,Southern Europe,Western Europe,0,2.0,7
+San Marino,Israel,0,Southern Europe,Non-European,0,3.15625,8
+San Marino,Italy,1,Southern Europe,Southern Europe,1,7.166666666666667,9
+San Marino,Latvia,0,Southern Europe,Northern Europe,0,2.7857142857142856,7
+San Marino,Lithuania,0,Southern Europe,Northern Europe,0,1.2142857142857142,7
+San Marino,Malta,0,Southern Europe,Southern Europe,1,4.833333333333333,9
+San Marino,Moldova,0,Southern Europe,Central and Eastern Europe,0,2.71875,8
+San Marino,Montenegro,0,Southern Europe,Central and Eastern Europe,0,2.7142857142857144,7
+San Marino,Netherlands,0,Southern Europe,Western Europe,0,3.857142857142857,7
+San Marino,North Macedonia,0,Southern Europe,Central and Eastern Europe,0,1.125,4
+San Marino,Norway,0,Southern Europe,Northern Europe,0,3.3333333333333335,9
+San Marino,Poland,0,Southern Europe,Central and Eastern Europe,0,1.6875,8
+San Marino,Portugal,0,Southern Europe,Southern Europe,1,2.0714285714285716,7
+San Marino,Romania,0,Southern Europe,Central and Eastern Europe,0,1.25,8
+San Marino,Russia,0,Southern Europe,Central and Eastern Europe,0,3.0,9
+San Marino,Serbia,0,Southern Europe,Central and Eastern Europe,0,1.875,8
+San Marino,Slovenia,0,Southern Europe,Central and Eastern Europe,0,1.0416666666666667,6
+San Marino,Spain,0,Southern Europe,Southern Europe,1,0.1,10
+San Marino,Sweden,0,Southern Europe,Northern Europe,0,3.525,10
+San Marino,Switzerland,0,Southern Europe,Western Europe,0,1.0,7
+San Marino,Türkiye,0,Southern Europe,Southern Europe,1,7.0,3
+San Marino,Ukraine,0,Southern Europe,Central and Eastern Europe,0,2.25,8
+San Marino,United Kingdom,0,Southern Europe,Western Europe,0,2.35,10
+Serbia,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.6538461538461537,13
+Serbia,Andorra,0,Central and Eastern Europe,Western Europe,0,0.0,4
+Serbia,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.1,10
+Serbia,Australia,0,Central and Eastern Europe,Non-European,0,3.45,5
+Serbia,Austria,0,Central and Eastern Europe,Western Europe,0,0.75,9
+Serbia,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,1.45,10
+Serbia,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,0.8333333333333334,12
+Serbia,Belgium,0,Central and Eastern Europe,Western Europe,0,1.825,10
+Serbia,Bulgaria,1,Central and Eastern Europe,Central and Eastern Europe,1,3.5625,8
+Serbia,Croatia,1,Central and Eastern Europe,Central and Eastern Europe,1,8.431818181818182,11
+Serbia,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.8571428571428572,14
+Serbia,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,1.25,5
+Serbia,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.25,15
+Serbia,Estonia,0,Central and Eastern Europe,Northern Europe,0,0.9230769230769231,13
+Serbia,Finland,0,Central and Eastern Europe,Northern Europe,0,1.0833333333333333,12
+Serbia,France,0,Central and Eastern Europe,Western Europe,0,0.5666666666666667,15
+Serbia,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.725,10
+Serbia,Germany,0,Central and Eastern Europe,Western Europe,0,0.8666666666666667,15
+Serbia,Greece,0,Central and Eastern Europe,Southern Europe,0,5.653846153846154,13
+Serbia,Hungary,1,Central and Eastern Europe,Central and Eastern Europe,1,6.041666666666667,12
+Serbia,Iceland,0,Central and Eastern Europe,Northern Europe,0,0.9318181818181818,11
+Serbia,Ireland,0,Central and Eastern Europe,Western Europe,0,0.2916666666666667,12
+Serbia,Israel,0,Central and Eastern Europe,Non-European,0,2.3958333333333335,12
+Serbia,Italy,0,Central and Eastern Europe,Southern Europe,0,4.4375,8
+Serbia,Latvia,0,Central and Eastern Europe,Northern Europe,0,0.35,10
+Serbia,Lithuania,0,Central and Eastern Europe,Northern Europe,0,1.0192307692307692,13
+Serbia,Malta,0,Central and Eastern Europe,Southern Europe,0,1.75,14
+Serbia,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,2.840909090909091,11
+Serbia,Monaco,0,Central and Eastern Europe,Western Europe,0,0.0,3
+Serbia,Montenegro,1,Central and Eastern Europe,Central and Eastern Europe,1,10.5,5
+Serbia,Netherlands,0,Central and Eastern Europe,Western Europe,0,0.9375,12
+Serbia,North Macedonia,1,Central and Eastern Europe,Central and Eastern Europe,1,10.636363636363637,11
+Serbia,Norway,0,Central and Eastern Europe,Northern Europe,0,2.283333333333333,15
+Serbia,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,0.3076923076923077,13
+Serbia,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.6666666666666667,12
+Serbia,Romania,1,Central and Eastern Europe,Central and Eastern Europe,1,1.5769230769230769,13
+Serbia,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,5.178571428571429,14
+Serbia,San Marino,0,Central and Eastern Europe,Southern Europe,0,0.375,4
+Serbia,Slovakia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.3333333333333335,3
+Serbia,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,5.854166666666667,12
+Serbia,Spain,0,Central and Eastern Europe,Southern Europe,0,0.06666666666666667,15
+Serbia,Sweden,0,Central and Eastern Europe,Northern Europe,0,2.9107142857142856,14
+Serbia,Switzerland,0,Central and Eastern Europe,Western Europe,0,1.3333333333333333,9
+Serbia,Türkiye,0,Central and Eastern Europe,Southern Europe,0,0.5555555555555556,9
+Serbia,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,4.365384615384615,13
+Serbia,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.6,15
+Slovakia,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6666666666666666,3
+Slovakia,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,5.25,4
+Slovakia,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,0.8333333333333334,3
+Slovakia,Cyprus,0,Central and Eastern Europe,Southern Europe,0,0.75,4
+Slovakia,Denmark,0,Central and Eastern Europe,Northern Europe,0,2.875,4
+Slovakia,Estonia,0,Central and Eastern Europe,Northern Europe,0,5.5,4
+Slovakia,Finland,0,Central and Eastern Europe,Northern Europe,0,0.6666666666666666,3
+Slovakia,France,0,Central and Eastern Europe,Western Europe,0,0.0,4
+Slovakia,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.0,3
+Slovakia,Germany,0,Central and Eastern Europe,Western Europe,0,3.0,4
+Slovakia,Greece,0,Central and Eastern Europe,Southern Europe,0,2.25,4
+Slovakia,Hungary,1,Central and Eastern Europe,Central and Eastern Europe,1,3.3333333333333335,3
+Slovakia,Iceland,0,Central and Eastern Europe,Northern Europe,0,3.375,4
+Slovakia,Ireland,0,Central and Eastern Europe,Western Europe,0,1.25,4
+Slovakia,Israel,0,Central and Eastern Europe,Non-European,0,4.333333333333333,3
+Slovakia,Latvia,0,Central and Eastern Europe,Northern Europe,0,0.0,3
+Slovakia,Lithuania,0,Central and Eastern Europe,Northern Europe,0,1.1666666666666667,3
+Slovakia,Malta,0,Central and Eastern Europe,Southern Europe,0,4.333333333333333,3
+Slovakia,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,2.0,4
+Slovakia,Netherlands,0,Central and Eastern Europe,Western Europe,0,0.0,3
+Slovakia,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.5,3
+Slovakia,Norway,0,Central and Eastern Europe,Northern Europe,0,5.666666666666667,3
+Slovakia,Portugal,0,Central and Eastern Europe,Southern Europe,0,3.0,3
+Slovakia,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0,4
+Slovakia,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.5,4
+Slovakia,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.625,4
+Slovakia,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.5,3
+Slovakia,Spain,0,Central and Eastern Europe,Southern Europe,0,0.5,4
+Slovakia,Sweden,0,Central and Eastern Europe,Northern Europe,0,7.166666666666667,3
+Slovakia,Türkiye,0,Central and Eastern Europe,Southern Europe,0,0.5,3
+Slovakia,Ukraine,1,Central and Eastern Europe,Central and Eastern Europe,1,4.0,4
+Slovakia,United Kingdom,0,Central and Eastern Europe,Western Europe,0,1.75,4
+Slovenia,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.6538461538461537,13
+Slovenia,Andorra,0,Central and Eastern Europe,Western Europe,0,1.0,5
+Slovenia,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.8,10
+Slovenia,Australia,0,Central and Eastern Europe,Non-European,0,3.1,5
+Slovenia,Austria,1,Central and Eastern Europe,Western Europe,0,3.9166666666666665,12
+Slovenia,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,1.7727272727272727,11
+Slovenia,Belarus,0,Central and Eastern Europe,Central and Eastern Europe,1,0.7083333333333334,12
+Slovenia,Belgium,0,Central and Eastern Europe,Western Europe,0,2.2857142857142856,14
+Slovenia,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,2.4722222222222223,9
+Slovenia,Croatia,1,Central and Eastern Europe,Central and Eastern Europe,1,8.0,14
+Slovenia,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.234375,16
+Slovenia,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,3.4583333333333335,6
+Slovenia,Denmark,0,Central and Eastern Europe,Northern Europe,0,3.75,17
+Slovenia,Estonia,0,Central and Eastern Europe,Northern Europe,0,1.7333333333333334,15
+Slovenia,Finland,0,Central and Eastern Europe,Northern Europe,0,1.2692307692307692,13
+Slovenia,France,0,Central and Eastern Europe,Western Europe,0,1.131578947368421,19
+Slovenia,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,0.6458333333333334,12
+Slovenia,Germany,0,Central and Eastern Europe,Western Europe,0,1.4736842105263157,19
+Slovenia,Greece,0,Central and Eastern Europe,Southern Europe,0,1.7647058823529411,17
+Slovenia,Hungary,1,Central and Eastern Europe,Central and Eastern Europe,1,1.5208333333333333,12
+Slovenia,Iceland,0,Central and Eastern Europe,Northern Europe,0,1.390625,16
+Slovenia,Ireland,0,Central and Eastern Europe,Western Europe,0,0.59375,16
+Slovenia,Israel,0,Central and Eastern Europe,Non-European,0,0.7941176470588235,17
+Slovenia,Italy,1,Central and Eastern Europe,Southern Europe,0,4.833333333333333,9
+Slovenia,Latvia,0,Central and Eastern Europe,Northern Europe,0,2.125,14
+Slovenia,Lithuania,0,Central and Eastern Europe,Northern Europe,0,0.6833333333333333,15
+Slovenia,Malta,0,Central and Eastern Europe,Southern Europe,0,1.3333333333333333,15
+Slovenia,Moldova,0,Central and Eastern Europe,Central and Eastern Europe,1,1.7272727272727273,11
+Slovenia,Monaco,0,Central and Eastern Europe,Western Europe,0,0.0,3
+Slovenia,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,5.8125,8
+Slovenia,Netherlands,0,Central and Eastern Europe,Western Europe,0,2.411764705882353,17
+Slovenia,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,7.0,10
+Slovenia,Norway,0,Central and Eastern Europe,Northern Europe,0,2.5588235294117645,17
+Slovenia,Poland,0,Central and Eastern Europe,Central and Eastern Europe,1,0.9821428571428571,14
+Slovenia,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.4285714285714286,14
+Slovenia,Romania,0,Central and Eastern Europe,Central and Eastern Europe,1,1.34375,16
+Slovenia,Russia,0,Central and Eastern Europe,Central and Eastern Europe,1,3.111111111111111,18
+Slovenia,San Marino,0,Central and Eastern Europe,Southern Europe,0,0.15,5
+Slovenia,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,9.538461538461538,13
+Slovenia,Slovakia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.0,3
+Slovenia,Spain,0,Central and Eastern Europe,Southern Europe,0,0.6842105263157895,19
+Slovenia,Sweden,0,Central and Eastern Europe,Northern Europe,0,4.302631578947368,19
+Slovenia,Switzerland,0,Central and Eastern Europe,Western Europe,0,2.0,11
+Slovenia,Türkiye,0,Central and Eastern Europe,Southern Europe,0,1.3181818181818181,11
+Slovenia,Ukraine,0,Central and Eastern Europe,Central and Eastern Europe,1,2.533333333333333,15
+Slovenia,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.9473684210526315,19
+Spain,Albania,0,Southern Europe,Central and Eastern Europe,0,0.6833333333333333,15
+Spain,Andorra,1,Southern Europe,Western Europe,0,11.2,5
+Spain,Armenia,0,Southern Europe,Central and Eastern Europe,0,5.25,12
+Spain,Australia,0,Southern Europe,Non-European,0,5.1,5
+Spain,Austria,0,Southern Europe,Western Europe,0,2.8461538461538463,13
+Spain,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,1.875,12
+Spain,Belarus,0,Southern Europe,Central and Eastern Europe,0,0.1590909090909091,11
+Spain,Belgium,0,Southern Europe,Western Europe,0,2.235294117647059,17
+Spain,Bulgaria,0,Southern Europe,Central and Eastern Europe,0,6.714285714285714,7
+Spain,Croatia,0,Southern Europe,Central and Eastern Europe,0,0.17857142857142858,14
+Spain,Cyprus,0,Southern Europe,Southern Europe,1,2.033333333333333,15
+Spain,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,3.85,5
+Spain,Denmark,0,Southern Europe,Northern Europe,0,2.611111111111111,18
+Spain,Estonia,0,Southern Europe,Northern Europe,0,1.5263157894736843,19
+Spain,Finland,0,Southern Europe,Northern Europe,0,1.8194444444444444,18
+Spain,France,1,Southern Europe,Western Europe,0,2.45,20
+Spain,Georgia,0,Southern Europe,Central and Eastern Europe,0,0.7777777777777778,9
+Spain,Germany,0,Southern Europe,Western Europe,0,3.975,20
+Spain,Greece,0,Southern Europe,Southern Europe,1,3.1315789473684212,19
+Spain,Hungary,0,Southern Europe,Central and Eastern Europe,0,2.4791666666666665,12
+Spain,Iceland,0,Southern Europe,Northern Europe,0,2.4027777777777777,18
+Spain,Ireland,0,Southern Europe,Western Europe,0,1.3214285714285714,14
+Spain,Israel,0,Southern Europe,Non-European,0,1.5972222222222223,18
+Spain,Italy,0,Southern Europe,Southern Europe,1,7.0,9
+Spain,Latvia,0,Southern Europe,Northern Europe,0,1.5294117647058822,17
+Spain,Lithuania,0,Southern Europe,Northern Europe,0,0.4807692307692308,13
+Spain,Malta,0,Southern Europe,Southern Europe,1,1.8125,16
+Spain,Moldova,0,Southern Europe,Central and Eastern Europe,0,2.75,14
+Spain,Monaco,0,Southern Europe,Western Europe,0,0.0,3
+Spain,Montenegro,0,Southern Europe,Central and Eastern Europe,0,0.3125,8
+Spain,Netherlands,0,Southern Europe,Western Europe,0,1.828125,16
+Spain,North Macedonia,0,Southern Europe,Central and Eastern Europe,0,0.0,12
+Spain,Norway,0,Southern Europe,Northern Europe,0,2.0555555555555554,18
+Spain,Poland,0,Southern Europe,Central and Eastern Europe,0,1.65,15
+Spain,Portugal,1,Southern Europe,Southern Europe,1,6.142857142857143,14
+Spain,Romania,0,Southern Europe,Central and Eastern Europe,0,8.28125,16
+Spain,Russia,0,Southern Europe,Central and Eastern Europe,0,3.0833333333333335,18
+Spain,San Marino,0,Southern Europe,Southern Europe,1,2.0714285714285716,7
+Spain,Serbia,0,Southern Europe,Central and Eastern Europe,0,1.8125,12
+Spain,Slovenia,0,Southern Europe,Central and Eastern Europe,0,1.2,15
+Spain,Sweden,0,Southern Europe,Northern Europe,0,4.4605263157894735,19
+Spain,Switzerland,0,Southern Europe,Western Europe,0,1.0416666666666667,12
+Spain,Türkiye,0,Southern Europe,Southern Europe,1,1.1538461538461537,13
+Spain,Ukraine,0,Southern Europe,Central and Eastern Europe,0,4.0,15
+Spain,United Kingdom,0,Southern Europe,Western Europe,0,1.125,20
+Sweden,Albania,0,Northern Europe,Central and Eastern Europe,0,1.1538461538461537,13
+Sweden,Andorra,0,Northern Europe,Western Europe,0,0.4,5
+Sweden,Armenia,0,Northern Europe,Central and Eastern Europe,0,1.8863636363636365,11
+Sweden,Australia,0,Northern Europe,Non-European,0,8.35,5
+Sweden,Austria,0,Northern Europe,Western Europe,0,2.6785714285714284,14
+Sweden,Azerbaijan,0,Northern Europe,Central and Eastern Europe,0,2.1136363636363638,11
+Sweden,Belarus,0,Northern Europe,Central and Eastern Europe,0,0.19230769230769232,13
+Sweden,Belgium,0,Northern Europe,Western Europe,0,2.3666666666666667,15
+Sweden,Bulgaria,0,Northern Europe,Central and Eastern Europe,0,1.1818181818181819,11
+Sweden,Croatia,0,Northern Europe,Central and Eastern Europe,0,0.46875,16
+Sweden,Cyprus,0,Northern Europe,Southern Europe,0,2.3970588235294117,17
+Sweden,Czech Republic,0,Northern Europe,Central and Eastern Europe,0,0.9375,8
+Sweden,Denmark,1,Northern Europe,Northern Europe,1,6.867647058823529,17
+Sweden,Estonia,0,Northern Europe,Northern Europe,1,4.176470588235294,17
+Sweden,Finland,1,Northern Europe,Northern Europe,1,7.357142857142857,14
+Sweden,France,0,Northern Europe,Western Europe,0,1.45,20
+Sweden,Georgia,0,Northern Europe,Central and Eastern Europe,0,0.75,10
+Sweden,Germany,0,Northern Europe,Western Europe,0,1.7,20
+Sweden,Greece,0,Northern Europe,Southern Europe,0,2.1666666666666665,18
+Sweden,Hungary,0,Northern Europe,Central and Eastern Europe,0,2.75,11
+Sweden,Iceland,0,Northern Europe,Northern Europe,1,4.861111111111111,18
+Sweden,Ireland,0,Northern Europe,Western Europe,0,2.25,14
+Sweden,Israel,0,Northern Europe,Non-European,0,1.7058823529411764,17
+Sweden,Italy,0,Northern Europe,Southern Europe,0,1.9444444444444444,9
+Sweden,Latvia,0,Northern Europe,Northern Europe,1,2.34375,16
+Sweden,Lithuania,0,Northern Europe,Northern Europe,1,1.375,16
+Sweden,Malta,0,Northern Europe,Southern Europe,0,1.6323529411764706,17
+Sweden,Moldova,0,Northern Europe,Central and Eastern Europe,0,1.2307692307692308,13
+Sweden,Monaco,0,Northern Europe,Western Europe,0,0.0,3
+Sweden,Montenegro,0,Northern Europe,Central and Eastern Europe,0,1.0625,8
+Sweden,Netherlands,0,Northern Europe,Western Europe,0,2.859375,16
+Sweden,North Macedonia,0,Northern Europe,Central and Eastern Europe,0,0.7272727272727273,11
+Sweden,Norway,1,Northern Europe,Northern Europe,1,6.897058823529412,17
+Sweden,Poland,0,Northern Europe,Central and Eastern Europe,0,2.0625,12
+Sweden,Portugal,0,Northern Europe,Southern Europe,0,1.2678571428571428,14
+Sweden,Romania,0,Northern Europe,Central and Eastern Europe,0,1.6944444444444444,18
+Sweden,Russia,0,Northern Europe,Central and Eastern Europe,0,2.8552631578947367,19
+Sweden,San Marino,0,Northern Europe,Southern Europe,0,0.0,5
+Sweden,Serbia,0,Northern Europe,Central and Eastern Europe,0,4.666666666666667,12
+Sweden,Slovenia,0,Northern Europe,Central and Eastern Europe,0,0.671875,16
+Sweden,Spain,0,Northern Europe,Southern Europe,0,1.05,20
+Sweden,Switzerland,0,Northern Europe,Western Europe,0,1.0192307692307692,13
+Sweden,Türkiye,0,Northern Europe,Southern Europe,0,3.7916666666666665,12
+Sweden,Ukraine,0,Northern Europe,Central and Eastern Europe,0,1.8833333333333333,15
+Sweden,United Kingdom,0,Northern Europe,Western Europe,0,0.25,20
+Switzerland,Albania,0,Western Europe,Central and Eastern Europe,0,7.303571428571429,14
+Switzerland,Andorra,0,Western Europe,Western Europe,1,0.0,5
+Switzerland,Armenia,0,Western Europe,Central and Eastern Europe,0,0.2692307692307692,13
+Switzerland,Australia,0,Western Europe,Non-European,0,3.95,5
+Switzerland,Austria,1,Western Europe,Western Europe,1,4.596153846153846,13
+Switzerland,Azerbaijan,0,Western Europe,Central and Eastern Europe,0,0.875,12
+Switzerland,Belarus,0,Western Europe,Central and Eastern Europe,0,0.057692307692307696,13
+Switzerland,Belgium,0,Western Europe,Western Europe,1,1.5535714285714286,14
+Switzerland,Bulgaria,0,Western Europe,Central and Eastern Europe,0,1.125,10
+Switzerland,Croatia,0,Western Europe,Central and Eastern Europe,0,4.071428571428571,14
+Switzerland,Cyprus,0,Western Europe,Southern Europe,0,0.875,14
+Switzerland,Czech Republic,0,Western Europe,Central and Eastern Europe,0,0.39285714285714285,7
+Switzerland,Denmark,0,Western Europe,Northern Europe,0,2.1176470588235294,17
+Switzerland,Estonia,0,Western Europe,Northern Europe,0,0.44642857142857145,14
+Switzerland,Finland,0,Western Europe,Northern Europe,0,1.9807692307692308,13
+Switzerland,France,1,Western Europe,Western Europe,1,1.6944444444444444,18
+Switzerland,Georgia,0,Western Europe,Central and Eastern Europe,0,0.125,8
+Switzerland,Germany,1,Western Europe,Western Europe,1,5.138888888888889,18
+Switzerland,Greece,0,Western Europe,Southern Europe,0,2.65625,16
+Switzerland,Hungary,0,Western Europe,Central and Eastern Europe,0,2.2954545454545454,11
+Switzerland,Iceland,0,Western Europe,Northern Europe,0,1.9333333333333333,15
+Switzerland,Ireland,0,Western Europe,Western Europe,1,1.8666666666666667,15
+Switzerland,Israel,0,Western Europe,Non-European,0,1.3823529411764706,17
+Switzerland,Italy,1,Western Europe,Southern Europe,0,5.777777777777778,9
+Switzerland,Latvia,0,Western Europe,Northern Europe,0,2.3958333333333335,12
+Switzerland,Lithuania,0,Western Europe,Northern Europe,0,0.7352941176470589,17
+Switzerland,Malta,0,Western Europe,Southern Europe,0,0.96875,16
+Switzerland,Moldova,0,Western Europe,Central and Eastern Europe,0,0.6363636363636364,11
+Switzerland,Monaco,0,Western Europe,Western Europe,1,0.0,3
+Switzerland,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.5,5
+Switzerland,Netherlands,0,Western Europe,Western Europe,1,3.2291666666666665,12
+Switzerland,North Macedonia,0,Western Europe,Central and Eastern Europe,0,3.9833333333333334,15
+Switzerland,Norway,0,Western Europe,Northern Europe,0,2.823529411764706,17
+Switzerland,Poland,0,Western Europe,Central and Eastern Europe,0,0.55,10
+Switzerland,Portugal,0,Western Europe,Southern Europe,0,8.318181818181818,11
+Switzerland,Romania,0,Western Europe,Central and Eastern Europe,0,0.890625,16
+Switzerland,Russia,0,Western Europe,Central and Eastern Europe,0,1.109375,16
+Switzerland,San Marino,0,Western Europe,Southern Europe,0,0.0,7
+Switzerland,Serbia,0,Western Europe,Central and Eastern Europe,0,9.270833333333334,12
+Switzerland,Slovenia,0,Western Europe,Central and Eastern Europe,0,0.5833333333333334,12
+Switzerland,Spain,0,Western Europe,Southern Europe,0,3.2777777777777777,18
+Switzerland,Sweden,0,Western Europe,Northern Europe,0,3.4444444444444446,18
+Switzerland,Türkiye,0,Western Europe,Southern Europe,0,6.636363636363637,11
+Switzerland,Ukraine,0,Western Europe,Central and Eastern Europe,0,0.6071428571428571,14
+Switzerland,United Kingdom,0,Western Europe,Western Europe,1,0.4722222222222222,18
+Türkiye,Albania,0,Southern Europe,Central and Eastern Europe,0,5.722222222222222,9
+Türkiye,Andorra,0,Southern Europe,Western Europe,0,0.6,5
+Türkiye,Armenia,1,Southern Europe,Central and Eastern Europe,0,9.5,6
+Türkiye,Austria,0,Southern Europe,Western Europe,0,3.2857142857142856,7
+Türkiye,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,12.0,5
+Türkiye,Belarus,0,Southern Europe,Central and Eastern Europe,0,0.6875,8
+Türkiye,Belgium,0,Southern Europe,Western Europe,0,2.111111111111111,9
+Türkiye,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,6.0,7
+Türkiye,Croatia,0,Southern Europe,Central and Eastern Europe,0,2.1153846153846154,13
+Türkiye,Cyprus,0,Southern Europe,Southern Europe,1,0.7,10
+Türkiye,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,0.3333333333333333,3
+Türkiye,Denmark,0,Southern Europe,Northern Europe,0,0.8333333333333334,12
+Türkiye,Estonia,0,Southern Europe,Northern Europe,0,2.0,11
+Türkiye,Finland,0,Southern Europe,Northern Europe,0,0.7777777777777778,9
+Türkiye,France,0,Southern Europe,Western Europe,0,0.07692307692307693,13
+Türkiye,Georgia,1,Southern Europe,Central and Eastern Europe,0,7.6,5
+Türkiye,Germany,0,Southern Europe,Western Europe,0,2.076923076923077,13
+Türkiye,Greece,1,Southern Europe,Southern Europe,1,4.666666666666667,12
+Türkiye,Hungary,0,Southern Europe,Central and Eastern Europe,0,2.3,5
+Türkiye,Iceland,0,Southern Europe,Northern Europe,0,1.2083333333333333,12
+Türkiye,Ireland,0,Southern Europe,Western Europe,0,1.65,10
+Türkiye,Israel,0,Southern Europe,Non-European,0,1.5454545454545454,11
+Türkiye,Latvia,0,Southern Europe,Northern Europe,0,0.6666666666666666,9
+Türkiye,Lithuania,0,Southern Europe,Northern Europe,0,0.18181818181818182,11
+Türkiye,Malta,0,Southern Europe,Southern Europe,1,2.75,12
+Türkiye,Moldova,0,Southern Europe,Central and Eastern Europe,0,3.5714285714285716,7
+Türkiye,Monaco,0,Southern Europe,Western Europe,0,0.0,3
+Türkiye,Netherlands,0,Southern Europe,Western Europe,0,2.3333333333333335,9
+Türkiye,North Macedonia,0,Southern Europe,Central and Eastern Europe,0,4.833333333333333,9
+Türkiye,Norway,0,Southern Europe,Northern Europe,0,1.6666666666666667,12
+Türkiye,Poland,0,Southern Europe,Central and Eastern Europe,0,0.125,8
+Türkiye,Portugal,0,Southern Europe,Southern Europe,1,0.09090909090909091,11
+Türkiye,Romania,0,Southern Europe,Central and Eastern Europe,0,3.2083333333333335,12
+Türkiye,Russia,0,Southern Europe,Central and Eastern Europe,0,3.5384615384615383,13
+Türkiye,Serbia,0,Southern Europe,Central and Eastern Europe,0,1.0714285714285714,7
+Türkiye,Slovenia,0,Southern Europe,Central and Eastern Europe,0,0.35,10
+Türkiye,Spain,0,Southern Europe,Southern Europe,1,1.0,13
+Türkiye,Sweden,0,Southern Europe,Northern Europe,0,3.1923076923076925,13
+Türkiye,Switzerland,0,Southern Europe,Western Europe,0,0.0,10
+Türkiye,Ukraine,0,Southern Europe,Central and Eastern Europe,0,3.95,10
+Türkiye,United Kingdom,0,Southern Europe,Western Europe,0,1.1538461538461537,13
+Ukraine,Albania,0,Central and Eastern Europe,Central and Eastern Europe,1,0.3181818181818182,11
+Ukraine,Andorra,0,Central and Eastern Europe,Western Europe,0,0.0,4
+Ukraine,Armenia,0,Central and Eastern Europe,Central and Eastern Europe,1,5.555555555555555,9
+Ukraine,Australia,0,Central and Eastern Europe,Non-European,0,3.3333333333333335,3
+Ukraine,Austria,0,Central and Eastern Europe,Western Europe,0,1.2,10
+Ukraine,Azerbaijan,0,Central and Eastern Europe,Central and Eastern Europe,1,9.61111111111111,9
+Ukraine,Belarus,1,Central and Eastern Europe,Central and Eastern Europe,1,7.958333333333333,12
+Ukraine,Belgium,0,Central and Eastern Europe,Western Europe,0,2.0,11
+Ukraine,Bulgaria,0,Central and Eastern Europe,Central and Eastern Europe,1,1.65,10
+Ukraine,Croatia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.5208333333333335,12
+Ukraine,Cyprus,0,Central and Eastern Europe,Southern Europe,0,1.3214285714285714,14
+Ukraine,Czech Republic,0,Central and Eastern Europe,Central and Eastern Europe,1,1.75,4
+Ukraine,Denmark,0,Central and Eastern Europe,Northern Europe,0,1.375,14
+Ukraine,Estonia,0,Central and Eastern Europe,Northern Europe,0,1.8333333333333333,12
+Ukraine,Finland,0,Central and Eastern Europe,Northern Europe,0,0.65,10
+Ukraine,France,0,Central and Eastern Europe,Western Europe,0,1.5333333333333334,15
+Ukraine,Georgia,0,Central and Eastern Europe,Central and Eastern Europe,1,8.71875,8
+Ukraine,Germany,0,Central and Eastern Europe,Western Europe,0,0.6666666666666666,15
+Ukraine,Greece,0,Central and Eastern Europe,Southern Europe,0,1.9230769230769231,13
+Ukraine,Hungary,1,Central and Eastern Europe,Central and Eastern Europe,1,2.409090909090909,11
+Ukraine,Iceland,0,Central and Eastern Europe,Northern Europe,0,0.5,12
+Ukraine,Ireland,0,Central and Eastern Europe,Western Europe,0,0.5,13
+Ukraine,Israel,0,Central and Eastern Europe,Non-European,0,2.7708333333333335,12
+Ukraine,Italy,0,Central and Eastern Europe,Southern Europe,0,0.9285714285714286,7
+Ukraine,Latvia,0,Central and Eastern Europe,Northern Europe,0,1.7272727272727273,11
+Ukraine,Lithuania,0,Central and Eastern Europe,Northern Europe,0,1.7884615384615385,13
+Ukraine,Malta,0,Central and Eastern Europe,Southern Europe,0,1.6923076923076923,13
+Ukraine,Moldova,1,Central and Eastern Europe,Central and Eastern Europe,1,5.636363636363637,11
+Ukraine,Monaco,0,Central and Eastern Europe,Western Europe,0,0.0,3
+Ukraine,Montenegro,0,Central and Eastern Europe,Central and Eastern Europe,1,2.5,4
+Ukraine,Netherlands,0,Central and Eastern Europe,Western Europe,0,0.9107142857142857,14
+Ukraine,North Macedonia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.8888888888888888,9
+Ukraine,Norway,0,Central and Eastern Europe,Northern Europe,0,3.107142857142857,14
+Ukraine,Poland,1,Central and Eastern Europe,Central and Eastern Europe,1,5.431818181818182,11
+Ukraine,Portugal,0,Central and Eastern Europe,Southern Europe,0,1.7083333333333333,12
+Ukraine,Romania,1,Central and Eastern Europe,Central and Eastern Europe,1,1.1428571428571428,14
+Ukraine,Russia,1,Central and Eastern Europe,Central and Eastern Europe,1,8.714285714285714,14
+Ukraine,San Marino,0,Central and Eastern Europe,Southern Europe,0,0.6666666666666666,3
+Ukraine,Serbia,0,Central and Eastern Europe,Central and Eastern Europe,1,2.4791666666666665,12
+Ukraine,Slovakia,1,Central and Eastern Europe,Central and Eastern Europe,1,4.666666666666667,3
+Ukraine,Slovenia,0,Central and Eastern Europe,Central and Eastern Europe,1,1.1153846153846154,13
+Ukraine,Spain,0,Central and Eastern Europe,Southern Europe,0,0.4,15
+Ukraine,Sweden,0,Central and Eastern Europe,Northern Europe,0,2.9166666666666665,15
+Ukraine,Switzerland,0,Central and Eastern Europe,Western Europe,0,0.35,10
+Ukraine,Türkiye,0,Central and Eastern Europe,Southern Europe,0,2.7222222222222223,9
+Ukraine,United Kingdom,0,Central and Eastern Europe,Western Europe,0,0.6,15
+United Kingdom,Albania,0,Western Europe,Central and Eastern Europe,0,0.9107142857142857,14
+United Kingdom,Andorra,0,Western Europe,Western Europe,1,0.0,5
+United Kingdom,Armenia,0,Western Europe,Central and Eastern Europe,0,0.4807692307692308,13
+United Kingdom,Australia,0,Western Europe,Non-European,0,6.65,5
+United Kingdom,Austria,0,Western Europe,Western Europe,1,2.2142857142857144,14
+United Kingdom,Azerbaijan,0,Western Europe,Central and Eastern Europe,0,1.0833333333333333,12
+United Kingdom,Belarus,0,Western Europe,Central and Eastern Europe,0,0.14285714285714285,14
+United Kingdom,Belgium,0,Western Europe,Western Europe,1,1.625,14
+United Kingdom,Bulgaria,0,Western Europe,Central and Eastern Europe,0,4.05,10
+United Kingdom,Croatia,0,Western Europe,Central and Eastern Europe,0,0.5277777777777778,18
+United Kingdom,Cyprus,0,Western Europe,Southern Europe,0,4.265625,16
+United Kingdom,Czech Republic,0,Western Europe,Central and Eastern Europe,0,0.78125,8
+United Kingdom,Denmark,0,Western Europe,Northern Europe,0,3.986111111111111,18
+United Kingdom,Estonia,0,Western Europe,Northern Europe,0,2.566666666666667,15
+United Kingdom,Finland,0,Western Europe,Northern Europe,0,2.230769230769231,13
+United Kingdom,France,0,Western Europe,Western Europe,1,1.35,20
+United Kingdom,Georgia,0,Western Europe,Central and Eastern Europe,0,0.725,10
+United Kingdom,Germany,0,Western Europe,Western Europe,1,1.975,20
+United Kingdom,Greece,0,Western Europe,Southern Europe,0,5.291666666666667,18
+United Kingdom,Hungary,0,Western Europe,Central and Eastern Europe,0,0.9090909090909091,11
+United Kingdom,Iceland,0,Western Europe,Northern Europe,0,2.0833333333333335,18
+United Kingdom,Ireland,1,Western Europe,Western Europe,1,7.375,16
+United Kingdom,Israel,0,Western Europe,Non-European,0,2.1323529411764706,17
+United Kingdom,Italy,0,Western Europe,Southern Europe,0,1.7777777777777777,9
+United Kingdom,Latvia,0,Western Europe,Northern Europe,0,3.8076923076923075,13
+United Kingdom,Lithuania,0,Western Europe,Northern Europe,0,5.970588235294118,17
+United Kingdom,Malta,0,Western Europe,Southern Europe,0,4.455882352941177,17
+United Kingdom,Moldova,0,Western Europe,Central and Eastern Europe,0,2.227272727272727,11
+United Kingdom,Monaco,0,Western Europe,Western Europe,1,0.0,3
+United Kingdom,Montenegro,0,Western Europe,Central and Eastern Europe,0,0.0,6
+United Kingdom,Netherlands,0,Western Europe,Western Europe,1,1.9833333333333334,15
+United Kingdom,North Macedonia,0,Western Europe,Central and Eastern Europe,0,0.46153846153846156,13
+United Kingdom,Norway,0,Western Europe,Northern Europe,0,2.289473684210526,19
+United Kingdom,Poland,0,Western Europe,Central and Eastern Europe,0,2.6666666666666665,12
+United Kingdom,Portugal,0,Western Europe,Southern Europe,0,1.6071428571428572,14
+United Kingdom,Romania,0,Western Europe,Central and Eastern Europe,0,2.0294117647058822,17
+United Kingdom,Russia,0,Western Europe,Central and Eastern Europe,0,2.2916666666666665,18
+United Kingdom,San Marino,0,Western Europe,Southern Europe,0,0.0,4
+United Kingdom,Serbia,0,Western Europe,Central and Eastern Europe,0,0.9166666666666666,12
+United Kingdom,Slovenia,0,Western Europe,Central and Eastern Europe,0,0.4117647058823529,17
+United Kingdom,Spain,0,Western Europe,Southern Europe,0,1.175,20
+United Kingdom,Sweden,0,Western Europe,Northern Europe,0,4.925,20
+United Kingdom,Switzerland,0,Western Europe,Western Europe,1,1.0333333333333334,15
+United Kingdom,Türkiye,0,Western Europe,Southern Europe,0,4.923076923076923,13
+United Kingdom,Ukraine,0,Western Europe,Central and Eastern Europe,0,2.1666666666666665,15

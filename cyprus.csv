@@ -1,0 +1,129 @@
+year,round,from_country_id,to_country_id,from_country,to_country,total_points,tele_points,jury_points,neighboring,from_country_region,to_country_region,same_region,years_participated
+2000,final,cy,ru,Cyprus,Russia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2000,final,cy,ie,Cyprus,Ireland,7.0,,,0,Southern Europe,Western Europe,0,19
+2000,final,cy,mt,Cyprus,Malta,8.0,,,0,Southern Europe,Southern Europe,1,20
+2000,final,cy,es,Cyprus,Spain,12.0,,,0,Southern Europe,Southern Europe,1,20
+2002,final,cy,mt,Cyprus,Malta,12.0,,,0,Southern Europe,Southern Europe,1,20
+2002,final,cy,es,Cyprus,Spain,7.0,,,0,Southern Europe,Southern Europe,1,20
+2002,final,cy,ro,Cyprus,Romania,8.0,,,0,Southern Europe,Central and Eastern Europe,0,18
+2002,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2003,final,cy,tr,Cyprus,Türkiye,8.0,,,0,Southern Europe,Southern Europe,1,13
+2003,final,cy,ru,Cyprus,Russia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2003,final,cy,ie,Cyprus,Ireland,7.0,,,0,Southern Europe,Western Europe,0,19
+2003,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2004,final,cy,ua,Cyprus,Ukraine,8.0,,,0,Southern Europe,Central and Eastern Europe,0,15
+2004,final,cy,cs,Cyprus,Serbia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,14
+2004,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2004,final,cy,es,Cyprus,Spain,7.0,,,0,Southern Europe,Southern Europe,1,20
+2004,semi-final,cy,cs,Cyprus,Serbia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,14
+2004,semi-final,cy,ua,Cyprus,Ukraine,8.0,,,0,Southern Europe,Central and Eastern Europe,0,15
+2004,semi-final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2004,semi-final,cy,lt,Cyprus,Lithuania,7.0,,,0,Southern Europe,Northern Europe,0,18
+2005,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2005,final,cy,ro,Cyprus,Romania,8.0,,,0,Southern Europe,Central and Eastern Europe,0,18
+2005,final,cy,cs,Cyprus,Serbia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,14
+2005,final,cy,hu,Cyprus,Hungary,7.0,,,0,Southern Europe,Central and Eastern Europe,0,13
+2005,semi-final,cy,ro,Cyprus,Romania,12.0,,,0,Southern Europe,Central and Eastern Europe,0,18
+2005,semi-final,cy,md,Cyprus,Moldova,8.0,,,0,Southern Europe,Central and Eastern Europe,0,15
+2005,semi-final,cy,by,Cyprus,Belarus,7.0,,,0,Southern Europe,Central and Eastern Europe,0,16
+2005,semi-final,cy,bg,Cyprus,Bulgaria,12.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2006,final,cy,ru,Cyprus,Russia,8.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2006,final,cy,ro,Cyprus,Romania,12.0,,,0,Southern Europe,Central and Eastern Europe,0,18
+2006,final,cy,am,Cyprus,Armenia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,13
+2006,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2006,semi-final,cy,fi,Cyprus,Finland,7.0,,,0,Southern Europe,Northern Europe,0,18
+2006,semi-final,cy,ru,Cyprus,Russia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2006,semi-final,cy,am,Cyprus,Armenia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,13
+2006,semi-final,cy,bg,Cyprus,Bulgaria,8.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2007,final,cy,ru,Cyprus,Russia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2007,final,cy,bg,Cyprus,Bulgaria,12.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2007,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2007,final,cy,am,Cyprus,Armenia,8.0,,,0,Southern Europe,Central and Eastern Europe,0,13
+2007,semi-final,cy,rs,Cyprus,Serbia,8.0,,,0,Southern Europe,Central and Eastern Europe,0,14
+2007,semi-final,cy,by,Cyprus,Belarus,12.0,,,0,Southern Europe,Central and Eastern Europe,0,16
+2007,semi-final,cy,bg,Cyprus,Bulgaria,12.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2007,semi-final,cy,ge,Cyprus,Georgia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2008,final,cy,ru,Cyprus,Russia,8.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2008,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2008,final,cy,am,Cyprus,Armenia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,13
+2008,final,cy,ge,Cyprus,Georgia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2008,semi-final-2,cy,ua,Cyprus,Ukraine,12.0,,,0,Southern Europe,Central and Eastern Europe,0,15
+2008,semi-final-2,cy,ge,Cyprus,Georgia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2008,semi-final-2,cy,bg,Cyprus,Bulgaria,8.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2008,semi-final-2,cy,ch,Cyprus,Switzerland,7.0,,,0,Southern Europe,Western Europe,0,18
+2009,final,cy,no,Cyprus,Norway,12.0,,,0,Southern Europe,Northern Europe,0,19
+2009,final,cy,az,Cyprus,Azerbaijan,8.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2009,final,cy,gb,Cyprus,United Kingdom,7.0,,,0,Southern Europe,Western Europe,0,20
+2009,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2009,semi-final-2,cy,no,Cyprus,Norway,8.0,,,0,Southern Europe,Northern Europe,0,19
+2009,semi-final-2,cy,az,Cyprus,Azerbaijan,12.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2009,semi-final-2,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2009,semi-final-2,cy,md,Cyprus,Moldova,7.0,,,0,Southern Europe,Central and Eastern Europe,0,15
+2010,final,cy,ro,Cyprus,Romania,8.0,,,0,Southern Europe,Central and Eastern Europe,0,18
+2010,final,cy,az,Cyprus,Azerbaijan,12.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2010,final,cy,am,Cyprus,Armenia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,13
+2010,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2010,semi-final-2,cy,az,Cyprus,Azerbaijan,12.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2010,semi-final-2,cy,ge,Cyprus,Georgia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2010,semi-final-2,cy,ro,Cyprus,Romania,8.0,,,0,Southern Europe,Central and Eastern Europe,0,18
+2010,semi-final-2,cy,am,Cyprus,Armenia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,13
+2011,final,cy,az,Cyprus,Azerbaijan,8.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2011,final,cy,se,Cyprus,Sweden,12.0,,,0,Southern Europe,Northern Europe,0,20
+2011,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2011,final,cy,fr,Cyprus,France,7.0,,,0,Southern Europe,Western Europe,0,20
+2011,semi-final-2,cy,se,Cyprus,Sweden,12.0,,,0,Southern Europe,Northern Europe,0,20
+2011,semi-final-2,cy,si,Cyprus,Slovenia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2011,semi-final-2,cy,ro,Cyprus,Romania,8.0,,,0,Southern Europe,Central and Eastern Europe,0,18
+2011,semi-final-2,cy,bg,Cyprus,Bulgaria,12.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2012,final,cy,se,Cyprus,Sweden,12.0,,,0,Southern Europe,Northern Europe,0,20
+2012,final,cy,rs,Cyprus,Serbia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,14
+2012,final,cy,az,Cyprus,Azerbaijan,8.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2012,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2012,semi-final-1,cy,ru,Cyprus,Russia,7.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2012,semi-final-1,cy,al,Cyprus,Albania,12.0,,,0,Southern Europe,Central and Eastern Europe,0,16
+2012,semi-final-1,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2012,semi-final-1,cy,is,Cyprus,Iceland,8.0,,,0,Southern Europe,Northern Europe,0,19
+2013,final,cy,dk,Cyprus,Denmark,7.0,,,0,Southern Europe,Northern Europe,0,19
+2013,final,cy,az,Cyprus,Azerbaijan,8.0,,,0,Southern Europe,Central and Eastern Europe,0,12
+2013,final,cy,ua,Cyprus,Ukraine,12.0,,,0,Southern Europe,Central and Eastern Europe,0,15
+2013,final,cy,gr,Cyprus,Greece,12.0,,,0,Southern Europe,Southern Europe,1,19
+2013,semi-final-1,cy,dk,Cyprus,Denmark,8.0,,,0,Southern Europe,Northern Europe,0,19
+2013,semi-final-1,cy,ru,Cyprus,Russia,12.0,,,0,Southern Europe,Central and Eastern Europe,0,19
+2013,semi-final-1,cy,ua,Cyprus,Ukraine,12.0,,,0,Southern Europe,Central and Eastern Europe,0,15
+2013,semi-final-1,cy,ie,Cyprus,Ireland,7.0,,,0,Southern Europe,Western Europe,0,19
+2015,final,cy,se,Cyprus,Sweden,12.0,,,0,Southern Europe,Northern Europe,0,20
+2015,final,cy,it,Cyprus,Italy,12.0,,,0,Southern Europe,Southern Europe,1,9
+2015,final,cy,be,Cyprus,Belgium,7.0,,,0,Southern Europe,Western Europe,0,19
+2015,final,cy,gr,Cyprus,Greece,8.0,,,0,Southern Europe,Southern Europe,1,19
+2015,semi-final-2,cy,se,Cyprus,Sweden,12.0,,,0,Southern Europe,Northern Europe,0,20
+2015,semi-final-2,cy,lv,Cyprus,Latvia,8.0,,,0,Southern Europe,Northern Europe,0,20
+2015,semi-final-2,cy,il,Cyprus,Israel,12.0,,,0,Southern Europe,Non-European,0,20
+2015,semi-final-2,cy,lt,Cyprus,Lithuania,7.0,,,0,Southern Europe,Northern Europe,0,18
+2016,final,cy,au,Cyprus,Australia,7.5,5.0,10.0,0,Southern Europe,Non-European,0,5
+2016,final,cy,ru,Cyprus,Russia,11.0,10.0,12.0,0,Southern Europe,Central and Eastern Europe,0,19
+2016,final,cy,fr,Cyprus,France,6.5,6.0,7.0,0,Southern Europe,Western Europe,0,20
+2016,final,cy,am,Cyprus,Armenia,8.0,8.0,8.0,0,Southern Europe,Central and Eastern Europe,0,13
+2016,semi-final-1,cy,ru,Cyprus,Russia,11.0,10.0,12.0,0,Southern Europe,Central and Eastern Europe,0,19
+2016,semi-final-1,cy,am,Cyprus,Armenia,8.5,7.0,10.0,0,Southern Europe,Central and Eastern Europe,0,13
+2016,semi-final-1,cy,mt,Cyprus,Malta,6.5,5.0,8.0,0,Southern Europe,Southern Europe,1,20
+2016,semi-final-1,cy,gr,Cyprus,Greece,7.5,12.0,3.0,0,Southern Europe,Southern Europe,1,19
+2017,final,cy,pt,Cyprus,Portugal,7.5,7.0,8.0,0,Southern Europe,Southern Europe,1,16
+2017,final,cy,bg,Cyprus,Bulgaria,8.5,10.0,7.0,0,Southern Europe,Central and Eastern Europe,0,12
+2017,final,cy,it,Cyprus,Italy,9.0,8.0,10.0,0,Southern Europe,Southern Europe,1,9
+2017,final,cy,gr,Cyprus,Greece,12.0,12.0,12.0,0,Southern Europe,Southern Europe,1,19
+2017,semi-final-1,cy,pt,Cyprus,Portugal,8.0,6.0,10.0,0,Southern Europe,Southern Europe,1,16
+2017,semi-final-1,cy,se,Cyprus,Sweden,6.5,5.0,8.0,0,Southern Europe,Northern Europe,0,20
+2017,semi-final-1,cy,am,Cyprus,Armenia,6.5,8.0,5.0,0,Southern Europe,Central and Eastern Europe,0,13
+2017,semi-final-1,cy,az,Cyprus,Azerbaijan,7.0,10.0,4.0,0,Southern Europe,Central and Eastern Europe,0,12
+2017,semi-final-1,cy,gr,Cyprus,Greece,12.0,12.0,12.0,0,Southern Europe,Southern Europe,1,19
+2018,final,cy,it,Cyprus,Italy,7.5,7.0,8.0,0,Southern Europe,Southern Europe,1,9
+2018,final,cy,cz,Cyprus,Czech Republic,6.5,8.0,5.0,0,Southern Europe,Central and Eastern Europe,0,8
+2018,semi-final-1,cy,il,Cyprus,Israel,12.0,8.0,12.0,0,Southern Europe,Non-European,0,20
+2018,semi-final-1,cy,bg,Cyprus,Bulgaria,8.0,10.0,6.0,0,Southern Europe,Central and Eastern Europe,0,12
+2018,semi-final-1,cy,gr,Cyprus,Greece,12.0,12.0,8.0,0,Southern Europe,Southern Europe,1,19
+2019,final,cy,it,Cyprus,Italy,8.0,8.0,8.0,0,Southern Europe,Southern Europe,1,9
+2019,final,cy,ru,Cyprus,Russia,12.0,10.0,10.0,0,Southern Europe,Central and Eastern Europe,0,19
+2019,final,cy,gr,Cyprus,Greece,12.0,12.0,12.0,0,Southern Europe,Southern Europe,1,19
+2019,semi-final-1,cy,gr,Cyprus,Greece,12.0,12.0,12.0,0,Southern Europe,Southern Europe,1,19
+2019,semi-final-1,cy,be,Cyprus,Belgium,6.5,3.0,10.0,0,Southern Europe,Western Europe,0,19
+2019,semi-final-1,cy,ge,Cyprus,Georgia,8.5,10.0,7.0,0,Southern Europe,Central and Eastern Europe,0,12

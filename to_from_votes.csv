@@ -1,2297 +1,2222 @@
-from_country,to_country,neighboring,same_region,total_points
-Norway,Sweden,1,1,1511
-Cyprus,Greece,0,1,1475
-Denmark,Sweden,1,1,1403
-Greece,Cyprus,0,1,1273
-United Kingdom,Ireland,1,1,1196
-Sweden,Denmark,1,1,1012
-Finland,Sweden,1,1,1006
-Sweden,Norway,1,1,979
-United Kingdom,Sweden,0,0,975
-Sweden,Ireland,0,0,972
-Norway,Denmark,1,1,951
-Iceland,Denmark,0,1,935
-Spain,Germany,0,0,933
-Ireland,United Kingdom,1,1,919
-France,Portugal,0,0,916
-Iceland,Sweden,0,1,915
-Spain,Portugal,1,1,852
-Estonia,Russia,1,0,851
-Ireland,Sweden,0,0,848
-Belgium,Netherlands,1,1,844
-Germany,Türkiye,0,0,832
-Germany,Sweden,0,0,825
-Moldova,Romania,1,1,812
-Albania,Greece,1,0,809
-Netherlands,Belgium,1,1,808
-Netherlands,Sweden,0,0,806
-France,Israel,0,0,802
-Switzerland,Ireland,0,1,794
-Portugal,Spain,1,1,783
-Ireland,Norway,0,0,774
-Spain,Italy,0,1,772
-Norway,Ireland,0,0,764
-France,Türkiye,0,0,760
-Portugal,Italy,0,1,759
-Belgium,Ireland,0,1,757
-France,United Kingdom,0,1,754
-Iceland,Norway,0,1,754
-Switzerland,Sweden,0,0,750
-Israel,Sweden,0,0,749
-Ireland,Denmark,0,0,747
-Portugal,Sweden,0,0,745
-Austria,Ireland,0,1,742
-Belgium,Sweden,0,0,742
-Belarus,Russia,1,1,737
-Denmark,Norway,1,1,734
-Estonia,Sweden,0,1,732
-Latvia,Russia,1,0,730
-Croatia,Bosnia and Herzegovina,1,1,728
-Austria,United Kingdom,0,1,725
-North Macedonia,Albania,1,1,724
-Germany,United Kingdom,0,1,723
-Romania,Moldova,1,1,719
-Portugal,Germany,0,0,716
-Belarus,Ukraine,1,1,713
-Finland,Norway,1,1,713
-Switzerland,United Kingdom,0,1,713
-Spain,Greece,0,1,708
-Moldova,Russia,0,1,707
-Portugal,United Kingdom,0,0,704
-Türkiye,Bosnia and Herzegovina,0,0,700
-France,Spain,1,0,696
-Sweden,Iceland,0,1,694
-Finland,Israel,0,0,692
-Denmark,Ireland,0,0,691
-Netherlands,Ireland,0,1,686
-Belgium,United Kingdom,0,1,686
-Malta,Sweden,0,0,679
-United Kingdom,Germany,0,1,679
-Switzerland,Spain,0,0,676
-Slovenia,Croatia,1,1,676
-Sweden,Finland,1,1,674
-Netherlands,Türkiye,0,0,672
-Switzerland,France,1,1,671
-France,Belgium,1,1,669
-Sweden,United Kingdom,0,0,668
-Norway,Finland,1,1,668
-Israel,Romania,0,0,668
-Denmark,Germany,1,0,668
-Romania,Greece,0,0,661
-Latvia,Estonia,1,1,661
-Armenia,Russia,0,1,661
-Austria,Sweden,0,0,655
-Germany,Ireland,0,1,655
-Spain,Romania,0,0,655
-Greece,Albania,1,0,650
-Netherlands,Denmark,0,0,646
-Switzerland,Portugal,0,0,641
-Luxembourg,United Kingdom,0,1,640
-Netherlands,Norway,0,0,639
-Netherlands,Israel,0,0,638
-Norway,Iceland,0,1,638
-Ireland,Netherlands,0,1,635
-Belgium,Germany,1,1,635
-Finland,Estonia,0,1,633
-Denmark,Iceland,0,1,632
-Spain,Ireland,0,0,632
-Switzerland,Israel,0,0,630
-Germany,Israel,0,0,625
-Slovenia,Serbia,0,1,624
-Switzerland,Germany,1,1,623
-United Kingdom,Switzerland,0,1,618
-Croatia,Serbia,1,1,618
-Switzerland,Türkiye,0,0,616
-Israel,Russia,0,0,614
-Ireland,Germany,0,1,613
-Norway,France,0,0,613
-North Macedonia,Serbia,1,1,613
-Bosnia and Herzegovina,Croatia,1,1,611
-Portugal,Israel,0,0,610
-France,Sweden,0,0,610
-Finland,Switzerland,0,0,610
-Spain,Sweden,0,0,608
-Israel,United Kingdom,0,0,608
-United Kingdom,Israel,0,0,607
-Switzerland,Italy,1,0,606
-Netherlands,France,0,1,605
-Slovenia,Bosnia and Herzegovina,0,1,604
-Ireland,France,0,1,603
-Norway,United Kingdom,0,0,599
-Netherlands,Germany,1,1,596
-United Kingdom,Denmark,0,0,595
-United Kingdom,Malta,0,0,593
-Germany,Greece,0,0,592
-Germany,Norway,0,0,592
-Serbia,North Macedonia,1,1,587
-Lithuania,Latvia,1,1,585
-Iceland,Finland,0,1,575
-United Kingdom,Türkiye,0,0,572
-United Kingdom,Greece,0,0,572
-Sweden,Germany,0,0,570
-Belgium,Greece,0,0,568
-Belgium,Spain,0,0,567
-Finland,Italy,0,0,567
-France,Netherlands,0,1,567
-Spain,United Kingdom,0,0,561
-Belgium,Türkiye,0,0,560
-Lithuania,Russia,1,0,559
-France,Italy,1,0,559
-Moldova,Ukraine,1,1,556
-Russia,Armenia,0,1,556
-Belgium,France,1,1,553
-Greece,Spain,0,1,552
-Portugal,Belgium,0,0,552
-Germany,Netherlands,1,1,552
-Ireland,Lithuania,0,0,551
-Slovenia,Sweden,0,0,549
-Denmark,United Kingdom,0,0,546
-Belgium,Norway,0,0,546
-Netherlands,United Kingdom,0,1,545
-Norway,Israel,0,0,543
-Finland,United Kingdom,0,0,542
-Finland,Ireland,0,0,540
-Germany,France,1,1,540
-Sweden,Netherlands,0,0,540
-Germany,Switzerland,1,1,539
-France,Germany,1,1,536
-Finland,Iceland,0,1,535
-Netherlands,Switzerland,0,1,532
-Bosnia and Herzegovina,Türkiye,0,0,532
-Ukraine,Russia,1,1,531
-Israel,Denmark,0,0,531
-Belgium,Israel,0,0,531
-Russia,Azerbaijan,1,1,529
-Estonia,Finland,0,1,528
-Portugal,Ireland,0,0,527
-United Kingdom,Cyprus,0,0,527
-Greece,France,0,0,524
-Austria,Switzerland,1,1,524
-Switzerland,Serbia,0,0,524
-Spain,Belgium,0,0,523
-Albania,North Macedonia,1,1,522
-Malta,United Kingdom,0,0,522
-Germany,Denmark,1,0,520
-Cyprus,Sweden,0,0,520
-Norway,Netherlands,0,0,519
-Portugal,France,0,0,517
-Spain,Netherlands,0,0,516
-Bosnia and Herzegovina,Serbia,1,1,516
-Latvia,Lithuania,1,1,516
-Spain,Israel,0,0,514
-Israel,Netherlands,0,0,514
-Ireland,Switzerland,0,1,511
-Israel,France,0,0,510
-Austria,Germany,1,1,510
-Switzerland,Netherlands,0,1,510
-United Kingdom,Lithuania,0,0,508
-Malta,Greece,0,1,508
-Norway,Switzerland,0,0,508
-Türkiye,United Kingdom,0,0,504
-Sweden,France,0,0,504
-Denmark,Netherlands,0,0,503
-Ireland,Belgium,0,1,501
-North Macedonia,Türkiye,0,0,500
-Israel,Greece,0,0,500
-Estonia,Latvia,1,1,499
-Greece,Russia,0,0,498
-United Kingdom,Norway,0,0,496
-Türkiye,Ireland,0,0,496
-Finland,Belgium,0,0,495
-Switzerland,Albania,0,0,493
-Lithuania,Ukraine,0,0,492
-Lithuania,Georgia,0,0,492
-Netherlands,Greece,0,0,492
-Estonia,Norway,0,1,491
-United Kingdom,Belgium,0,1,491
-Italy,United Kingdom,0,0,490
-Finland,France,0,0,490
-Russia,Ukraine,1,1,490
-Croatia,Slovenia,1,1,489
-United Kingdom,Netherlands,0,1,489
-Austria,France,0,1,489
-Switzerland,Norway,0,0,488
-Austria,Netherlands,0,1,486
-Croatia,North Macedonia,0,1,484
-Cyprus,Russia,0,0,484
-Latvia,Ukraine,0,0,482
-Latvia,Sweden,0,1,478
-Serbia,Bosnia and Herzegovina,1,1,476
-Russia,Moldova,0,1,473
-Israel,Spain,0,0,473
-United Kingdom,Austria,0,1,473
-Sweden,Bosnia and Herzegovina,0,0,472
-Türkiye,Spain,0,1,472
-Armenia,Georgia,1,1,468
-Serbia,Croatia,1,1,467
-Italy,France,1,0,464
-Luxembourg,Ireland,0,1,464
-North Macedonia,Bosnia and Herzegovina,0,1,464
-France,Armenia,0,0,463
-Ireland,Israel,0,0,463
-France,Ireland,0,1,462
-Netherlands,Armenia,0,0,462
-Germany,Spain,0,0,462
-Spain,France,1,0,462
-Belgium,Switzerland,0,1,461
-Sweden,Israel,0,0,461
-United Kingdom,France,0,1,460
-Georgia,Azerbaijan,1,1,460
-Cyprus,Spain,0,1,459
-Georgia,Armenia,1,1,458
-Estonia,Denmark,0,1,457
-Bosnia and Herzegovina,North Macedonia,0,1,456
-Poland,Ukraine,1,1,456
-France,Denmark,0,0,454
-Albania,Türkiye,0,0,452
-Italy,Spain,0,1,452
-Italy,Ireland,0,0,451
-Ireland,Austria,0,1,450
-Israel,Norway,0,0,449
-Portugal,Ukraine,0,0,447
-Portugal,Netherlands,0,0,447
-Sweden,Estonia,0,1,446
-Germany,Poland,1,0,446
-Armenia,Greece,0,0,446
-Portugal,Norway,0,0,444
-North Macedonia,Croatia,0,1,443
-Ukraine,Belarus,1,1,443
-Bosnia and Herzegovina,Slovenia,0,1,440
-Azerbaijan,Russia,1,1,440
-Malta,Italy,0,1,437
-France,Greece,0,0,436
-Poland,Norway,0,0,435
-Finland,Russia,1,0,434
-France,Switzerland,1,1,432
-Israel,Ukraine,0,0,432
-Lithuania,Estonia,0,1,432
-Luxembourg,France,1,1,432
-Greece,Romania,0,0,431
-Ireland,Latvia,0,0,431
-Azerbaijan,Ukraine,0,1,429
-Portugal,Switzerland,0,0,429
-Romania,Russia,0,1,428
-Romania,Türkiye,0,0,428
-Ireland,Finland,0,0,427
-Belgium,Denmark,0,0,427
-Belgium,Armenia,0,0,426
-Slovenia,Denmark,0,0,422
-Ireland,Malta,0,0,421
-Ireland,Italy,0,0,420
-Greece,Ireland,0,0,420
-Greece,Armenia,0,0,419
-Austria,Denmark,0,0,419
-Norway,Germany,0,0,418
-Moldova,Azerbaijan,0,1,417
-Serbia,Greece,0,0,416
-Lithuania,Sweden,0,1,414
-Switzerland,Greece,0,0,414
-Germany,Portugal,0,0,414
-Portugal,Greece,0,1,412
-Romania,Hungary,1,1,409
-United Kingdom,Finland,0,0,409
-Malta,Ireland,0,0,409
-Finland,Spain,0,0,408
-Slovenia,North Macedonia,0,1,408
-Belgium,Austria,0,1,408
-Estonia,Ukraine,0,0,407
-Spain,Iceland,0,0,407
-Latvia,Norway,0,1,407
-Cyprus,Ireland,0,0,406
-United Kingdom,Iceland,0,0,406
-Germany,Belgium,1,1,405
-Georgia,Ukraine,0,1,403
-Germany,Austria,1,1,403
-Cyprus,Ukraine,0,0,401
-Italy,Switzerland,1,0,401
-Israel,Armenia,0,0,401
-Croatia,Malta,0,0,401
-Finland,Hungary,0,0,399
-Ukraine,Azerbaijan,0,1,399
-Finland,Netherlands,0,0,399
-Spain,Norway,0,0,398
-France,Serbia,0,0,398
-Latvia,Denmark,0,1,397
-Ireland,Estonia,0,0,397
-Austria,Serbia,0,0,396
-Austria,Bosnia and Herzegovina,0,0,396
-Portugal,Iceland,0,0,391
-Montenegro,Serbia,1,1,389
-Germany,Finland,0,0,388
-Türkiye,Sweden,0,0,388
-Russia,Greece,0,0,388
-Portugal,Luxembourg,0,0,388
-Serbia,Hungary,1,1,386
-Finland,Denmark,0,1,385
-Malta,Azerbaijan,0,0,385
-Bulgaria,Greece,1,0,385
-Bulgaria,Türkiye,1,0,384
-Ireland,Luxembourg,0,1,384
-Ukraine,Moldova,1,1,382
-Slovenia,Norway,0,0,382
-Denmark,Switzerland,0,0,381
-Poland,Sweden,0,0,381
-Türkiye,Netherlands,0,0,380
-Luxembourg,Switzerland,0,1,380
-Switzerland,Finland,0,0,379
-Italy,Germany,0,0,377
-Finland,Germany,0,0,377
-Lithuania,Norway,0,1,374
-Switzerland,Austria,1,1,373
-Belgium,Portugal,0,0,372
-Türkiye,Malta,0,1,372
-Spain,Denmark,0,0,372
-Yugoslavia,United Kingdom,0,0,372
-Netherlands,Serbia,0,0,371
-Malta,Norway,0,0,369
-Belarus,Moldova,0,1,368
-Luxembourg,Spain,0,0,368
-Norway,Bosnia and Herzegovina,0,0,368
-Portugal,Moldova,0,0,366
-Armenia,Ukraine,0,1,366
-Austria,Israel,0,0,366
-Hungary,Iceland,0,0,364
-Serbia,Russia,0,1,364
-Sweden,Türkiye,0,0,364
-Iceland,France,0,0,361
-Bulgaria,North Macedonia,1,1,361
-United Kingdom,Luxembourg,0,1,360
-Denmark,Türkiye,0,0,360
-Greece,Austria,0,0,360
-Ukraine,Georgia,0,1,358
-Germany,Italy,0,0,358
-Malta,Romania,0,0,357
-Israel,Ireland,0,0,356
-Finland,Greece,0,0,355
-Netherlands,Portugal,0,0,354
-Sweden,Austria,0,0,354
-Spain,Finland,0,0,353
-Cyprus,Romania,0,0,352
-Spain,Armenia,0,0,352
-Cyprus,Norway,0,0,350
-Malta,Israel,0,0,350
-Norway,Greece,0,0,348
-Luxembourg,Germany,1,1,348
-Malta,Türkiye,0,1,348
-Denmark,Belgium,0,0,348
-Austria,Italy,1,0,347
-Iceland,Cyprus,0,0,347
-Germany,Russia,0,0,347
-Bulgaria,Armenia,0,1,344
-Türkiye,Germany,0,0,344
-Israel,Cyprus,0,0,344
-Norway,Belgium,0,0,344
-Malta,Netherlands,0,0,343
-Ireland,Russia,0,0,343
-Greece,United Kingdom,0,0,341
-Ireland,Romania,0,0,341
-Cyprus,Israel,0,0,340
-Israel,Finland,0,0,339
-Norway,Lithuania,0,1,339
-Netherlands,Bosnia and Herzegovina,0,0,339
-Slovenia,Russia,0,1,338
-Sweden,Belgium,0,0,338
-Croatia,Russia,0,1,338
-Serbia,Ukraine,0,1,337
-Greece,Italy,0,1,337
-Yugoslavia,Italy,0,0,336
-Sweden,Serbia,0,0,336
-Luxembourg,Israel,0,0,336
-Switzerland,Bosnia and Herzegovina,0,0,336
-Türkiye,Azerbaijan,0,0,336
-Italy,Sweden,0,0,336
-Malta,Cyprus,0,1,335
-Germany,Serbia,0,0,335
-Netherlands,Spain,0,0,335
-Spain,Malta,0,1,334
-Italy,Austria,1,0,333
-Greece,Finland,0,0,333
-Monaco,United Kingdom,0,1,332
-France,Luxembourg,1,1,332
-Denmark,Austria,0,0,330
-Malta,Russia,0,0,330
-Germany,Malta,0,0,330
-Russia,Norway,1,0,329
-Hungary,Azerbaijan,0,1,329
-Greece,Norway,0,0,327
-Belgium,Russia,0,0,327
-Lithuania,Azerbaijan,0,0,326
-Norway,Malta,0,0,325
-Cyprus,United Kingdom,0,0,325
-Croatia,Albania,0,1,325
-Malta,Switzerland,0,0,325
-Cyprus,Denmark,0,0,324
-Yugoslavia,France,0,0,324
-Yugoslavia,Switzerland,0,0,324
-Türkiye,Greece,1,1,324
-Austria,Spain,0,0,324
-Switzerland,Croatia,0,0,323
-Norway,Italy,0,0,323
-Greece,Belgium,0,0,322
-Spain,Austria,0,0,321
-Cyprus,France,0,0,321
-Austria,Croatia,0,0,321
-Cyprus,Italy,0,1,320
-Türkiye,Yugoslavia,0,0,320
-Austria,Russia,0,0,319
-Israel,Switzerland,0,0,319
-Sweden,Malta,0,0,319
-Portugal,Romania,0,0,319
-Spain,Ukraine,0,0,319
-San Marino,Greece,0,1,318
-Romania,Sweden,0,0,317
-Ireland,Spain,0,0,317
-Iceland,Portugal,0,0,316
-Germany,Bosnia and Herzegovina,0,0,316
-Monaco,France,1,1,316
-Luxembourg,Netherlands,0,1,316
-Greece,Azerbaijan,0,0,315
-Estonia,Netherlands,0,0,314
-Malta,Croatia,0,0,314
-Montenegro,Albania,1,1,313
-North Macedonia,Bulgaria,1,1,313
-Cyprus,Azerbaijan,0,0,313
-Iceland,Hungary,0,0,313
-Ireland,Cyprus,0,0,312
-Netherlands,Luxembourg,0,1,312
-Spain,Russia,0,0,312
-Russia,Belarus,1,1,311
-Belgium,Italy,0,0,309
-Estonia,Ireland,0,0,309
-Cyprus,Bulgaria,0,0,309
-Denmark,Russia,0,0,309
-Estonia,Hungary,0,0,308
-Israel,Germany,0,0,308
-Norway,Serbia,0,0,307
-Azerbaijan,Greece,0,0,307
-Belarus,Georgia,0,1,307
-Norway,Spain,0,0,305
-Iceland,Estonia,0,1,304
-Denmark,Bosnia and Herzegovina,0,0,304
-Malta,Ukraine,0,0,304
-Türkiye,Italy,0,1,304
-Estonia,Iceland,0,1,304
-Georgia,Lithuania,0,0,303
-Denmark,Cyprus,0,0,302
-Greece,Malta,0,1,302
-Türkiye,Armenia,1,0,300
-Montenegro,Russia,0,1,300
-Greece,Switzerland,0,0,300
-Finland,Luxembourg,0,0,300
-Switzerland,North Macedonia,0,0,300
-Albania,Bosnia and Herzegovina,0,1,300
-Azerbaijan,Georgia,1,1,299
-Portugal,Denmark,0,0,299
-Croatia,Ukraine,0,1,298
-Hungary,Russia,0,1,297
-Iceland,Switzerland,0,0,297
-Belgium,Finland,0,0,297
-Estonia,Belgium,0,0,297
-Finland,Cyprus,0,0,297
-Bosnia and Herzegovina,Sweden,0,0,296
-Norway,Romania,0,0,296
-Bulgaria,Ukraine,0,1,296
-Moldova,Belarus,0,1,296
-Malta,Iceland,0,0,296
-Netherlands,Austria,0,1,296
-Luxembourg,Sweden,0,0,296
-Sweden,Switzerland,0,0,295
-United Kingdom,Spain,0,0,295
-Germany,Iceland,0,0,294
-Denmark,Malta,0,0,294
-Austria,Romania,0,0,293
-Belgium,Iceland,0,0,293
-Malta,Denmark,0,0,293
-Italy,Luxembourg,0,0,292
-Luxembourg,Portugal,0,0,292
-Belgium,Luxembourg,1,1,292
-Albania,Italy,0,0,291
-Ukraine,Armenia,0,1,291
-Cyprus,Armenia,0,0,291
-Ireland,Poland,0,0,291
-Belarus,Armenia,0,1,290
-France,Austria,0,1,290
-Türkiye,North Macedonia,0,0,288
-Azerbaijan,Türkiye,0,0,288
-Israel,Azerbaijan,0,0,287
-Sweden,Portugal,0,0,287
-Denmark,Estonia,0,1,284
-France,Norway,0,0,284
-Türkiye,Austria,0,0,284
-Israel,Austria,0,0,283
-Italy,Netherlands,0,0,283
-United Kingdom,Latvia,0,0,283
-Belgium,Romania,0,0,282
-Georgia,Belarus,0,1,282
-Switzerland,Iceland,0,0,281
-Iceland,Ireland,0,0,280
-Austria,Türkiye,0,0,280
-Yugoslavia,Netherlands,0,0,280
-Sweden,Luxembourg,0,0,280
-Spain,Cyprus,0,1,280
-Sweden,Greece,0,0,280
-Yugoslavia,Sweden,0,0,280
-Serbia,Slovenia,0,1,279
-France,Romania,0,0,279
-Italy,Israel,0,0,277
-Portugal,Austria,0,0,277
-Poland,Belgium,0,0,277
-Türkiye,Ukraine,0,0,276
-Iceland,Netherlands,0,0,276
-United Kingdom,Estonia,0,0,276
-Luxembourg,Italy,0,0,276
-Yugoslavia,Luxembourg,0,0,276
-Romania,Israel,0,0,276
-Sweden,Cyprus,0,0,276
-Malta,Latvia,0,0,276
-Poland,Russia,0,1,275
-North Macedonia,Russia,0,1,275
-Sweden,Italy,0,0,275
-Hungary,Norway,0,0,274
-Italy,Norway,0,0,274
-Hungary,Denmark,0,0,274
-North Macedonia,Malta,0,0,274
-Greece,Netherlands,0,0,273
-Hungary,Sweden,0,0,272
-Israel,Yugoslavia,0,0,272
-Cyprus,Switzerland,0,0,272
-Sweden,Russia,0,0,271
-Switzerland,Belgium,0,1,270
-Croatia,Greece,0,0,270
-Norway,Russia,1,0,270
-Finland,Austria,0,0,269
-Hungary,Greece,0,0,269
-Denmark,France,0,0,268
-North Macedonia,Romania,0,1,266
-France,Bosnia and Herzegovina,0,0,266
-Netherlands,Estonia,0,0,264
-Bulgaria,Azerbaijan,0,1,262
-Netherlands,Finland,0,0,262
-Austria,Belgium,0,1,262
-Ukraine,Sweden,0,0,261
-Romania,Denmark,0,0,261
-Iceland,Russia,0,0,261
-Spain,Luxembourg,0,0,260
-Germany,Luxembourg,1,1,260
-Türkiye,Georgia,1,0,260
-Lithuania,Belarus,1,0,260
-France,Estonia,0,0,259
-Cyprus,Serbia,0,0,259
-Norway,Portugal,0,0,258
-Iceland,Germany,0,0,258
-Austria,Norway,0,0,258
-Croatia,United Kingdom,0,0,258
-Germany,Croatia,0,0,257
-Greece,Georgia,0,0,257
-Romania,Azerbaijan,0,1,257
-Netherlands,Cyprus,0,0,257
-Hungary,Netherlands,0,0,257
-Belarus,Lithuania,1,0,257
-Norway,Austria,0,0,256
-United Kingdom,Yugoslavia,0,0,256
-United Kingdom,Portugal,0,0,256
-Russia,Georgia,1,1,256
-Luxembourg,Belgium,1,1,256
-Andorra,Portugal,0,0,256
-Denmark,Finland,0,1,256
-Israel,Belgium,0,0,256
-Israel,Iceland,0,0,255
-Spain,Moldova,0,0,254
-Montenegro,Bosnia and Herzegovina,1,1,254
-Moldova,Sweden,0,0,254
-Greece,Serbia,0,0,254
-North Macedonia,Ukraine,0,1,254
-Portugal,Russia,0,0,254
-Azerbaijan,Romania,0,1,253
-Poland,Azerbaijan,0,1,253
-Denmark,Israel,0,0,253
-Türkiye,Belgium,0,0,252
-Bosnia and Herzegovina,Greece,0,0,252
-Türkiye,Israel,0,0,252
-Belgium,Cyprus,0,0,252
-Switzerland,Malta,0,0,252
-Russia,Belgium,0,0,252
-Switzerland,Denmark,0,0,251
-Bosnia and Herzegovina,Malta,0,0,251
-Israel,Malta,0,0,250
-United Kingdom,Italy,0,0,250
-Montenegro,Slovenia,0,1,250
-Belarus,Sweden,0,0,248
-Greece,Ukraine,0,0,248
-Belgium,Yugoslavia,0,0,248
-Norway,Cyprus,0,0,248
-Spain,Switzerland,0,0,247
-Poland,Estonia,0,0,247
-Sweden,Spain,0,0,246
-Slovenia,Austria,1,0,246
-Estonia,Lithuania,0,1,245
-Lithuania,Ireland,0,0,245
-Italy,Denmark,0,0,245
-North Macedonia,Slovenia,0,1,244
-Yugoslavia,Israel,0,0,244
-Monaco,Spain,0,0,244
-France,Finland,0,0,244
-Croatia,Cyprus,0,0,243
-Slovenia,Ukraine,0,1,242
-Georgia,Russia,1,1,242
-Poland,Hungary,0,1,242
-Ireland,Greece,0,0,241
-Romania,Norway,0,0,241
-Azerbaijan,Israel,0,0,241
-Finland,Portugal,0,0,241
-Türkiye,Albania,0,0,240
-Türkiye,Switzerland,0,0,240
-Belarus,Greece,0,0,240
-Andorra,Spain,1,0,240
-Iceland,Ukraine,0,0,240
-Poland,Denmark,0,0,240
-Yugoslavia,Ireland,0,0,240
-Italy,Ukraine,0,0,239
-Italy,Romania,0,0,238
-Poland,Finland,0,0,238
-Iceland,Greece,0,0,238
-Croatia,Hungary,1,1,238
-Ukraine,Norway,0,0,237
-Cyprus,Yugoslavia,0,0,236
-Albania,Sweden,0,0,236
-Belgium,Malta,0,0,236
-Norway,Türkiye,0,0,236
-Czech Republic,Azerbaijan,0,1,235
-Malta,Spain,0,1,234
-Ireland,Iceland,0,0,234
-Denmark,Ukraine,0,0,233
-Sweden,Hungary,0,0,233
-Greece,Moldova,0,0,233
-Norway,Luxembourg,0,0,232
-Estonia,Malta,0,0,232
-Austria,Luxembourg,0,1,232
-Montenegro,Azerbaijan,0,1,232
-Italy,Greece,0,1,232
-Croatia,Azerbaijan,0,1,232
-Norway,Estonia,0,1,231
-Netherlands,Russia,0,0,231
-Iceland,Austria,0,0,230
-Belarus,Israel,0,0,230
-Germany,Armenia,0,0,230
-Portugal,Finland,0,0,230
-Czech Republic,Armenia,0,1,229
-Italy,Malta,0,1,229
-Türkiye,Norway,0,0,228
-Austria,Greece,0,0,228
-Belgium,Albania,0,0,228
-Netherlands,Malta,0,0,228
-Lithuania,Poland,1,0,227
-Slovenia,Netherlands,0,0,227
-France,Poland,0,0,227
-Lithuania,Denmark,0,1,227
-Netherlands,Italy,0,0,227
-Iceland,Belgium,0,0,226
-Croatia,Ireland,0,0,226
-Iceland,Israel,0,0,225
-Poland,Armenia,0,1,224
-Greece,Israel,0,0,224
-Russia,Romania,0,1,224
-Finland,Serbia,0,0,224
-Romania,Armenia,0,1,224
-Ukraine,Poland,1,1,224
-Croatia,Türkiye,0,0,224
-Norway,Poland,0,0,223
-Latvia,Iceland,0,1,223
-Netherlands,Hungary,0,0,223
-Poland,Germany,1,0,223
-Russia,Estonia,1,0,223
-Moldova,Greece,0,0,222
-Cyprus,Malta,0,1,222
-Belarus,Azerbaijan,0,1,221
-Albania,Azerbaijan,0,1,221
-Denmark,Latvia,0,1,220
-Türkiye,Romania,0,0,220
-Finland,Türkiye,0,0,220
-Denmark,Romania,0,0,220
-Ireland,Ukraine,0,0,220
-Ireland,Yugoslavia,0,0,220
-North Macedonia,Greece,1,0,220
-Türkiye,Croatia,0,0,220
-Spain,Türkiye,0,1,220
-Croatia,Denmark,0,0,218
-Russia,Israel,0,0,218
-Austria,Malta,0,0,218
-Cyprus,Belgium,0,0,217
-Latvia,Ireland,0,0,217
-Belarus,Serbia,0,1,217
-Iceland,Latvia,0,1,217
-Bosnia and Herzegovina,Ireland,0,0,216
-Monaco,Germany,0,1,216
-Spain,Andorra,1,0,216
-Greece,Sweden,0,0,216
-Portugal,Malta,0,1,216
-Ukraine,Serbia,0,1,215
-France,Russia,0,0,215
-Finland,Malta,0,0,214
-Croatia,Norway,0,0,214
-France,Malta,0,0,214
-Armenia,Sweden,0,0,214
-Poland,Israel,0,0,213
-Italy,Belgium,0,0,213
-Israel,Italy,0,0,213
-Poland,Greece,0,0,212
-Italy,Monaco,0,0,212
-Russia,Serbia,0,1,212
-Yugoslavia,Germany,0,0,212
-Finland,Bosnia and Herzegovina,0,0,212
-Albania,Hungary,0,1,212
-United Kingdom,Russia,0,0,212
-Netherlands,Iceland,0,0,211
-Cyprus,Germany,0,0,211
-Bulgaria,Serbia,1,1,211
-Belarus,Norway,0,0,210
-Azerbaijan,Moldova,0,1,210
-Bulgaria,Russia,0,1,210
-Azerbaijan,Malta,0,0,209
-Switzerland,Cyprus,0,0,209
-Austria,Hungary,1,0,208
-Monaco,Ireland,0,1,208
-Italy,Moldova,0,0,208
-Norway,Latvia,0,1,208
-Russia,Sweden,0,0,208
-Denmark,Yugoslavia,0,0,208
-Yugoslavia,Cyprus,0,0,208
-Greece,Portugal,0,1,208
-Moldova,Norway,0,0,206
-Romania,Serbia,1,1,205
-Russia,France,0,0,204
-Italy,Portugal,0,1,204
-Portugal,Estonia,0,0,204
-United Kingdom,Monaco,0,1,204
-Bosnia and Herzegovina,France,0,0,203
-Greece,Iceland,0,0,203
-Albania,Spain,0,0,202
-North Macedonia,Sweden,0,0,202
-Latvia,Malta,0,0,202
-Slovenia,Latvia,0,0,201
-Romania,Ukraine,1,1,201
-Serbia,Sweden,0,0,201
-Poland,Lithuania,1,0,201
-Türkiye,Russia,0,0,200
-Malta,Austria,0,0,200
-Monaco,Israel,0,0,200
-Ukraine,Croatia,0,1,199
-Belgium,Hungary,0,0,199
-Cyprus,Austria,0,0,199
-Slovenia,Greece,0,0,198
-San Marino,Azerbaijan,0,0,198
-Hungary,Ukraine,1,1,198
-Germany,Cyprus,0,0,197
-San Marino,Malta,0,1,197
-United Kingdom,Romania,0,0,197
-Italy,Cyprus,0,1,197
-San Marino,Norway,0,0,197
-Spain,Yugoslavia,0,0,196
-Andorra,Finland,0,0,196
-Monaco,Netherlands,0,1,196
-Andorra,Ukraine,0,0,196
-Yugoslavia,Spain,0,0,196
-Luxembourg,Norway,0,0,196
-Armenia,Belarus,0,1,196
-Türkiye,Bulgaria,1,0,196
-Germany,Hungary,0,0,196
-United Kingdom,Ukraine,0,0,196
-United Kingdom,Poland,0,0,196
-San Marino,Sweden,0,0,195
-Austria,Poland,0,0,194
-Spain,Estonia,0,0,194
-Portugal,Cyprus,0,1,193
-Hungary,Serbia,1,1,193
-Russia,Denmark,0,0,193
-Portugal,Latvia,0,0,192
-Spain,Bulgaria,0,0,192
-Iceland,Yugoslavia,0,0,192
-Türkiye,Portugal,0,1,192
-Slovakia,Malta,0,0,192
-Finland,Yugoslavia,0,0,192
-Slovakia,Estonia,0,0,192
-Sweden,Latvia,0,1,191
-Lithuania,Netherlands,0,0,191
-Netherlands,Ukraine,0,0,190
-Romania,Malta,0,0,190
-Spain,Hungary,0,0,189
-Slovenia,Montenegro,0,1,189
-Germany,Estonia,0,0,189
-France,Iceland,0,0,188
-Germany,Latvia,0,0,188
-Israel,Belarus,0,0,188
-France,Monaco,1,1,188
-Switzerland,Luxembourg,0,1,188
-Slovenia,Estonia,0,0,187
-San Marino,Italy,1,1,187
-Moldova,Georgia,0,1,187
-Austria,Estonia,0,0,187
-Norway,Hungary,0,0,186
-Albania,Cyprus,0,0,186
-Poland,Ireland,0,0,185
-Hungary,Romania,1,1,185
-Switzerland,Hungary,0,0,185
-Estonia,United Kingdom,0,0,185
-Germany,Romania,0,0,185
-Poland,Slovenia,0,1,185
-Belgium,Ukraine,0,0,184
-Bulgaria,Cyprus,0,0,184
-Romania,Cyprus,0,0,184
-Moldova,Armenia,0,1,184
-Netherlands,Monaco,0,1,184
-San Marino,Albania,0,0,183
-Austria,Albania,0,0,183
-Belgium,Latvia,0,0,183
-Georgia,Sweden,0,0,181
-Greece,Denmark,0,0,180
-Lithuania,Iceland,0,1,180
-Andorra,Israel,0,0,180
-Monaco,Switzerland,0,1,180
-Slovakia,Sweden,0,0,180
-Albania,Malta,0,0,180
-Israel,Luxembourg,0,0,180
-Israel,Latvia,0,0,180
-Germany,Monaco,0,1,180
-Sweden,Monaco,0,0,180
-France,Hungary,0,0,179
-Estonia,France,0,0,179
-Bosnia and Herzegovina,Austria,0,0,179
-Czech Republic,Ukraine,0,1,179
-Sweden,Ukraine,0,0,178
-Cyprus,Croatia,0,0,177
-Albania,Russia,0,1,177
-Serbia,Moldova,0,1,177
-Malta,Belarus,0,0,177
-Monaco,Italy,0,0,176
-Russia,Lithuania,1,0,176
-Slovenia,Ireland,0,0,176
-Montenegro,Greece,0,0,176
-North Macedonia,Belarus,0,1,176
-Russia,Slovenia,0,1,176
-Bosnia and Herzegovina,Norway,0,0,176
-Armenia,Norway,0,0,175
-Lithuania,France,0,0,175
-Portugal,Serbia,0,0,175
-Slovenia,Italy,1,0,175
-Serbia,Norway,0,0,174
-San Marino,Armenia,0,0,174
-Estonia,Germany,0,0,174
-Sweden,Romania,0,0,174
-Cyprus,Georgia,0,0,174
-Iceland,Malta,0,0,174
-Iceland,Azerbaijan,0,0,174
-France,Cyprus,0,0,174
-Romania,North Macedonia,0,1,173
-Azerbaijan,Norway,0,0,173
-Greece,Bulgaria,1,0,173
-Monaco,Finland,0,0,172
-Armenia,Cyprus,0,0,172
-Bosnia and Herzegovina,Albania,0,1,172
-Albania,Montenegro,1,1,172
-Sweden,Yugoslavia,0,0,172
-Norway,Yugoslavia,0,0,172
-Estonia,Austria,0,0,171
-Latvia,Belgium,0,0,171
-Slovenia,Israel,0,0,171
-Armenia,Israel,0,0,170
-Israel,Moldova,0,0,170
-Austria,Finland,0,0,170
-Denmark,Hungary,0,0,170
-North Macedonia,Moldova,0,1,169
-Iceland,Romania,0,0,169
-Poland,Latvia,0,0,169
-Netherlands,Azerbaijan,0,0,168
-Estonia,Georgia,0,0,168
-Austria,Iceland,0,0,168
-Israel,Estonia,0,0,168
-Denmark,Greece,0,0,168
-Yugoslavia,Türkiye,0,0,168
-Hungary,Ireland,0,0,168
-Yugoslavia,Belgium,0,0,168
-Israel,Türkiye,0,0,168
-Israel,Slovenia,0,0,168
-Türkiye,Moldova,0,0,168
-Monaco,Belgium,0,1,168
-Latvia,Germany,0,0,167
-Hungary,Estonia,0,0,166
-Belarus,Estonia,0,0,166
-Poland,France,0,0,166
-Serbia,Montenegro,1,1,165
-Greece,Belarus,0,0,165
-Malta,Belgium,0,0,165
-United Kingdom,Bulgaria,0,0,165
-Belarus,Poland,1,1,165
-Czech Republic,Sweden,0,0,165
-Lithuania,Malta,0,0,165
-Montenegro,North Macedonia,0,1,165
-Latvia,Finland,0,1,165
-Latvia,Belarus,1,0,164
-Slovakia,Bosnia and Herzegovina,0,1,164
-Ireland,Monaco,0,1,164
-Montenegro,Ukraine,0,1,164
-Armenia,France,0,0,163
-Cyprus,Iceland,0,0,162
-Romania,Spain,0,0,162
-Belarus,Malta,0,0,162
-Slovenia,United Kingdom,0,0,162
-Slovenia,Belgium,0,0,162
-Hungary,Poland,0,1,161
-Montenegro,Armenia,0,1,161
-Greece,Poland,0,0,161
-Portugal,Croatia,0,0,161
-Portugal,Hungary,0,0,161
-Latvia,Azerbaijan,0,0,160
-Luxembourg,Yugoslavia,0,0,160
-Latvia,Georgia,0,0,160
-Russia,Malta,0,0,160
-Türkiye,Finland,0,0,160
-Bosnia and Herzegovina,Ukraine,0,1,159
-France,Bulgaria,0,0,159
-Albania,Serbia,0,1,159
-Italy,Albania,0,0,159
-Estonia,Cyprus,0,0,159
-Poland,Serbia,0,1,158
-Croatia,Sweden,0,0,158
-Bulgaria,Romania,1,1,158
-Romania,Ireland,0,0,158
-Lithuania,Finland,0,1,157
-Cyprus,Moldova,0,0,157
-Slovenia,Switzerland,0,0,156
-Russia,Hungary,0,1,156
-Yugoslavia,Finland,0,0,156
-Belgium,Monaco,0,1,156
-Georgia,Greece,0,0,156
-Finland,Monaco,0,0,156
-Malta,Germany,0,0,156
-Moldova,Estonia,0,0,156
-Ukraine,Türkiye,0,0,156
-Iceland,Serbia,0,0,156
-Spain,Monaco,0,0,156
-Slovenia,Germany,0,0,156
-Israel,Georgia,0,0,156
-Russia,Ireland,0,0,156
-Netherlands,Yugoslavia,0,0,156
-Iceland,United Kingdom,0,0,155
-Cyprus,Netherlands,0,0,155
-Ukraine,Hungary,1,1,154
-Albania,Germany,0,0,154
-Armenia,Malta,0,0,154
-Ireland,Portugal,0,0,153
-Armenia,Moldova,0,1,153
-France,Azerbaijan,0,0,153
-Poland,Switzerland,0,0,153
-Malta,Finland,0,0,153
-Latvia,Netherlands,0,0,153
-Ukraine,Israel,0,0,153
-Azerbaijan,Hungary,0,1,153
-Switzerland,Monaco,0,1,152
-Cyprus,Finland,0,0,152
-Monaco,Sweden,0,0,152
-Türkiye,France,0,0,152
-San Marino,Hungary,0,0,151
-Spain,Serbia,0,0,151
-Albania,Israel,0,0,151
-Poland,Romania,0,1,150
-Moldova,Belgium,0,0,150
-Russia,Cyprus,0,0,150
-Bosnia and Herzegovina,Russia,0,1,150
-Poland,Iceland,0,0,149
-Lithuania,Switzerland,0,0,149
-Estonia,Azerbaijan,0,0,148
-Georgia,Türkiye,1,0,148
-Albania,Romania,0,1,147
-Cyprus,Belarus,0,0,147
-Netherlands,Romania,0,0,147
-Finland,Latvia,0,1,147
-Hungary,Malta,0,0,146
-Czech Republic,Russia,0,1,146
-Romania,Belgium,0,0,145
-Croatia,Spain,0,0,144
-Italy,Finland,0,0,144
-Monaco,Luxembourg,0,1,144
-Cyprus,Lithuania,0,0,144
-France,Yugoslavia,0,0,144
-Yugoslavia,Austria,0,0,144
-Greece,Türkiye,1,1,144
-Malta,Luxembourg,0,0,144
-Luxembourg,Finland,0,0,144
-Sweden,Armenia,0,0,143
-Armenia,Montenegro,0,1,143
-Greece,Germany,0,0,142
-Iceland,Poland,0,0,142
-Norway,Ukraine,0,0,141
-Poland,United Kingdom,0,0,141
-Ukraine,Greece,0,0,140
-Russia,Finland,1,0,140
-Norway,Azerbaijan,0,0,140
-Russia,Germany,0,0,140
-Greece,Estonia,0,0,140
-Lithuania,Greece,0,0,140
-Ukraine,Lithuania,0,0,140
-Poland,Australia,0,0,139
-Albania,Bulgaria,0,1,139
-Croatia,Netherlands,0,0,139
-Iceland,Albania,0,0,138
-Azerbaijan,Albania,0,1,138
-Hungary,Bulgaria,0,1,138
-Montenegro,Sweden,0,0,138
-Belarus,Latvia,1,0,138
-Hungary,United Kingdom,0,0,137
-Slovenia,France,0,0,137
-Bosnia and Herzegovina,Azerbaijan,0,1,137
-Georgia,Latvia,0,0,137
-Italy,Poland,0,0,137
-Bosnia and Herzegovina,Israel,0,0,136
-Latvia,Moldova,0,0,136
-Germany,Yugoslavia,0,0,136
-Andorra,Greece,0,0,136
-Türkiye,Iceland,0,0,136
-Austria,Yugoslavia,0,0,136
-Switzerland,Latvia,0,0,136
-Andorra,Romania,0,0,136
-Finland,Ukraine,0,0,136
-Latvia,Switzerland,0,0,136
-Luxembourg,Monaco,0,1,136
-Malta,Serbia,0,0,135
-Albania,Norway,0,0,135
-Romania,Netherlands,0,0,134
-Israel,Hungary,0,0,134
-Russia,United Kingdom,0,0,134
-Cyprus,Portugal,0,1,134
-Serbia,Bulgaria,1,1,134
-Iceland,Croatia,0,0,134
-Spain,Croatia,0,0,134
-Greece,Croatia,0,0,133
-Poland,Netherlands,0,0,133
-Slovenia,Iceland,0,0,133
-Bosnia and Herzegovina,Germany,0,0,132
-Bosnia and Herzegovina,United Kingdom,0,0,132
-Ireland,Slovenia,0,0,132
-Sweden,Australia,0,0,132
-Romania,Switzerland,0,0,132
-Monaco,Denmark,0,0,132
-Lithuania,Austria,0,0,131
-Bulgaria,Hungary,0,1,131
-Croatia,Germany,0,0,131
-Malta,Estonia,0,0,131
-Georgia,Moldova,0,1,131
-Belarus,Iceland,0,0,131
-Georgia,Norway,0,0,130
-North Macedonia,Italy,0,0,130
-Hungary,Israel,0,0,129
-Denmark,Serbia,0,0,129
-Ukraine,Denmark,0,0,129
-Hungary,Finland,0,0,129
-Italy,Russia,0,0,129
-Norway,Monaco,0,0,128
-Türkiye,Denmark,0,0,128
-Andorra,Sweden,0,0,128
-Israel,Portugal,0,0,128
-Belgium,Estonia,0,0,128
-Slovenia,Romania,0,1,128
-Belarus,Belgium,0,0,128
-Ukraine,Estonia,0,0,128
-Denmark,Luxembourg,0,0,128
-Cyprus,Luxembourg,0,0,128
-Denmark,Spain,0,0,128
-Poland,Georgia,0,1,128
-Austria,Portugal,0,0,128
-Yugoslavia,Monaco,0,0,128
-North Macedonia,Norway,0,0,128
-North Macedonia,Azerbaijan,0,1,127
-San Marino,Netherlands,0,0,127
-France,Moldova,0,0,127
-Austria,Moldova,0,0,127
-Albania,San Marino,0,0,126
-Croatia,France,0,0,126
-Montenegro,Croatia,1,1,126
-Czech Republic,Serbia,0,1,126
-Malta,Bulgaria,0,0,125
-Armenia,Netherlands,0,0,125
-Iceland,Italy,0,0,125
-Hungary,Switzerland,0,0,125
-Ireland,Moldova,0,0,125
-Romania,Slovenia,0,1,125
-Bulgaria,Bosnia and Herzegovina,0,1,124
-Portugal,Monaco,0,0,124
-Hungary,Belgium,0,0,124
-Slovakia,Greece,0,0,124
-Denmark,Albania,0,0,124
-Croatia,Italy,0,0,124
-Ireland,Hungary,0,0,124
-Ireland,Azerbaijan,0,0,124
-Monaco,Greece,0,0,124
-Romania,Germany,0,0,124
-Lithuania,Moldova,0,0,124
-Lithuania,Belgium,0,0,124
-Iceland,Türkiye,0,0,124
-Croatia,Latvia,0,0,124
-Luxembourg,Malta,0,0,124
-Belgium,Serbia,0,0,123
-Bulgaria,Israel,0,0,123
-Netherlands,Croatia,0,0,123
-Norway,Croatia,0,0,123
-North Macedonia,Israel,0,0,123
-Estonia,Switzerland,0,0,123
-Italy,Iceland,0,0,123
-Estonia,Belarus,0,0,122
-Latvia,Portugal,0,0,122
-Georgia,Belgium,0,0,122
-Serbia,Belgium,0,0,122
-Hungary,Croatia,1,1,122
-Montenegro,Norway,0,0,122
-Montenegro,Italy,0,0,121
-Portugal,Slovenia,0,0,121
-Lithuania,Slovenia,0,0,121
-Slovenia,Cyprus,0,0,121
-Belgium,Azerbaijan,0,0,121
-Italy,Yugoslavia,0,0,120
-Yugoslavia,Portugal,0,0,120
-Slovakia,Ukraine,1,1,120
-Malta,Bosnia and Herzegovina,0,0,120
-Portugal,Yugoslavia,0,0,120
-Bulgaria,Austria,0,0,120
-Hungary,Türkiye,0,0,120
-Bosnia and Herzegovina,Spain,0,0,120
-Hungary,Austria,1,0,120
-Estonia,Greece,0,0,120
-Austria,Slovenia,1,0,119
-Cyprus,Estonia,0,0,119
-Montenegro,Moldova,0,1,119
-Bosnia and Herzegovina,Montenegro,1,1,119
-North Macedonia,Armenia,0,1,119
-Germany,Albania,0,0,118
-Slovenia,Moldova,0,1,118
-Bulgaria,Georgia,0,1,118
-Iceland,Australia,0,0,118
-Latvia,Slovenia,0,0,118
-Hungary,Moldova,0,1,118
-Malta,Armenia,0,0,118
-Poland,Moldova,0,1,118
-Israel,Croatia,0,0,117
-Portugal,Azerbaijan,0,0,116
-Denmark,Lithuania,0,1,116
-Luxembourg,Greece,0,0,116
-Malta,Slovenia,0,0,116
-Netherlands,Slovenia,0,0,116
-Albania,Croatia,0,1,116
-Malta,Georgia,0,0,116
-Slovakia,Azerbaijan,0,1,116
-Denmark,Australia,0,0,116
-Spain,Azerbaijan,0,0,116
-Ireland,Croatia,0,0,115
-Serbia,Denmark,0,0,115
-North Macedonia,Finland,0,0,115
-Belgium,Poland,0,0,113
-Austria,Bulgaria,0,0,113
-Latvia,Hungary,0,0,113
-Slovenia,Albania,0,1,113
-Croatia,Portugal,0,0,113
-Georgia,Malta,0,0,112
-Ukraine,Malta,0,0,112
-Serbia,Israel,0,0,112
-Poland,Austria,0,0,112
-Poland,Italy,0,0,112
-Monaco,Bosnia and Herzegovina,0,0,112
-Cyprus,Hungary,0,0,112
-San Marino,Israel,0,0,112
-Switzerland,Yugoslavia,0,0,112
-Portugal,Lithuania,0,0,112
-Finland,Romania,0,0,111
-Bulgaria,Sweden,0,0,111
-Moldova,Bulgaria,0,1,111
-Hungary,Albania,0,1,110
-Hungary,Slovenia,1,1,110
-Serbia,Albania,0,1,109
-United Kingdom,Hungary,0,0,109
-France,Croatia,0,0,109
-Norway,Australia,0,0,109
-Denmark,Azerbaijan,0,0,109
-Czech Republic,Bulgaria,0,1,109
-Israel,Serbia,0,0,109
-Netherlands,Poland,0,0,109
-Slovakia,Belgium,0,0,108
-North Macedonia,Montenegro,0,1,108
-Malta,Slovakia,0,0,108
-Spain,Poland,0,0,108
-Monaco,Norway,0,0,108
-Slovakia,Ireland,0,0,108
-Russia,Latvia,1,0,108
-Slovakia,Croatia,0,1,108
-Slovakia,Norway,0,0,108
-Yugoslavia,Norway,0,0,108
-Russia,Croatia,0,1,108
-Azerbaijan,San Marino,0,0,107
-Latvia,Cyprus,0,0,107
-Iceland,Lithuania,0,1,107
-Georgia,Serbia,0,1,107
-San Marino,Latvia,0,0,107
-Russia,Poland,0,1,107
-Romania,Austria,0,0,107
-San Marino,Russia,0,0,107
-Sweden,Azerbaijan,0,0,107
-Bulgaria,Moldova,0,1,106
-Austria,Azerbaijan,0,0,106
-United Kingdom,Australia,0,0,106
-Germany,Bulgaria,0,0,106
-Georgia,Austria,0,0,106
-Poland,Belarus,1,1,106
-Greece,Hungary,0,0,105
-Israel,Australia,0,1,105
-San Marino,Moldova,0,0,105
-Andorra,Norway,0,0,104
-Croatia,Switzerland,0,0,104
-Malta,France,0,0,104
-Belgium,Bosnia and Herzegovina,0,0,104
-Türkiye,Luxembourg,0,0,104
-Luxembourg,Denmark,0,0,104
-Albania,Ukraine,0,1,104
-Andorra,France,1,1,104
-Iceland,Spain,0,0,104
-Armenia,Serbia,0,1,104
-Bulgaria,Denmark,0,0,104
-Serbia,Romania,1,1,103
-Latvia,Poland,0,0,103
-Malta,Lithuania,0,0,103
-North Macedonia,United Kingdom,0,0,103
-Moldova,Iceland,0,0,103
-Bulgaria,Belarus,0,1,103
-Finland,Albania,0,0,103
-Lithuania,Croatia,0,0,102
-Sweden,Albania,0,0,102
-North Macedonia,Netherlands,0,0,102
-Spain,Latvia,0,0,102
-Latvia,United Kingdom,0,0,102
-San Marino,Iceland,0,0,102
-Malta,Albania,0,0,102
-Azerbaijan,Sweden,0,0,102
-Belarus,Switzerland,0,0,102
-Slovenia,Malta,0,0,101
-Moldova,Israel,0,0,101
-Poland,Malta,0,0,101
-Norway,Bulgaria,0,0,101
-Belgium,Australia,0,0,101
-Georgia,Israel,0,0,101
-Serbia,Cyprus,0,0,101
-Russia,Netherlands,0,0,101
-Montenegro,Israel,0,0,101
-Bosnia and Herzegovina,Poland,0,1,100
-Türkiye,Hungary,0,0,100
-Slovenia,Finland,0,0,100
-Croatia,Lithuania,0,0,100
-Spain,Slovenia,0,0,100
-Greece,Luxembourg,0,0,100
-Serbia,Malta,0,0,100
-Russia,Türkiye,0,0,100
-Latvia,Greece,0,0,100
-Slovenia,Azerbaijan,0,1,100
-Germany,Slovenia,0,0,100
-Czech Republic,Portugal,0,0,100
-Lithuania,Cyprus,0,0,100
-Ukraine,Cyprus,0,0,100
-United Kingdom,Moldova,0,0,100
-Poland,Portugal,0,0,100
-Belarus,Finland,0,0,99
-Switzerland,Romania,0,0,99
-Croatia,Israel,0,0,99
-Belarus,Croatia,0,1,99
-Croatia,Estonia,0,0,99
-Croatia,Bulgaria,0,1,99
-Ukraine,North Macedonia,0,1,99
-Germany,Australia,0,0,98
-Azerbaijan,Belarus,0,1,98
-Belgium,Moldova,0,0,98
-Hungary,Cyprus,0,0,98
-Romania,Croatia,0,1,98
-Portugal,Bulgaria,0,0,98
-Austria,Cyprus,0,0,98
-Malta,Portugal,0,1,98
-Czech Republic,Israel,0,0,97
-Latvia,Croatia,0,0,97
-Serbia,Italy,0,0,97
-Denmark,Moldova,0,0,97
-Albania,Netherlands,0,0,97
-Georgia,Italy,0,0,97
-Czech Republic,Latvia,0,0,97
-Russia,Iceland,0,0,97
-Ireland,Bosnia and Herzegovina,0,0,96
-Romania,Italy,0,0,96
-Germany,Ukraine,0,0,96
-Cyprus,Latvia,0,0,96
-North Macedonia,Belgium,0,0,96
-Albania,Portugal,0,0,96
-Austria,Latvia,0,0,96
-Bosnia and Herzegovina,Romania,0,1,96
-Andorra,Iceland,0,0,96
-Romania,Bosnia and Herzegovina,0,1,96
-Israel,Monaco,0,0,96
-Ireland,Türkiye,0,0,96
-Monaco,Cyprus,0,0,96
-Hungary,Georgia,0,1,95
-Bulgaria,Lithuania,0,0,95
-Slovenia,Poland,0,1,95
-Azerbaijan,Latvia,0,0,94
-Belarus,Cyprus,0,0,94
-Lithuania,Israel,0,0,94
-Slovenia,Bulgaria,0,1,94
-Latvia,Italy,0,0,94
-Latvia,France,0,0,94
-Lithuania,Italy,0,0,93
-Hungary,Germany,0,0,93
-Netherlands,Lithuania,0,0,93
-Bulgaria,Croatia,0,1,93
-Poland,Croatia,0,1,93
-Azerbaijan,Lithuania,0,0,93
-Serbia,Lithuania,0,0,93
-Italy,Türkiye,0,1,92
-Croatia,Finland,0,0,92
-Romania,Poland,0,1,92
-Denmark,Italy,0,0,92
-Armenia,Romania,0,1,92
-Austria,Monaco,0,1,92
-Lithuania,Germany,0,0,92
-Italy,Estonia,0,0,91
-Moldova,Portugal,0,0,91
-France,Slovenia,0,0,91
-Ireland,Bulgaria,0,0,91
-Albania,Switzerland,0,0,91
-Israel,Bulgaria,0,0,90
-Belarus,Denmark,0,0,90
-Austria,Armenia,0,0,90
-Sweden,Poland,0,0,90
-Iceland,Slovenia,0,0,90
-Austria,Ukraine,0,0,90
-Moldova,Latvia,0,0,90
-Moldova,Denmark,0,0,90
-Spain,Australia,0,0,90
-Cyprus,Slovenia,0,0,89
-Finland,Australia,0,0,89
-Armenia,Portugal,0,0,88
-Monaco,Portugal,0,0,88
-Romania,Finland,0,0,88
-Lithuania,United Kingdom,0,0,88
-Andorra,Russia,0,0,88
-Georgia,Estonia,0,0,88
-Serbia,Finland,0,0,88
-Latvia,Australia,0,0,88
-Ukraine,Bosnia and Herzegovina,0,1,88
-Luxembourg,Austria,0,1,88
-Bosnia and Herzegovina,Belgium,0,0,88
-Monaco,Austria,0,1,88
-Türkiye,Estonia,0,0,88
-Monaco,Yugoslavia,0,0,88
-Norway,Slovenia,0,0,88
-Malta,North Macedonia,0,0,88
-Slovenia,Hungary,1,1,87
-Belarus,Romania,0,1,87
-Sweden,Croatia,0,0,87
-Estonia,Poland,0,0,86
-Ireland,Serbia,0,0,86
-Czech Republic,Malta,0,0,86
-Armenia,Iceland,0,0,86
-Moldova,Serbia,0,1,86
-Croatia,Austria,0,0,86
-Romania,Iceland,0,0,85
-Estonia,Israel,0,0,85
-Georgia,Hungary,0,1,85
-Russia,Spain,0,0,85
-Montenegro,Denmark,0,0,85
-Latvia,Armenia,0,0,85
-Russia,Italy,0,0,84
-Finland,Azerbaijan,0,0,84
-Belarus,Bulgaria,0,1,84
-Belarus,Bosnia and Herzegovina,0,1,84
-Hungary,Australia,0,0,84
-France,Albania,0,0,84
-Armenia,North Macedonia,0,1,84
-Portugal,Türkiye,0,1,84
-Sweden,Slovenia,0,0,84
-Slovakia,Serbia,0,1,84
-Albania,Belgium,0,0,84
-Belgium,Lithuania,0,0,83
-Montenegro,Malta,0,0,83
-Montenegro,Hungary,0,1,82
-United Kingdom,Serbia,0,0,82
-Hungary,Armenia,0,1,82
-Finland,Slovenia,0,0,82
-Finland,Lithuania,0,1,82
-France,Latvia,0,0,82
-North Macedonia,Denmark,0,0,82
-Ukraine,Latvia,0,0,81
-Sweden,Lithuania,0,1,81
-Bosnia and Herzegovina,Netherlands,0,0,81
-Malta,Poland,0,0,81
-Switzerland,Russia,0,0,81
-Italy,Serbia,0,0,81
-Montenegro,Belarus,0,1,81
-Moldova,Bosnia and Herzegovina,0,1,81
-Serbia,Portugal,0,0,80
-Romania,United Kingdom,0,0,80
-Montenegro,Iceland,0,0,80
-Bosnia and Herzegovina,Finland,0,0,80
-Albania,Iceland,0,0,80
-Slovenia,Spain,0,0,80
-Portugal,Bosnia and Herzegovina,0,0,80
-Ukraine,Slovenia,0,1,80
-Poland,Bosnia and Herzegovina,0,1,80
-Greece,Bosnia and Herzegovina,0,0,80
-Switzerland,Azerbaijan,0,0,80
-San Marino,United Kingdom,0,0,79
-Czech Republic,North Macedonia,0,1,79
-Albania,Armenia,0,1,79
-Belarus,Portugal,0,0,79
-United Kingdom,Croatia,0,0,79
-Denmark,Portugal,0,0,79
-Moldova,Finland,0,0,79
-North Macedonia,Latvia,0,0,79
-Georgia,Portugal,0,0,78
-Estonia,Romania,0,0,78
-Iceland,Moldova,0,0,78
-Estonia,Slovenia,0,0,78
-Norway,Albania,0,0,78
-Latvia,Austria,0,0,78
-Greece,Slovenia,0,0,78
-Estonia,Croatia,0,0,78
-Hungary,Italy,0,0,77
-Lithuania,Hungary,0,0,77
-Latvia,Serbia,0,0,77
-Slovakia,Germany,0,0,76
-Iceland,Armenia,0,0,76
-Armenia,Italy,0,0,76
-Slovakia,Iceland,0,0,76
-Azerbaijan,Montenegro,0,1,76
-Iceland,Czech Republic,0,0,76
-Luxembourg,Türkiye,0,0,76
-Moldova,Lithuania,0,0,76
-Albania,United Kingdom,0,0,76
-Bosnia and Herzegovina,Estonia,0,0,76
-Belgium,Croatia,0,0,76
-Poland,Cyprus,0,0,76
-San Marino,Türkiye,0,1,76
-Albania,Moldova,0,1,76
-Lithuania,Serbia,0,0,76
-Bulgaria,United Kingdom,0,0,76
-Ukraine,Bulgaria,0,1,76
-Andorra,Netherlands,0,1,76
-Estonia,Italy,0,0,76
-Armenia,Bulgaria,0,1,76
-Ukraine,Portugal,0,0,76
-Serbia,Azerbaijan,0,1,75
-Cyprus,Albania,0,0,75
-Norway,Moldova,0,0,75
-Italy,Lithuania,0,0,75
-Malta,San Marino,0,1,75
-Hungary,San Marino,0,0,75
-Czech Republic,Hungary,0,1,75
-Belarus,Australia,0,0,75
-Albania,Slovenia,0,1,75
-Montenegro,Romania,0,1,74
-San Marino,Serbia,0,0,74
-Belgium,Georgia,0,0,74
-Ukraine,Belgium,0,0,74
-Croatia,Moldova,0,1,74
-North Macedonia,Hungary,0,1,74
-San Marino,Ireland,0,0,74
-Azerbaijan,Estonia,0,0,74
-Ukraine,Romania,1,1,74
-Slovenia,Lithuania,0,0,73
-Spain,Albania,0,0,73
-Romania,Portugal,0,0,73
-Austria,North Macedonia,0,0,73
-Bulgaria,Norway,0,0,73
-Belarus,Hungary,0,1,73
-Ukraine,Netherlands,0,0,73
-Belarus,Slovenia,0,1,73
-Moldova,Australia,0,0,73
-United Kingdom,Slovenia,0,0,72
-Czech Republic,Iceland,0,0,72
-Belgium,Bulgaria,0,0,72
-Slovenia,Türkiye,0,0,72
-Israel,Czech Republic,0,0,72
-Slovenia,Portugal,0,0,72
-Türkiye,Slovenia,0,0,72
-Andorra,Denmark,0,0,72
-Belarus,Türkiye,0,0,72
-Armenia,Belgium,0,0,72
-Iceland,Bosnia and Herzegovina,0,0,72
-Andorra,Malta,0,0,72
-Switzerland,Poland,0,0,72
-Sweden,Moldova,0,0,72
-Slovakia,Cyprus,0,0,72
-Greece,Yugoslavia,0,0,72
-Israel,Lithuania,0,0,72
-Armenia,Switzerland,0,0,72
-Netherlands,Latvia,0,0,71
-Switzerland,Australia,0,0,71
-Hungary,Portugal,0,0,71
-Finland,Georgia,0,0,71
-United Kingdom,Albania,0,0,71
-Albania,France,0,0,71
-Armenia,Bosnia and Herzegovina,0,1,70
-Croatia,Czech Republic,0,1,70
-Bulgaria,Belgium,0,0,70
-Czech Republic,Georgia,0,1,69
-Italy,Slovenia,1,0,69
-Armenia,Denmark,0,0,69
-Estonia,Moldova,0,0,69
-Poland,Spain,0,0,69
-San Marino,Bulgaria,0,0,69
-Croatia,Romania,0,1,69
-Georgia,Denmark,0,0,69
-Moldova,Hungary,0,1,69
-Georgia,Cyprus,0,0,69
-France,Ukraine,0,0,69
-San Marino,Finland,0,0,68
-Slovakia,United Kingdom,0,0,68
-Yugoslavia,Greece,0,0,68
-France,Australia,0,0,68
-Malta,Australia,0,0,68
-Azerbaijan,Denmark,0,0,68
-Azerbaijan,Slovenia,0,1,68
-Andorra,Monaco,0,1,68
-Yugoslavia,Malta,0,0,68
-Andorra,Hungary,0,0,68
-Romania,Bulgaria,1,1,67
-San Marino,Denmark,0,0,67
-Spain,Czech Republic,0,0,67
-Denmark,Slovenia,0,0,67
-Finland,Moldova,0,0,66
-Montenegro,San Marino,0,0,66
-Bulgaria,Germany,0,0,66
-Austria,Australia,0,0,66
-Serbia,Australia,0,0,66
-San Marino,Romania,0,0,66
-Denmark,Bulgaria,0,0,65
-Netherlands,Australia,0,0,65
-Finland,Bulgaria,0,0,65
-Moldova,Italy,0,0,65
-Italy,Australia,0,0,65
-Albania,Australia,0,0,65
-Armenia,Türkiye,1,0,64
-Lithuania,Türkiye,0,0,64
-Slovakia,Moldova,0,1,64
-Italy,Bulgaria,0,0,64
-Bosnia and Herzegovina,Armenia,0,1,64
-Croatia,Georgia,0,1,64
-Greece,Monaco,0,0,64
-Malta,Hungary,0,0,64
-Russia,Switzerland,0,0,64
-Slovakia,Denmark,0,0,64
-United Kingdom,Bosnia and Herzegovina,0,0,64
-Monaco,Croatia,0,0,64
-Serbia,Iceland,0,0,63
-San Marino,Cyprus,0,1,63
-Cyprus,Poland,0,0,63
-Finland,Croatia,0,0,63
-Czech Republic,Slovenia,0,1,63
-Lithuania,Romania,0,0,62
-Bulgaria,Malta,0,0,62
-North Macedonia,Estonia,0,0,62
-Ukraine,France,0,0,62
-Slovenia,Australia,0,0,62
-Slovenia,Czech Republic,0,1,62
-Bulgaria,Finland,0,0,62
-Czech Republic,Bosnia and Herzegovina,0,1,61
-Netherlands,Moldova,0,0,61
-Serbia,Estonia,0,0,61
-Czech Republic,Denmark,0,0,61
-Moldova,Albania,0,1,60
-Andorra,Türkiye,0,0,60
-Türkiye,Serbia,0,0,60
-Andorra,Azerbaijan,0,0,60
-United Kingdom,Azerbaijan,0,0,60
-Greece,Latvia,0,0,60
-Russia,Bosnia and Herzegovina,0,1,60
-Monaco,Ukraine,0,0,60
-Croatia,Iceland,0,0,60
-Montenegro,Türkiye,0,0,60
-Romania,Albania,0,1,59
-Denmark,Poland,0,0,59
-Germany,Azerbaijan,0,0,59
-Finland,Armenia,0,0,59
-Albania,Ireland,0,0,59
-San Marino,Belgium,0,0,59
-Montenegro,Bulgaria,0,1,59
-Estonia,Bulgaria,0,0,59
-Albania,Poland,0,1,59
-Montenegro,Cyprus,0,0,58
-Belarus,North Macedonia,0,1,58
-Azerbaijan,Bulgaria,0,1,58
-North Macedonia,Ireland,0,0,58
-Azerbaijan,Italy,0,0,58
-Switzerland,Lithuania,0,0,58
-Hungary,Latvia,0,0,58
-Georgia,Romania,0,1,58
-Sweden,Montenegro,0,0,57
-Azerbaijan,Cyprus,0,0,57
-Hungary,Spain,0,0,57
-Belarus,Netherlands,0,0,57
-Georgia,Poland,0,1,57
-Bosnia and Herzegovina,Bulgaria,0,1,57
-North Macedonia,Georgia,0,1,57
-Estonia,Türkiye,0,0,56
-Portugal,Armenia,0,0,56
-Germany,Moldova,0,0,56
-Monaco,Serbia,0,0,56
-San Marino,Ukraine,0,0,56
-Armenia,San Marino,0,0,56
-Denmark,Monaco,0,0,56
-San Marino,Montenegro,0,0,56
-Poland,Czech Republic,1,1,56
-Moldova,Austria,0,0,56
-Ukraine,Slovakia,1,1,56
-San Marino,Poland,0,0,55
-Georgia,Bulgaria,0,1,55
-San Marino,Australia,0,0,55
-Poland,Albania,0,1,55
-Serbia,Belarus,0,1,55
-Greece,Australia,0,0,55
-Finland,Poland,0,0,55
-Latvia,Romania,0,0,55
-Austria,Belarus,0,0,55
-Russia,Austria,0,0,54
-Albania,Denmark,0,0,54
-Ireland,Australia,0,0,54
-Malta,Moldova,0,0,54
-Ireland,Georgia,0,0,53
-Romania,Belarus,0,1,53
-Italy,Latvia,0,0,53
-Belarus,Austria,0,0,53
-Estonia,Portugal,0,0,53
-Serbia,Georgia,0,1,53
-Bulgaria,Slovenia,0,1,53
-Moldova,Montenegro,0,1,52
-Andorra,Lithuania,0,0,52
-Ukraine,Finland,0,0,52
-Belgium,Czech Republic,0,0,52
-Portugal,Poland,0,0,52
-Moldova,Croatia,0,1,52
-Belgium,Slovenia,0,0,52
-Russia,North Macedonia,0,1,52
-Estonia,Spain,0,0,52
-Luxembourg,Iceland,0,0,52
-Spain,Georgia,0,0,52
-Malta,Monaco,0,0,52
-Netherlands,Georgia,0,0,52
-Azerbaijan,Portugal,0,0,52
-Spain,San Marino,0,1,52
-Latvia,Spain,0,0,52
-Slovakia,Portugal,0,0,52
-Czech Republic,Belgium,0,0,52
-Slovenia,Belarus,0,1,52
-Slovakia,Israel,0,0,52
-Latvia,Israel,0,0,52
-Hungary,France,0,0,51
-Azerbaijan,Bosnia and Herzegovina,0,1,51
-Austria,Czech Republic,1,0,51
-Netherlands,Bulgaria,0,0,51
-Lithuania,Portugal,0,0,51
-Estonia,Armenia,0,0,51
-Serbia,Switzerland,0,0,51
-Armenia,Estonia,0,0,51
-Greece,San Marino,0,1,51
-Croatia,Montenegro,1,1,50
-Cyprus,Australia,0,0,50
-Czech Republic,Norway,0,0,50
-Romania,Estonia,0,0,50
-Lithuania,Bulgaria,0,0,50
-Lithuania,Australia,0,0,50
-Estonia,Czech Republic,0,0,50
-Azerbaijan,Ireland,0,0,50
-Iceland,Belarus,0,0,49
-Romania,Latvia,0,0,49
-Estonia,Australia,0,0,49
-Hungary,Belarus,0,1,49
-Albania,Finland,0,0,49
-Sweden,North Macedonia,0,0,48
-Slovenia,Armenia,0,1,48
-Portugal,Czech Republic,0,0,48
-Lithuania,Spain,0,0,48
-Switzerland,Slovenia,0,0,48
-San Marino,France,0,0,48
-Bosnia and Herzegovina,Denmark,0,0,48
-Moldova,San Marino,0,0,48
-Bosnia and Herzegovina,Portugal,0,0,48
-Andorra,Latvia,0,0,48
-Portugal,Montenegro,0,0,48
-Cyprus,Türkiye,0,1,48
-Bosnia and Herzegovina,Italy,0,0,48
-Spain,Bosnia and Herzegovina,0,0,48
-San Marino,Georgia,0,0,47
-Finland,Belarus,0,0,47
-Hungary,Czech Republic,0,1,47
-Portugal,Albania,0,0,47
-Azerbaijan,Croatia,0,1,47
-Montenegro,Portugal,0,0,47
-Spain,Lithuania,0,0,47
-North Macedonia,Austria,0,0,47
-Slovenia,Georgia,0,1,46
-Russia,Albania,0,1,46
-Czech Republic,Ireland,0,0,46
-Albania,Austria,0,0,46
-Czech Republic,Belarus,0,1,46
-Bulgaria,Ireland,0,0,46
-Moldova,North Macedonia,0,1,46
-Portugal,Georgia,0,0,45
-Germany,North Macedonia,0,0,45
-North Macedonia,Cyprus,0,0,45
-Switzerland,Bulgaria,0,0,45
-Romania,France,0,0,45
-Monaco,Romania,0,0,44
-Croatia,Poland,0,1,44
-Italy,Bosnia and Herzegovina,0,0,44
-Slovakia,Austria,1,0,44
-Armenia,Croatia,0,1,44
-Bulgaria,Iceland,0,0,44
-Monaco,Türkiye,0,0,44
-Latvia,Albania,0,0,44
-Bosnia and Herzegovina,Slovakia,0,1,44
-Monaco,Lithuania,0,0,44
-Ireland,Belarus,0,0,44
-Moldova,Türkiye,0,0,44
-Greece,Lithuania,0,0,44
-Poland,Türkiye,0,0,44
-North Macedonia,Czech Republic,0,1,43
-North Macedonia,Poland,0,1,43
-Armenia,Czech Republic,0,1,43
-Ukraine,Austria,0,0,43
-Armenia,Spain,0,0,43
-Azerbaijan,Netherlands,0,0,43
-Italy,Azerbaijan,0,0,42
-Armenia,United Kingdom,0,0,42
-Finland,Czech Republic,0,0,42
-Moldova,Slovenia,0,1,42
-Sweden,Georgia,0,0,42
-Georgia,Netherlands,0,0,42
-Moldova,Switzerland,0,0,42
-Croatia,Belgium,0,0,42
-Serbia,Germany,0,0,42
-Portugal,Belarus,0,0,42
-Italy,San Marino,1,1,41
-Serbia,Netherlands,0,0,41
-Czech Republic,Italy,0,0,41
-Moldova,Cyprus,0,0,41
-Switzerland,Moldova,0,0,41
-Armenia,Poland,0,1,41
-North Macedonia,Portugal,0,0,41
-Bulgaria,Netherlands,0,0,41
-North Macedonia,Switzerland,0,0,41
-Israel,Poland,0,0,41
-Czech Republic,Australia,0,0,41
-Bosnia and Herzegovina,Moldova,0,1,40
-Andorra,Poland,0,0,40
-Malta,Yugoslavia,0,0,40
-Moldova,Poland,0,1,40
-Monaco,Latvia,0,0,40
-Israel,Albania,0,0,40
-Türkiye,Cyprus,0,1,40
-Portugal,Andorra,0,0,40
-Slovakia,Hungary,1,1,40
-Ukraine,Germany,0,0,40
-Georgia,Albania,0,1,40
-Czech Republic,Cyprus,0,0,40
-France,Lithuania,0,0,40
-Switzerland,Ukraine,0,0,40
-Monaco,Malta,0,0,40
-United Kingdom,Armenia,0,0,39
-Armenia,Austria,0,0,39
-Iceland,Georgia,0,0,39
-Ukraine,Montenegro,0,1,39
-Bulgaria,Albania,0,1,39
-San Marino,Czech Republic,0,0,39
-Belarus,Czech Republic,0,1,39
-San Marino,Portugal,0,1,39
-Belarus,Albania,0,1,39
-Azerbaijan,Poland,0,1,39
-Latvia,Bulgaria,0,0,39
-Ukraine,Australia,0,0,38
-Georgia,Croatia,0,1,38
-Bosnia and Herzegovina,Hungary,0,1,38
-Czech Republic,Poland,1,1,38
-Czech Republic,Netherlands,0,0,38
-Moldova,Netherlands,0,0,37
-Georgia,Slovenia,0,1,37
-North Macedonia,Australia,0,0,37
-Czech Republic,Greece,0,0,37
-North Macedonia,Lithuania,0,0,37
-Bosnia and Herzegovina,Iceland,0,0,36
-Portugal,Slovakia,0,0,36
-Iceland,Luxembourg,0,0,36
-Andorra,Switzerland,0,1,36
-Bulgaria,Estonia,0,0,36
-Malta,Montenegro,0,0,36
-Slovakia,Slovenia,0,1,36
-Slovakia,Russia,0,1,36
-Israel,North Macedonia,0,0,36
-Ukraine,United Kingdom,0,0,36
-Georgia,Germany,0,0,36
-Ukraine,Ireland,0,0,36
-Slovakia,Poland,1,1,36
-Bulgaria,Portugal,0,0,35
-North Macedonia,Germany,0,0,35
-Ireland,Albania,0,0,35
-Russia,Australia,0,0,35
-Romania,Australia,0,0,35
-Portugal,Australia,0,0,34
-Serbia,United Kingdom,0,0,34
-Azerbaijan,North Macedonia,0,1,34
-Albania,Estonia,0,0,34
-Serbia,Armenia,0,1,34
-Czech Republic,United Kingdom,0,0,33
-Denmark,North Macedonia,0,0,33
-Andorra,Austria,0,1,32
-Andorra,Belgium,0,1,32
-Ukraine,Iceland,0,0,32
-Croatia,Slovakia,0,1,32
-Italy,North Macedonia,0,0,32
-Netherlands,Albania,0,0,32
-Armenia,Finland,0,0,32
-Bulgaria,Australia,0,0,32
-Israel,Montenegro,0,0,32
-Luxembourg,Cyprus,0,0,32
-Belarus,France,0,0,32
-North Macedonia,Iceland,0,0,32
-Belarus,Germany,0,0,32
-Türkiye,Belarus,0,0,32
-Bosnia and Herzegovina,Switzerland,0,0,32
-Bosnia and Herzegovina,Belarus,0,1,32
-Türkiye,Poland,0,0,32
-Estonia,Andorra,0,0,32
-Andorra,Slovenia,0,0,32
-Albania,Belarus,0,1,31
-Georgia,Australia,0,0,31
-Serbia,France,0,0,31
-Poland,Bulgaria,0,1,31
-Cyprus,Czech Republic,0,0,30
-San Marino,Croatia,0,0,30
-Georgia,San Marino,0,0,30
-Czech Republic,Moldova,0,1,30
-United Kingdom,Georgia,0,0,30
-Netherlands,North Macedonia,0,0,30
-Belarus,Italy,0,0,30
-Iceland,Bulgaria,0,0,30
-Czech Republic,Austria,1,0,30
-Armenia,Germany,0,0,29
-Italy,Belarus,0,0,29
-Azerbaijan,Belgium,0,0,29
-Estonia,San Marino,0,0,29
-Denmark,Armenia,0,0,29
-Cyprus,Bosnia and Herzegovina,0,0,28
-Czech Republic,Türkiye,0,0,28
-Moldova,Spain,0,0,28
-Czech Republic,Croatia,0,1,28
-Sweden,Bulgaria,0,0,28
-Azerbaijan,United Kingdom,0,0,28
-Moldova,Slovakia,0,1,28
-Netherlands,Andorra,0,1,28
-Slovakia,Lithuania,0,0,28
-Ukraine,Albania,0,1,28
-Greece,Slovakia,0,0,28
-North Macedonia,San Marino,0,0,28
-Poland,Andorra,0,0,28
-Slovakia,Romania,0,1,28
-Hungary,Lithuania,0,0,28
-Norway,Armenia,0,0,28
-Switzerland,Armenia,0,0,28
-Italy,Marocco,0,0,28
-Monaco,Slovenia,0,0,28
-Yugoslavia,Denmark,0,0,28
-Serbia,Slovakia,0,1,28
-Czech Republic,Andorra,0,0,28
-Slovakia,Armenia,0,1,28
-Lithuania,Bosnia and Herzegovina,0,0,28
-France,Montenegro,0,0,28
-Greece,Czech Republic,0,0,27
-Moldova,Czech Republic,0,1,27
-Montenegro,Australia,0,0,27
-Montenegro,Belgium,0,0,27
-Germany,Georgia,0,0,27
-San Marino,Slovenia,0,0,27
-Lithuania,Czech Republic,0,0,27
-Azerbaijan,Switzerland,0,0,27
-Moldova,Malta,0,0,27
-North Macedonia,France,0,0,27
-San Marino,Lithuania,0,0,26
-Belarus,Ireland,0,0,26
-Georgia,Czech Republic,0,1,26
-Czech Republic,Montenegro,0,1,26
-Denmark,Croatia,0,0,25
-Georgia,United Kingdom,0,0,25
-Germany,Lithuania,0,0,25
-Andorra,Cyprus,0,0,24
-Türkiye,Latvia,0,0,24
-Andorra,Albania,0,0,24
-United Kingdom,North Macedonia,0,0,24
-Ukraine,Spain,0,0,24
-Andorra,Ireland,0,1,24
-Switzerland,Estonia,0,0,24
-Andorra,United Kingdom,0,1,24
-Albania,Andorra,0,0,24
-Monaco,Iceland,0,0,24
-Montenegro,Netherlands,0,0,24
-Romania,Georgia,0,1,24
-Armenia,Lithuania,0,0,24
-Armenia,Slovenia,0,1,24
-Estonia,Slovakia,0,0,24
-Ireland,Slovakia,0,0,24
-Israel,Andorra,0,0,24
-Israel,Bosnia and Herzegovina,0,0,24
-Italy,Hungary,0,0,24
-Georgia,France,0,0,24
-Netherlands,Montenegro,0,0,24
-Montenegro,Spain,0,0,24
-Iceland,San Marino,0,0,24
-Azerbaijan,Finland,0,0,24
-Germany,Czech Republic,1,0,24
-Belarus,United Kingdom,0,0,24
-Bulgaria,Spain,0,0,24
-Iceland,Andorra,0,0,24
-Slovakia,Netherlands,0,0,24
-Bulgaria,Switzerland,0,0,23
-Israel,San Marino,0,0,23
-Russia,Montenegro,0,1,23
-Serbia,Austria,0,0,23
-Estonia,Serbia,0,0,23
-Croatia,Belarus,0,1,23
-Croatia,Australia,0,0,23
-Azerbaijan,Czech Republic,0,1,23
-Azerbaijan,Iceland,0,0,22
-Romania,Lithuania,0,0,22
-Bosnia and Herzegovina,Czech Republic,0,1,22
-France,Georgia,0,0,22
-Ukraine,Switzerland,0,0,22
-Sweden,Czech Republic,0,0,22
-Georgia,Switzerland,0,0,22
-Italy,Montenegro,0,0,21
-Norway,North Macedonia,0,0,21
-Bulgaria,Czech Republic,0,1,21
-France,Belarus,0,0,21
-Ukraine,Italy,0,0,21
-Montenegro,Poland,0,1,21
-Ireland,Czech Republic,0,0,21
-Moldova,Ireland,0,0,21
-Malta,Czech Republic,0,0,21
-Romania,San Marino,0,0,21
-Greece,North Macedonia,1,0,20
-Azerbaijan,Australia,0,0,20
-Türkiye,San Marino,0,1,20
-Montenegro,Switzerland,0,0,20
-Monaco,Estonia,0,0,20
-Türkiye,Montenegro,0,0,20
-Montenegro,Finland,0,0,20
-Finland,Andorra,0,0,20
-Bosnia and Herzegovina,Latvia,0,0,20
-Iceland,Slovakia,0,0,20
-Andorra,Moldova,0,0,20
-Moldova,United Kingdom,0,0,20
-Ireland,Andorra,0,1,20
-Bosnia and Herzegovina,Georgia,0,1,20
-Andorra,Germany,0,1,20
-North Macedonia,Spain,0,0,20
-Türkiye,Monaco,0,0,20
-Montenegro,Latvia,0,0,20
-France,San Marino,0,0,20
-Poland,Slovakia,1,1,20
-Serbia,Czech Republic,0,1,20
-Czech Republic,Estonia,0,0,20
-Slovakia,North Macedonia,0,1,20
-Cyprus,North Macedonia,0,0,20
-Serbia,Türkiye,0,0,20
-Slovenia,Andorra,0,0,20
-Slovakia,Italy,0,0,20
-Denmark,Georgia,0,0,20
-Denmark,Montenegro,0,0,20
-Belarus,Montenegro,0,1,20
-France,Czech Republic,0,0,19
-Lithuania,Armenia,0,0,19
-Moldova,France,0,0,19
-Bulgaria,Poland,0,1,19
-Georgia,North Macedonia,0,1,18
-Czech Republic,Albania,0,1,18
-Russia,San Marino,0,0,18
-Latvia,Czech Republic,0,0,18
-Azerbaijan,Serbia,0,1,18
-Montenegro,Czech Republic,0,1,18
-Greece,Montenegro,0,0,18
-Bulgaria,France,0,0,17
-Italy,Georgia,0,0,17
-Denmark,Belarus,0,0,17
-Spain,Montenegro,0,0,17
-Albania,Georgia,0,1,17
-Slovakia,Spain,0,0,16
-Netherlands,Czech Republic,0,0,16
-Serbia,Ireland,0,0,16
-Yugoslavia,Iceland,0,0,16
-Monaco,North Macedonia,0,0,16
-Albania,Slovakia,0,1,16
-Latvia,San Marino,0,0,16
-Slovakia,Albania,0,1,16
-Greece,Andorra,0,0,16
-Montenegro,Ireland,0,0,16
-Hungary,Montenegro,0,1,16
-Slovakia,Belarus,0,1,16
-Sweden,Belarus,0,0,16
-Moldova,Andorra,0,0,16
-San Marino,Switzerland,0,0,16
-Norway,Belarus,0,0,16
-Armenia,Ireland,0,0,16
-United Kingdom,Czech Republic,0,0,16
-Bosnia and Herzegovina,Lithuania,0,0,16
-Russia,Andorra,0,0,16
-Russia,Bulgaria,0,1,16
-Türkiye,Lithuania,0,0,16
-Moldova,Germany,0,0,16
-Russia,Portugal,0,0,16
-Belarus,Andorra,0,0,16
-Latvia,Bosnia and Herzegovina,0,0,16
-Norway,Czech Republic,0,0,16
-Armenia,Australia,0,0,16
-Ukraine,San Marino,0,0,16
-Belgium,Slovakia,0,0,16
-Slovakia,Switzerland,0,0,16
-Cyprus,Monaco,0,0,16
-Georgia,Iceland,0,0,16
-France,North Macedonia,0,0,15
-Montenegro,France,0,0,15
-Czech Republic,Finland,0,0,15
-Finland,North Macedonia,0,0,15
-Serbia,Latvia,0,0,15
-Azerbaijan,Austria,0,0,15
-Netherlands,Belarus,0,0,15
-Ukraine,Czech Republic,0,1,14
-Albania,Lithuania,0,0,14
-San Marino,Germany,0,0,14
-Latvia,North Macedonia,0,0,13
-Bosnia and Herzegovina,Australia,0,0,13
-San Marino,Estonia,0,0,13
-Croatia,Armenia,0,1,13
-San Marino,North Macedonia,0,0,13
-Armenia,Hungary,0,1,13
-Serbia,Poland,0,1,13
-Türkiye,Andorra,0,0,12
-Norway,Montenegro,0,0,12
-Andorra,Serbia,0,0,12
-Slovakia,Türkiye,0,0,12
-Switzerland,Montenegro,0,0,12
-Cyprus,Montenegro,0,0,12
-Malta,Andorra,0,0,12
-Romania,Slovakia,0,1,12
-Andorra,Armenia,0,0,12
-Czech Republic,San Marino,0,0,12
-San Marino,Austria,0,0,12
-Slovenia,Slovakia,0,1,12
-North Macedonia,Slovakia,0,1,12
-Hungary,North Macedonia,0,1,12
-Iceland,North Macedonia,0,0,12
-Armenia,Azerbaijan,1,1,12
-Sweden,Slovakia,0,0,12
-Belarus,Slovakia,0,1,12
-Monaco,Albania,0,0,12
-Austria,Slovakia,1,0,12
-Armenia,Latvia,0,0,11
-Czech Republic,Switzerland,0,0,11
-Montenegro,Estonia,0,0,11
-Italy,Armenia,0,0,11
-Ireland,North Macedonia,0,0,11
-Romania,Czech Republic,0,1,11
-Czech Republic,Lithuania,0,0,11
-Switzerland,Czech Republic,0,0,11
-Belarus,San Marino,0,0,11
-Finland,San Marino,0,0,11
-Cyprus,San Marino,0,1,10
-Bosnia and Herzegovina,San Marino,0,0,10
-Montenegro,Georgia,0,1,10
-Ireland,Armenia,0,0,10
-Armenia,Albania,0,1,9
-Estonia,Albania,0,0,9
-Azerbaijan,Germany,0,0,9
-Azerbaijan,France,0,0,9
-Montenegro,Austria,0,0,9
-Germany,Montenegro,0,0,8
-Estonia,Bosnia and Herzegovina,0,0,8
-Estonia,Monaco,0,0,8
-Estonia,North Macedonia,0,0,8
-Finland,Slovakia,0,0,8
-Latvia,Montenegro,0,0,8
-Georgia,Bosnia and Herzegovina,0,1,8
-Georgia,Spain,0,0,8
-Belarus,Spain,0,0,8
-Croatia,Andorra,0,0,8
-Albania,Monaco,0,0,8
-Lithuania,Andorra,0,0,8
-Andorra,San Marino,0,0,8
-Slovakia,Finland,0,0,8
-Latvia,Türkiye,0,0,8
-Sweden,Andorra,0,0,8
-Spain,Slovakia,0,0,8
-Norway,Andorra,0,0,8
-Austria,Georgia,0,0,8
-Russia,Czech Republic,0,1,8
-Moldova,Monaco,0,0,8
-Poland,North Macedonia,0,1,8
-Switzerland,Georgia,0,0,8
-Azerbaijan,Spain,0,0,7
-Spain,Belarus,0,0,7
-Romania,Montenegro,0,1,7
-Czech Republic,France,0,0,7
-Portugal,San Marino,0,1,6
-Montenegro,Lithuania,0,0,6
-Denmark,Czech Republic,0,0,6
-Bulgaria,Italy,0,0,6
-Poland,San Marino,0,0,6
-Czech Republic,Romania,0,1,6
-Italy,Croatia,0,0,6
-Serbia,San Marino,0,0,6
-Croatia,San Marino,0,0,6
-San Marino,Bosnia and Herzegovina,0,0,6
-Norway,Georgia,0,0,5
-Portugal,North Macedonia,0,0,5
-Austria,San Marino,0,0,5
-Netherlands,San Marino,0,0,4
-France,Slovakia,0,0,4
-North Macedonia,Andorra,0,0,4
-Andorra,Montenegro,0,0,4
-Monaco,Belarus,0,0,4
-San Marino,Spain,0,1,4
-Hungary,Bosnia and Herzegovina,0,1,4
-Türkiye,Czech Republic,0,0,4
-Slovenia,Luxembourg,0,0,4
-United Kingdom,Belarus,0,0,4
-Bulgaria,Latvia,0,0,4
-Poland,Monaco,0,0,4
-Russia,Slovakia,0,1,4
-Andorra,Bosnia and Herzegovina,0,0,4
-Lithuania,North Macedonia,0,0,4
-Italy,Czech Republic,0,0,4
-Belgium,Belarus,0,0,4
-Georgia,Finland,0,0,4
-Slovenia,San Marino,0,0,3
-Albania,Czech Republic,0,1,3
-Austria,Lithuania,0,0,3
-Czech Republic,Germany,1,0,3
-Finland,Montenegro,0,0,3
-Serbia,Spain,0,0,2
-Bosnia and Herzegovina,Cyprus,0,0,2
-Montenegro,United Kingdom,0,0,2
-Germany,Belarus,0,0,2
-Belgium,San Marino,0,0,2
-Switzerland,Belarus,0,0,2
-Iceland,Montenegro,0,0,2
-San Marino,Belarus,0,0,1
-Albania,Latvia,0,0,1
-Lithuania,Albania,0,0,1
-Germany,San Marino,0,0,1
-Monaco,Poland,0,0,0
-United Kingdom,Montenegro,0,0,0
-Romania,Monaco,0,0,0
-Luxembourg,Marocco,0,0,0
-Denmark,Andorra,0,0,0
-Luxembourg,Croatia,0,0,0
-Denmark,Marocco,0,0,0
-Luxembourg,Bosnia and Herzegovina,0,0,0
-Czech Republic,Spain,0,0,0
-Russia,Monaco,0,0,0
-United Kingdom,San Marino,0,0,0
-Bulgaria,Andorra,0,0,0
-Luxembourg,Slovenia,0,0,0
-United Kingdom,Marocco,0,0,0
-United Kingdom,Slovakia,0,0,0
-Denmark,San Marino,0,0,0
-Denmark,Slovakia,0,0,0
-Romania,Andorra,0,0,0
-Armenia,Monaco,0,0,0
-Ireland,San Marino,0,0,0
-Andorra,Belarus,0,0,0
-Ireland,Montenegro,0,0,0
-Estonia,Montenegro,0,0,0
-Portugal,Marocco,0,0,0
-Ireland,Marocco,0,0,0
-Belarus,Monaco,0,0,0
-Israel,Slovakia,0,0,0
-Lithuania,San Marino,0,0,0
-Lithuania,Slovakia,0,0,0
-Andorra,Bulgaria,0,0,0
-Bulgaria,Monaco,0,0,0
-Bulgaria,Montenegro,0,1,0
-Slovakia,Latvia,0,0,0
-Bulgaria,San Marino,0,0,0
-Bulgaria,Slovakia,0,1,0
-Slovakia,Georgia,0,1,0
-Slovakia,France,0,0,0
-Switzerland,San Marino,0,0,0
-Slovakia,Bulgaria,0,1,0
-Latvia,Slovakia,0,0,0
-Croatia,Luxembourg,0,0,0
-Croatia,Monaco,0,0,0
-Serbia,Monaco,0,0,0
-Latvia,Andorra,0,0,0
-Serbia,Andorra,0,0,0
-Cyprus,Andorra,0,0,0
-Azerbaijan,Slovakia,0,1,0
-Lithuania,Monaco,0,0,0
-Slovenia,Monaco,0,0,0
-Italy,Slovakia,0,0,0
-Cyprus,Slovakia,0,0,0
-San Marino,Andorra,0,0,0
-Lithuania,Montenegro,0,0,0
-Armenia,Andorra,0,0,0
-Switzerland,Marocco,0,0,0
-Austria,Andorra,0,1,0
-Bosnia and Herzegovina,Luxembourg,0,0,0
-Bosnia and Herzegovina,Monaco,0,0,0
-Monaco,Armenia,0,0,0
-Netherlands,Slovakia,0,0,0
-Hungary,Slovakia,1,1,0
-Georgia,Ireland,0,0,0
-Türkiye,Slovakia,0,0,0
-Georgia,Montenegro,0,1,0
-Netherlands,Marocco,0,0,0
-Georgia,Slovakia,0,1,0
-Monaco,Bulgaria,0,0,0
-Hungary,Monaco,0,0,0
-Germany,Andorra,0,1,0
-Hungary,Andorra,0,0,0
-Monaco,Hungary,0,0,0
-Montenegro,Germany,0,0,0
-Belgium,North Macedonia,0,0,0
-Belgium,Montenegro,0,0,0
-Andorra,Georgia,0,0,0
-Belgium,Marocco,0,0,0
-Germany,Marocco,0,0,0
-Montenegro,Andorra,0,0,0
-Germany,Slovakia,0,0,0
-Sweden,Marocco,0,0,0
-Monaco,Moldova,0,0,0
-Belgium,Andorra,0,1,0
-Greece,Marocco,0,0,0
-Monaco,Russia,0,0,0
-Ukraine,Monaco,0,0,0
-Austria,Montenegro,0,0,0
-Ukraine,Andorra,0,0,0
-Latvia,Monaco,0,0,0
-Poland,Montenegro,0,1,0
-Norway,Slovakia,0,0,0
-Finland,Marocco,0,0,0
-Andorra,Croatia,0,0,0
-Norway,San Marino,0,0,0
-Türkiye,Marocco,0,0,0
-Spain,Marocco,0,0,0
-Norway,Marocco,0,0,0
-Switzerland,Andorra,0,1,0
-France,Andorra,1,1,0
-United Kingdom,Andorra,0,1,0
-Spain,North Macedonia,0,0,0
-Andorra,Czech Republic,0,0,0
-Andorra,North Macedonia,0,0,0
-Azerbaijan,Armenia,1,1,0
-Azerbaijan,Andorra,0,0,0
-France,Marocco,0,0,0
-Iceland,Monaco,0,0,0
-Monaco,Andorra,0,1,0
-North Macedonia,Monaco,0,0,0
-Andorra,Estonia,0,0,0
-Bosnia and Herzegovina,Andorra,0,0,0
-Sweden,San Marino,0,0,0
-Austria,Marocco,0,0,0
-Georgia,Andorra,0,0,0
-Switzerland,Slovakia,0,0,0
+from_country,to_country,neighboring,same_region,years_participated,total_points
+Denmark,Sweden,1,1,59,266.5
+Cyprus,Greece,0,1,40,255.5
+Greece,Cyprus,0,1,36,234.5
+Estonia,Russia,1,0,22,231.5
+Albania,Greece,1,0,40,223.5
+Moldova,Romania,1,1,20,223.0
+Norway,Sweden,1,1,59,215.5
+North Macedonia,Albania,1,1,16,213.0
+Latvia,Russia,1,0,22,210.0
+Romania,Moldova,1,1,15,209.5
+Moldova,Russia,0,1,22,209.5
+Belarus,Ukraine,1,1,15,206.5
+Belarus,Russia,1,1,22,195.5
+Greece,Albania,1,0,16,193.0
+Iceland,Sweden,0,1,59,188.5
+Armenia,Russia,0,1,22,188.5
+North Macedonia,Serbia,1,1,14,187.5
+Sweden,Denmark,1,1,48,182.0
+Latvia,Estonia,1,1,25,181.5
+Slovenia,Serbia,0,1,14,181.0
+Croatia,Bosnia and Herz.,0,0,19,174.0
+Spain,Romania,0,0,20,173.5
+Croatia,Serbia,1,1,14,173.0
+Finland,Sweden,1,1,59,172.0
+Serbia,North Macedonia,1,1,19,170.5
+Iceland,Denmark,0,1,48,170.5
+Israel,Romania,0,0,20,170.0
+France,Türkiye,0,0,34,170.0
+Romania,Greece,0,0,40,167.5
+Israel,Russia,0,0,22,165.0
+Estonia,Sweden,0,1,59,165.0
+Norway,Denmark,1,1,48,164.5
+Lithuania,Latvia,1,1,20,164.5
+Russia,Azerbaijan,1,1,12,162.5
+Germany,Türkiye,0,0,34,161.0
+Denmark,Norway,1,1,58,160.0
+Belgium,Netherlands,1,1,59,160.0
+Ireland,Lithuania,0,0,20,158.5
+Sweden,Norway,1,1,58,158.5
+Russia,Armenia,0,1,13,157.0
+Albania,North Macedonia,1,1,19,156.0
+Moldova,Ukraine,1,1,15,156.0
+Finland,Estonia,0,1,25,155.5
+Latvia,Lithuania,1,1,20,155.0
+United Kingdom,Lithuania,0,0,20,155.0
+Malta,Sweden,0,0,59,154.5
+Switzerland,Serbia,0,0,14,151.0
+Netherlands,Türkiye,0,0,34,149.0
+Türkiye,Bosnia and Herz.,0,0,19,149.0
+Slovenia,Bosnia and Herz.,0,0,19,149.0
+Iceland,Norway,0,1,58,149.0
+Lithuania,Russia,1,0,22,146.5
+United Kingdom,Ireland,1,1,53,145.0
+Ukraine,Russia,1,1,22,144.5
+Bosnia and Herz.,Serbia,0,0,14,144.0
+Finland,Iceland,0,1,32,143.5
+Switzerland,Albania,0,0,16,143.5
+Germany,Greece,0,0,40,143.0
+Greece,Russia,0,0,22,142.0
+Cyprus,Russia,0,0,22,141.0
+United Kingdom,Sweden,0,0,59,140.5
+Latvia,Sweden,0,1,59,140.0
+Netherlands,Sweden,0,0,59,139.0
+Poland,Ukraine,1,1,15,139.0
+Latvia,Ukraine,0,0,15,139.0
+Slovenia,Croatia,1,1,25,139.0
+Bosnia and Herz.,Croatia,0,0,25,138.5
+Azerbaijan,Russia,1,1,22,138.0
+Estonia,Finland,0,1,53,138.0
+Russia,Moldova,0,1,15,137.5
+Russia,Ukraine,1,1,15,137.0
+Ireland,Denmark,0,0,48,136.5
+Georgia,Azerbaijan,1,1,12,136.0
+Lithuania,Ukraine,0,0,15,136.0
+Estonia,Latvia,1,1,20,134.5
+Netherlands,Denmark,0,0,48,134.0
+Belgium,Greece,0,0,40,134.0
+France,Israel,0,0,42,133.0
+Georgia,Armenia,1,1,13,133.0
+Lithuania,Georgia,0,0,12,133.0
+Armenia,Georgia,1,1,12,133.0
+Moldova,Azerbaijan,0,1,12,132.5
+Norway,Iceland,0,1,32,132.0
+Ukraine,Belarus,1,1,16,131.5
+Netherlands,Armenia,0,0,13,130.0
+Israel,Ukraine,0,0,15,130.0
+Azerbaijan,Ukraine,0,1,15,129.5
+Serbia,Croatia,1,1,25,129.5
+Armenia,Greece,0,0,40,129.0
+Croatia,North Macedonia,0,1,19,129.0
+France,Armenia,0,0,13,128.5
+Slovenia,Sweden,0,0,59,128.5
+Iceland,Finland,0,1,53,128.5
+Greece,Armenia,0,0,13,128.5
+Belgium,Türkiye,0,0,34,127.0
+France,Portugal,0,0,51,127.0
+Montenegro,Serbia,1,1,14,126.5
+Israel,Sweden,0,0,59,126.5
+North Macedonia,Türkiye,0,0,34,126.0
+Denmark,Iceland,0,1,32,126.0
+Georgia,Ukraine,0,1,15,125.5
+Ireland,Sweden,0,0,59,125.0
+Finland,Norway,1,1,58,123.5
+Serbia,Hungary,1,1,17,123.0
+Sweden,Finland,1,1,53,123.0
+North Macedonia,Bosnia and Herz.,0,0,19,122.0
+Bosnia and Herz.,North Macedonia,0,0,19,122.0
+Lithuania,Estonia,0,1,25,122.0
+Albania,Türkiye,0,0,34,121.0
+Netherlands,Belgium,1,1,60,121.0
+Portugal,Spain,1,1,59,120.5
+Bosnia and Herz.,Türkiye,0,0,34,120.0
+Estonia,Denmark,0,1,48,119.5
+Denmark,Netherlands,0,0,59,119.5
+Lithuania,Sweden,0,1,59,119.0
+Switzerland,Türkiye,0,0,34,119.0
+Sweden,Bosnia and Herz.,0,0,19,119.0
+Serbia,Bosnia and Herz.,0,0,19,119.0
+Finland,Russia,1,0,22,119.0
+Romania,Hungary,1,1,17,118.5
+North Macedonia,Croatia,0,1,25,118.5
+Portugal,Ukraine,0,0,15,117.5
+Estonia,Norway,0,1,58,117.5
+Romania,Russia,0,1,22,117.0
+Belgium,Armenia,0,0,13,117.0
+Switzerland,Portugal,0,0,51,115.5
+Sweden,Iceland,0,1,32,115.0
+Ireland,Latvia,0,0,20,114.5
+United Kingdom,Greece,0,0,40,114.0
+Ukraine,Azerbaijan,0,1,12,113.5
+United Kingdom,Türkiye,0,0,34,113.0
+Serbia,Greece,0,0,40,113.0
+Latvia,Norway,0,1,58,112.5
+Latvia,Denmark,0,1,48,111.5
+Romania,Türkiye,0,0,34,111.0
+Ireland,Norway,0,0,58,111.0
+France,Serbia,0,0,14,110.0
+Greece,Romania,0,0,20,109.5
+Israel,Armenia,0,0,13,109.5
+Estonia,Ukraine,0,0,15,109.5
+North Macedonia,Bulgaria,1,1,12,109.5
+United Kingdom,Malta,0,0,32,108.5
+Netherlands,Norway,0,0,58,108.5
+Slovenia,North Macedonia,0,1,19,108.0
+Spain,Sweden,0,0,59,108.0
+Belgium,Sweden,0,0,59,108.0
+Portugal,Sweden,0,0,59,107.5
+Bulgaria,Greece,1,0,40,107.5
+Malta,Azerbaijan,0,0,12,107.5
+Spain,Portugal,1,1,51,107.0
+Lithuania,Norway,0,1,58,107.0
+Austria,Serbia,0,0,14,107.0
+Portugal,Moldova,0,0,15,107.0
+Cyprus,Ukraine,0,0,15,106.5
+Norway,Lithuania,0,1,20,106.5
+Ukraine,Moldova,1,1,15,106.0
+Slovenia,Denmark,0,0,48,106.0
+Croatia,Slovenia,1,1,25,104.5
+Bulgaria,North Macedonia,1,1,19,104.5
+Germany,Sweden,0,0,59,104.5
+Serbia,Russia,0,1,22,104.0
+Spain,Armenia,0,0,13,103.0
+United Kingdom,Denmark,0,0,48,102.5
+Netherlands,Serbia,0,0,14,102.5
+Ukraine,Georgia,0,1,12,102.0
+Bulgaria,Türkiye,1,0,34,102.0
+Russia,Greece,0,0,40,102.0
+Belarus,Moldova,0,1,15,102.0
+Armenia,Ukraine,0,1,15,101.0
+Hungary,Iceland,0,0,32,101.0
+Norway,Finland,1,1,53,100.0
+Malta,Russia,0,0,22,99.0
+Montenegro,Albania,1,1,16,98.5
+Malta,Italy,0,1,44,98.5
+Ireland,United Kingdom,1,1,62,98.5
+Finland,Hungary,0,0,17,98.5
+Germany,Poland,1,0,22,98.0
+Cyprus,Bulgaria,0,0,12,97.5
+Serbia,Ukraine,0,1,15,97.5
+Spain,Greece,0,1,40,97.0
+Poland,Norway,0,0,58,96.5
+Bulgaria,Armenia,0,1,13,96.0
+Malta,Greece,0,1,40,96.0
+Cyprus,Sweden,0,0,59,96.0
+Ireland,Romania,0,0,20,95.5
+Cyprus,Azerbaijan,0,0,12,95.5
+Malta,Romania,0,0,20,95.5
+Germany,Serbia,0,0,14,95.5
+Albania,Italy,0,0,44,94.5
+Ireland,Russia,0,0,22,93.5
+Hungary,Azerbaijan,0,1,12,93.5
+Montenegro,Russia,0,1,22,93.0
+France,Sweden,0,0,59,93.0
+Lithuania,Azerbaijan,0,0,12,93.0
+Switzerland,Germany,1,1,62,92.5
+Croatia,Albania,0,1,16,91.5
+Ireland,Estonia,0,0,25,91.5
+United Kingdom,Cyprus,0,0,36,91.5
+Sweden,Serbia,0,0,14,91.0
+Cyprus,Romania,0,0,20,91.0
+Poland,Sweden,0,0,59,90.5
+Greece,Azerbaijan,0,0,12,90.5
+Germany,Denmark,1,0,48,90.0
+Estonia,Netherlands,0,0,59,90.0
+Austria,Bosnia and Herz.,0,0,19,90.0
+San Marino,Greece,0,1,40,90.0
+Azerbaijan,Georgia,1,1,12,89.5
+Portugal,Romania,0,0,20,89.5
+Norway,Bosnia and Herz.,0,0,19,89.0
+Denmark,Türkiye,0,0,34,88.0
+Switzerland,Sweden,0,0,59,88.0
+Spain,Russia,0,0,22,88.0
+Spain,Ukraine,0,0,15,87.5
+Georgia,Lithuania,0,0,20,87.5
+Germany,Russia,0,0,22,87.5
+Azerbaijan,Greece,0,0,40,87.5
+France,Belgium,1,1,60,87.5
+Cyprus,Armenia,0,0,13,87.5
+Serbia,Slovenia,0,1,25,87.5
+Bosnia and Herz.,Slovenia,0,0,25,87.0
+Croatia,Russia,0,1,22,87.0
+Sweden,Estonia,0,1,25,87.0
+Norway,Serbia,0,0,14,86.5
+Israel,Denmark,0,0,48,86.5
+Switzerland,North Macedonia,0,0,19,86.0
+Finland,Israel,0,0,42,86.0
+Netherlands,Bosnia and Herz.,0,0,19,85.5
+Romania,Sweden,0,0,59,85.5
+Belgium,Russia,0,0,22,85.5
+Malta,Ukraine,0,0,15,85.0
+Switzerland,Norway,0,0,58,85.0
+Norway,Romania,0,0,20,85.0
+Austria,Croatia,0,0,25,84.5
+Denmark,Russia,0,0,22,84.5
+Belarus,Georgia,0,1,12,84.5
+Türkiye,Azerbaijan,0,0,12,84.0
+Germany,Norway,0,0,58,84.0
+Russia,Belarus,1,1,16,83.5
+Sweden,Russia,0,0,22,83.5
+Sweden,Netherlands,0,0,59,83.0
+Israel,Greece,0,0,40,83.0
+Bulgaria,Ukraine,0,1,15,83.0
+Türkiye,Armenia,1,0,13,83.0
+Belarus,Armenia,0,1,13,83.0
+Malta,Norway,0,0,58,82.5
+Switzerland,Bosnia and Herz.,0,0,19,82.0
+Hungary,Denmark,0,0,48,82.0
+Malta,United Kingdom,0,0,62,82.0
+Hungary,Russia,0,1,22,81.5
+Austria,Russia,0,0,22,81.5
+Czech Republic,Azerbaijan,0,1,12,81.5
+Albania,Bosnia and Herz.,0,0,19,81.0
+Netherlands,Israel,0,0,42,81.0
+Moldova,Belarus,0,1,16,81.0
+Switzerland,Austria,1,1,52,80.5
+Switzerland,Croatia,0,0,25,80.5
+Belarus,Lithuania,1,0,20,80.5
+Spain,Germany,0,0,62,79.5
+Austria,Romania,0,0,20,79.5
+Slovenia,Russia,0,1,22,79.0
+Ireland,Poland,0,0,22,78.5
+Norway,Netherlands,0,0,59,78.5
+Israel,Azerbaijan,0,0,12,78.5
+Italy,Ukraine,0,0,15,78.5
+United Kingdom,Latvia,0,0,20,78.5
+North Macedonia,Malta,0,0,32,78.0
+Estonia,Hungary,0,0,17,78.0
+France,Romania,0,0,20,77.5
+Croatia,Ukraine,0,1,15,77.0
+Sweden,Türkiye,0,0,34,77.0
+France,Spain,1,0,59,77.0
+Netherlands,Greece,0,0,40,77.0
+Romania,Azerbaijan,0,1,12,76.5
+North Macedonia,Russia,0,1,22,76.5
+Ukraine,Armenia,0,1,13,76.5
+Estonia,Lithuania,0,1,20,76.5
+Georgia,Belarus,0,1,16,76.0
+Belgium,Romania,0,0,20,76.0
+Malta,Denmark,0,0,48,75.5
+Ireland,Netherlands,0,1,59,75.5
+Denmark,Ireland,0,0,53,75.5
+Iceland,Estonia,0,1,25,75.0
+Russia,Norway,1,0,58,74.5
+Ukraine,Sweden,0,0,59,74.5
+Montenegro,Slovenia,0,1,25,74.0
+Türkiye,North Macedonia,0,0,19,74.0
+Denmark,Belgium,0,0,60,74.0
+Cyprus,Serbia,0,0,14,73.5
+North Macedonia,Ukraine,0,1,15,73.0
+Türkiye,Georgia,1,0,12,73.0
+Lithuania,Belarus,1,0,16,73.0
+Spain,Moldova,0,0,15,73.0
+Belgium,Portugal,0,0,51,73.0
+Moldova,Sweden,0,0,59,73.0
+Slovenia,Norway,0,0,58,73.0
+Ireland,Belgium,0,1,60,72.5
+Azerbaijan,Israel,0,0,42,72.5
+Greece,Georgia,0,0,12,72.5
+Azerbaijan,Türkiye,0,0,34,72.0
+Romania,Denmark,0,0,48,71.5
+Croatia,Azerbaijan,0,1,12,71.0
+Malta,Latvia,0,0,20,71.0
+North Macedonia,Romania,0,1,20,71.0
+Italy,Moldova,0,0,15,71.0
+Albania,Sweden,0,0,59,71.0
+Hungary,Netherlands,0,0,59,70.5
+Estonia,Belgium,0,0,60,70.5
+Iceland,Russia,0,0,22,70.5
+Croatia,Hungary,1,1,17,70.0
+Italy,Romania,0,0,20,70.0
+Austria,Netherlands,0,1,59,70.0
+Montenegro,Bosnia and Herz.,0,0,19,70.0
+Russia,Georgia,1,1,12,70.0
+Slovenia,Ukraine,0,1,15,70.0
+Hungary,Sweden,0,0,59,70.0
+Germany,Bosnia and Herz.,0,0,19,70.0
+Belarus,Sweden,0,0,59,70.0
+Türkiye,Greece,1,1,40,70.0
+Greece,Moldova,0,0,15,69.5
+Poland,Belgium,0,0,60,69.5
+Armenia,Sweden,0,0,59,69.0
+Armenia,Cyprus,0,0,36,69.0
+Bulgaria,Azerbaijan,0,1,12,69.0
+Türkiye,Ukraine,0,0,15,69.0
+Denmark,Germany,1,0,62,69.0
+Greece,Serbia,0,0,14,69.0
+North Macedonia,Slovenia,0,1,25,69.0
+Malta,Cyprus,0,1,36,68.5
+Czech Republic,Armenia,0,1,13,68.5
+Malta,Netherlands,0,0,59,68.5
+Belgium,Denmark,0,0,48,68.5
+Austria,Sweden,0,0,59,68.5
+Azerbaijan,Moldova,0,1,15,68.0
+Australia,Sweden,0,0,59,68.0
+Romania,Israel,0,0,42,68.0
+Montenegro,Azerbaijan,0,1,12,68.0
+Belarus,Norway,0,0,58,68.0
+Iceland,Hungary,0,0,17,67.5
+Ukraine,Norway,0,0,58,67.5
+Germany,Israel,0,0,42,67.5
+Israel,Norway,0,0,58,67.5
+Albania,Azerbaijan,0,1,12,67.5
+Spain,Iceland,0,0,32,67.5
+Russia,Belgium,0,0,60,67.0
+Malta,Iceland,0,0,32,67.0
+Hungary,Norway,0,0,58,67.0
+Hungary,Greece,0,0,40,66.5
+Poland,Azerbaijan,0,1,12,66.5
+Azerbaijan,Romania,0,1,20,66.5
+Finland,Denmark,0,1,48,66.5
+Portugal,Belgium,0,0,60,66.0
+Andorra,Portugal,0,0,51,66.0
+Portugal,Russia,0,0,22,66.0
+Belarus,Israel,0,0,42,66.0
+Georgia,Russia,1,1,22,66.0
+Denmark,Ukraine,0,0,15,65.5
+United Kingdom,Israel,0,0,42,65.5
+Belgium,Albania,0,0,16,65.0
+Slovenia,Austria,1,0,52,65.0
+Ukraine,Poland,1,1,22,65.0
+Denmark,Bosnia and Herz.,0,0,19,65.0
+Iceland,Portugal,0,0,51,65.0
+Iceland,Netherlands,0,0,59,65.0
+San Marino,Italy,1,1,44,64.5
+Azerbaijan,Malta,0,0,32,64.5
+Belarus,Azerbaijan,0,1,12,64.5
+Denmark,Estonia,0,1,25,64.0
+Malta,Israel,0,0,42,64.0
+Austria,Germany,1,1,62,64.0
+Greece,Ukraine,0,0,15,64.0
+Poland,Russia,0,1,22,63.5
+Portugal,Iceland,0,0,32,63.5
+Poland,Australia,0,0,5,63.5
+Poland,Denmark,0,0,48,63.0
+Spain,Italy,0,1,44,63.0
+Spain,Norway,0,0,58,63.0
+Spain,Bulgaria,0,0,12,63.0
+Bosnia and Herz.,Greece,0,0,40,63.0
+Poland,Finland,0,0,53,63.0
+Germany,Portugal,0,0,51,63.0
+Latvia,Iceland,0,1,32,62.5
+Israel,Spain,0,0,59,62.5
+France,Russia,0,0,22,62.5
+Moldova,Norway,0,0,58,62.0
+Iceland,Ukraine,0,0,15,62.0
+Türkiye,Albania,0,0,16,62.0
+Germany,Armenia,0,0,13,62.0
+Belarus,Greece,0,0,40,62.0
+Albania,Cyprus,0,0,36,62.0
+Poland,Armenia,0,1,13,62.0
+Belarus,Serbia,0,1,14,61.5
+Romania,Norway,0,0,58,61.5
+Norway,Israel,0,0,42,61.5
+Belgium,France,1,1,61,61.5
+Lithuania,Denmark,0,1,48,61.5
+Serbia,Sweden,0,0,59,61.5
+Germany,Netherlands,1,1,59,61.0
+Moldova,Greece,0,0,40,61.0
+Switzerland,Greece,0,0,40,61.0
+Estonia,Iceland,0,1,32,61.0
+Finland,Serbia,0,0,14,61.0
+Russia,Estonia,1,0,25,60.5
+Latvia,Ireland,0,0,53,60.5
+Malta,Switzerland,0,0,59,60.5
+United Kingdom,Bulgaria,0,0,12,60.5
+Georgia,Sweden,0,0,59,60.5
+Denmark,Finland,0,1,53,60.0
+Denmark,Latvia,0,1,20,60.0
+Russia,Romania,0,1,20,60.0
+Andorra,Spain,1,0,59,60.0
+Moldova,Armenia,0,1,13,60.0
+Croatia,Denmark,0,0,48,60.0
+France,Estonia,0,0,25,59.5
+Bulgaria,Serbia,1,1,14,59.5
+Bulgaria,Russia,0,1,22,59.0
+Switzerland,Spain,0,0,59,59.0
+Israel,Malta,0,0,32,59.0
+Denmark,Malta,0,0,32,59.0
+Spain,Denmark,0,0,48,59.0
+Ireland,Ukraine,0,0,15,59.0
+Russia,Serbia,0,1,14,59.0
+San Marino,Azerbaijan,0,0,12,59.0
+Portugal,Greece,0,1,40,59.0
+Austria,Türkiye,0,0,34,59.0
+Portugal,Estonia,0,0,25,59.0
+San Marino,Norway,0,0,58,58.5
+Finland,Belgium,0,0,60,58.5
+Slovenia,Montenegro,0,1,11,58.5
+San Marino,Sweden,0,0,59,58.5
+Bulgaria,Cyprus,0,0,36,58.0
+Norway,Russia,1,0,22,58.0
+Denmark,Romania,0,0,20,58.0
+Romania,Armenia,0,1,13,58.0
+San Marino,Malta,0,1,32,57.5
+Switzerland,Iceland,0,0,32,57.5
+Belgium,Israel,0,0,42,57.5
+Germany,Switzerland,1,1,59,57.5
+Germany,Austria,1,1,52,57.5
+Netherlands,Estonia,0,0,25,57.0
+Albania,Hungary,0,1,17,57.0
+Sweden,Cyprus,0,0,36,57.0
+Poland,Hungary,0,1,17,57.0
+Montenegro,Greece,0,0,40,57.0
+Israel,Estonia,0,0,25,57.0
+Iceland,Latvia,0,1,20,56.5
+Romania,Serbia,1,1,14,56.5
+United Kingdom,Finland,0,0,53,56.5
+Czech Republic,Sweden,0,0,59,56.5
+Netherlands,Hungary,0,0,17,56.5
+Spain,Hungary,0,0,17,56.5
+Iceland,Cyprus,0,0,36,56.5
+Latvia,Belgium,0,0,60,56.5
+United Kingdom,Iceland,0,0,32,56.0
+North Macedonia,Greece,1,0,40,56.0
+Norway,Latvia,0,1,20,56.0
+United Kingdom,Norway,0,0,58,56.0
+United Kingdom,Russia,0,0,22,56.0
+Denmark,Australia,0,0,5,56.0
+Bosnia and Herz.,Sweden,0,0,59,56.0
+Iceland,Belgium,0,0,60,56.0
+Spain,Andorra,1,0,6,56.0
+Italy,Albania,0,0,16,55.5
+Lithuania,Netherlands,0,0,59,55.5
+Spain,Finland,0,0,53,55.5
+Spain,Belgium,0,0,60,55.5
+Belgium,Iceland,0,0,32,55.5
+France,Italy,1,0,44,55.5
+Croatia,Greece,0,0,40,55.0
+Cyprus,Israel,0,0,42,55.0
+Latvia,Malta,0,0,32,55.0
+Israel,Cyprus,0,0,36,55.0
+North Macedonia,Sweden,0,0,59,55.0
+Iceland,Greece,0,0,40,55.0
+Germany,Malta,0,0,32,55.0
+Spain,Cyprus,0,1,36,55.0
+Türkiye,Romania,0,0,20,55.0
+United Kingdom,Ukraine,0,0,15,55.0
+Finland,Greece,0,0,40,54.5
+Poland,Lithuania,1,0,20,54.5
+Slovenia,Latvia,0,0,20,54.5
+Croatia,Cyprus,0,0,36,54.5
+Italy,Denmark,0,0,48,54.5
+Greece,Bulgaria,1,0,12,54.5
+Hungary,Romania,1,1,20,54.5
+Albania,Bulgaria,0,1,12,54.5
+Ukraine,Serbia,0,1,14,54.5
+Germany,Latvia,0,0,20,54.0
+Armenia,Belarus,0,1,16,54.0
+Netherlands,Austria,0,1,52,54.0
+Finland,Switzerland,0,0,59,54.0
+Serbia,Norway,0,0,58,54.0
+Sweden,Australia,0,0,5,54.0
+Hungary,Ukraine,1,1,15,54.0
+Armenia,Malta,0,0,32,54.0
+Switzerland,Netherlands,0,1,59,54.0
+Ukraine,Croatia,0,1,25,53.5
+Albania,Russia,0,1,22,53.5
+Hungary,Serbia,1,1,14,53.5
+Ireland,Finland,0,0,53,53.5
+Netherlands,Russia,0,0,22,53.5
+Norway,Malta,0,0,32,53.5
+France,Netherlands,0,1,59,53.5
+Montenegro,Armenia,0,1,13,53.5
+Ireland,Germany,0,1,62,53.5
+Andorra,Finland,0,0,53,53.0
+Andorra,Ukraine,0,0,15,53.0
+Israel,Belarus,0,0,16,53.0
+Iceland,Australia,0,0,5,53.0
+Austria,Hungary,1,0,17,53.0
+Russia,Sweden,0,0,59,53.0
+Estonia,Cyprus,0,0,36,52.5
+Poland,Latvia,0,0,20,52.5
+Germany,Belgium,1,1,60,52.5
+Armenia,Moldova,0,1,15,52.5
+Poland,Slovenia,0,1,25,52.5
+Portugal,Netherlands,0,0,59,52.5
+Czech Republic,Ukraine,0,1,15,52.5
+United Kingdom,Romania,0,0,20,52.5
+Serbia,Montenegro,1,1,11,52.5
+Finland,Austria,0,0,52,52.5
+Switzerland,Denmark,0,0,48,52.5
+Finland,Bosnia and Herz.,0,0,19,52.0
+Switzerland,Italy,1,0,44,52.0
+Netherlands,Ukraine,0,0,15,52.0
+Romania,Netherlands,0,0,59,52.0
+Albania,Spain,0,0,59,52.0
+Türkiye,Russia,0,0,22,52.0
+Cyprus,Denmark,0,0,48,52.0
+France,Denmark,0,0,48,52.0
+Estonia,Ireland,0,0,53,51.5
+Germany,Croatia,0,0,25,51.5
+Greece,Italy,0,1,44,51.5
+Slovenia,Netherlands,0,0,59,51.5
+Sweden,Latvia,0,1,20,51.5
+Romania,Ukraine,1,1,15,51.5
+Lithuania,Austria,0,0,52,51.5
+Armenia,France,0,0,61,51.5
+Belgium,Ireland,0,1,53,51.5
+Greece,Norway,0,0,58,51.5
+Ireland,Austria,0,1,52,51.0
+Ireland,Cyprus,0,0,36,51.0
+Iceland,Austria,0,0,52,51.0
+Estonia,Malta,0,0,32,51.0
+Armenia,Israel,0,0,42,51.0
+Russia,Israel,0,0,42,51.0
+Türkiye,Bulgaria,1,0,12,51.0
+Belgium,Spain,0,0,59,50.5
+Norway,Poland,0,0,22,50.5
+Israel,Austria,0,0,52,50.5
+Serbia,Moldova,0,1,15,50.5
+Moldova,Georgia,0,1,12,50.5
+Latvia,Netherlands,0,0,59,50.5
+Montenegro,North Macedonia,0,1,19,50.5
+Germany,Romania,0,0,20,50.5
+Sweden,Hungary,0,0,17,50.5
+Austria,Albania,0,0,16,50.5
+Belgium,Hungary,0,0,17,50.5
+Germany,Hungary,0,0,17,50.0
+Israel,Latvia,0,0,20,50.0
+Belgium,Ukraine,0,0,15,50.0
+Portugal,Latvia,0,0,20,50.0
+Slovenia,Greece,0,0,40,50.0
+Sweden,Ukraine,0,0,15,50.0
+United Kingdom,Estonia,0,0,25,50.0
+Germany,Iceland,0,0,32,50.0
+Türkiye,Sweden,0,0,59,50.0
+Netherlands,Germany,1,1,62,50.0
+France,Bosnia and Herz.,0,0,19,50.0
+Switzerland,Hungary,0,0,17,49.5
+Armenia,Norway,0,0,58,49.5
+Austria,Italy,1,0,44,49.5
+France,Bulgaria,0,0,12,49.5
+Switzerland,Finland,0,0,53,49.5
+Belarus,Poland,1,1,22,49.5
+San Marino,Albania,0,0,16,49.5
+Ukraine,Israel,0,0,42,49.5
+Iceland,Azerbaijan,0,0,12,49.0
+Portugal,Norway,0,0,58,49.0
+Montenegro,Ukraine,0,1,15,49.0
+Netherlands,Azerbaijan,0,0,12,49.0
+Israel,Moldova,0,0,15,49.0
+Germany,Finland,0,0,53,49.0
+United Kingdom,Poland,0,0,22,49.0
+Belarus,Estonia,0,0,25,49.0
+Sweden,Ireland,0,0,53,49.0
+France,Greece,0,0,40,49.0
+Hungary,Bulgaria,0,1,12,49.0
+Spain,France,1,0,61,49.0
+San Marino,Armenia,0,0,13,49.0
+Sweden,Belgium,0,0,60,49.0
+Bulgaria,Israel,0,0,42,48.5
+Austria,Denmark,0,0,48,48.5
+Azerbaijan,Hungary,0,1,17,48.5
+Norway,Australia,0,0,5,48.5
+Malta,Bulgaria,0,0,12,48.5
+United Kingdom,Austria,0,1,52,48.5
+Bosnia and Herz.,France,0,0,61,48.5
+Croatia,Malta,0,0,32,48.5
+Norway,Estonia,0,1,25,48.5
+Malta,Belarus,0,0,16,48.5
+Greece,Belgium,0,0,60,48.0
+Serbia,Bulgaria,1,1,12,48.0
+Norway,Türkiye,0,0,34,48.0
+Ukraine,Hungary,1,1,17,48.0
+Slovenia,Belgium,0,0,60,48.0
+Cyprus,Georgia,0,0,12,48.0
+Belgium,Austria,0,1,52,48.0
+Latvia,Azerbaijan,0,0,12,48.0
+Russia,Malta,0,0,32,48.0
+Lithuania,Ireland,0,0,53,47.5
+Israel,Australia,0,1,5,47.5
+Romania,North Macedonia,0,1,19,47.5
+Portugal,Serbia,0,0,14,47.5
+Ireland,Greece,0,0,40,47.5
+Cyprus,Spain,0,1,59,47.5
+Latvia,Georgia,0,0,12,47.0
+Latvia,Moldova,0,0,15,47.0
+Latvia,Belarus,1,0,16,47.0
+Albania,Malta,0,0,32,47.0
+Malta,Türkiye,0,1,34,47.0
+Bulgaria,Austria,0,0,52,47.0
+Russia,Lithuania,1,0,20,47.0
+Austria,Switzerland,1,1,59,47.0
+Sweden,Romania,0,0,20,47.0
+Cyprus,Italy,0,1,44,47.0
+Azerbaijan,Albania,0,1,16,47.0
+San Marino,Hungary,0,0,17,46.5
+Ireland,Israel,0,0,42,46.5
+Belgium,Australia,0,0,5,46.5
+Azerbaijan,Norway,0,0,58,46.5
+North Macedonia,Moldova,0,1,15,46.5
+Belgium,Latvia,0,0,20,46.5
+San Marino,Netherlands,0,0,59,46.5
+France,Poland,0,0,22,46.5
+Malta,Ireland,0,0,53,46.5
+Spain,Israel,0,0,42,46.0
+France,Iceland,0,0,32,46.0
+Belarus,Malta,0,0,32,46.0
+Croatia,Türkiye,0,0,34,46.0
+Croatia,Sweden,0,0,59,46.0
+Cyprus,Moldova,0,0,15,45.5
+Norway,Bulgaria,0,0,12,45.5
+Portugal,Hungary,0,0,17,45.5
+Iceland,Romania,0,0,20,45.5
+Ireland,Malta,0,0,32,45.5
+France,Germany,1,1,62,45.0
+Poland,Greece,0,0,40,45.0
+Switzerland,Ireland,0,1,53,45.0
+Switzerland,Israel,0,0,42,45.0
+United Kingdom,Australia,0,0,5,45.0
+Denmark,Hungary,0,0,17,45.0
+Andorra,Israel,0,0,42,45.0
+Sweden,Austria,0,0,52,45.0
+Romania,Switzerland,0,0,59,45.0
+Belgium,Cyprus,0,0,36,45.0
+Israel,France,0,0,61,45.0
+Poland,Serbia,0,1,14,45.0
+Romania,Cyprus,0,0,36,45.0
+Greece,Belarus,0,0,16,44.5
+Austria,Bulgaria,0,0,12,44.5
+Lithuania,Finland,0,1,53,44.5
+Italy,Poland,0,0,22,44.5
+Ireland,Bulgaria,0,0,12,44.5
+Albania,Israel,0,0,42,44.5
+Georgia,Latvia,0,0,20,44.5
+Estonia,Austria,0,0,52,44.5
+Spain,Austria,0,0,52,44.5
+Sweden,Israel,0,0,42,44.5
+Bosnia and Herz.,Ukraine,0,0,15,44.5
+Russia,Denmark,0,0,48,44.5
+North Macedonia,Belarus,0,1,16,44.0
+Bosnia and Herz.,Russia,0,0,22,44.0
+Albania,Germany,0,0,62,44.0
+Czech Republic,Russia,0,1,22,44.0
+Slovakia,Estonia,0,0,25,44.0
+Estonia,Georgia,0,0,12,44.0
+Bulgaria,Romania,1,1,20,44.0
+Armenia,Netherlands,0,0,59,43.5
+Slovenia,Italy,1,0,44,43.5
+France,Azerbaijan,0,0,12,43.5
+Lithuania,Switzerland,0,0,59,43.5
+Finland,Netherlands,0,0,59,43.5
+Italy,Sweden,0,0,59,43.0
+Georgia,Greece,0,0,40,43.0
+Albania,Montenegro,1,1,11,43.0
+Bosnia and Herz.,Albania,0,0,16,43.0
+Slovakia,Sweden,0,0,59,43.0
+Greece,France,0,0,61,43.0
+Norway,Ireland,0,0,53,43.0
+Moldova,Estonia,0,0,25,43.0
+Sweden,Greece,0,0,40,43.0
+Norway,Greece,0,0,40,43.0
+Estonia,Azerbaijan,0,0,12,43.0
+Ukraine,Lithuania,0,0,20,43.0
+Iceland,Serbia,0,0,14,43.0
+Norway,Germany,0,0,62,43.0
+Latvia,Germany,0,0,62,42.5
+Albania,Serbia,0,1,14,42.5
+Latvia,Finland,0,1,53,42.5
+San Marino,Russia,0,0,22,42.5
+Lithuania,Poland,1,0,22,42.5
+Italy,Russia,0,0,22,42.5
+Israel,Iceland,0,0,32,42.5
+United Kingdom,Netherlands,0,1,59,42.5
+Belgium,Italy,0,0,44,42.5
+Spain,Estonia,0,0,25,42.0
+Iceland,Albania,0,0,16,42.0
+Norway,Hungary,0,0,17,42.0
+Türkiye,Moldova,0,0,15,42.0
+Germany,Australia,0,0,5,42.0
+Norway,Azerbaijan,0,0,12,42.0
+France,Austria,0,1,52,42.0
+Australia,Belgium,0,0,60,42.0
+Israel,Netherlands,0,0,59,42.0
+Romania,Malta,0,0,32,42.0
+Latvia,Portugal,0,0,51,42.0
+North Macedonia,Italy,0,0,44,42.0
+Israel,Georgia,0,0,12,42.0
+Spain,Netherlands,0,0,59,42.0
+Belgium,Norway,0,0,58,42.0
+Lithuania,Belgium,0,0,60,42.0
+Poland,Switzerland,0,0,59,41.5
+Portugal,Italy,0,1,44,41.5
+Poland,Israel,0,0,42,41.5
+Georgia,Moldova,0,1,15,41.5
+Netherlands,Romania,0,0,20,41.5
+Finland,Australia,0,0,5,41.5
+Ireland,Switzerland,0,1,59,41.5
+Cyprus,Belarus,0,0,16,41.5
+Finland,Cyprus,0,0,36,41.5
+Norway,Ukraine,0,0,15,41.5
+United Kingdom,Portugal,0,0,51,41.0
+Montenegro,Sweden,0,0,59,41.0
+Netherlands,Ireland,0,1,53,41.0
+Ukraine,Türkiye,0,0,34,41.0
+Montenegro,Croatia,1,1,25,41.0
+Israel,Hungary,0,0,17,41.0
+Finland,Ireland,0,0,53,41.0
+Iceland,France,0,0,61,40.5
+Albania,Norway,0,0,58,40.5
+Montenegro,Italy,0,0,44,40.5
+Bosnia and Herz.,Azerbaijan,0,0,12,40.5
+Cyprus,Malta,0,1,32,40.0
+Cyprus,Norway,0,0,58,40.0
+Russia,Cyprus,0,0,36,40.0
+Israel,Slovenia,0,0,25,40.0
+Poland,Georgia,0,1,12,40.0
+Netherlands,Malta,0,0,32,40.0
+Greece,Estonia,0,0,25,40.0
+Portugal,Israel,0,0,42,40.0
+Russia,France,0,0,61,40.0
+Poland,Romania,0,1,20,40.0
+Belarus,Bulgaria,0,1,12,40.0
+United Kingdom,Germany,0,1,62,39.5
+Belarus,Iceland,0,0,32,39.5
+Belgium,Poland,0,0,22,39.5
+Poland,Germany,1,0,62,39.5
+France,Hungary,0,0,17,39.5
+North Macedonia,Azerbaijan,0,1,12,39.5
+Sweden,Armenia,0,0,13,39.5
+Israel,Bulgaria,0,0,12,39.0
+Russia,Hungary,0,1,17,39.0
+Belarus,Belgium,0,0,60,39.0
+Iceland,Malta,0,0,32,39.0
+Austria,Ireland,0,1,53,39.0
+Finland,Türkiye,0,0,34,39.0
+Germany,Bulgaria,0,0,12,39.0
+Latvia,Australia,0,0,5,39.0
+Poland,Estonia,0,0,25,38.5
+Lithuania,France,0,0,61,38.5
+Montenegro,Moldova,0,1,15,38.5
+Ukraine,Denmark,0,0,48,38.5
+Spain,Serbia,0,0,14,38.5
+Albania,Romania,0,1,20,38.5
+Armenia,Montenegro,0,1,11,38.5
+France,Moldova,0,0,15,38.5
+Portugal,Austria,0,0,52,38.5
+Moldova,Belgium,0,0,60,38.0
+Hungary,Estonia,0,0,25,38.0
+Norway,Austria,0,0,52,38.0
+Romania,Spain,0,0,59,38.0
+Iceland,Czech Republic,0,0,8,38.0
+Portugal,Germany,0,0,62,38.0
+Georgia,Belgium,0,0,60,38.0
+Spain,Australia,0,0,5,38.0
+Portugal,Azerbaijan,0,0,12,38.0
+San Marino,Israel,0,0,42,38.0
+Switzerland,Latvia,0,0,20,38.0
+Finland,France,0,0,61,38.0
+Poland,Portugal,0,0,51,38.0
+Italy,Norway,0,0,58,38.0
+Iceland,Israel,0,0,42,37.5
+Greece,Finland,0,0,53,37.5
+Romania,Belgium,0,0,60,37.5
+Germany,Estonia,0,0,25,37.5
+Belgium,Finland,0,0,53,37.5
+Australia,Moldova,0,0,15,37.5
+Sweden,Malta,0,0,32,37.5
+Italy,Cyprus,0,1,36,37.5
+Portugal,Denmark,0,0,48,37.5
+Bulgaria,Hungary,0,1,17,37.5
+Finland,Latvia,0,1,20,37.5
+Czech Republic,Bulgaria,0,1,12,37.5
+Austria,Estonia,0,0,25,37.5
+Serbia,Israel,0,0,42,37.0
+United Kingdom,Moldova,0,0,15,37.0
+Georgia,Türkiye,1,0,34,37.0
+Ireland,Azerbaijan,0,0,12,37.0
+Lithuania,Greece,0,0,40,37.0
+Estonia,Belarus,0,0,16,37.0
+Lithuania,Iceland,0,1,32,37.0
+Lithuania,Moldova,0,0,15,37.0
+Türkiye,Malta,0,1,32,37.0
+Malta,Armenia,0,0,13,37.0
+Finland,Malta,0,0,32,37.0
+Denmark,Lithuania,0,1,20,37.0
+Slovenia,Moldova,0,1,15,37.0
+Denmark,Austria,0,0,52,37.0
+Belarus,Latvia,1,0,20,37.0
+Montenegro,Norway,0,0,58,37.0
+Ukraine,Greece,0,0,40,37.0
+Georgia,Norway,0,0,58,37.0
+Finland,Ukraine,0,0,15,37.0
+Hungary,Croatia,1,1,25,37.0
+Denmark,Serbia,0,0,14,36.5
+Poland,Iceland,0,0,32,36.5
+Czech Republic,Israel,0,0,42,36.5
+Croatia,Bulgaria,0,1,12,36.5
+Albania,San Marino,0,0,10,36.0
+Estonia,Germany,0,0,62,36.0
+Hungary,Malta,0,0,32,36.0
+Czech Republic,Portugal,0,0,51,36.0
+Monaco,Denmark,0,0,48,36.0
+Greece,Austria,0,0,52,36.0
+Greece,Malta,0,1,32,36.0
+Andorra,Romania,0,0,20,36.0
+Moldova,Bulgaria,0,1,12,35.5
+Serbia,Italy,0,0,44,35.5
+Croatia,Netherlands,0,0,59,35.5
+Italy,Austria,1,0,52,35.5
+Sweden,Azerbaijan,0,0,12,35.5
+Lithuania,Malta,0,0,32,35.5
+Iceland,Switzerland,0,0,59,35.5
+Estonia,Switzerland,0,0,59,35.5
+Italy,Malta,0,1,32,35.5
+Croatia,Ireland,0,0,53,35.0
+Ukraine,Estonia,0,0,25,35.0
+Latvia,Switzerland,0,0,59,35.0
+Iceland,Ireland,0,0,53,35.0
+Azerbaijan,Belarus,0,1,16,35.0
+Croatia,Czech Republic,0,1,8,35.0
+Serbia,Belgium,0,0,60,35.0
+North Macedonia,Norway,0,0,58,35.0
+Russia,Finland,1,0,53,35.0
+Hungary,Moldova,0,1,15,35.0
+San Marino,Moldova,0,0,15,34.5
+Bosnia and Herz.,Montenegro,0,0,11,34.5
+Malta,Serbia,0,0,14,34.5
+Slovenia,Romania,0,1,20,34.0
+Austria,Belgium,0,1,60,34.0
+Cyprus,Lithuania,0,0,20,34.0
+Bulgaria,Georgia,0,1,12,34.0
+Andorra,Greece,0,0,40,34.0
+Sweden,Germany,0,0,62,34.0
+Poland,Moldova,0,1,15,34.0
+Israel,Belgium,0,0,60,34.0
+Portugal,Lithuania,0,0,20,34.0
+Hungary,Australia,0,0,5,34.0
+Albania,Croatia,0,1,25,34.0
+Czech Republic,Serbia,0,1,14,34.0
+Belgium,Estonia,0,0,25,34.0
+Spain,Azerbaijan,0,0,12,34.0
+Croatia,Switzerland,0,0,59,34.0
+Cyprus,Hungary,0,0,17,34.0
+Portugal,Finland,0,0,53,34.0
+Georgia,Portugal,0,0,51,34.0
+Georgia,Austria,0,0,52,34.0
+United Kingdom,Belgium,0,1,60,33.5
+Hungary,Switzerland,0,0,59,33.5
+Hungary,Finland,0,0,53,33.5
+Ireland,Moldova,0,0,15,33.5
+Lithuania,Italy,0,0,44,33.5
+Portugal,France,0,0,61,33.5
+North Macedonia,Armenia,0,1,13,33.5
+Israel,Finland,0,0,53,33.5
+Spain,Czech Republic,0,0,8,33.5
+Hungary,Israel,0,0,42,33.5
+Germany,Ireland,0,1,53,33.5
+Malta,Belgium,0,0,60,33.5
+Italy,Israel,0,0,42,33.5
+Serbia,Denmark,0,0,48,33.5
+Spain,Malta,0,1,32,33.0
+Croatia,Norway,0,0,58,33.0
+Slovenia,Switzerland,0,0,59,33.0
+Malta,Croatia,0,0,25,33.0
+Slovakia,Bosnia and Herz.,0,0,19,33.0
+Slovenia,Bulgaria,0,1,12,33.0
+Austria,Azerbaijan,0,0,12,33.0
+San Marino,Iceland,0,0,32,33.0
+Bulgaria,Bosnia and Herz.,0,0,19,33.0
+Greece,Poland,0,0,22,32.5
+Austria,Moldova,0,0,15,32.5
+Netherlands,Cyprus,0,0,36,32.5
+Moldova,Australia,0,0,5,32.5
+Montenegro,Malta,0,0,32,32.5
+Belgium,Azerbaijan,0,0,12,32.5
+Georgia,Cyprus,0,0,36,32.5
+Israel,Italy,0,0,44,32.5
+Albania,Switzerland,0,0,59,32.5
+Georgia,Israel,0,0,42,32.5
+Finland,Portugal,0,0,51,32.5
+Greece,Hungary,0,0,17,32.5
+Malta,Finland,0,0,53,32.5
+Azerbaijan,San Marino,0,0,10,32.5
+Moldova,Israel,0,0,42,32.5
+Belgium,Serbia,0,0,14,32.5
+Iceland,Germany,0,0,62,32.0
+Croatia,Italy,0,0,44,32.0
+Slovakia,Ukraine,1,1,15,32.0
+Hungary,Austria,1,0,52,32.0
+North Macedonia,Netherlands,0,0,59,32.0
+Belarus,Cyprus,0,0,36,32.0
+Hungary,Albania,0,1,16,32.0
+France,Australia,0,0,5,32.0
+Andorra,Sweden,0,0,59,32.0
+Hungary,Belgium,0,0,60,32.0
+Greece,Spain,0,1,59,32.0
+Latvia,Slovenia,0,0,25,32.0
+Austria,Israel,0,0,42,32.0
+Slovenia,Portugal,0,0,51,32.0
+Albania,Portugal,0,0,51,32.0
+Sweden,Portugal,0,0,51,31.5
+North Macedonia,Finland,0,0,53,31.5
+Romania,Austria,0,0,52,31.5
+Belarus,Australia,0,0,5,31.5
+San Marino,Latvia,0,0,20,31.5
+Georgia,Serbia,0,1,14,31.5
+Bulgaria,Sweden,0,0,59,31.5
+Greece,Iceland,0,0,32,31.5
+Denmark,Azerbaijan,0,0,12,31.5
+Albania,Netherlands,0,0,59,31.5
+Israel,Ireland,0,0,53,31.0
+Norway,Switzerland,0,0,59,31.0
+Russia,Croatia,0,1,25,31.0
+Estonia,Greece,0,0,40,31.0
+Bulgaria,Belgium,0,0,60,31.0
+Lithuania,Israel,0,0,42,31.0
+Greece,Türkiye,1,1,34,31.0
+Poland,Belarus,1,1,16,31.0
+Armenia,Portugal,0,0,51,31.0
+Croatia,Latvia,0,0,20,31.0
+Denmark,Albania,0,0,16,31.0
+Austria,Malta,0,0,32,31.0
+Slovakia,Norway,0,0,58,31.0
+Australia,Israel,0,1,42,31.0
+Bulgaria,Moldova,0,1,15,31.0
+Malta,Georgia,0,0,12,31.0
+Germany,Ukraine,0,0,15,31.0
+Slovenia,Azerbaijan,0,1,12,31.0
+Moldova,Portugal,0,0,51,30.5
+Bulgaria,Lithuania,0,0,20,30.5
+North Macedonia,Israel,0,0,42,30.5
+Poland,Netherlands,0,0,59,30.5
+Serbia,Cyprus,0,0,36,30.5
+Russia,Netherlands,0,0,59,30.5
+Switzerland,France,1,1,61,30.5
+Bulgaria,Belarus,0,1,16,30.5
+Slovenia,Albania,0,1,16,30.5
+Moldova,Iceland,0,0,32,30.5
+Hungary,Poland,0,1,22,30.5
+Iceland,Lithuania,0,1,20,30.5
+Norway,Belgium,0,0,60,30.0
+Iceland,Poland,0,0,22,30.0
+Andorra,Norway,0,0,58,30.0
+Netherlands,Portugal,0,0,51,30.0
+Georgia,Estonia,0,0,25,30.0
+Austria,Poland,0,0,22,30.0
+Portugal,Bulgaria,0,0,12,30.0
+Türkiye,Croatia,0,0,25,30.0
+Sweden,Poland,0,0,22,30.0
+Germany,Albania,0,0,16,30.0
+Ukraine,Malta,0,0,32,30.0
+Malta,Austria,0,0,52,30.0
+Serbia,Australia,0,0,5,30.0
+Belarus,Switzerland,0,0,59,30.0
+Albania,Ukraine,0,1,15,30.0
+Russia,Latvia,1,0,20,30.0
+France,Malta,0,0,32,30.0
+Slovenia,Estonia,0,0,25,29.5
+Netherlands,Iceland,0,0,32,29.5
+San Marino,Cyprus,0,1,36,29.5
+Albania,Australia,0,0,5,29.5
+Malta,Lithuania,0,0,20,29.5
+Denmark,Moldova,0,0,15,29.5
+Romania,Slovenia,0,1,25,29.5
+Serbia,Albania,0,1,16,29.5
+Latvia,Poland,0,0,22,29.5
+Latvia,Hungary,0,0,17,29.5
+Belgium,Germany,1,1,62,29.5
+Slovenia,Finland,0,0,53,29.0
+Montenegro,Hungary,0,1,17,29.0
+Belgium,Moldova,0,0,15,29.0
+Bosnia and Herz.,Norway,0,0,58,29.0
+Russia,Slovenia,0,1,25,29.0
+Slovenia,Australia,0,0,5,29.0
+Romania,Italy,0,0,44,29.0
+Romania,Croatia,0,1,25,29.0
+Denmark,Cyprus,0,0,36,29.0
+Denmark,Greece,0,0,40,29.0
+Russia,Germany,0,0,62,29.0
+Slovakia,Azerbaijan,0,1,12,29.0
+Austria,Norway,0,0,58,29.0
+Georgia,Malta,0,0,32,29.0
+Belgium,Bulgaria,0,0,12,29.0
+United Kingdom,Switzerland,0,1,59,29.0
+Sweden,Moldova,0,0,15,29.0
+Serbia,Malta,0,0,32,29.0
+Sweden,France,0,0,61,29.0
+Azerbaijan,Sweden,0,0,59,29.0
+San Marino,Bulgaria,0,0,12,28.5
+Denmark,Bulgaria,0,0,12,28.5
+Ukraine,Latvia,0,0,20,28.5
+Slovenia,Cyprus,0,0,36,28.5
+Slovenia,Hungary,1,1,17,28.5
+Finland,Romania,0,0,20,28.5
+Australia,Russia,0,0,22,28.5
+Belarus,Croatia,0,1,25,28.5
+Estonia,Bulgaria,0,0,12,28.5
+Latvia,Cyprus,0,0,36,28.5
+Germany,Cyprus,0,0,36,28.5
+Portugal,Ireland,0,0,53,28.5
+Serbia,Romania,1,1,20,28.5
+Netherlands,Croatia,0,0,25,28.5
+Austria,Slovenia,1,0,25,28.5
+Czech Republic,Hungary,0,1,17,28.5
+Australia,Norway,0,0,58,28.0
+Albania,Belgium,0,0,60,28.0
+Israel,Czech Republic,0,0,8,28.0
+Austria,Armenia,0,0,13,28.0
+Malta,Australia,0,0,5,28.0
+Switzerland,Belgium,0,1,60,28.0
+France,Norway,0,0,58,28.0
+Monaco,Bosnia and Herz.,0,0,19,28.0
+Lithuania,Cyprus,0,0,36,28.0
+Slovenia,Czech Republic,0,1,8,28.0
+Malta,Albania,0,0,16,28.0
+Malta,North Macedonia,0,0,19,28.0
+Ukraine,Belgium,0,0,60,28.0
+Slovenia,Germany,0,0,62,28.0
+Croatia,Lithuania,0,0,20,28.0
+Greece,Israel,0,0,42,28.0
+Armenia,Serbia,0,1,14,28.0
+Slovenia,Iceland,0,0,32,27.5
+Estonia,France,0,0,61,27.5
+Switzerland,Romania,0,0,20,27.5
+Bulgaria,Croatia,0,1,25,27.5
+Finland,Albania,0,0,16,27.5
+Cyprus,Estonia,0,0,25,27.5
+Switzerland,Australia,0,0,5,27.5
+Portugal,Slovenia,0,0,25,27.5
+Israel,Serbia,0,0,14,27.5
+Malta,Estonia,0,0,25,27.5
+Georgia,Italy,0,0,44,27.5
+Cyprus,Switzerland,0,0,59,27.0
+Denmark,France,0,0,61,27.0
+Croatia,Finland,0,0,53,27.0
+Latvia,United Kingdom,0,0,62,27.0
+Serbia,Portugal,0,0,51,27.0
+Netherlands,Switzerland,0,1,59,27.0
+Croatia,Austria,0,0,52,27.0
+Bulgaria,Denmark,0,0,48,27.0
+Germany,Italy,0,0,44,27.0
+Spain,Poland,0,0,22,27.0
+Armenia,North Macedonia,0,1,19,27.0
+Belarus,Denmark,0,0,48,27.0
+Greece,Sweden,0,0,59,27.0
+United Kingdom,France,0,1,61,27.0
+North Macedonia,Montenegro,0,1,11,27.0
+Türkiye,Germany,0,0,62,27.0
+Latvia,Italy,0,0,44,27.0
+Romania,Iceland,0,0,32,26.5
+Latvia,Armenia,0,0,13,26.5
+Italy,Australia,0,0,5,26.5
+Slovenia,Israel,0,0,42,26.5
+Croatia,Estonia,0,0,25,26.5
+Serbia,Lithuania,0,0,20,26.5
+Sweden,Lithuania,0,1,20,26.5
+Romania,Bulgaria,1,1,12,26.5
+Israel,Switzerland,0,0,59,26.5
+Montenegro,Denmark,0,0,48,26.5
+Cyprus,Belgium,0,0,60,26.5
+Spain,Ireland,0,0,53,26.0
+Lithuania,Bulgaria,0,0,12,26.0
+Andorra,France,1,1,61,26.0
+Armenia,Switzerland,0,0,59,26.0
+Belgium,Czech Republic,0,0,8,26.0
+Netherlands,Slovenia,0,0,25,26.0
+Sweden,Albania,0,0,16,26.0
+Czech Republic,Iceland,0,0,32,26.0
+Austria,Greece,0,0,40,26.0
+Czech Republic,Malta,0,0,32,26.0
+Ukraine,Bulgaria,0,1,12,26.0
+Ukraine,Portugal,0,0,51,26.0
+Latvia,France,0,0,61,26.0
+Monaco,Cyprus,0,0,36,26.0
+Andorra,Iceland,0,0,32,26.0
+Denmark,United Kingdom,0,0,62,26.0
+Austria,Latvia,0,0,20,26.0
+Cyprus,Ireland,0,0,53,26.0
+Estonia,Czech Republic,0,0,8,26.0
+Spain,Latvia,0,0,20,26.0
+Ukraine,Cyprus,0,0,36,26.0
+Ireland,Iceland,0,0,32,26.0
+Montenegro,San Marino,0,0,10,26.0
+Azerbaijan,Latvia,0,0,20,26.0
+Azerbaijan,Montenegro,0,1,11,26.0
+France,Switzerland,1,1,59,26.0
+Romania,Ireland,0,0,53,26.0
+Croatia,France,0,0,61,26.0
+Austria,Czech Republic,1,0,8,25.5
+Cyprus,France,0,0,61,25.5
+Ukraine,Netherlands,0,0,59,25.5
+Georgia,Hungary,0,1,17,25.5
+Portugal,Switzerland,0,0,59,25.5
+Finland,Bulgaria,0,0,12,25.5
+Italy,Serbia,0,0,14,25.5
+Denmark,Israel,0,0,42,25.5
+Malta,San Marino,0,1,10,25.5
+Albania,France,0,0,61,25.5
+Belarus,Finland,0,0,53,25.5
+Denmark,Switzerland,0,0,59,25.5
+Montenegro,Israel,0,0,42,25.5
+Azerbaijan,Lithuania,0,0,20,25.5
+Netherlands,Lithuania,0,0,20,25.5
+Ukraine,North Macedonia,0,1,19,25.5
+Azerbaijan,Bulgaria,0,1,12,25.0
+Cyprus,Iceland,0,0,32,25.0
+Armenia,Italy,0,0,44,25.0
+Austria,Ukraine,0,0,15,25.0
+Armenia,Bulgaria,0,1,12,25.0
+Latvia,Greece,0,0,40,25.0
+Australia,Denmark,0,0,48,25.0
+Bosnia and Herz.,Israel,0,0,42,25.0
+Italy,Greece,0,1,40,25.0
+Albania,Moldova,0,1,15,25.0
+Poland,Italy,0,0,44,25.0
+Moldova,Denmark,0,0,48,25.0
+Spain,Slovenia,0,0,25,25.0
+Moldova,Latvia,0,0,20,25.0
+Czech Republic,Slovenia,0,1,25,24.5
+Bosnia and Herz.,Austria,0,0,52,24.5
+Sweden,Switzerland,0,0,59,24.5
+Latvia,Croatia,0,0,25,24.5
+Norway,Italy,0,0,44,24.5
+Norway,Moldova,0,0,15,24.5
+Hungary,San Marino,0,0,10,24.5
+Belgium,Lithuania,0,0,20,24.5
+Hungary,Georgia,0,1,12,24.5
+Australia,Bulgaria,0,0,12,24.5
+Czech Republic,Latvia,0,0,20,24.5
+Albania,Armenia,0,1,13,24.5
+Belarus,Portugal,0,0,51,24.5
+Austria,North Macedonia,0,0,19,24.5
+Netherlands,Australia,0,0,5,24.5
+Belarus,Hungary,0,1,17,24.5
+Cyprus,Albania,0,0,16,24.5
+Bosnia and Herz.,Malta,0,0,32,24.5
+Bosnia and Herz.,Belgium,0,0,60,24.0
+Bosnia and Herz.,Romania,0,0,20,24.0
+North Macedonia,Hungary,0,1,17,24.0
+Armenia,Romania,0,1,20,24.0
+Estonia,Romania,0,0,20,24.0
+Armenia,Belgium,0,0,60,24.0
+Cyprus,Finland,0,0,53,24.0
+Hungary,Slovenia,1,1,25,24.0
+Italy,Bulgaria,0,0,12,24.0
+Romania,Bosnia and Herz.,0,0,19,24.0
+Hungary,Türkiye,0,0,34,24.0
+Cyprus,Latvia,0,0,20,24.0
+Lithuania,Germany,0,0,62,24.0
+Moldova,Serbia,0,1,14,24.0
+Australia,Latvia,0,0,20,24.0
+Norway,Slovenia,0,0,25,24.0
+Azerbaijan,Portugal,0,0,51,24.0
+San Marino,Ukraine,0,0,15,24.0
+Monaco,Israel,0,0,42,24.0
+Latvia,Austria,0,0,52,24.0
+Belgium,Bosnia and Herz.,0,0,19,24.0
+North Macedonia,Denmark,0,0,48,24.0
+Slovakia,Belgium,0,0,60,24.0
+Switzerland,Malta,0,0,32,24.0
+Greece,Switzerland,0,0,59,24.0
+Belgium,Malta,0,0,32,24.0
+Ukraine,Bosnia and Herz.,0,0,19,24.0
+Ukraine,Slovenia,0,1,25,24.0
+United Kingdom,Spain,0,0,59,23.5
+Italy,Belgium,0,0,60,23.5
+Hungary,Czech Republic,0,1,8,23.5
+North Macedonia,Latvia,0,0,20,23.5
+Switzerland,Russia,0,0,22,23.5
+Belarus,Romania,0,1,20,23.5
+Netherlands,Bulgaria,0,0,12,23.5
+San Marino,United Kingdom,0,0,62,23.5
+Netherlands,Poland,0,0,22,23.5
+Croatia,Israel,0,0,42,23.5
+Estonia,United Kingdom,0,0,62,23.5
+Netherlands,Spain,0,0,59,23.5
+Armenia,Iceland,0,0,32,23.0
+Montenegro,Romania,0,1,20,23.0
+Türkiye,Norway,0,0,58,23.0
+Türkiye,Austria,0,0,52,23.0
+Ukraine,France,0,0,61,23.0
+Albania,United Kingdom,0,0,62,23.0
+Türkiye,Israel,0,0,42,23.0
+North Macedonia,Belgium,0,0,60,23.0
+Hungary,Armenia,0,1,13,23.0
+France,Finland,0,0,53,23.0
+San Marino,Serbia,0,0,14,23.0
+France,Latvia,0,0,20,23.0
+Portugal,Czech Republic,0,0,8,23.0
+Israel,Türkiye,0,0,34,23.0
+Montenegro,Iceland,0,0,32,23.0
+Belgium,Georgia,0,0,12,23.0
+Iceland,Moldova,0,0,15,23.0
+Montenegro,Cyprus,0,0,36,23.0
+Switzerland,Lithuania,0,0,20,23.0
+Finland,Lithuania,0,1,20,23.0
+Cyprus,United Kingdom,0,0,62,22.5
+Switzerland,Bulgaria,0,0,12,22.5
+Netherlands,Italy,0,0,44,22.5
+Russia,Poland,0,1,22,22.5
+Russia,Iceland,0,0,32,22.5
+Italy,Lithuania,0,0,20,22.5
+Slovenia,Malta,0,0,32,22.5
+Azerbaijan,Cyprus,0,0,36,22.5
+Portugal,Cyprus,0,1,36,22.5
+San Marino,Denmark,0,0,48,22.5
+Croatia,Portugal,0,0,51,22.5
+Belarus,Slovenia,0,1,25,22.5
+Slovenia,Poland,0,1,22,22.5
+Finland,Italy,0,0,44,22.5
+Spain,United Kingdom,0,0,62,22.5
+Greece,Australia,0,0,5,22.5
+Lithuania,Hungary,0,0,17,22.5
+Andorra,Russia,0,0,22,22.0
+Finland,Azerbaijan,0,0,12,22.0
+Netherlands,Finland,0,0,53,22.0
+Türkiye,Hungary,0,0,17,22.0
+Finland,Slovenia,0,0,25,22.0
+Ukraine,Romania,1,1,20,22.0
+Finland,Moldova,0,0,15,22.0
+Hungary,Ireland,0,0,53,22.0
+Germany,Slovenia,0,0,25,22.0
+Ireland,Serbia,0,0,14,22.0
+Croatia,Moldova,0,1,15,22.0
+Türkiye,Netherlands,0,0,59,22.0
+Moldova,Lithuania,0,0,20,22.0
+Estonia,Italy,0,0,44,22.0
+Lithuania,Australia,0,0,5,22.0
+Serbia,Finland,0,0,53,22.0
+Türkiye,Estonia,0,0,25,22.0
+Ireland,Australia,0,0,5,22.0
+Romania,Finland,0,0,53,22.0
+Czech Republic,North Macedonia,0,1,19,21.5
+Romania,Portugal,0,0,51,21.5
+United Kingdom,Albania,0,0,16,21.5
+Montenegro,Belarus,0,1,16,21.5
+Slovenia,France,0,0,61,21.5
+Australia,Serbia,0,0,14,21.5
+Germany,United Kingdom,0,1,62,21.5
+Greece,United Kingdom,0,0,62,21.5
+Armenia,Czech Republic,0,1,8,21.5
+Georgia,Denmark,0,0,48,21.5
+France,Ukraine,0,0,15,21.5
+Cyprus,Croatia,0,0,25,21.5
+Switzerland,Cyprus,0,0,36,21.5
+Lithuania,Slovenia,0,0,25,21.5
+Belarus,Netherlands,0,0,59,21.5
+Hungary,Italy,0,0,44,21.5
+Slovakia,Serbia,0,1,14,21.0
+Cyprus,Portugal,0,1,51,21.0
+Malta,Slovenia,0,0,25,21.0
+Sweden,Spain,0,0,59,21.0
+Cyprus,Australia,0,0,5,21.0
+United Kingdom,Serbia,0,0,14,21.0
+Austria,Australia,0,0,5,21.0
+North Macedonia,Estonia,0,0,25,21.0
+Ireland,Bosnia and Herz.,0,0,19,21.0
+Iceland,Türkiye,0,0,34,21.0
+Türkiye,Iceland,0,0,32,21.0
+Albania,Iceland,0,0,32,21.0
+Iceland,Armenia,0,0,13,21.0
+Italy,Azerbaijan,0,0,12,21.0
+Russia,Türkiye,0,0,34,21.0
+Australia,Iceland,0,0,32,21.0
+United Kingdom,Azerbaijan,0,0,12,21.0
+France,Albania,0,0,16,21.0
+Belarus,Bosnia and Herz.,0,0,19,21.0
+San Marino,Türkiye,0,1,34,21.0
+Poland,France,0,0,61,21.0
+Azerbaijan,Estonia,0,0,25,21.0
+Switzerland,Azerbaijan,0,0,12,21.0
+Finland,Czech Republic,0,0,8,21.0
+Moldova,Hungary,0,1,17,20.5
+Netherlands,France,0,1,61,20.5
+Netherlands,Moldova,0,0,15,20.5
+Albania,Slovenia,0,1,25,20.5
+Moldova,Finland,0,0,53,20.5
+Moldova,Italy,0,0,44,20.5
+Georgia,Bulgaria,0,1,12,20.5
+Croatia,Romania,0,1,20,20.5
+Malta,Poland,0,0,22,20.5
+Latvia,Serbia,0,0,14,20.5
+Moldova,Bosnia and Herz.,0,0,19,20.5
+Lithuania,Portugal,0,0,51,20.5
+Bulgaria,Norway,0,0,58,20.5
+Italy,Germany,0,0,62,20.5
+Czech Republic,Denmark,0,0,48,20.5
+Spain,Albania,0,0,16,20.5
+Czech Republic,Australia,0,0,5,20.5
+Cyprus,Netherlands,0,0,59,20.5
+San Marino,Ireland,0,0,53,20.0
+France,Monaco,1,1,24,20.0
+Lithuania,Croatia,0,0,25,20.0
+Portugal,Bosnia and Herz.,0,0,19,20.0
+Norway,Albania,0,0,16,20.0
+Czech Republic,Cyprus,0,0,36,20.0
+Czech Republic,Belgium,0,0,60,20.0
+Poland,Czech Republic,1,1,8,20.0
+Poland,Austria,0,0,52,20.0
+Malta,Hungary,0,0,17,20.0
+San Marino,Romania,0,0,20,20.0
+Iceland,Slovenia,0,0,25,20.0
+Germany,France,1,1,61,20.0
+Azerbaijan,Italy,0,0,44,20.0
+Malta,Germany,0,0,62,20.0
+Greece,Bosnia and Herz.,0,0,19,20.0
+United Kingdom,Hungary,0,0,17,19.5
+Iceland,Italy,0,0,44,19.5
+Netherlands,Latvia,0,0,20,19.5
+Greece,Croatia,0,0,25,19.5
+Finland,Armenia,0,0,13,19.5
+Serbia,Azerbaijan,0,1,12,19.5
+San Marino,Australia,0,0,5,19.5
+Montenegro,Bulgaria,0,1,12,19.5
+Belarus,Austria,0,0,52,19.5
+Austria,Belarus,0,0,16,19.5
+Belarus,Czech Republic,0,1,8,19.5
+Ireland,France,0,1,61,19.5
+Estonia,Australia,0,0,5,19.5
+San Marino,Poland,0,0,22,19.5
+Poland,Ireland,0,0,53,19.5
+Greece,Denmark,0,0,48,19.0
+Lithuania,Serbia,0,0,14,19.0
+Bosnia and Herz.,Finland,0,0,53,19.0
+Andorra,Monaco,0,1,24,19.0
+Monaco,Ireland,0,1,53,19.0
+Bulgaria,United Kingdom,0,0,62,19.0
+Russia,Ireland,0,0,53,19.0
+Ireland,Italy,0,0,44,19.0
+Czech Republic,Netherlands,0,0,59,19.0
+San Marino,Montenegro,0,0,11,19.0
+France,Cyprus,0,0,36,19.0
+Andorra,Netherlands,0,1,59,19.0
+Portugal,Malta,0,1,32,19.0
+Ukraine,Australia,0,0,5,19.0
+Türkiye,Belgium,0,0,60,19.0
+Bosnia and Herz.,Armenia,0,0,13,19.0
+Estonia,Slovenia,0,0,25,19.0
+Czech Republic,Poland,1,1,22,19.0
+Bulgaria,Malta,0,0,32,19.0
+Finland,Georgia,0,0,12,18.5
+Cyprus,Slovenia,0,0,25,18.5
+Australia,Czech Republic,0,0,8,18.5
+North Macedonia,Australia,0,0,5,18.5
+Georgia,Poland,0,1,22,18.5
+Slovenia,Lithuania,0,0,20,18.5
+Serbia,Netherlands,0,0,59,18.5
+Greece,Netherlands,0,0,59,18.5
+North Macedonia,Cyprus,0,0,36,18.5
+Hungary,Belarus,0,1,16,18.5
+Serbia,Estonia,0,0,25,18.5
+Estonia,Moldova,0,0,15,18.5
+San Marino,Belgium,0,0,60,18.5
+Estonia,Portugal,0,0,51,18.5
+Serbia,Iceland,0,0,32,18.5
+Denmark,Slovenia,0,0,25,18.5
+Moldova,Austria,0,0,52,18.0
+Germany,Moldova,0,0,15,18.0
+Moldova,Albania,0,1,16,18.0
+Czech Republic,Ireland,0,0,53,18.0
+Poland,Cyprus,0,0,36,18.0
+Andorra,Malta,0,0,32,18.0
+Russia,Switzerland,0,0,59,18.0
+Austria,Cyprus,0,0,36,18.0
+Georgia,Netherlands,0,0,59,18.0
+Armenia,Türkiye,1,0,34,18.0
+Israel,Lithuania,0,0,20,18.0
+Russia,North Macedonia,0,1,19,18.0
+Andorra,Denmark,0,0,48,18.0
+Iceland,Croatia,0,0,25,18.0
+Georgia,Romania,0,1,20,18.0
+Slovakia,Greece,0,0,40,18.0
+Hungary,Cyprus,0,0,36,18.0
+Belarus,Türkiye,0,0,34,18.0
+Norway,Cyprus,0,0,36,18.0
+Armenia,Bosnia and Herz.,0,0,19,18.0
+Bulgaria,Germany,0,0,62,18.0
+Azerbaijan,Slovenia,0,1,25,18.0
+Malta,Moldova,0,0,15,18.0
+Slovenia,United Kingdom,0,0,62,18.0
+Italy,Switzerland,1,0,59,17.5
+Serbia,Belarus,0,1,16,17.5
+Greece,San Marino,0,1,10,17.5
+Czech Republic,Georgia,0,1,12,17.5
+Norway,France,0,0,61,17.5
+Sweden,Italy,0,0,44,17.5
+Czech Republic,Bosnia and Herz.,0,0,19,17.5
+Albania,Poland,0,1,22,17.5
+Armenia,Denmark,0,0,48,17.5
+Moldova,Cyprus,0,0,36,17.5
+Germany,North Macedonia,0,0,19,17.5
+France,Slovenia,0,0,25,17.5
+Belarus,North Macedonia,0,1,19,17.0
+Ireland,Hungary,0,0,17,17.0
+Portugal,United Kingdom,0,0,62,17.0
+Australia,Portugal,0,0,51,17.0
+Spain,San Marino,0,1,10,17.0
+Bosnia and Herz.,Estonia,0,0,25,17.0
+Azerbaijan,North Macedonia,0,1,19,17.0
+Australia,Lithuania,0,0,20,17.0
+Lithuania,United Kingdom,0,0,62,17.0
+Slovenia,Türkiye,0,0,34,17.0
+Andorra,Hungary,0,0,17,17.0
+Malta,Portugal,0,1,51,17.0
+Hungary,Latvia,0,0,20,17.0
+Slovakia,Iceland,0,0,32,17.0
+Azerbaijan,Denmark,0,0,48,17.0
+Greece,Latvia,0,0,20,17.0
+Portugal,Australia,0,0,5,17.0
+Russia,United Kingdom,0,0,62,17.0
+Türkiye,Ireland,0,0,53,17.0
+San Marino,Finland,0,0,53,17.0
+Moldova,North Macedonia,0,1,19,17.0
+Germany,Azerbaijan,0,0,12,16.5
+Azerbaijan,Bosnia and Herz.,0,0,19,16.5
+Armenia,Austria,0,0,52,16.5
+Romania,Albania,0,1,16,16.5
+North Macedonia,Czech Republic,0,1,8,16.5
+Albania,Ireland,0,0,53,16.5
+Moldova,Netherlands,0,0,59,16.5
+Finland,Germany,0,0,62,16.5
+North Macedonia,United Kingdom,0,0,62,16.5
+Italy,Slovenia,1,0,25,16.5
+Latvia,Romania,0,0,20,16.5
+Montenegro,Portugal,0,0,51,16.5
+Serbia,Switzerland,0,0,59,16.5
+Armenia,Estonia,0,0,25,16.5
+Italy,Iceland,0,0,32,16.5
+Cyprus,Austria,0,0,52,16.5
+Latvia,Bulgaria,0,0,12,16.5
+Azerbaijan,Netherlands,0,0,59,16.5
+Portugal,Armenia,0,0,13,16.0
+Bosnia and Herz.,Spain,0,0,59,16.0
+Spain,Türkiye,0,1,34,16.0
+Monaco,Greece,0,0,40,16.0
+Bulgaria,Australia,0,0,5,16.0
+United Kingdom,Italy,0,0,44,16.0
+Monaco,Netherlands,0,1,59,16.0
+Monaco,Croatia,0,0,25,16.0
+Monaco,Switzerland,0,1,59,16.0
+Latvia,Israel,0,0,42,16.0
+Norway,Portugal,0,0,51,16.0
+Malta,Bosnia and Herz.,0,0,19,16.0
+Slovenia,Belarus,0,1,16,16.0
+Croatia,Georgia,0,1,12,16.0
+Russia,Italy,0,0,44,16.0
+Slovakia,Moldova,0,1,15,16.0
+Bosnia and Herz.,Germany,0,0,62,16.0
+Lithuania,Türkiye,0,0,34,16.0
+Slovakia,Denmark,0,0,48,16.0
+Portugal,Türkiye,0,1,34,16.0
+United Kingdom,Bosnia and Herz.,0,0,19,16.0
+Monaco,Sweden,0,0,59,16.0
+Bulgaria,Finland,0,0,53,16.0
+Lithuania,Romania,0,0,20,16.0
+Romania,Australia,0,0,5,15.5
+Poland,Bulgaria,0,1,12,15.5
+San Marino,Czech Republic,0,0,8,15.5
+North Macedonia,Switzerland,0,0,59,15.5
+Portugal,Albania,0,0,16,15.5
+Poland,Albania,0,1,16,15.5
+Australia,Estonia,0,0,25,15.5
+Australia,Greece,0,0,40,15.5
+Croatia,Germany,0,0,62,15.5
+Albania,Finland,0,0,53,15.5
+Bosnia and Herz.,Bulgaria,0,0,12,15.5
+Spain,Switzerland,0,0,59,15.5
+Bulgaria,Netherlands,0,0,59,15.5
+Hungary,Portugal,0,0,51,15.5
+Georgia,Australia,0,0,5,15.5
+Italy,United Kingdom,0,0,62,15.0
+Moldova,Croatia,0,1,25,15.0
+Monaco,Ukraine,0,0,15,15.0
+Russia,Bosnia and Herz.,0,0,19,15.0
+Albania,Denmark,0,0,48,15.0
+Türkiye,Serbia,0,0,14,15.0
+Russia,Austria,0,0,52,15.0
+Czech Republic,Belarus,0,1,16,15.0
+Ireland,Slovenia,0,0,25,15.0
+Czech Republic,Moldova,0,1,15,15.0
+Switzerland,Ukraine,0,0,15,15.0
+Romania,Germany,0,0,62,15.0
+Poland,Bosnia and Herz.,0,0,19,15.0
+Cyprus,Czech Republic,0,0,8,15.0
+Czech Republic,Norway,0,0,58,15.0
+Czech Republic,Austria,1,0,52,15.0
+Montenegro,Türkiye,0,0,34,15.0
+Andorra,Azerbaijan,0,0,12,15.0
+Iceland,Bosnia and Herz.,0,0,19,15.0
+Moldova,Montenegro,0,1,11,15.0
+Greece,Portugal,0,1,51,15.0
+Türkiye,United Kingdom,0,0,62,15.0
+Andorra,Türkiye,0,0,34,15.0
+Monaco,France,1,1,61,15.0
+Israel,United Kingdom,0,0,62,15.0
+Moldova,San Marino,0,0,10,15.0
+Georgia,Slovenia,0,1,25,14.5
+Serbia,Georgia,0,1,12,14.5
+Sweden,Montenegro,0,0,11,14.5
+Australia,Poland,0,0,22,14.5
+Australia,United Kingdom,0,0,62,14.5
+Italy,Netherlands,0,0,59,14.5
+North Macedonia,Georgia,0,1,12,14.5
+Belarus,Albania,0,1,16,14.5
+Italy,Estonia,0,0,25,14.5
+Finland,Croatia,0,0,25,14.5
+San Marino,Portugal,0,1,51,14.5
+Iceland,Belarus,0,0,16,14.5
+France,Croatia,0,0,25,14.5
+Israel,Poland,0,0,22,14.5
+Denmark,Portugal,0,0,51,14.5
+Italy,Latvia,0,0,20,14.5
+Romania,Estonia,0,0,25,14.0
+Sweden,Slovenia,0,0,25,14.0
+Australia,Cyprus,0,0,36,14.0
+Azerbaijan,Ireland,0,0,53,14.0
+Türkiye,Finland,0,0,53,14.0
+Italy,Finland,0,0,53,14.0
+United Kingdom,Georgia,0,0,12,14.0
+Slovenia,Armenia,0,1,13,14.0
+Ukraine,Slovakia,1,1,7,14.0
+Russia,Albania,0,1,16,14.0
+Monaco,Serbia,0,0,14,14.0
+Belgium,Slovenia,0,0,25,14.0
+Croatia,Montenegro,1,1,11,14.0
+Andorra,Latvia,0,0,20,14.0
+Armenia,San Marino,0,0,10,14.0
+Slovakia,Malta,0,0,32,14.0
+Sweden,North Macedonia,0,0,19,14.0
+Israel,Portugal,0,0,51,14.0
+Ireland,Georgia,0,0,12,13.5
+Ireland,Croatia,0,0,25,13.5
+Sweden,Croatia,0,0,25,13.5
+Russia,Spain,0,0,59,13.5
+Azerbaijan,Poland,0,1,22,13.5
+Lithuania,Czech Republic,0,0,8,13.5
+Azerbaijan,Croatia,0,1,25,13.5
+Bulgaria,Albania,0,1,16,13.5
+Denmark,North Macedonia,0,0,19,13.5
+Montenegro,Australia,0,0,5,13.5
+Russia,Australia,0,0,5,13.5
+Portugal,Croatia,0,0,25,13.5
+Denmark,Poland,0,0,22,13.5
+Bulgaria,Slovenia,0,1,25,13.5
+Norway,Spain,0,0,59,13.5
+Moldova,Czech Republic,0,1,8,13.5
+Greece,Czech Republic,0,0,8,13.5
+Portugal,Georgia,0,0,12,13.5
+Romania,Belarus,0,1,16,13.5
+Moldova,Malta,0,0,32,13.5
+San Marino,Georgia,0,0,12,13.5
+Czech Republic,Italy,0,0,44,13.5
+Estonia,Armenia,0,0,13,13.5
+Croatia,Spain,0,0,59,13.0
+Türkiye,Denmark,0,0,48,13.0
+Latvia,Spain,0,0,59,13.0
+Slovenia,Georgia,0,1,12,13.0
+Austria,Finland,0,0,53,13.0
+Slovenia,Spain,0,0,59,13.0
+Georgia,Czech Republic,0,1,8,13.0
+Albania,Austria,0,0,52,13.0
+Slovakia,Israel,0,0,42,13.0
+Australia,France,0,0,61,13.0
+Netherlands,Georgia,0,0,12,13.0
+Italy,North Macedonia,0,0,19,13.0
+Croatia,United Kingdom,0,0,62,13.0
+Germany,Spain,0,0,59,13.0
+Moldova,Türkiye,0,0,34,13.0
+Estonia,Spain,0,0,59,13.0
+Serbia,Germany,0,0,62,13.0
+Georgia,San Marino,0,0,10,13.0
+Spain,Georgia,0,0,12,13.0
+Ukraine,Finland,0,0,53,13.0
+Türkiye,Spain,0,1,59,13.0
+Sweden,Bulgaria,0,0,12,13.0
+Israel,North Macedonia,0,0,19,13.0
+Slovenia,Ireland,0,0,53,13.0
+Italy,France,1,0,61,13.0
+Moldova,Switzerland,0,0,59,13.0
+Malta,France,0,0,61,13.0
+Armenia,Croatia,0,1,25,13.0
+Andorra,Lithuania,0,0,20,13.0
+Australia,Malta,0,0,32,13.0
+Ireland,Portugal,0,0,51,12.5
+Finland,Belarus,0,0,16,12.5
+Romania,France,0,0,61,12.5
+Cyprus,Poland,0,0,22,12.5
+Romania,Latvia,0,0,20,12.5
+North Macedonia,Austria,0,0,52,12.5
+Spain,Lithuania,0,0,20,12.5
+Poland,Malta,0,0,32,12.5
+Azerbaijan,Switzerland,0,0,59,12.5
+Germany,Georgia,0,0,12,12.5
+Ukraine,Austria,0,0,52,12.5
+Australia,Ukraine,0,0,15,12.5
+Hungary,Germany,0,0,62,12.5
+Austria,United Kingdom,0,1,62,12.5
+Cyprus,Türkiye,0,1,34,12.0
+United Kingdom,North Macedonia,0,0,19,12.0
+Moldova,Slovenia,0,1,25,12.0
+Andorra,Poland,0,0,22,12.0
+Armenia,United Kingdom,0,0,62,12.0
+Austria,Portugal,0,0,51,12.0
+Slovakia,Germany,0,0,62,12.0
+Sweden,Georgia,0,0,12,12.0
+Portugal,Montenegro,0,0,11,12.0
+Monaco,Finland,0,0,53,12.0
+Australia,Slovenia,0,0,25,12.0
+Italy,Portugal,0,1,51,12.0
+San Marino,France,0,0,61,12.0
+Switzerland,Slovenia,0,0,25,12.0
+Malta,Montenegro,0,0,11,12.0
+Portugal,Belarus,0,0,16,12.0
+Lithuania,Spain,0,0,59,12.0
+Switzerland,Estonia,0,0,25,12.0
+Bulgaria,Ireland,0,0,53,12.0
+Ireland,Belarus,0,0,16,12.0
+Armenia,Poland,0,1,22,11.5
+Iceland,Georgia,0,0,12,11.5
+Iceland,United Kingdom,0,0,62,11.5
+Armenia,Spain,0,0,59,11.5
+Croatia,Australia,0,0,5,11.5
+United Kingdom,Armenia,0,0,13,11.5
+Estonia,San Marino,0,0,10,11.5
+Australia,Italy,0,0,44,11.5
+Poland,United Kingdom,0,0,62,11.5
+Azerbaijan,Czech Republic,0,1,8,11.5
+San Marino,Slovenia,0,0,25,11.5
+Estonia,Israel,0,0,42,11.5
+North Macedonia,Poland,0,1,22,11.5
+Switzerland,Moldova,0,0,15,11.5
+Finland,Poland,0,0,22,11.5
+North Macedonia,Lithuania,0,0,20,11.5
+Italy,San Marino,1,1,10,11.5
+Albania,Estonia,0,0,25,11.0
+Israel,Albania,0,0,16,11.0
+Georgia,Germany,0,0,62,11.0
+Belarus,Italy,0,0,44,11.0
+Greece,Lithuania,0,0,20,11.0
+Moldova,Poland,0,1,22,11.0
+Monaco,Lithuania,0,0,20,11.0
+Bosnia and Herz.,Czech Republic,0,0,8,11.0
+Czech Republic,Croatia,0,1,25,11.0
+Monaco,Romania,0,0,20,11.0
+Slovakia,Portugal,0,0,51,11.0
+Netherlands,North Macedonia,0,0,19,11.0
+Croatia,Iceland,0,0,32,11.0
+Bulgaria,Iceland,0,0,32,11.0
+Serbia,Armenia,0,1,13,11.0
+Latvia,Albania,0,0,16,11.0
+Bulgaria,Estonia,0,0,25,11.0
+San Marino,Croatia,0,0,25,11.0
+Georgia,Albania,0,1,16,11.0
+Switzerland,Poland,0,0,22,11.0
+Bosnia and Herz.,Ireland,0,0,53,11.0
+Iceland,Spain,0,0,59,11.0
+Bosnia and Herz.,Slovakia,0,0,7,11.0
+Bosnia and Herz.,United Kingdom,0,0,62,11.0
+Poland,Türkiye,0,0,34,11.0
+Bosnia and Herz.,Portugal,0,0,51,11.0
+Bulgaria,Portugal,0,0,51,10.5
+Azerbaijan,Belgium,0,0,60,10.5
+Belgium,Switzerland,0,1,59,10.5
+Germany,Lithuania,0,0,20,10.5
+Australia,Georgia,0,0,12,10.5
+Czech Republic,Greece,0,0,40,10.5
+Norway,North Macedonia,0,0,19,10.5
+Bulgaria,Czech Republic,0,1,8,10.5
+North Macedonia,Portugal,0,0,51,10.5
+Ukraine,Montenegro,0,1,11,10.5
+Australia,Netherlands,0,0,59,10.5
+Czech Republic,United Kingdom,0,0,62,10.5
+Montenegro,Belgium,0,0,60,10.5
+Slovakia,Ireland,0,0,53,10.0
+France,Lithuania,0,0,20,10.0
+Georgia,Croatia,0,1,25,10.0
+Armenia,Finland,0,0,53,10.0
+Bosnia and Herz.,Moldova,0,0,15,10.0
+Serbia,Czech Republic,0,1,8,10.0
+Ukraine,Germany,0,0,62,10.0
+San Marino,Lithuania,0,0,20,10.0
+Georgia,France,0,0,61,10.0
+Ukraine,Ireland,0,0,53,10.0
+Estonia,Croatia,0,0,25,10.0
+Denmark,Italy,0,0,44,10.0
+Czech Republic,Estonia,0,0,25,10.0
+Slovakia,Hungary,1,1,17,10.0
+Ireland,Türkiye,0,0,34,10.0
+Sweden,Czech Republic,0,0,8,10.0
+Portugal,Andorra,0,0,6,10.0
+Türkiye,Cyprus,0,1,36,10.0
+Monaco,Latvia,0,0,20,10.0
+Austria,Iceland,0,0,32,10.0
+Azerbaijan,Australia,0,0,5,10.0
+Iceland,Bulgaria,0,0,12,10.0
+Ireland,Spain,0,0,59,9.5
+Ireland,Czech Republic,0,0,8,9.5
+Australia,Ireland,0,0,53,9.5
+Ireland,Albania,0,0,16,9.5
+Albania,Belarus,0,1,16,9.5
+France,Czech Republic,0,0,8,9.5
+United Kingdom,Croatia,0,0,25,9.5
+Croatia,Belarus,0,1,16,9.5
+Norway,United Kingdom,0,0,62,9.5
+Australia,North Macedonia,0,0,19,9.5
+Serbia,Austria,0,0,52,9.5
+Bulgaria,Poland,0,1,22,9.5
+North Macedonia,Germany,0,0,62,9.5
+France,Belarus,0,0,16,9.5
+Australia,Hungary,0,0,17,9.0
+Finland,United Kingdom,0,0,62,9.0
+Moldova,Spain,0,0,59,9.0
+Monaco,Germany,0,1,62,9.0
+Andorra,Switzerland,0,1,59,9.0
+Israel,Germany,0,0,62,9.0
+Belarus,France,0,0,61,9.0
+Portugal,Slovakia,0,0,7,9.0
+Italy,Hungary,0,0,17,9.0
+North Macedonia,San Marino,0,0,10,9.0
+Belgium,United Kingdom,0,1,62,9.0
+Slovakia,Slovenia,0,1,25,9.0
+Bosnia and Herz.,Iceland,0,0,32,9.0
+Slovakia,Russia,0,1,22,9.0
+Montenegro,Netherlands,0,0,59,9.0
+Hungary,Lithuania,0,0,20,9.0
+North Macedonia,Iceland,0,0,32,9.0
+Serbia,United Kingdom,0,0,62,9.0
+Ukraine,United Kingdom,0,0,62,9.0
+France,United Kingdom,0,1,62,9.0
+Greece,Montenegro,0,0,11,9.0
+Estonia,Poland,0,0,22,9.0
+Italy,Georgia,0,0,12,8.5
+Malta,Czech Republic,0,0,8,8.5
+Austria,France,0,1,61,8.5
+Switzerland,United Kingdom,0,1,62,8.5
+Estonia,Serbia,0,0,14,8.5
+Serbia,France,0,0,61,8.5
+Bulgaria,France,0,0,61,8.5
+Armenia,Germany,0,0,62,8.5
+Estonia,Andorra,0,0,6,8.0
+Andorra,Belgium,0,1,60,8.0
+Latvia,Czech Republic,0,0,8,8.0
+Bosnia and Herz.,Belarus,0,0,16,8.0
+Romania,United Kingdom,0,0,62,8.0
+United Kingdom,Czech Republic,0,0,8,8.0
+Andorra,Slovenia,0,0,25,8.0
+Czech Republic,Albania,0,1,16,8.0
+Monaco,Türkiye,0,0,34,8.0
+Montenegro,Czech Republic,0,1,8,8.0
+Slovakia,Austria,1,0,52,8.0
+United Kingdom,Slovenia,0,0,25,8.0
+Netherlands,Albania,0,0,16,8.0
+Netherlands,Czech Republic,0,0,8,8.0
+North Macedonia,Ireland,0,0,53,8.0
+Norway,Czech Republic,0,0,8,8.0
+Italy,Spain,0,1,59,8.0
+Israel,Montenegro,0,0,11,8.0
+Belarus,Ireland,0,0,53,8.0
+Belarus,Germany,0,0,62,8.0
+Türkiye,Belarus,0,0,16,8.0
+Bosnia and Herz.,Switzerland,0,0,59,8.0
+Estonia,Türkiye,0,0,34,8.0
+Bosnia and Herz.,Hungary,0,0,17,8.0
+Iceland,San Marino,0,0,10,8.0
+Ukraine,Iceland,0,0,32,8.0
+Italy,Bosnia and Herz.,0,0,19,8.0
+Andorra,Austria,0,1,52,8.0
+Georgia,Switzerland,0,0,59,8.0
+Greece,Germany,0,0,62,8.0
+Germany,Czech Republic,1,0,8,8.0
+Finland,Spain,0,0,59,8.0
+Denmark,Armenia,0,0,13,7.5
+Moldova,France,0,0,61,7.5
+Italy,Ireland,0,0,53,7.5
+Australia,Finland,0,0,53,7.5
+Czech Republic,Finland,0,0,53,7.5
+Norway,Croatia,0,0,25,7.5
+France,North Macedonia,0,0,19,7.5
+Netherlands,United Kingdom,0,1,62,7.5
+Bulgaria,Switzerland,0,0,59,7.5
+North Macedonia,France,0,0,61,7.5
+Denmark,Croatia,0,0,25,7.5
+Australia,Germany,0,0,62,7.5
+Israel,San Marino,0,0,10,7.5
+Italy,Belarus,0,0,16,7.5
+Slovakia,Armenia,0,1,13,7.0
+Bulgaria,Spain,0,0,59,7.0
+Azerbaijan,Serbia,0,1,14,7.0
+Norway,Armenia,0,0,13,7.0
+Serbia,Slovakia,0,1,7,7.0
+Azerbaijan,United Kingdom,0,0,62,7.0
+Greece,Slovenia,0,0,25,7.0
+Slovakia,Romania,0,1,20,7.0
+Malta,Slovakia,0,0,7,7.0
+Georgia,Iceland,0,0,32,7.0
+Cyprus,Bosnia and Herz.,0,0,19,7.0
+Romania,Lithuania,0,0,20,7.0
+Ukraine,Albania,0,1,16,7.0
+Greece,Ireland,0,0,53,7.0
+Netherlands,Andorra,0,1,6,7.0
+Ukraine,Czech Republic,0,1,8,7.0
+Slovakia,Lithuania,0,0,20,7.0
+San Marino,Germany,0,0,62,7.0
+Czech Republic,Andorra,0,0,6,7.0
+Armenia,Australia,0,0,5,7.0
+Monaco,Slovenia,0,0,25,7.0
+Czech Republic,Türkiye,0,0,34,7.0
+Moldova,Slovakia,0,1,7,7.0
+San Marino,Switzerland,0,0,59,7.0
+France,Georgia,0,0,12,7.0
+Switzerland,Armenia,0,0,13,7.0
+Australia,Spain,0,0,59,7.0
+Albania,Lithuania,0,0,20,7.0
+Czech Republic,Montenegro,0,1,11,7.0
+Poland,Andorra,0,0,6,7.0
+Lithuania,Bosnia and Herz.,0,0,19,7.0
+Slovakia,United Kingdom,0,0,62,7.0
+France,Ireland,0,1,53,7.0
+France,Montenegro,0,0,11,7.0
+Azerbaijan,Austria,0,0,52,6.5
+Georgia,United Kingdom,0,0,62,6.5
+Romania,San Marino,0,0,10,6.5
+Moldova,Ireland,0,0,53,6.5
+Bosnia and Herz.,Australia,0,0,5,6.5
+Poland,Spain,0,0,59,6.5
+Lithuania,Armenia,0,0,13,6.5
+San Marino,Estonia,0,0,25,6.5
+Montenegro,France,0,0,61,6.5
+Croatia,Armenia,0,1,13,6.5
+Latvia,North Macedonia,0,0,19,6.5
+Italy,Montenegro,0,0,11,6.5
+Russia,Montenegro,0,1,11,6.5
+Ukraine,Italy,0,0,44,6.5
+Andorra,Cyprus,0,0,36,6.0
+Türkiye,Latvia,0,0,20,6.0
+Andorra,United Kingdom,0,1,62,6.0
+Andorra,Albania,0,0,16,6.0
+Ukraine,Switzerland,0,0,59,6.0
+Andorra,Ireland,0,1,53,6.0
+Ukraine,Spain,0,0,59,6.0
+Albania,Andorra,0,0,6,6.0
+Austria,Spain,0,0,59,6.0
+Malta,Spain,0,1,59,6.0
+Hungary,North Macedonia,0,1,19,6.0
+Monaco,Iceland,0,0,32,6.0
+Romania,Poland,0,1,22,6.0
+Romania,Georgia,0,1,12,6.0
+Monaco,Belgium,0,1,60,6.0
+Armenia,Lithuania,0,0,20,6.0
+Azerbaijan,Finland,0,0,53,6.0
+Iceland,Andorra,0,0,6,6.0
+San Marino,Austria,0,0,52,6.0
+Croatia,Belgium,0,0,60,6.0
+Azerbaijan,Iceland,0,0,32,6.0
+Montenegro,Spain,0,0,59,6.0
+Russia,San Marino,0,0,10,6.0
+Australia,Romania,0,0,20,6.0
+Armenia,Slovenia,0,1,25,6.0
+Estonia,Slovakia,0,0,7,6.0
+Moldova,Germany,0,0,62,6.0
+Israel,Andorra,0,0,6,6.0
+Greece,North Macedonia,1,0,19,6.0
+Israel,Bosnia and Herz.,0,0,19,6.0
+Netherlands,Montenegro,0,0,11,6.0
+Ireland,Slovakia,0,0,7,6.0
+Czech Republic,San Marino,0,0,10,6.0
+Belarus,United Kingdom,0,0,62,6.0
+Bosnia and Herz.,Italy,0,0,44,6.0
+Belarus,San Marino,0,0,10,5.5
+Italy,Armenia,0,0,13,5.5
+Cyprus,Germany,0,0,62,5.5
+Australia,Azerbaijan,0,0,12,5.5
+Finland,North Macedonia,0,0,19,5.5
+Australia,Austria,0,0,52,5.5
+Ireland,North Macedonia,0,0,19,5.5
+Switzerland,Czech Republic,0,0,8,5.5
+Poland,Croatia,0,1,25,5.5
+Armenia,Hungary,0,1,17,5.5
+Australia,Armenia,0,0,13,5.5
+Czech Republic,Switzerland,0,0,59,5.5
+Montenegro,Poland,0,1,22,5.5
+Romania,Czech Republic,0,1,8,5.5
+Bosnia and Herz.,Latvia,0,0,20,5.0
+Moldova,United Kingdom,0,0,62,5.0
+Cyprus,San Marino,0,1,10,5.0
+Denmark,Spain,0,0,59,5.0
+Iceland,Slovakia,0,0,7,5.0
+Andorra,Germany,0,1,62,5.0
+Monaco,Malta,0,0,32,5.0
+Iceland,North Macedonia,0,0,19,5.0
+Denmark,Montenegro,0,0,11,5.0
+Bosnia and Herz.,Georgia,0,0,12,5.0
+Montenegro,Finland,0,0,53,5.0
+Denmark,Georgia,0,0,12,5.0
+Montenegro,Latvia,0,0,20,5.0
+Monaco,Estonia,0,0,25,5.0
+Finland,Andorra,0,0,6,5.0
+Cyprus,North Macedonia,0,0,19,5.0
+Andorra,Moldova,0,0,15,5.0
+Slovakia,Italy,0,0,44,5.0
+Türkiye,Montenegro,0,0,11,5.0
+France,San Marino,0,0,10,5.0
+Serbia,Türkiye,0,0,34,5.0
+Georgia,North Macedonia,0,1,19,5.0
+North Macedonia,Spain,0,0,59,5.0
+Belarus,Montenegro,0,1,11,5.0
+Sweden,United Kingdom,0,0,62,5.0
+Spain,Bosnia and Herz.,0,0,19,5.0
+Slovenia,Andorra,0,0,6,5.0
+Bosnia and Herz.,San Marino,0,0,10,5.0
+Montenegro,Switzerland,0,0,59,5.0
+Ireland,Andorra,0,1,6,5.0
+Türkiye,Slovenia,0,0,25,5.0
+Türkiye,San Marino,0,1,10,5.0
+Netherlands,Belarus,0,0,16,4.5
+Czech Republic,Lithuania,0,0,20,4.5
+Denmark,Belarus,0,0,16,4.5
+Australia,San Marino,0,0,10,4.5
+Albania,Georgia,0,1,12,4.5
+Spain,Montenegro,0,0,11,4.5
+Finland,San Marino,0,0,10,4.5
+Serbia,Poland,0,1,22,4.5
+Israel,Croatia,0,0,25,4.5
+Azerbaijan,France,0,0,61,4.5
+San Marino,North Macedonia,0,0,19,4.5
+Bosnia and Herz.,Netherlands,0,0,59,4.5
+Serbia,Latvia,0,0,20,4.5
+Montenegro,Estonia,0,0,25,4.5
+Bosnia and Herz.,Lithuania,0,0,20,4.0
+Latvia,Bosnia and Herz.,0,0,19,4.0
+Belarus,Andorra,0,0,6,4.0
+Montenegro,Ireland,0,0,53,4.0
+Latvia,San Marino,0,0,10,4.0
+Albania,Slovakia,0,1,7,4.0
+Ukraine,San Marino,0,0,10,4.0
+Monaco,North Macedonia,0,0,19,4.0
+Sweden,Belarus,0,0,16,4.0
+Moldova,Andorra,0,0,6,4.0
+Greece,Andorra,0,0,6,4.0
+Türkiye,Lithuania,0,0,20,4.0
+Russia,Czech Republic,0,1,8,4.0
+Slovakia,Albania,0,1,16,4.0
+Slovakia,Belarus,0,1,16,4.0
+Slovakia,Switzerland,0,0,59,4.0
+Poland,North Macedonia,0,1,19,4.0
+Australia,Belarus,0,0,16,4.0
+Serbia,Ireland,0,0,53,4.0
+Hungary,Montenegro,0,1,11,4.0
+Cyprus,Montenegro,0,0,11,4.0
+Armenia,Ireland,0,0,53,4.0
+Russia,Andorra,0,0,6,4.0
+Russia,Bulgaria,0,1,12,4.0
+Portugal,Poland,0,0,22,4.0
+Cyprus,Monaco,0,0,24,4.0
+Croatia,Poland,0,1,22,4.0
+Australia,Switzerland,0,0,59,4.0
+Belgium,Slovakia,0,0,7,4.0
+Bosnia and Herz.,Denmark,0,0,48,4.0
+Norway,Belarus,0,0,16,4.0
+Armenia,Albania,0,1,16,3.5
+Armenia,Latvia,0,0,20,3.5
+Azerbaijan,Germany,0,0,62,3.5
+Hungary,United Kingdom,0,0,62,3.5
+Australia,Montenegro,0,0,11,3.5
+Czech Republic,France,0,0,61,3.5
+Romania,Montenegro,0,1,11,3.5
+Hungary,Spain,0,0,59,3.5
+Spain,Belarus,0,0,16,3.5
+Sweden,Slovakia,0,0,7,3.0
+Slovenia,Slovakia,0,1,7,3.0
+Armenia,Azerbaijan,1,1,12,3.0
+Malta,Andorra,0,0,6,3.0
+Slovakia,Türkiye,0,0,34,3.0
+Monaco,Albania,0,0,16,3.0
+Portugal,San Marino,0,1,10,3.0
+San Marino,Bosnia and Herz.,0,0,19,3.0
+Serbia,San Marino,0,0,10,3.0
+Ireland,Armenia,0,0,13,3.0
+Romania,Slovakia,0,1,7,3.0
+Belarus,Slovakia,0,1,7,3.0
+Bulgaria,Italy,0,0,44,3.0
+Switzerland,Montenegro,0,0,11,3.0
+Czech Republic,Romania,0,1,20,3.0
+North Macedonia,Slovakia,0,1,7,3.0
+Slovakia,Cyprus,0,0,36,3.0
+Denmark,Czech Republic,0,0,8,3.0
+Andorra,Serbia,0,0,14,3.0
+Norway,Montenegro,0,0,11,3.0
+Andorra,Armenia,0,0,13,3.0
+Spain,Croatia,0,0,25,3.0
+Italy,Croatia,0,0,25,3.0
+Montenegro,Georgia,0,1,12,3.0
+Türkiye,Andorra,0,0,6,3.0
+Austria,Slovakia,1,0,7,3.0
+Poland,San Marino,0,0,10,3.0
+Slovakia,Poland,1,1,22,3.0
+Monaco,Spain,0,0,59,3.0
+Azerbaijan,Spain,0,0,59,2.5
+Estonia,Albania,0,0,16,2.5
+Montenegro,Austria,0,0,52,2.5
+Austria,San Marino,0,0,10,2.5
+Portugal,North Macedonia,0,0,19,2.5
+Italy,Czech Republic,0,0,8,2.0
+Finland,Slovakia,0,0,7,2.0
+Switzerland,Georgia,0,0,12,2.0
+Germany,Montenegro,0,0,11,2.0
+Slovakia,North Macedonia,0,1,19,2.0
+Croatia,San Marino,0,0,10,2.0
+Latvia,Montenegro,0,0,11,2.0
+Slovakia,Finland,0,0,53,2.0
+Latvia,Türkiye,0,0,34,2.0
+Slovakia,Spain,0,0,59,2.0
+Georgia,Bosnia and Herz.,0,0,19,2.0
+Lithuania,Andorra,0,0,6,2.0
+Netherlands,San Marino,0,0,10,2.0
+Estonia,Bosnia and Herz.,0,0,19,2.0
+Albania,Monaco,0,0,24,2.0
+Sweden,Andorra,0,0,6,2.0
+Belgium,Belarus,0,0,16,2.0
+Andorra,San Marino,0,0,10,2.0
+United Kingdom,Belarus,0,0,16,2.0
+Montenegro,Lithuania,0,0,20,2.0
+Georgia,Spain,0,0,59,2.0
+Moldova,Monaco,0,0,24,2.0
+Norway,Andorra,0,0,6,2.0
+Croatia,Andorra,0,0,6,2.0
+Estonia,Monaco,0,0,24,2.0
+Austria,Georgia,0,0,12,2.0
+Estonia,North Macedonia,0,0,19,2.0
+Belarus,Spain,0,0,59,2.0
+Lithuania,North Macedonia,0,0,19,2.0
+Slovenia,San Marino,0,0,10,1.5
+Austria,Lithuania,0,0,20,1.5
+Norway,Georgia,0,0,12,1.5
+Hungary,France,0,0,61,1.5
+Finland,Montenegro,0,0,11,1.5
+Albania,Czech Republic,0,1,8,1.5
+Czech Republic,Germany,1,0,62,1.5
+Belgium,San Marino,0,0,10,1.0
+Germany,Belarus,0,0,16,1.0
+Belgium,Croatia,0,0,25,1.0
+Iceland,Montenegro,0,0,11,1.0
+Türkiye,Poland,0,0,22,1.0
+Bosnia and Herz.,Cyprus,0,0,36,1.0
+Türkiye,Portugal,0,1,51,1.0
+Georgia,Finland,0,0,53,1.0
+Türkiye,Czech Republic,0,0,8,1.0
+Türkiye,France,0,0,61,1.0
+Monaco,Portugal,0,0,51,1.0
+France,Slovakia,0,0,7,1.0
+Switzerland,Belarus,0,0,16,1.0
+Andorra,Montenegro,0,0,11,1.0
+Montenegro,United Kingdom,0,0,62,1.0
+Australia,Croatia,0,0,25,1.0
+Russia,Slovakia,0,1,7,1.0
+Monaco,Norway,0,0,58,1.0
+Bulgaria,Latvia,0,0,20,1.0
+Poland,Monaco,0,0,24,1.0
+San Marino,Spain,0,1,59,1.0
+Monaco,Belarus,0,0,16,1.0
+Andorra,Bosnia and Herz.,0,0,19,1.0
+Serbia,Spain,0,0,59,1.0
+North Macedonia,Andorra,0,0,6,1.0
+Germany,San Marino,0,0,10,0.5
+San Marino,Belarus,0,0,16,0.5
+Lithuania,Albania,0,0,16,0.5
+Albania,Latvia,0,0,20,0.5
+Cyprus,Slovakia,0,0,7,0.0
+Bulgaria,Slovakia,0,1,7,0.0
+United Kingdom,Monaco,0,1,24,0.0
+Croatia,Monaco,0,0,24,0.0
+United Kingdom,Montenegro,0,0,11,0.0
+Croatia,Slovakia,0,1,7,0.0
+United Kingdom,Slovakia,0,0,7,0.0
+Georgia,Slovakia,0,1,7,0.0
+Germany,Monaco,0,1,24,0.0
+Germany,Andorra,0,1,6,0.0
+United Kingdom,San Marino,0,0,10,0.0
+Bosnia and Herz.,Andorra,0,0,6,0.0
+Cyprus,Andorra,0,0,6,0.0
+Denmark,Andorra,0,0,6,0.0
+Czech Republic,Spain,0,0,59,0.0
+Bulgaria,San Marino,0,0,10,0.0
+Bosnia and Herz.,Monaco,0,0,24,0.0
+Bosnia and Herz.,Poland,0,0,22,0.0
+France,Andorra,1,1,6,0.0
+Georgia,Andorra,0,0,6,0.0
+Finland,Monaco,0,0,24,0.0
+Bulgaria,Andorra,0,0,6,0.0
+Estonia,Montenegro,0,0,11,0.0
+United Kingdom,Andorra,0,1,6,0.0
+Denmark,Slovakia,0,0,7,0.0
+Denmark,San Marino,0,0,10,0.0
+Germany,Slovakia,0,0,7,0.0
+Georgia,Ireland,0,0,53,0.0
+Denmark,Monaco,0,0,24,0.0
+Bulgaria,Monaco,0,0,24,0.0
+Bulgaria,Montenegro,0,1,11,0.0
+Georgia,Montenegro,0,1,11,0.0
+Ukraine,Monaco,0,0,24,0.0
+Slovakia,Georgia,0,1,12,0.0
+Lithuania,Montenegro,0,0,11,0.0
+Ukraine,Andorra,0,0,6,0.0
+Greece,Monaco,0,0,24,0.0
+North Macedonia,Monaco,0,0,24,0.0
+Andorra,North Macedonia,0,0,19,0.0
+Netherlands,Slovakia,0,0,7,0.0
+Spain,Monaco,0,0,24,0.0
+Spain,North Macedonia,0,0,19,0.0
+Netherlands,Monaco,0,1,24,0.0
+Austria,Monaco,0,1,24,0.0
+Spain,Slovakia,0,0,7,0.0
+Austria,Montenegro,0,0,11,0.0
+Montenegro,Germany,0,0,62,0.0
+Montenegro,Andorra,0,0,6,0.0
+Monaco,United Kingdom,0,1,62,0.0
+Monaco,Russia,0,0,22,0.0
+Monaco,Poland,0,0,22,0.0
+Monaco,Moldova,0,0,15,0.0
+Monaco,Hungary,0,0,17,0.0
+Monaco,Bulgaria,0,0,12,0.0
+Monaco,Austria,0,1,52,0.0
+Monaco,Armenia,0,0,13,0.0
+Austria,Andorra,0,1,6,0.0
+Norway,Monaco,0,0,24,0.0
+Norway,San Marino,0,0,10,0.0
+Russia,Portugal,0,0,51,0.0
+Slovakia,Latvia,0,0,20,0.0
+Slovakia,Croatia,0,1,25,0.0
+Slovakia,Netherlands,0,0,59,0.0
+Slovakia,Bulgaria,0,1,12,0.0
+Serbia,Monaco,0,0,24,0.0
+Serbia,Andorra,0,0,6,0.0
+San Marino,Andorra,0,0,6,0.0
+Armenia,Monaco,0,0,24,0.0
+Russia,Monaco,0,0,24,0.0
+Norway,Slovakia,0,0,7,0.0
+Australia,Albania,0,0,16,0.0
+Romania,Monaco,0,0,24,0.0
+Slovenia,Monaco,0,0,24,0.0
+Romania,Andorra,0,0,6,0.0
+Armenia,Andorra,0,0,6,0.0
+Portugal,Monaco,0,0,24,0.0
+Poland,Slovakia,1,1,7,0.0
+Poland,Montenegro,0,1,11,0.0
+Sweden,Monaco,0,0,24,0.0
+Andorra,Georgia,0,0,12,0.0
+Azerbaijan,Andorra,0,0,6,0.0
+Türkiye,Monaco,0,0,24,0.0
+Belarus,Monaco,0,0,24,0.0
+Ireland,San Marino,0,0,10,0.0
+Ireland,Montenegro,0,0,11,0.0
+Ireland,Monaco,0,1,24,0.0
+Belgium,Andorra,0,1,6,0.0
+Iceland,Monaco,0,0,24,0.0
+Türkiye,Italy,0,1,44,0.0
+Hungary,Slovakia,1,1,7,0.0
+Hungary,Monaco,0,0,24,0.0
+Switzerland,San Marino,0,0,10,0.0
+Hungary,Bosnia and Herz.,0,0,19,0.0
+Hungary,Andorra,0,0,6,0.0
+Belgium,Monaco,0,1,24,0.0
+Türkiye,Slovakia,0,0,7,0.0
+Greece,Slovakia,0,0,7,0.0
+Belgium,Montenegro,0,0,11,0.0
+Türkiye,Switzerland,0,0,59,0.0
+Belgium,North Macedonia,0,0,19,0.0
+Israel,Monaco,0,0,24,0.0
+Israel,Slovakia,0,0,7,0.0
+Azerbaijan,Armenia,1,1,13,0.0
+Andorra,Bulgaria,0,0,12,0.0
+Sweden,San Marino,0,0,10,0.0
+Andorra,Estonia,0,0,25,0.0
+Malta,Monaco,0,0,24,0.0
+Andorra,Czech Republic,0,0,8,0.0
+Switzerland,Andorra,0,1,6,0.0
+Lithuania,Slovakia,0,0,7,0.0
+Lithuania,San Marino,0,0,10,0.0
+Andorra,Croatia,0,0,25,0.0
+Slovakia,France,0,0,61,0.0
+Italy,Slovakia,0,0,7,0.0
+Lithuania,Monaco,0,0,24,0.0
+Azerbaijan,Slovakia,0,1,7,0.0
+Latvia,Slovakia,0,0,7,0.0
+Andorra,Belarus,0,0,16,0.0
+Latvia,Monaco,0,0,24,0.0
+Latvia,Andorra,0,0,6,0.0
+Switzerland,Monaco,0,1,24,0.0
+Italy,Türkiye,0,1,34,0.0
+Monaco,Andorra,0,1,6,0.0

@@ -1,0 +1,294 @@
+year,from_country,to_country,neighboring,from_country_region,to_country_region,same_region,sum,mean,count
+2001,Greece,Croatia,0,Southern Europe,Central and Eastern Europe,0,7.0,7.0,1
+2001,Greece,Denmark,0,Southern Europe,Northern Europe,0,6.0,6.0,1
+2001,Greece,Estonia,0,Southern Europe,Northern Europe,0,12.0,12.0,1
+2001,Greece,France,0,Southern Europe,Western Europe,0,4.0,4.0,1
+2001,Greece,Germany,0,Southern Europe,Western Europe,0,1.0,1.0,1
+2001,Greece,Israel,0,Southern Europe,Non-European,0,2.0,2.0,1
+2001,Greece,Malta,0,Southern Europe,Southern Europe,1,3.0,3.0,1
+2001,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2001,Greece,Spain,0,Southern Europe,Southern Europe,1,8.0,8.0,1
+2001,Greece,Türkiye,1,Southern Europe,Southern Europe,1,12.0,12.0,1
+2002,Greece,Croatia,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2002,Greece,Cyprus,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2002,Greece,France,0,Southern Europe,Western Europe,0,3.0,3.0,1
+2002,Greece,Latvia,0,Southern Europe,Northern Europe,0,12.0,12.0,1
+2002,Greece,Malta,0,Southern Europe,Southern Europe,1,6.0,6.0,1
+2002,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,8.0,8.0,1
+2002,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,2.0,2.0,1
+2002,Greece,Spain,0,Southern Europe,Southern Europe,1,4.0,4.0,1
+2002,Greece,Sweden,0,Southern Europe,Northern Europe,0,1.0,1.0,1
+2002,Greece,United Kingdom,0,Southern Europe,Western Europe,0,7.0,7.0,1
+2003,Greece,Austria,0,Southern Europe,Western Europe,0,2.0,2.0,1
+2003,Greece,Belgium,0,Southern Europe,Western Europe,0,8.0,8.0,1
+2003,Greece,Croatia,0,Southern Europe,Central and Eastern Europe,0,1.0,1.0,1
+2003,Greece,Cyprus,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2003,Greece,Israel,0,Southern Europe,Non-European,0,3.0,3.0,1
+2003,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,6.0,6.0,1
+2003,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,4.0,4.0,1
+2003,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,12.0,12.0,1
+2003,Greece,Spain,0,Southern Europe,Southern Europe,1,5.0,5.0,1
+2003,Greece,Türkiye,1,Southern Europe,Southern Europe,1,7.0,7.0,1
+2004,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,20.0,10.0,2
+2004,Greece,Austria,0,Southern Europe,Western Europe,0,5.0,5.0,1
+2004,Greece,Cyprus,0,Southern Europe,Southern Europe,1,24.0,12.0,2
+2004,Greece,Finland,0,Southern Europe,Northern Europe,0,5.0,5.0,1
+2004,Greece,Israel,0,Southern Europe,Non-European,0,3.0,3.0,1
+2004,Greece,Lithuania,0,Southern Europe,Northern Europe,0,2.0,2.0,1
+2004,Greece,Malta,0,Southern Europe,Southern Europe,1,2.0,1.0,2
+2004,Greece,Netherlands,0,Southern Europe,Western Europe,0,6.0,3.0,2
+2004,Greece,North Macedonia,1,Southern Europe,Central and Eastern Europe,0,4.0,2.0,2
+2004,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,4.0,4.0,1
+2004,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,2.0,2.0,1
+2004,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,20.0,10.0,2
+2004,Greece,Spain,0,Southern Europe,Southern Europe,1,3.0,3.0,1
+2004,Greece,Türkiye,1,Southern Europe,Southern Europe,1,6.0,6.0,1
+2004,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,14.0,7.0,2
+2005,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,12.0,12.0,1
+2005,Greece,Austria,0,Southern Europe,Western Europe,0,1.0,1.0,1
+2005,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,8.0,8.0,1
+2005,Greece,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,7.0,7.0,1
+2005,Greece,Cyprus,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2005,Greece,Denmark,0,Southern Europe,Northern Europe,0,2.0,1.0,2
+2005,Greece,Hungary,0,Southern Europe,Central and Eastern Europe,0,7.0,3.5,2
+2005,Greece,Latvia,0,Southern Europe,Northern Europe,0,1.0,0.5,2
+2005,Greece,Malta,0,Southern Europe,Southern Europe,1,8.0,8.0,1
+2005,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,13.0,6.5,2
+2005,Greece,Norway,0,Southern Europe,Northern Europe,0,8.0,4.0,2
+2005,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,12.0,12.0,1
+2005,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,17.0,8.5,2
+2005,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,6.0,6.0,1
+2005,Greece,Switzerland,0,Southern Europe,Western Europe,0,6.0,3.0,2
+2006,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,7.0,7.0,1
+2006,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,24.0,12.0,2
+2006,Greece,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,3.0,3.0,1
+2006,Greece,Cyprus,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2006,Greece,Finland,0,Southern Europe,Northern Europe,0,20.0,10.0,2
+2006,Greece,Lithuania,0,Southern Europe,Northern Europe,0,5.0,2.5,2
+2006,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,1.0,1.0,1
+2006,Greece,Norway,0,Southern Europe,Northern Europe,0,2.0,2.0,1
+2006,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,2.0,2.0,1
+2006,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,7.0,7.0,1
+2006,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,13.0,6.5,2
+2006,Greece,Türkiye,1,Southern Europe,Southern Europe,1,3.0,1.5,2
+2006,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,9.0,4.5,2
+2007,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,8.0,8.0,1
+2007,Greece,Andorra,0,Southern Europe,Western Europe,0,4.0,4.0,1
+2007,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,6.0,6.0,1
+2007,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,12.0,6.0,2
+2007,Greece,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,24.0,12.0,2
+2007,Greece,Cyprus,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2007,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,9.0,4.5,2
+2007,Greece,Latvia,0,Southern Europe,Northern Europe,0,1.0,0.5,2
+2007,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,15.0,7.5,2
+2007,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,2.0,2.0,1
+2007,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,8.0,8.0,1
+2007,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,9.0,4.5,2
+2007,Greece,Spain,0,Southern Europe,Southern Europe,1,1.0,1.0,1
+2007,Greece,Switzerland,0,Southern Europe,Western Europe,0,2.0,2.0,1
+2007,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,7.0,7.0,1
+2008,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,12.0,12.0,1
+2008,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,24.0,12.0,2
+2008,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,10.0,5.0,2
+2008,Greece,Finland,0,Southern Europe,Northern Europe,0,6.0,3.0,2
+2008,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,4.0,4.0,1
+2008,Greece,Israel,0,Southern Europe,Non-European,0,6.0,3.0,2
+2008,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,4.0,4.0,1
+2008,Greece,Norway,0,Southern Europe,Northern Europe,0,2.0,1.0,2
+2008,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,1.0,0.5,2
+2008,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,8.0,4.0,2
+2008,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,19.0,9.5,2
+2008,Greece,San Marino,0,Southern Europe,Southern Europe,1,3.0,3.0,1
+2008,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2008,Greece,Slovenia,0,Southern Europe,Central and Eastern Europe,0,2.0,2.0,1
+2008,Greece,Spain,0,Southern Europe,Southern Europe,1,8.0,8.0,1
+2008,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,6.0,6.0,1
+2009,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,19.0,9.5,2
+2009,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,15.0,7.5,2
+2009,Greece,Croatia,0,Southern Europe,Central and Eastern Europe,0,2.0,1.0,2
+2009,Greece,Cyprus,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2009,Greece,Denmark,0,Southern Europe,Northern Europe,0,2.0,1.0,2
+2009,Greece,Estonia,0,Southern Europe,Northern Europe,0,9.0,4.5,2
+2009,Greece,France,0,Southern Europe,Western Europe,0,6.0,6.0,1
+2009,Greece,Iceland,0,Southern Europe,Northern Europe,0,4.0,4.0,1
+2009,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,6.0,3.0,2
+2009,Greece,Norway,0,Southern Europe,Northern Europe,0,20.0,10.0,2
+2009,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,1.0,1.0,1
+2009,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2009,Greece,Spain,0,Southern Europe,Southern Europe,1,1.0,1.0,1
+2009,Greece,Türkiye,1,Southern Europe,Southern Europe,1,3.0,3.0,1
+2009,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,3.0,1.5,2
+2009,Greece,United Kingdom,0,Southern Europe,Western Europe,0,12.0,12.0,1
+2010,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,24.0,12.0,2
+2010,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,7.0,7.0,1
+2010,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,1.0,1.0,1
+2010,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,6.0,3.0,2
+2010,Greece,Belgium,0,Southern Europe,Western Europe,0,18.0,9.0,2
+2010,Greece,Cyprus,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2010,Greece,Estonia,0,Southern Europe,Northern Europe,0,1.0,1.0,1
+2010,Greece,France,0,Southern Europe,Western Europe,0,8.0,8.0,1
+2010,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2010,Greece,Germany,0,Southern Europe,Western Europe,0,2.0,2.0,1
+2010,Greece,Iceland,0,Southern Europe,Northern Europe,0,11.0,5.5,2
+2010,Greece,Malta,0,Southern Europe,Southern Europe,1,2.0,2.0,1
+2010,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,4.0,2.0,2
+2010,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,4.0,4.0,1
+2010,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,3.0,1.5,2
+2010,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,7.0,3.5,2
+2011,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,12.0,12.0,1
+2011,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,8.0,8.0,1
+2011,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,12.0,6.0,2
+2011,Greece,France,0,Southern Europe,Western Europe,0,12.0,12.0,1
+2011,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,20.0,10.0,2
+2011,Greece,Germany,0,Southern Europe,Western Europe,0,4.0,4.0,1
+2011,Greece,Hungary,0,Southern Europe,Central and Eastern Europe,0,5.0,2.5,2
+2011,Greece,Iceland,0,Southern Europe,Northern Europe,0,6.0,3.0,2
+2011,Greece,Italy,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2011,Greece,Lithuania,0,Southern Europe,Northern Europe,0,4.0,2.0,2
+2011,Greece,Portugal,0,Southern Europe,Southern Europe,1,1.0,1.0,1
+2011,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,4.0,2.0,2
+2011,Greece,San Marino,0,Southern Europe,Southern Europe,1,2.0,2.0,1
+2011,Greece,Sweden,0,Southern Europe,Northern Europe,0,6.0,6.0,1
+2011,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,7.0,7.0,1
+2011,Greece,United Kingdom,0,Southern Europe,Western Europe,0,2.0,2.0,1
+2012,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,24.0,12.0,2
+2012,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2012,Greece,Belgium,0,Southern Europe,Western Europe,0,4.0,4.0,1
+2012,Greece,Cyprus,0,Southern Europe,Southern Europe,1,24.0,12.0,2
+2012,Greece,Denmark,0,Southern Europe,Northern Europe,0,1.0,0.5,2
+2012,Greece,Iceland,0,Southern Europe,Northern Europe,0,5.0,2.5,2
+2012,Greece,Ireland,0,Southern Europe,Western Europe,0,3.0,1.5,2
+2012,Greece,Italy,0,Southern Europe,Southern Europe,1,3.0,3.0,1
+2012,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,8.0,4.0,2
+2012,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,15.0,7.5,2
+2012,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,11.0,5.5,2
+2012,Greece,San Marino,0,Southern Europe,Southern Europe,1,2.0,2.0,1
+2012,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,8.0,8.0,1
+2012,Greece,Sweden,0,Southern Europe,Northern Europe,0,6.0,6.0,1
+2012,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,1.0,1.0,1
+2013,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,8.0,8.0,1
+2013,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,7.0,3.5,2
+2013,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,24.0,12.0,2
+2013,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,1.0,1.0,1
+2013,Greece,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,2.0,2.0,1
+2013,Greece,Denmark,0,Southern Europe,Northern Europe,0,7.0,7.0,1
+2013,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,11.0,5.5,2
+2013,Greece,Hungary,0,Southern Europe,Central and Eastern Europe,0,2.0,1.0,2
+2013,Greece,Italy,0,Southern Europe,Southern Europe,1,6.0,6.0,1
+2013,Greece,Malta,0,Southern Europe,Southern Europe,1,8.0,4.0,2
+2013,Greece,Norway,0,Southern Europe,Northern Europe,0,8.0,4.0,2
+2013,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,24.0,12.0,2
+2013,Greece,San Marino,0,Southern Europe,Southern Europe,1,1.0,1.0,1
+2013,Greece,Switzerland,0,Southern Europe,Western Europe,0,3.0,3.0,1
+2013,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,8.0,8.0,1
+2014,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,7.0,7.0,1
+2014,Greece,Austria,0,Southern Europe,Western Europe,0,24.0,12.0,2
+2014,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,8.0,4.0,2
+2014,Greece,Finland,0,Southern Europe,Northern Europe,0,4.0,2.0,2
+2014,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,1.0,1.0,1
+2014,Greece,Hungary,0,Southern Europe,Central and Eastern Europe,0,6.0,6.0,1
+2014,Greece,Ireland,0,Southern Europe,Western Europe,0,2.0,2.0,1
+2014,Greece,Israel,0,Southern Europe,Non-European,0,6.0,6.0,1
+2014,Greece,Netherlands,0,Southern Europe,Western Europe,0,8.0,8.0,1
+2014,Greece,Norway,0,Southern Europe,Northern Europe,0,10.0,5.0,2
+2014,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,4.0,2.0,2
+2014,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,12.0,6.0,2
+2014,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,12.0,12.0,1
+2014,Greece,Sweden,0,Southern Europe,Northern Europe,0,2.0,2.0,1
+2014,Greece,Switzerland,0,Southern Europe,Western Europe,0,9.0,4.5,2
+2014,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2015,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,18.0,9.0,2
+2015,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,8.0,4.0,2
+2015,Greece,Australia,0,Southern Europe,Non-European,0,5.0,5.0,1
+2015,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,3.0,3.0,1
+2015,Greece,Belgium,0,Southern Europe,Western Europe,0,13.0,6.5,2
+2015,Greece,Cyprus,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2015,Greece,Denmark,0,Southern Europe,Northern Europe,0,1.0,1.0,1
+2015,Greece,Estonia,0,Southern Europe,Northern Europe,0,4.0,2.0,2
+2015,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,10.0,5.0,2
+2015,Greece,Italy,0,Southern Europe,Southern Europe,1,12.0,12.0,1
+2015,Greece,Latvia,0,Southern Europe,Northern Europe,0,3.0,3.0,1
+2015,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,5.0,2.5,2
+2015,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,20.0,10.0,2
+2015,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,2.0,1.0,2
+2015,Greece,Sweden,0,Southern Europe,Northern Europe,0,4.0,4.0,1
+2016,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,18.0,9.0,2
+2016,Greece,Australia,0,Southern Europe,Non-European,0,6.0,6.0,1
+2016,Greece,Austria,0,Southern Europe,Western Europe,0,4.0,2.0,2
+2016,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,3.0,1.5,2
+2016,Greece,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,3.5,3.5,1
+2016,Greece,Croatia,0,Southern Europe,Central and Eastern Europe,0,2.0,1.0,2
+2016,Greece,Cyprus,0,Southern Europe,Southern Europe,1,24.0,12.0,2
+2016,Greece,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,1.5,0.75,2
+2016,Greece,France,0,Southern Europe,Western Europe,0,5.0,5.0,1
+2016,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,2.5,2.5,1
+2016,Greece,Hungary,0,Southern Europe,Central and Eastern Europe,0,9.5,4.75,2
+2016,Greece,Malta,0,Southern Europe,Southern Europe,1,4.5,2.25,2
+2016,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,1.5,1.5,1
+2016,Greece,Montenegro,0,Southern Europe,Central and Eastern Europe,0,3.0,3.0,1
+2016,Greece,Netherlands,0,Southern Europe,Western Europe,0,1.5,0.75,2
+2016,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,1.5,1.5,1
+2016,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,22.0,11.0,2
+2016,Greece,San Marino,0,Southern Europe,Southern Europe,1,3.0,3.0,1
+2016,Greece,Ukraine,0,Southern Europe,Central and Eastern Europe,0,4.0,4.0,1
+2017,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,7.5,7.5,1
+2017,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,17.0,8.5,2
+2017,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,9.0,4.5,2
+2017,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,1.5,1.5,1
+2017,Greece,Belgium,0,Southern Europe,Western Europe,0,5.0,2.5,2
+2017,Greece,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,6.0,6.0,1
+2017,Greece,Cyprus,0,Southern Europe,Southern Europe,1,21.0,10.5,2
+2017,Greece,Finland,0,Southern Europe,Northern Europe,0,0.5,0.5,1
+2017,Greece,France,0,Southern Europe,Western Europe,0,2.0,2.0,1
+2017,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2017,Greece,Italy,0,Southern Europe,Southern Europe,1,5.5,5.5,1
+2017,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,11.5,5.75,2
+2017,Greece,Montenegro,0,Southern Europe,Central and Eastern Europe,0,3.5,3.5,1
+2017,Greece,Poland,0,Southern Europe,Central and Eastern Europe,0,1.0,0.5,2
+2017,Greece,Portugal,0,Southern Europe,Southern Europe,1,14.0,7.0,2
+2017,Greece,Romania,0,Southern Europe,Central and Eastern Europe,0,3.5,3.5,1
+2017,Greece,Sweden,0,Southern Europe,Northern Europe,0,4.0,2.0,2
+2017,Greece,United Kingdom,0,Southern Europe,Western Europe,0,0.5,0.5,1
+2018,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,17.5,8.75,2
+2018,Greece,Armenia,0,Southern Europe,Central and Eastern Europe,0,2.5,2.5,1
+2018,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,7.5,7.5,1
+2018,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,0.5,0.5,1
+2018,Greece,Bulgaria,1,Southern Europe,Central and Eastern Europe,0,9.0,4.5,2
+2018,Greece,Croatia,0,Southern Europe,Central and Eastern Europe,0,2.5,2.5,1
+2018,Greece,Cyprus,0,Southern Europe,Southern Europe,1,21.5,10.75,2
+2018,Greece,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,7.5,3.75,2
+2018,Greece,Estonia,0,Southern Europe,Northern Europe,0,12.5,6.25,2
+2018,Greece,France,0,Southern Europe,Western Europe,0,2.5,2.5,1
+2018,Greece,Germany,0,Southern Europe,Western Europe,0,1.0,1.0,1
+2018,Greece,Hungary,0,Southern Europe,Central and Eastern Europe,0,3.0,3.0,1
+2018,Greece,Ireland,0,Southern Europe,Western Europe,0,2.0,1.0,2
+2018,Greece,Israel,0,Southern Europe,Non-European,0,8.0,4.0,2
+2018,Greece,Italy,0,Southern Europe,Southern Europe,1,4.5,4.5,1
+2018,Greece,Moldova,0,Southern Europe,Central and Eastern Europe,0,5.5,5.5,1
+2018,Greece,North Macedonia,1,Southern Europe,Central and Eastern Europe,0,1.5,1.5,1
+2018,Greece,Norway,0,Southern Europe,Northern Europe,0,1.5,1.5,1
+2018,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,1.0,1.0,1
+2018,Greece,Sweden,0,Southern Europe,Northern Europe,0,4.0,4.0,1
+2018,Greece,Switzerland,0,Southern Europe,Western Europe,0,0.5,0.5,1
+2019,Greece,Albania,1,Southern Europe,Central and Eastern Europe,0,4.0,4.0,1
+2019,Greece,Australia,0,Southern Europe,Non-European,0,11.5,5.75,2
+2019,Greece,Azerbaijan,0,Southern Europe,Central and Eastern Europe,0,4.0,4.0,1
+2019,Greece,Belarus,0,Southern Europe,Central and Eastern Europe,0,4.5,2.25,2
+2019,Greece,Cyprus,0,Southern Europe,Southern Europe,1,24.0,12.0,2
+2019,Greece,Czech Republic,0,Southern Europe,Central and Eastern Europe,0,4.5,2.25,2
+2019,Greece,Estonia,0,Southern Europe,Northern Europe,0,1.5,0.75,2
+2019,Greece,Finland,0,Southern Europe,Northern Europe,0,2.0,2.0,1
+2019,Greece,France,0,Southern Europe,Western Europe,0,0.5,0.5,1
+2019,Greece,Georgia,0,Southern Europe,Central and Eastern Europe,0,5.0,5.0,1
+2019,Greece,Iceland,0,Southern Europe,Northern Europe,0,5.5,2.75,2
+2019,Greece,Italy,0,Southern Europe,Southern Europe,1,8.5,8.5,1
+2019,Greece,Malta,0,Southern Europe,Southern Europe,1,2.5,2.5,1
+2019,Greece,Montenegro,0,Southern Europe,Central and Eastern Europe,0,2.5,2.5,1
+2019,Greece,Netherlands,0,Southern Europe,Western Europe,0,3.0,3.0,1
+2019,Greece,North Macedonia,1,Southern Europe,Central and Eastern Europe,0,0.5,0.5,1
+2019,Greece,Russia,0,Southern Europe,Central and Eastern Europe,0,9.0,9.0,1
+2019,Greece,San Marino,0,Southern Europe,Southern Europe,1,6.5,3.25,2
+2019,Greece,Serbia,0,Southern Europe,Central and Eastern Europe,0,6.0,3.0,2
+2019,Greece,Slovenia,0,Southern Europe,Central and Eastern Europe,0,5.0,2.5,2
+2019,Greece,Spain,0,Southern Europe,Southern Europe,1,2.0,2.0,1
+2019,Greece,Switzerland,0,Southern Europe,Western Europe,0,3.5,3.5,1
